@@ -86,8 +86,6 @@ tinkering, and iteration -- the chapter studies whether Swiss and
 Italian data journalists are adhering to the notion of open source and,
 in addition, what kind of ethical quandaries they are facing.[^11chapter11_8]
 
-## 
-
 ## Data Journalism and Open Source 
 
 The growing academic literature has prompted many definitions of data
@@ -469,8 +467,6 @@ startups and agencies are thus at the forefront when it comes to
 implementing strategies that put innovations into place, changing
 organizations for the better.
 
-## 
-
 ## Conclusion
 
 The chapter offered an insight into whether and how data journalists in
@@ -536,8 +532,7 @@ of Communication* 9 (2015): 3523-3543.
 
 Balka, Kerstin, Christina Raasch and Cornelius Herstatt. 'Open source
 enters the world of atoms: a statistical analysis of open design',
-*First Monday* 14.11 (2009),
-<http://firstmonday.org/ojs/index.php/fm/article/view/2670>.
+*First Monday* 14.11 (2009), http://firstmonday.org/ojs/index.php/fm/article/view/2670.
 
 Becker, Howard. *Outsiders: Studies in the Sociology of Deviance*, New
 York: Macmillan, 1963.
@@ -623,8 +618,7 @@ Paulussen, Thorsten Quandt, Zvi Reich and Marina Vujnovic.
 Chichester: John Wiley, 2011.
 
 Sonderman, Jeff. 'Andy Carvin explains how Twitter is his "open-source
-newsroom"', *Poynter*, 2012
-<https://www.poynter.org/news/andy-carvin-explains-how-twitter-his-open-source-newsroom>.
+newsroom"', *Poynter*, 2012, https://www.poynter.org/news/andy-carvin-explains-how-twitter-his-open-source-newsroom.
 
 Splendore, Sergio. 'Closed data! Il giornalismo italiano alla ricerca di
 dati', *Problemi dell'Informazione* 1 (2016): 195-214.
@@ -734,7 +728,7 @@ news for us?" Audience revolution or business as usual at the BBC?'
 
 [^11chapter11_22]: Jeff Sonderman, 'Andy Carvin explains how Twitter is his
     "open-source newsroom"', *Poynter,*
-    https://www.poynter.org/news/andy-carvin-explains-how-twitter-his-open-source-newsroom
+    https://www.poynter.org/news/andy-carvin-explains-how-twitter-his-open-source-newsroom.
 
 [^11chapter11_23]: Adrienne Russell, *Journalism as activism. Recoding media power*,
     Cambridge: Polity Press, 2016, p. 7.
@@ -751,7 +745,7 @@ news for us?" Audience revolution or business as usual at the BBC?'
     Linux and open source by an accidental revolutionary*. Sebastopol
     CA: O'Reilly, 2001.
 
-[^11chapter11_27]: For the full definition visit: https://opensource.org/osd
+[^11chapter11_27]: For the full definition visit: https://opensource.org/osd.
 
 [^11chapter11_28]: Gabriella Coleman, *Coding Freedom: The Ethics and Aesthetics of
     Hacking*, Princeton, NJ: Princeton University Press, 2012.
@@ -759,7 +753,7 @@ news for us?" Audience revolution or business as usual at the BBC?'
 [^11chapter11_29]: Kerstin Balka, Christina Raasch and Cornelius Herstatt, 'Open
     source enters the world of atoms: a statistical analysis of open
     design', *First Monday* 14.11 (2009),
-    http://firstmonday.org/ojs/index.php/fm/article/view/2670
+    http://firstmonday.org/ojs/index.php/fm/article/view/2670.
 
 [^11chapter11_30]: Lewis and Usher, 'Open source and journalism: Toward new
     frameworks for imagining news innovation', p. 606.
@@ -805,7 +799,7 @@ news for us?" Audience revolution or business as usual at the BBC?'
 [^11chapter11_42]: Sergio Splendore, 'Closed data! Il giornalismo italiano alla
     ricerca di dati', *Problemi dell'Informazione* 1 (2016): 195-214.
 
-[^11chapter11_43]: See for instance the SRG SSR, 'Hackdays' https://www.hackdays.ch/
+[^11chapter11_43]: See for instance the SRG SSR, 'Hackdays' https://www.hackdays.ch/.
 
 [^11chapter11_44]: Mark Deuze and Tamara Witschge, 'Beyond journalism: Theorizing
     the transformation of journalism', p. 176.

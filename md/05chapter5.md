@@ -22,7 +22,7 @@ Rights: CC BY-NC 4.0
 Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts,
 Iain MacGill, Anna Bruce and Rob Passey
 
-**Abstract **
+**Abstract**
 
 This collaborative manifesto, co-written by a social scientist and
 engineers, situates the demands for data about energy use and planning
@@ -43,8 +43,6 @@ facing energy policy makers in Australia and underscore the importance
 of a strategic 'technopolitics' -- the technical details of market
 design -- to both effective action on climate change and robust,
 sustainable energy systems. 
-
-## 
 
 ## Introduction
 
@@ -269,7 +267,6 @@ to distributed, sustainable energy economy.
 -   Further experimentation with the legal form of electricity
     businesses that will enable investments in renewable energy.
 
-## 
 
 ## Data for Accountability
 
@@ -345,7 +342,7 @@ to more efficient and fair investment and operational outcomes.
 | market asymmetries, and as such is an important companion to wider    |
 | policies on a just energy transition that have received more          |
 | widespread attention such as the Renewable Energy Target and carbon   |
-| pricing schemes. **                                                   |
+| pricing schemes.**                                                   |
 +-----------------------------------------------------------------------+
 
 We believe the existing regulatory hierarchy of access rights to
@@ -467,7 +464,6 @@ challenging to obtain, for other potential energy service providers.
     regulatory decision-making to reduce reliance on opaque analysis
     from private consultants
 
-## 
 
 ## Data for the People: The Potential of Standards
 
@@ -846,19 +842,17 @@ Callon, Michel and Fabian Muniesa. 'Peripheral vision: Economic markets
 as calculative collective devices', *Organization studies* 26.8
 (2005):1229-1250.
 
-CSIRO. 'Energy Use Data Model (EUDM)', 2015,
-<https://research.csiro.au/distributed-systems-security/projects/energy-data-use-model/>.
+CSIRO. 'Energy Use Data Model (EUDM)', 2015, https://research.csiro.au/distributed-systems-security/projects/energy-data-use-model/.
 
 Green Button Alliance. 'Green Button Data', 2015,
 http://www.greenbuttondata.org/.
 
 International Energy Agency. 'Digitization and Energy', 2017
-<http://www.iea.org/publications/freepublications/publication/DigitalizationandEnergy3.pdf>.
+http://www.iea.org/publications/freepublications/publication/DigitalizationandEnergy3.pdf.
 
 Islam, S. N., M. A. Mahmud and A.M.T. Oo. 'Impact of optimal false data
 injection attacks on local energy trading in a residential microgrid.'
-*ICT Express*, 4.1 (2018): 30-34, DOI:
-[http://doi:10.1016/j.icte.2018.01.015](http://doi:10.1016/j.icte.2018.01.015).
+*ICT Express*, 4.1 (2018): 30-34, DOI: http://doi:10.1016/j.icte.2018.01.015.
 
 Kuch, Declan and Bronwen Morgan. 'Dissonant Justifications: an
 organisational perspective of support for Australian community energy',
@@ -900,9 +894,7 @@ controversies: the case of hepatitis C treatment and the promise of
 viral elimination.' *Critical Public Health* (2018): 1-14.
 
 Scottish and Southern Electricity Networks (SSEN). 'SSEN and Open
-Utility partner to trial revolutionary smart grid platform', 2018,
-
-*<http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/>.*
+Utility partner to trial revolutionary smart grid platform', 2018, http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/.
 
 Shove, Elizabeth. 'Beyond the ABC: climate change policy and theories of
 social change' *Environment and planning A*, 42.6 (2010): 1273-1285.
@@ -922,7 +914,7 @@ British nuclear test veteran.' *Social Science & Medicine* 73.6 (2011):
 
 Wilkenfeld, George. 'Cutting greenhouse emissions-what would we do if we
 really meant it?', *Australian Review of Public Affairs,* 2007,
-*<http://www.australianreview.net/digest/2007/08/wilkenfeld.html>.*
+http://www.australianreview.net/digest/2007/08/wilkenfeld.html.
 
 Wilkenfeld, George and Peter Spearritt. 'Electrifying Sydney', *Sydney:
 EnergyAustralia,* 2004.
@@ -934,10 +926,9 @@ EnergyAustralia,* 2004.
 
 [^05chapter5_2]: George Wilkenfeld, 'Cutting greenhouse emissions-what would we do
     if we really meant it?', *Australian Review of Public Affairs,*
-    (2007)
-    *http://www.australianreview.net/digest/2007/08/wilkenfeld.html;
+    (2007), http://www.australianreview.net/digest/2007/08/wilkenfeld.html;
     George Wilkenfeld & Peter Spearritt, 'Electrifying Sydney', Sydney:
-    EnergyAustralia, 2004. *
+    EnergyAustralia, 2004.
 
 [^05chapter5_3]: The Australian National Electricity Market uses detailed data
     regarding large-scale generation, namely five-minute market offers
@@ -959,7 +950,7 @@ EnergyAustralia,* 2004.
     appliances.
 
 [^05chapter5_7]: Available on the Australian Energy Market Operator's website:
-    https://www.aemo.com.au/
+    https://www.aemo.com.au/.
 
 [^05chapter5_8]: Iain MacGill and Stephen Healy, 'Is electricity industry reform
     the right answer to the wrong question? Lessons from Australian
@@ -983,8 +974,7 @@ EnergyAustralia,* 2004.
 
 [^05chapter5_12]: Scottish and Southern Electricity Networks (SSEN), 'SSEN and Open
     Utility partner to trial revolutionary smart grid platform', 2018,
-    *http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/
-    *
+    http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/.
 
 [^05chapter5_13]: AEMO, 'Integrated System Plan', 2018.
 
@@ -1000,7 +990,7 @@ EnergyAustralia,* 2004.
     Pacific Solar Research Conference*, Melbourne, Australia, 2017.
 
 [^05chapter5_17]: See also the 'network opportunities map' project by UTS ISF:
-    https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2
+    https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2.
 
 [^05chapter5_18]: G. Simpson, 'Network operators and the transition to
     decentralised electricity: An Australian socio-technical case
@@ -1012,14 +1002,14 @@ EnergyAustralia,* 2004.
     Pacific Solar Research Conference*, Melbourne, Australia, 2017.
 
 [^05chapter5_20]: See also the 'network opportunities map' project by UTS ISF:
-    https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2
+    https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2.
 
 [^05chapter5_21]: AEMC, 'Final Rule Determination: National Electricity Amendment
     (Customer access to information about their energy consumption)',
     2014.
 
 [^05chapter5_22]: See
-    https://medium.com/\@accountability/leadership-by-local-communities-in-nepal-paves-the-path-for-development-that-respects-rights-bdb906f43209
+    https://medium.com/\@accountability/leadership-by-local-communities-in-nepal-paves-the-path-for-development-that-respects-rights-bdb906f43209.
 
 [^05chapter5_23]: Michel Callon and Fabian Muniesa, 'Peripheral vision: Economic
     markets as calculative collective devices.' *Organization studies*,
@@ -1033,7 +1023,7 @@ EnergyAustralia,* 2004.
     more cost reflective electricity network tariffs with demand
     charges', *Energy Policy* 109 (2017): 642-649.
 
-[^05chapter5_26]: See https://twitter.com/podehaye/status/1030773658975981569
+[^05chapter5_26]: See https://twitter.com/podehaye/status/1030773658975981569.
 
 [^05chapter5_27]: Debra Lew, Mark Asano, Jens Boemer, Colton Ching, Ulrich Focken,
     Richard Hydzik, Mathias Lange and Amber Motley, 'The Power of Small
@@ -1052,12 +1042,12 @@ EnergyAustralia,* 2004.
 
 [^05chapter5_31]: CSIRO 'partners with small and large companies, government and
     industry in Australia and around the world'
-    https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Economic-modelling/Energy-Use-Data-Model
+    https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Economic-modelling/Energy-Use-Data-Model.
 
 [^05chapter5_32]: S.N. Islam, M. A. Mahmud and A.M.T. Oo, 'Impact of optimal false
     data injection attacks on local energy trading in a residential
     microgrid.' *ICT Express*, 4.1 (2018): 30-34, DOI:
-    http://doi:10.1016/j.icte.2018.01.015
+    http://doi:10.1016/j.icte.2018.01.015.
 
 [^05chapter5_33]: Richard Owen, Phil Macnaghten and Jack Stilgoe, 'Responsible
     research and innovation: From science in society to science for

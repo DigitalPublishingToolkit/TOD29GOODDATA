@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-########## Chapter Six: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study
+#Chapter Six: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study
 
-Daniel McNamara, Timothy Graham, Ellen Broad, Cheng Soon Ong
+Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong
 
-**Introduction**
+##Introduction
 
 Actuarial methods have been part of criminal law and its enforcement in
 jurisdictions around the world for nearly a century.[^06chapter6_1] These methods
@@ -87,7 +87,7 @@ is employed, there are real world consequences. The impact of varying
 trade-oﬀs in 'fair' decision-making on victims and oﬀenders should be
 handled with great caution in a domestic violence context.
 
-### 6.1 Algorithmic Risk Assessment in an Australian Domestic Violence Context
+## 6.1 Algorithmic Risk Assessment in an Australian Domestic Violence Context
 
 In a 2016 paper, Australian researchers Robin Fitzgerald and Timothy
 Graham evaluated the potential of using existing administrative data
@@ -121,7 +121,7 @@ statistics and surveys suggest that Indigenous communities face domestic
 violence issues at much greater rates than the rest of the
 population.[^06chapter6_20]
 
-#### 6.1.1 The Evolution of Algorithmic Risk Assessments
+### 6.1.1 The Evolution of Algorithmic Risk Assessments
 
 Actuarial methods and probability theory have been employed to help
 humans make decisions in a criminal justice context for many years.[^06chapter6_21]
@@ -156,7 +156,7 @@ been raised that the systems are unfair, in the former case towards
 African-Americans and in the latter case towards Indigenous
 Australians.[^06chapter6_32]
 
-#### 6.1.2 Predicting Domestic Violence Recidivism using Administrative Data
+### 6.1.2 Predicting Domestic Violence Recidivism using Administrative Data
 
 A primary aim of any recidivism prediction is accuracy. That is, to
 accurately identify which oﬀenders are most likely to recommit a crime
@@ -201,7 +201,7 @@ assessment tools for DV recidivism have been shown to provide reasonably
 high levels of predictive performance, with AUC scores in the high 0.6
 to low 0.7 range.[^06chapter6_38]
 
-#### 6.1.3 Findings from Previous Studies
+### 6.1.3 Findings from Previous Studies
 
 Fitzgerald and Graham applied statistical methods to existing
 administrative data on NSW oﬀenders who had committed domestic violence,
@@ -256,7 +256,7 @@ utmost importance as we move towards computerized risk assessment tools
 in criminal justice and social welfare. At the same time, caution needs
 to be taken in how such fairness is defined and achieved.
 
-### 6.2 Designing Fair Algorithmic Risk Assessments
+## 6.2 Designing Fair Algorithmic Risk Assessments
 
 The impact of an algorithmic risk assessment is determined by both its
 design and the context in which it is used. This context -- which
@@ -273,7 +273,7 @@ design of algorithmic systems. This approach requires clear definitions
 of fairness, and modifications to algorithm design to accommodate these
 definitions.
 
-#### 6.2.1 Quantitative Definitions of Fairness
+### 6.2.1 Quantitative Definitions of Fairness
 
 While defining fairness is a topic as old as human society, the advent
 of algorithmic predictions has necessitated the quantification of these
@@ -332,7 +332,7 @@ stakeholders.[^06chapter6_51] Furthermore, when predictions are also measured on
 their accuracy, the definitions of accuracy and fairness are in general
 not aligned.[^06chapter6_52]
 
-#### 6.2.2 Defining Fairness in the Australian DV Recidivism Context
+### 6.2.2 Defining Fairness in the Australian DV Recidivism Context
 
 Parity-based definitions may be used to assess the fairness of a
 recidivism risk assessment model which generates a probability that an
@@ -393,7 +393,7 @@ respect to group membership, it is related to fairness insofar as it
 measures the extent to which reoﬀenders are assessed as higher risk than
 non-reoﬀenders.
 
-#### 6.2.3 Techniques for Algorithmic Fairness
+### 6.2.3 Techniques for Algorithmic Fairness
 
 Recent work on quantitative fairness has, in addition to proposing
 fairness definitions, developed techniques to incorporate fairness into
@@ -450,7 +450,7 @@ to design the cleaned variable (*Z*) such that it is maximally
 informative about reoﬀence (*Y*), subject to a constraint that it is
 uninformative about race (*S*).[^06chapter6_67]
 
-#### 6.2.4 Learning Fair Representations with an Adversary
+### 6.2.4 Learning Fair Representations with an Adversary
 
 We adopt a pre-processing approach,[^06chapter6_68] which involves learning a
 cleaned variable (*Z*) such that an adversary is unable to predict race
@@ -483,7 +483,9 @@ a neural network parameterized by weights *θ*~2~, which predicts race
 from the cleaned records. Four steps are repeated for each batch of
 examples from the training data:
 
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.png)
 *Table 1: Independent features in the BOCSAR dataset.*
+
 
 Feature Description
 
@@ -547,7 +549,7 @@ their input record through a neural network with weights *θ*~1~. This
 cleaned record is then provided to the data user, who uses it to make a
 prediction about whether the individual will reoﬀend.
 
-### 6.3 Predicting DV Recidivism with the BOCSAR Dataset
+## 6.3 Predicting DV Recidivism with the BOCSAR Dataset
 
 We apply learning fair representations with an adversary to the
 prediction of DV recidivism in Australia with the BOCSAR ROD used in the
@@ -558,19 +560,20 @@ involved. Our proposed approach allows us to reduce the disadvantage
 faced by Indigenous defendants incurred by using the original input
 data, but at the cost of predictive accuracy.
 
-#### 6.3.1 BOCSAR Dataset Experiments
+### 6.3.1 BOCSAR Dataset Experiments
 
 The BOCSAR ROD contains 14776 examples and 11 categorical and ordinal
 input features for each example, as shown in Table [1](#page9). The
 input features are grouped to represent the oﬀender, oﬀence, and
 criminal history related characteristics of the oﬀenders.
 
-Figure 2: Results of applying pre-processing to the BOCSAR dataset,
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.tiff)
+*Figure 2: Results of applying pre-processing to the BOCSAR dataset,
 followed by logistic regression, to predict DV reoﬀences. Baselines
 using logistic regression without pre-processing are shown as dashed
 lines. The y-axes show several fairness and accuracy measures of
 interest on the test data. The x-axes show the parameter ***λ*** used in
-pre-processing on a logarithmic scale.
+pre-processing on a logarithmic scale.*
 
 The target variable is whether or not an individual re-committed a DV
 related oﬀence within a duration of 24 months since the first court
@@ -592,7 +595,7 @@ shown in Figure 2. We computed each of these metrics for all
 individuals, for Indigenous individuals and for non-Indigenous
 individuals.
 
-#### 6.3.2 Discussion of the BOCSAR Dataset Results
+### 6.3.2 Discussion of the BOCSAR Dataset Results
 
 We discuss our results by comparing the performance of the baseline
 method with our proposed pre-processing method. Using the original data,
@@ -683,7 +686,7 @@ but rather provides a quantitative tool to estimate the eﬀect of this
 trade-oﬀ. We discuss further implications of fairness trade-oﬀs in our
 conclusion.
 
-### 6.4 Conclusion: Trade-oﬀs in Algorithmic Risk Assessment
+## 6.4 Conclusion: Trade-oﬀs in Algorithmic Risk Assessment
 
 The Australian DV case study shows that without incorporating an
 explicit fairness criterion into algorithm design, individuals from one
@@ -727,7 +730,7 @@ exclusion that invisibly form our social fabric. Perhaps the more
 profound trade-oﬀ is determining to what extent we are willing to shine
 that light.
 
-#################### References
+##References
 
 Angwin, Julia, Jeﬀ Larson, Surya Mattu and Lauren Kirchner, 'Machine
 Bias', *ProPublica* (2016),

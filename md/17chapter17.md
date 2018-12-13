@@ -90,6 +90,8 @@ introduced as a possible solution in the absence of strong legislation.
 But are they really a panacea that can provide meaningful safeguards, or
 an expensive Band-Aid that will be avoided, ignored, and brushed aside?
 
+![](imgs/chapter17_Ritsema_image1.jpg)
+
 *Figure 1. Screenshot taken by the author on
 https://labs.strava.com/heatmaps on 2 February 2018. Shown is the
 Stadspark in Groningen, the Netherlands. The clearly visible small
@@ -142,6 +144,8 @@ information on accidents and other traffic disruptions.[^17chapter17_16] As Gekk
 and Hind point out, this makes it 'not necessarily easy to make a clean
 split between those who "produce" the map, those who "edit" the map and
 those who "consume" the map'.[^17chapter17_17]
+
+![](imgs/chapter17_Ritsema_image2.jpg)
 
 *Figure 2. Screenshot taken by the author on
 https://www.waze.com/livemap on 5 February 2018. Shown is part of the
@@ -558,8 +562,7 @@ American Institute of Planners* 35.4 (July 1969): 216--24, DOI:
 10.1080/01944366908977225.
 
 Article 29 Data Protection Working Party. 'Guidelines on Consent under
-Regulation 2016/679', 29 November 2017,
-<http://ec.europa.eu/newsroom/document.cfm?doc_id=48849>.
+Regulation 2016/679', 29 November 2017, http://ec.europa.eu/newsroom/document.cfm?doc_id=48849.
 
 ---------. 'Guidelines on Data Protection Impact Assessment (DPIA) and
 Determining Whether Processing Is "Likely to Result in a High Risk" for
@@ -588,14 +591,13 @@ Clarke, Roger. 'Privacy Impact Assessment: Its Origins and Development',
 10.1016/j.clsr.2009.02.002.
 
 Commission Nationale de l'Informatique et des Libertés. 'Privacy Impact
-Assessment (PIA) Templates', 2018,
-<https://www.cnil.fr/sites/default/files/atoms/files/cnil-pia-2-en-templates.pdf>.
+Assessment (PIA) Templates', 2018, https://www.cnil.fr/sites/default/files/atoms/files/cnil-pia-2-en-templates.pdf.
 
 ---------. 'The Open Source PIA Software Helps to Carry out Data
 Protection Impact Assessment', CNIL, 31 May 2018,
 https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment.
 
-'Connected Citizen's Programme', Waze. <https://www.waze.com/ccp>.
+'Connected Citizen's Programme', Waze, https://www.waze.com/ccp.
 
 Crampton, Jeremy W. 'Bordering on Bosnia', *GeoJournal* 39.4 (1996):
 353--61.
@@ -616,15 +618,13 @@ Edwards, Lilian, and Michael Veale. 'Enslaving the Algorithm: From a
 Security & Privacy* 16.3 (May 2018): 46--54, DOI:
 10.1109/MSP.2018.2701152.
 
-'Eindhoven Living Lab', European Network of Living Labs.
-<http://www.openlivinglabs.eu/livinglab/eindhoven-living-lab>.
+'Eindhoven Living Lab', European Network of Living Labs, http://www.openlivinglabs.eu/livinglab/eindhoven-living-lab.
 
 Elliot, Delbert S. 'Lies, Damn Lies and Arrest Statistics'. Center for
 the Study and Prevention of Violence, 1995.
 
 European Commission. 'Joint Statement on the Final Adoption of the New
-EU Rules for Personal Data Protection', 14 April 2016,
-<http://europa.eu/rapid/press-release_STATEMENT-16-1403_en.htm>.
+EU Rules for Personal Data Protection', 14 April 2016, http://europa.eu/rapid/press-release_STATEMENT-16-1403_en.htm.
 
 Gekker, Alex, and Sam Hind. '"Outsmarting Traffic, Together": Driving as
 Social Navigation', in Clancy Wilmott, Chris Perkins, Sybille Lammes,
@@ -644,8 +644,7 @@ Protection Law Review* 2.4 (2016): 493--506, DOI:
 Götzmann, Nora, Tulika Bansal, Elin Wrzoncki, Cathrine Poulsen-Hansen,
 Jacqueline Tedaldi, and Roya Høvsgaard. 'Human Rights Impact Assessment
 Guidance and Toolbox (Road-Testing Version)'. The Danish Institute for
-Human Rights, 2016.
-<https://www.humanrights.dk/sites/humanrights.dk/files/media/dokumenter/business/hria_toolbox/hria_guidance_and_toolbox_final_may22016.pdf_223795_1_1.pdf>.
+Human Rights, 2016, https://www.humanrights.dk/sites/humanrights.dk/files/media/dokumenter/business/hria_toolbox/hria_guidance_and_toolbox_final_may22016.pdf_223795_1_1.pdf.
 
 Graaf, Peter de. 'Een Biertje Met Big Brother Erbij', *De Volkskrant*,
 23 November 2015.
@@ -664,16 +663,14 @@ Introduction to Power, Cities and Urbanism in the 21st Century*, Los
 Angeles: SAGE, 2014.
 
 Hern, Alex. 'Fitness Tracking App Strava Gives Away Location of Secret
-US Army Bases', *The Guardian*, 28 January 2018.
-<https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases>.
+US Army Bases', *The Guardian*, 28 January 2018, https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases.
 
 Hert, Paul de, and Vagelis Papakonstantinou. 'The New General Data
 Protection Regulation: Still a Sound System for the Protection of
 Individuals?', *Computer Law & Security Review* 32.2 (April 2016):
 179--94, DOI: 10.1016/j.clsr.2016.02.006.
 
-Information Commissioner's office. 'Sample DPIA Template', 2018,
-<https://ico.org.uk/media/for-organisations/documents/2258857/dpia-template-v1.docx>.
+Information Commissioner's office. 'Sample DPIA Template', 2018, https://ico.org.uk/media/for-organisations/documents/2258857/dpia-template-v1.docx.
 
 Joh, Elizabeth E. 'Policing by Numbers: Big Data and the Fourth
 Amendment', *Washington Law Review* 89.1 (2014): 35--68.
@@ -682,8 +679,7 @@ Amendment', *Washington Law Review* 89.1 (2014): 35--68.
 Data, and Policing', *Harvard Law & Policy Review* 10.1 (2016): 15--42.
 
 Jones, Peter. 'Group Rights', Stanford Encyclopedia of Philosophy, 29
-March 2016.
-<http://plato.stanford.edu/archives/sum2016/entries/rights-group/>.
+March 2016, http://plato.stanford.edu/archives/sum2016/entries/rights-group/.
 
 ---------. 'Human Rights, Group Rights, and Peoples' Rights', *Human
 Rights Quarterly* 21.2 (1999): 80--107.
@@ -699,8 +695,7 @@ November 2016), DOI: 10.5210/fm.v21i11.6389.
 Kloza, Dariusz, Niels van Dijk, Raphaël Gellert, István Böröcz, Alessia
 Tanas, Eugenio Mantovani and Paul Quinn. 'Data Protection Impact
 Assessments in the European Union: Complementing the New Legal Framework
-towards a More Robust Protection of Individuals'. d.pia.lab, 2017.
-<https://cris.vub.be/files/32009890/dpialab_pb2017_1_final.pdf>.
+towards a More Robust Protection of Individuals'. d.pia.lab, 2017, https://cris.vub.be/files/32009890/dpialab_pb2017_1_final.pdf.
 
 Lefebvre, Henri. 'Right to the City', in Eleonore Kofman and Elizabeth
 Lebas (eds.), *Writings on Cities*, Cambridge MA: Blackwell, 1996
@@ -724,8 +719,7 @@ Social and Ethical Impact Assessment', *Computer Law & Security Review*
 Dimension of Privacy and Data Protection in the Big Data Era', in Linnet
 Taylor, Luciano Floridi and Bart van der Sloot *(eds.), Group Privacy:
 New Challenges of Data Technologies*, Philosophical Studies Series
-\#126. Berlin: Springer, 2017, pp. 139--58, DOI:
-<https://doi.org/10.1007/978-3-319-46608-8_8>.
+\#126. Berlin: Springer, 2017, pp. 139--58, DOI: https://doi.org/10.1007/978-3-319-46608-8_8.
 
 ---------. 'Personal Data for Decisional Purposes in the Age of
 Analytics: From an Individual to a Collective Dimension of Data
@@ -746,8 +740,7 @@ Paul De Hert (eds), *Data Protection on the Move*, Issues in Privacy and
 Data Protection \#24, Dordrecht: Springer Netherlands, 2016, pp.
 357--85, DOI: 10.1007/978-94-017-7376-8\_13.
 
-OpenStreetMap Foundation. 'About',
-<https://www.openstreetmap.org/about>.
+OpenStreetMap Foundation. 'About', https://www.openstreetmap.org/about.
 
 Pak, Burak, Alvin Chua, and Andrew Vande Moere. 'FixMyStreet Brussels:
 Socio-Demographic Inequality in Crowdsourced Civic Participation',
@@ -759,11 +752,10 @@ Control Money and Information*. Cambridge: Harvard University Press,
 2015.
 
 Privacy International. 'Smart Cities: Utopian Vision, Dystopian
-Reality', 31 October 2017, <https://privacyinternational.org/node/638>.
+Reality', 31 October 2017, https://privacyinternational.org/node/638.
 
 Robb, Drew. 'The Global Heatmap, Now 6x Hotter', *Medium*, 1 November
-2017,
-<https://medium.com/strava-engineering/the-global-heatmap-now-6x-hotter-23fc01d301de>.
+2017, https://medium.com/strava-engineering/the-global-heatmap-now-6x-hotter-23fc01d301de.
 
 Selbst, Andrew D. 'Disparate Impact in Big Data Policing', *Georgia Law
 Review* 52.1 (2018): 109--95.
@@ -784,8 +776,7 @@ Being Watched', *Body & Society* 22.2 (2016): 108--39, DOI:
 10.1177/1357034X15623622.
 
 'Strava: A Global Heatmap of Athletic Activity', *The Guardian*, 2
-November 2017,
-<https://www.theguardian.com/lifeandstyle/the-running-blog/gallery/2017/nov/02/strava-a-global-heatmap-of-athletic-activity>.
+November 2017, https://www.theguardian.com/lifeandstyle/the-running-blog/gallery/2017/nov/02/strava-a-global-heatmap-of-athletic-activity.
 
 Taylor, Linnet, Luciano Floridi, and Bart van der Sloot (eds). *Group
 Privacy: New Challenges of Data Technologies*, Philosophical Studies
@@ -793,8 +784,7 @@ Series 126, Berlin: Springer, 2017.
 
 Walker, Simon. *The Future of Human Rights Impact Assessments of Trade
 Agreements*, School of Human Rights Research Series \#35. Antwerp:
-Intersentia, 2009,
-<https://dspace.library.uu.nl/bitstream/handle/1874/36620/walker.pdf>.
+Intersentia, 2009, https://dspace.library.uu.nl/bitstream/handle/1874/36620/walker.pdf.
 
 Williams, Matthew L., Pete Burnap, and Luke Sloan. 'Crime Sensing with
 Big Data: The Affordances and Limitations of Using Open Source
@@ -802,8 +792,7 @@ Communications to Estimate Crime Patterns', *British Journal of
 Criminology* (31 March 2016): 320--340, DOI: 10.1093/bjc/azw031.
 
 Winston, Ali. 'Palantir Has Secretly Been Using New Orleans to Test Its
-Predictive Policing Technology', *The Verge*, 27 February 2018,
-<https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd>.
+Predictive Policing Technology', *The Verge*, 27 February 2018, https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd.
 
 Wright, David, and Michael Friedewald. 'Integrating Privacy and Ethical
 Impact Assessments', *Science and Public Policy* 40.6 (1 December 2013):

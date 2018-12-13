@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-########## Chapter Thirteen: Provocations for Social Media Research: Toward Good Data Ethics
+#Chapter Thirteen: Provocations for Social Media Research: Toward Good Data Ethics
 
 Andrea Zeffiro
 
@@ -41,7 +41,7 @@ distinct set of traits and ethical challenges. This chapter outlines
 provocations for ethical decision making and provides prompts for
 researchers to engage with throughout the life-cycle of research.
 
-#################### Introduction
+##Introduction
 
 This chapter sets forth considerations for social media research by
 identifying provocations for how academic research methods, practices,
@@ -69,7 +69,7 @@ as to how access to and use of social media data is mandated and
 governed, and how these practices impact scholarly research and the
 production of knowledge.
 
-####################  'Big Data'
+##'Big Data'
 
 'Big data' remains an elusive term. My understanding of it emerges in
 part from a digital humanities research context, wherein emerging
@@ -173,7 +173,7 @@ and data have challenged conventional and static understanding of
 'research participant' and in turn, created unprecedented tensions
 between the researcher and the researched.
 
-#################### Research Ethics
+## Research Ethics
 
 In the decades following World War II, the development of principles of
 research ethics and the ethical treatment of persons were codified in
@@ -371,7 +371,7 @@ to its original poster.[^13chapter13_41] In these instances, researchers are tas
 with safeguarding participants which may very well defy a platform's
 definition of publicness.
 
-#################### Research Context
+## Research Context
 
 My research has shown that few institutions in Canada have ethics
 guidelines that apply directly to social media research. Institutional
@@ -616,16 +616,16 @@ can be made regarding the interception of data sent via the Internet by
 any third parties'.[^13chapter13_71] I would go so far as to endorse a version of a
 'no guarantee' clause on all research dissemination.
 
-#################### Transparency 
+##Transparency 
 
 > 'Are you willing to change your business model in the interest of
 > protecting individual privacy?'
->
+> 
 > -- Democratic Representative Anna Eshoo[^13chapter13_72]
 >
-> 'Congresswoman, I\'m not sure what that means.'
->
-> -- Mark Zuckerberg[^13chapter13_73]
+> 'Congresswoman, I'm not sure what that means.'
+> 
+> --Mark Zuckerberg[^13chapter13_73]
 
 Privacy in relation to social media data has received significant
 attention as of late.[^13chapter13_74] The Facebook and Cambridge Analytica
@@ -756,12 +756,12 @@ To reiterate, transparency as an ethical consideration in social media
 research is radically important, but because it has been co-opted by
 technology companies, perhaps we need an additional term to address the
 messiness and complexities of working with social media data. To this
-end, I propose 'c/overt research'. **In their reflection on their
+end, I propose 'c/overt research'. In their reflection on their
 experiences in a c/overt research project, Virtová, Stöckelová, and
 Krásná conceived of the term as a way to interrogate how IRB standards
 and the 'ethical fiction' of informed consent serve to insulate
 researchers from having to openly acknowledge uncertainties in field
-work.**[^13chapter13_85] **Thus, 'c/overt research' troubles the distinctions
+work.[^13chapter13_85] Thus, 'c/overt research' troubles the distinctions
 between overt and covert forms of research and insinuates that all
 research is covert in some ways, becoming overt only during the research
 process itself. **
@@ -787,9 +787,7 @@ researchers are complicit, but REBs and institutions as well, is a
 researchers conduct themselves in the c/overt practice of their research
 is a mode of achieving, rather than applying, 'ethical research'.
 
-#################### 
-
-#################### **Good Data**
+##Good Data
 
 'Negotiated relationships' and 'transparency' are but two provocations
 for social media research. These terms outline some of the ethical
@@ -804,50 +802,48 @@ establishing definitive good data ethics. '\[E\]thics, when practiced',
 write Markham, Tiidenberg and Herman, 'becomes a matter of method'.[^13chapter13_89]
 Good data ethics can engender good data methods and vice versa.
 
-> *Research Questions:* What are some of the questions driving the
-> research? What conceptual and/or theoretical frameworks are shaping
-> these questions? How have other disciplines explored similar questions
-> and to what end?
->
-> *Research Data:* What are my data sources? How will I acquire them? Is
-> REB approval required? If not, will I seek out approval? How will data
-> be managed and by whom? Who will be responsible for anonymizing and
-> encrypting data? How and where will data be stored? Who will have
-> access to the data and in what form?
->
-> *Research Tools:* What computational tools and techniques will be
-> employed for research? Why these and not others? What skills and
-> expertise are required? Who will conduct this portion of the research
-> and how will they be acknowledged? What are other ways of doing the
-> research?
->
-> *Research Relations:* What are some of my negotiated relationships? To
-> whom do I feel accountable towards? With whom do I share this
-> accountability? Where am I in the research and what is my situated
-> perspective?
->
-> *Research Participants:* Who and/or what constitute my research
-> participants? Is REB approval required? If not, will I seek it out
-> anyway? How will participants be made aware of their involvement in
-> the research? If this is not practical, then how will participation be
-> made c/overt? What do I feel is my duty to these participants? How
-> will I safeguard contextual integrity? How will I uphold participant
-> autonomy? What are some possible ways in which I may disappoint
-> research participants?
->
-> *Research Beneficiaries:* For whom is this research for? Who and/or
-> what is the driving force? Why do I care about it? How will it benefit
-> me? How will it be of benefit to others? Who will derive advantage
-> from it?
->
-> *Research Dissemination:* How do I intend to share results of
-> research? In what forms and with whom? How will I uphold contextual
-> integrity when sharing results? Will a 'no guarantee' accompany
-> research dissemination?
+*Research Questions:* What are some of the questions driving the
+research? What conceptual and/or theoretical frameworks are shaping
+these questions? How have other disciplines explored similar questions
+and to what end?
 
-#################### 
+*Research Data:* What are my data sources? How will I acquire them? Is
+REB approval required? If not, will I seek out approval? How will data
+be managed and by whom? Who will be responsible for anonymizing and
+encrypting data? How and where will data be stored? Who will have
+access to the data and in what form?
 
-#################### Conclusion
+*Research Tools:* What computational tools and techniques will be
+employed for research? Why these and not others? What skills and
+expertise are required? Who will conduct this portion of the research
+and how will they be acknowledged? What are other ways of doing the
+research?
+
+*Research Relations:* What are some of my negotiated relationships? To
+whom do I feel accountable towards? With whom do I share this
+accountability? Where am I in the research and what is my situated
+perspective?
+
+*Research Participants:* Who and/or what constitute my research
+participants? Is REB approval required? If not, will I seek it out
+anyway? How will participants be made aware of their involvement in
+the research? If this is not practical, then how will participation be
+made c/overt? What do I feel is my duty to these participants? How
+will I safeguard contextual integrity? How will I uphold participant
+autonomy? What are some possible ways in which I may disappoint
+research participants?
+
+*Research Beneficiaries:* For whom is this research for? Who and/or
+what is the driving force? Why do I care about it? How will it benefit
+me? How will it be of benefit to others? Who will derive advantage
+from it?
+
+*Research Dissemination:* How do I intend to share results of
+research? In what forms and with whom? How will I uphold contextual
+integrity when sharing results? Will a 'no guarantee' accompany
+research dissemination?
+
+##Conclusion
 
 The provocations and prompts offered here are far from exhaustive, but
 rather are a preliminary effort at identifying some of the tensions
@@ -874,19 +870,15 @@ that is, through ethical practices as they unfold in social media
 research contexts.[^13chapter13_90] Indeed, in this way, ethics are achieved, not
 applied.
 
-#################### References
+##References
 
 Adams, Richard. 'Cambridge University asks Facebook for Evidence About
 Role of Academic', *The Guardian*, 20 March 2018,
-<https://www.theguardian.com/uk->
-
-> news/2018/mar/20/cambridge-university-asks-facebook-for-evidence-about-role-of-academic-alex-kogan.
+https://www.theguardian.com/uk-news/2018/mar/20/cambridge-university-asks-facebook-for-evidence-about-role-of-academic-alex-kogan.
 
 Adams, Tim. 'Facebook's Week of Shame: The Cambridge Analytica Fallout',
 *The Guardian*, 24 March 2018,
-<https://www.theguardian.com/technology/2018/mar/24/facebook-week-of-shame->
-
-data-breach-observer-revelations-zuckerberg-silence.
+https://www.theguardian.com/technology/2018/mar/24/facebook-week-of-shame-data-breach-observer-revelations-zuckerberg-silence.
 
 Andrejevic, Mark, and Kelly Gates. 'Big Data Surveillance:
 Introduction', *Surveillance & Society* 12.2 (2014): 185-96, DOI:
@@ -904,8 +896,7 @@ Procedural Privacy Protections', *Communications of the ACM* 57.11
 (2014): 31-33.
 
 Barrett, Brian. 'Facebook Owes You More Than This', *Wired,* 19 March
-2018,
-<https://www.wired.com/story/facebook-privacy-transparency-cambridge-analytica/>.
+2018, https://www.wired.com/story/facebook-privacy-transparency-cambridge-analytica/.
 
 Bell, Kirsten. 'Resisting Commensurability: Against Informed Consent as
 an Anthropological Virtue', *American Anthropologist* *116.*3 (2014):
@@ -917,9 +908,7 @@ Researched?', *Qualitative Inquiry* *13*.8 (2007): 1095-1115.
 
 Biddle, Sam. 'Stop Using Unroll.me, Right Now. It Sold Your Data to
 Uber', *The Intercept*, 24 April 2017,
-<https://theintercept.com/2017/04/24/stop-using-unroll-me-right-now->
-
-it-sold-your-data-to-uber/.
+https://theintercept.com/2017/04/24/stop-using-unroll-me-right-now-it-sold-your-data-to-uber/.
 
 Birchall, Clare. 'Shareveillance: Subjectivity between Open and Closed
 Data', *Big Data & Society* 3.2 (2016).
@@ -945,9 +934,9 @@ Provocations for a Cultural, Technological and Scholarly Phenomenon',
 boyd danah. 'Where do we find ethics?' *Points*, 5 April 2016, https://
 points.datasociety.net/where-do-we-find-ethics-d0b9e8a7f4e6.
 
-**Broad, Ellen. 'Australia, we need to talk about data ethics', *The
+Broad, Ellen. 'Australia, we need to talk about data ethics', *The
 Ethics Centre*, 25 January 2017,
-<http://www.ethics.org.au/on-ethics/blog/january-2017/australia-data-ethics>.**
+http://www.ethics.org.au/on-ethics/blog/january-2017/australia-data-ethics.
 
 Bruns, Axel. 'Faster than the Speed of Print: Reconciling 'Big Data'
 Social Media Analysis and Academic Scholarship', *First Monday 18.*10
@@ -963,20 +952,17 @@ Monday* 16.5 (2011).
 Bryant, Randall E., Randy H Katz and Edward D. Lazowska. 'Big-Data
 Computing: Creating Revolutionary Breakthroughs in Commerce, Science,
 and Society', *Computing Research Consortium,* 22 December 2008,
-<https://cra.org/ccc/wpcontent/uploads/sites/2/2015/05/Big_Data.pdf>.
+https://cra.org/ccc/wpcontent/uploads/sites/2/2015/05/Big_Data.pdf.
 
 Bucher, Taina. 'Objects of Intense Feeling: The Case of the Twitter
-API', *Computational Culture* 3 (November, 2013),
-<http://computationalculture.net/objects-of-intense-feeling-the-case-of-the-twitter-api/>.
+API', *Computational Culture* 3 (November, 2013), http://computationalculture.net/objects-of-intense-feeling-the-case-of-the-twitter-api/.
 
 Cadwalladr, Carole and Emma Graham-Harrison. 'Revealed: 50 Million
 Facebook Profiles Harvested for Cambridge Analytica in Major Data
-Breach', *The Guardian*, 17 March 2018,
-<https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election>.
+Breach', *The Guardian*, 17 March 2018, https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election.
 
 Chen, Brian X. 'I Downloaded the Information that Facebook has on Me.
-Yikes', *The New York Times*, 11 April 2018,
-<https://www.nytimes.com/2018/04/11/technology/personaltech/i-downloaded-the-information-that-facebook-has-on-me-yikes.html>.
+Yikes', *The New York Times*, 11 April 2018, https://www.nytimes.com/2018/04/11/technology/personaltech/i-downloaded-the-information-that-facebook-has-on-me-yikes.html.
 
 Clark, Karin, Matt Duckham, Marilys Guillemin, Assunta Hunter, Jodie
 McVernon, Christine O'Keefe, Cathy Pitkin, Steven Prawer, Richard
@@ -986,8 +972,7 @@ https://www.carltonconnect.com.au/read-ethical-use
 of-digital-data-in-human-research/.
 
 Collins, Keith and Larry Buchanan. 'How Facebook Lets Brands and
-Politicians Target You', *The New York Times*, 11 April 2018,
-<https://www.nytimes.com/interactive/2018/04/11/technology/facebook-sells-ads-life-details.html>.
+Politicians Target You', *The New York Times*, 11 April 2018, https://www.nytimes.com/interactive/2018/04/11/technology/facebook-sells-ads-life-details.html.
 
 Crawford, Kate, Kate Miltner and Mary L. Gray. 'Critiquing Big Data:
 Politics, Ethics, Epistemology', *International Journal of
@@ -995,21 +980,18 @@ Communication* 8 (2014): 1663--1672.
 
 Dalton, Craig, and Jim Thatcher. 'What Does a Critical Data Studies Look
 Like, and Why Do We Care? Seven Points for a Critical Approach to "Big
-Data"', *Society & Space Open Site*, (2014),
-<http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/>.
+Data"', *Society & Space Open Site*, (2014), http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/.
 
 Dalton Craig, Linnet Taylor and Jim Thatcher. 'Critical Data Studies: A
 Dialog on Data and Space', *Big Data & Society* 3.1 (2014): 1--9.
 
 Das, Sauvik and Adam Kramer. 'Self-censorship on Facebook', *Proceedings
 of the Seventh International AAAI Conference on Weblogs and Social
-Media*, 2013, pp. 120-127,
-<https://research.fb.com/publications/self-censorship-on-facebook/>.
+Media*, 2013, pp. 120-127, https://research.fb.com/publications/self-censorship-on-facebook/.
 
 Davies, Huw et al. 'Ethics Guidelines and Collated Resources for Digital
 Research', British Sociological Association, 2017,
-https://www.britsoc.co.uk/media/24309/bsa\_statement\_of\_ethical\_practice\_annexe.pd
-f .
+https://www.britsoc.co.uk/media/24309/bsa\_statement\_of\_ethical\_practice\_annexe.pdf.
 
 Dingwall, Robert. 'The Ethical Case Against Ethical Regulation in
 Humanities and Social Science Research', *Twenty-First Century Society
@@ -1062,14 +1044,10 @@ Research Involving Humans*, 2014,
 http://www.pre.ethics.gc.ca/pdf/eng/tcps2- 2014/TCPS\_2\_FINAL\_Web.pdf.
 
 \_\_\_\_\_. 'Tri-Agency Statement of Principles on Digital Data
-Management', 21 December
-
-2016, <http://www.science.gc.ca/eic/site/063.nsf/eng/h_83F7624E.html>.
+Management', 21 December 2016, http://www.science.gc.ca/eic/site/063.nsf/eng/h_83F7624E.html.
 
 \_\_\_\_\_. 'DRAFT: Tri-agency Research Data Management Policy for
-Consultation', 25 May
-
-2018, <http://www.science.gc.ca/eic/site/063.nsf/eng/h_97610.html>.
+Consultation', 25 May 2018, http://www.science.gc.ca/eic/site/063.nsf/eng/h_97610.html.
 
 Halpern, Orit. *Beautiful Data: A History of Vision and Reason Since
 1945*, Durham: Duke University Press, 2015.
@@ -1099,7 +1077,7 @@ research-on-users-after-emotion-manipulation-study.
 
 Iliadis, Andrew, and Federica Russo. 'Critical Data Studies: An
 Introduction', *Big Data & Society*, December 2016,
-<https://doi.org/10.1177/2053951716674238>.
+https://doi.org/10.1177/2053951716674238.
 
 Kitchin, Rob. *The Data Revolution: Big Data, Open Data, Data
 Infrastructures and Their Consequences*, London: SAGE, 2014.
@@ -1110,15 +1088,14 @@ Data & Society* 1.1 (2014): 1-12.
 \_\_\_\_\_, and Tracey Lauriault. 'Towards Critical Data Studies:
 Charting and Unpacking Data Assemblages and Their Work', *The
 Programmable City Working Paper 2* (2014),
-<http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474112>.
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474112.
 
 Kramer, Adam, Jamie Guillory and Jeffrey Hancock. 'Experimental Evidence
 of Massive- Scale Emotional Contagion Through Social Networks',
 *Proceedings National Academy of Science,* 111.24 (2014): 8788--8790.
 
 Leathern, Rob. 'A New Level of Transparency for Ads and Pages',
-*Facebook Newsroom*, 28 June 2018,
-<https://newsroom.fb.com/news/2018/06/transparency-for-ads-and-pages/>.
+*Facebook Newsroom*, 28 June 2018, https://newsroom.fb.com/news/2018/06/transparency-for-ads-and-pages/.
 
 Lee, Sandra Soo-Jin. 'Studying 'Friends': The Ethics of Using Social
 Media as Research Platforms', *The American Journal of Bioethics* 17.3
@@ -1126,16 +1103,14 @@ Media as Research Platforms', *The American Journal of Bioethics* 17.3
 
 Luka, Mary Elizabeth, and Mélanie Millette. '(Re)framing Big Data:
 Activating Situated Knowledges and a Feminist Ethics of Care in Social
-Media Research', *Social Media + Society*, April 2018,
-<http://journals.sagepub.com/doi/full/10.1177/2056305118768297>.
+Media Research', *Social Media + Society*, April 2018, http://journals.sagepub.com/doi/full/10.1177/2056305118768297.
 
 Markham, Annette. 'Ethic as Method, Method as Ethic'*, Journal of
 Information Ethics* 15.2 (2006): 37--54.
 
 \_\_\_\_\_, and Elizabeth Buchanan. *Ethical Decision-Making and
 Internet Research 2.0:* *Recommendations* *From* t*he* *AoIR* *Ethics*
-*Working* *Committee*, 2012,
-[www.aoir.org/reports/ethics2.pdf](http://www.aoir.org/reports/ethics2.pdf).
+*Working* *Committee*, 2012, http://www.aoir.org/reports/ethics2.pdf](http://www.aoir.org/reports/ethics2.pdf.
 
 \_\_\_\_\_. and Elizabeth Buchanan. 'Ethical Considerations in Digital
 Research contexts', in James D. Wright (ed.), *Encyclopedia for Social &
@@ -1147,8 +1122,7 @@ Society* (July-September 2018): 1-11.
 
 \_\_\_\_\_, Katrin Tiidenberg, and Andrew Herman. 'Ethics as Methods:
 Doing ethics in the Era of Big Data Research-Introduction', *Social
-Media + Society* (July-September 2018): 1-9,
-<http://journals.sagepub.com/doi/abs/10.1177/2056305118784502>
+Media + Society* (July-September 2018): 1-9, http://journals.sagepub.com/doi/abs/10.1177/2056305118784502.
 
 Mayer-Schönberger, Viktor, and Kenneth Cukier. *Big Data: A Revolution
 that will Transform How we Live, Work, and Think*, Boston MA: Houghton
@@ -1189,13 +1163,11 @@ Integrity of Social Life*, Palo Alto: Stanford University Press, 2009.
 Noble, Safiya Umoja. *Algorithms of Oppression: How Search Engines
 Reinforce Racism*, New York: NYU Press, 2018.
 
-O'Neil, Cathy. 'On Being a Data Skeptic', O'Reilly Media, 2013,
-<http://www.oreilly.com/data/free/files/being-a-data-skeptic.pdf>.
+O'Neil, Cathy. 'On Being a Data Skeptic', O'Reilly Media, 2013, http://www.oreilly.com/data/free/files/being-a-data-skeptic.pdf.
 
 Penn State. 'IRB Guideline X - Guidelines for Computer and
 Internet-Based Research Involving Human Participants', Office of the
-Vice President for Research, 2018,
-<https://www.research.psu.edu/irb/policies/guideline10>.
+Vice President for Research, 2018, https://www.research.psu.edu/irb/policies/guideline10.
 
 Plantin, Jean-Christophe, Carl Lagoze and Paul N. Edwards.
 'Re-Integrating Scholarly Infrastructure: The Ambiguous Role of Data
@@ -1210,13 +1182,11 @@ Control of Self and Self-Control', *Surveillance & Society,* 12.2
 (2014).
 
 Rhodan, Maya. '"Please send help." Hurricane Harvey victims turn to
-Twitter and Facebook', *Time*, 30 August 2017,
-<http://time.com/4921961/hurricane-harvey->twitter-facebook-social-media/
+Twitter and Facebook', *Time*, 30 August 2017, http://time.com/4921961/hurricane-harvey->twitter-facebook-social-media/.
 
 Rieder, Gernot and Judith Simon. 'Datatrust: Or, the Political Quest for
 Numerical Evidence and the Epistemologies of Big Data', *Big Data &
-Society,* 3.1 (June 2016),
-<http://journals.sagepub.com/doi/abs/10.1177/2053951716649398>
+Society,* 3.1 (June 2016), http://journals.sagepub.com/doi/abs/10.1177/2053951716649398.
 
 Rooke, Barry. 'Four Pillars of Internet Research Ethics with Web 2.0',
 *Journal of Academic Ethics,* 111.4 (2013): 265-268.
@@ -1227,7 +1197,7 @@ https://www.theguardian.com/world/2014/jul/18/-sp-edward-snowden-nsa-whistleblow
 
 Sabati, Sheeva. 'Upholding "Colonial Knowing" Through the IRB: Reframing
 Institutional Research Ethics', *Qualitative Inquiry* (August 2018),
-DOI: <https://doi.org/10.1177/1077800418787214>.
+DOI: https://doi.org/10.1177/1077800418787214.
 
 Schroepfer, Mike. 'An Update on Our Plans to Restrict Data Access on
 Facebook', *Facebook Newsroom*, 4 April 2018,
@@ -1239,8 +1209,7 @@ https://www.wsj.com/articles/hurricane-harvey-victims-turn-to-social-media-for-
 assistance-1503999001.
 
 Shilton, Katie. 'Emerging Ethics Norms in Social Media Research', *Big
-Data Ethics*, 2016
-<https://bigdata.fpf.org/papers/emerging-ethics-norms-in-social-media-research/>.
+Data Ethics*, 2016, https://bigdata.fpf.org/papers/emerging-ethics-norms-in-social-media-research/.
 
 Shotwell, Alexis. *Against Purity: Living Ethically in Compromised
 Times*, Minnesota: University of Minnesota Press, 2016.
@@ -1256,8 +1225,7 @@ https://www.nytimes.com/2018/04/11/technology/facebook-privacy-hearings.html*.*
  
 
 Sonderby, Chris. 'Reinforcing Our Commitment to Transparency', *Facebook
-Newsroom*, 15 May 2018,
-<https://newsroom.fb.com/news/2018/05/transparency-report-h2-2017/>
+Newsroom*, 15 May 2018, https://newsroom.fb.com/news/2018/05/transparency-report-h2-2017/.
 
 Stark, Laura. *Behind Closed Doors: IRBs and the Making of Ethical
 Research*, Chicago: University of Chicago Press, 2011.
@@ -1273,16 +1241,14 @@ Research Sponsors and Researchers Addressing the Ethical Challenges?',
 
 Tene, Omer, and Jules Polonetsky. 'Beyond IRBs: Ethical Guidelines for
 Data Research', *Washington and Lee Law Review Online*, 72.3 (2016):
-457-471,
-<https://scholarlycommons.law.wlu.edu/wlulr-online/vol72/iss3/7/>.
+457-471, https://scholarlycommons.law.wlu.edu/wlulr-online/vol72/iss3/7/.
 
 Tilenberg, Katrin. 'Ethics in Digital Research', in Uwe Flick (ed.),
 *The SAGE Handbook of Qualitative Data Collection*. Thousand Oaks: SAGE,
 2018, pp. 466-481.
 
 Townsend, Leanne, and Claire Wallace. '*Social Media Research: A Guide
-to Ethics*', University of Aberdeen, 2015,
-<https://www.gla.ac.uk/media/media_487729_en.pdf>.
+to Ethics*', University of Aberdeen, 2015, https://www.gla.ac.uk/media/media_487729_en.pdf.
 
 University of Sheffield. The Ethics of Internet-based and Social Media
 Research, 2016,
@@ -1295,15 +1261,13 @@ Between Scientific Paradigm and Ideology', *Surveillance & Society 12*.2
 society/article/view/datafication.
 
 Verma, Inder M. 'Editorial Expression of Concern and Correction',
-*Proceedings National Academy of Science* 111.29 (2014): 10779,
-<http://www.pnas.org/content/111/29/10779.1>.
+*Proceedings National Academy of Science* 111.29 (2014): 10779, http://www.pnas.org/content/111/29/10779.1.
 
-**Virtová, Tereza, Tereza Stöckelová and Helena Krásná. 'On the Track of
+Virtová, Tereza, Tereza Stöckelová and Helena Krásná. 'On the Track of
 C/overt Research: Lessons from Taking Ethnographic Ethics to the
-Extreme', *Qualitative Inquiry,* 24.7 (2018): 453-463.**
+Extreme', *Qualitative Inquiry,* 24.7 (2018): 453-463.
 
-**\
-**Walters, Chris. 'Facebook's New Terms of Service: 'We Can Do Anything
+Walters, Chris. 'Facebook's New Terms of Service: 'We Can Do Anything
 We Want with Your Content. Forever', *Consumerist*, 15 February 2009,
 https://consumerist.com/2009/02/15/facebooks-new-terms-of-service-we-can-do-
 anything-we-want-with-your-content-forever
@@ -1334,14 +1298,13 @@ University of Wisconsin, Milwaukee, 2015,
 https://bigdata.fpf.org/papers/research-ethics-in-the-big-data-era-
 addressing-conceptual-gaps-for-researchers-and-irbs/.
 
-Zwitter, Andrej. 'Big Data Ethics', *Big Data & Society* (July 2014),
-<https://journals.sagepub.com/doi/abs/10.1177/2053951714559253>.
+Zwitter, Andrej. 'Big Data Ethics', *Big Data & Society* (July 2014), https://journals.sagepub.com/doi/abs/10.1177/2053951714559253.
 
 [^13chapter13_1]: Australian National Data Service, *Data Sharing Considerations for
     Human Research Ethics Committees*, June 2018,
-    <http://www.ands.org.au/guides/data-sharing-considerations-for-hrecs>;
-    **Ellen Broad, 'Australia, we need to talk about data ethics', *The
-    Ethics Centre*, 25 January 2017,**
+    http://www.ands.org.au/guides/data-sharing-considerations-for-hrecs;
+    Ellen Broad, 'Australia, we need to talk about data ethics', *The
+    Ethics Centre*, 25 January 2017,
     http://www.ethics.org.au/on-ethics/blog/january-2017/australia-data-ethics;
     dana boyd, 'Where do we find ethics?' *Points*, 5 April 2016,
     https://
@@ -1543,7 +1506,7 @@ Zwitter, Andrej. 'Big Data Ethics', *Big Data & Society* (July 2014),
 [^13chapter13_17]: Jacob Metcalf and Kate Crawford, 'Where are Human Subjects in Big
     Data Research? The Emerging Ethics Divide', *Big Data & Society*
     (June 2016),
-    <http://journals.sagepub.com/doi/full/10.1177/2053951716650211>.
+    http://journals.sagepub.com/doi/full/10.1177/2053951716650211.
 
 [^13chapter13_18]: Jacob Metcalf and Kate Crawford, 'Where are Human Subjects in Big
     Data Research? The Emerging Ethics Divide', *p. 3.*
@@ -1865,9 +1828,9 @@ Zwitter, Andrej. 'Big Data Ethics', *Big Data & Society* (July 2014),
     *Facebook Newsroom*, 28 June 2018,
     https://newsroom.fb.com/news/2018/06/transparency-for-ads-and-pages/.
 
-[^13chapter13_85]: **Tereza Virtová, Tereza Stöckelová and Helena Krásná. 'On the
+[^13chapter13_85]: Tereza Virtová, Tereza Stöckelová and Helena Krásná. 'On the
     Track of C/overt Research: Lessons from Taking Ethnographic Ethics
-    to the Extreme', *Qualitative Inquiry* 24*.*7 (2018): 453-463.**
+    to the Extreme', *Qualitative Inquiry* 24*.*7 (2018): 453-463.
 
 [^13chapter13_86]: Alexis Shotwell, *Against Purity: Living Ethically in Compromised
     Times*, Minnesota: University of Minnesota Press, 2016, p.107.

@@ -527,7 +527,7 @@ that would appeal to any subset of them, if and when they sit down to
 watch together.
 
 Bill and Susan often spend some time after the children have gone to bed
-in the living room, watching television - it\'s a way of being together
+in the living room, watching television - it's a way of being together
 without actually having to talk. At first, some of Synygy's suggestions
 make Susan uncomfortable, because they clearly drawn on some of her
 viewing habits which she wishes to keep private. However, Synygy
@@ -827,8 +827,7 @@ Press, 2012.
 Cheal, David. *Sociology of Family Life*, Cham: Springer, 2002.
 
 Coulton, Paul, Joseph Lindley and Rachel Cooper. *The Little Book of
-Design Fiction for the Internet of Things*, 2018,
-<https://www.petrashub.org/the-little-book-of-design-fiction-for-the-internet-of-things/>.
+Design Fiction for the Internet of Things*, 2018, https://www.petrashub.org/the-little-book-of-design-fiction-for-the-internet-of-things/.
 
 EU European Court of Justice - Case C212/23; *Lindqvist*, 2003.
 
@@ -866,28 +865,26 @@ the Legal Card', *Proceedings of ACM SIGCHI* *2015*: 457-466.
 
 Manning, Jimmie and Danielle M. Stern. 'Heteronormative Bodies, Queer
 Futures: Toward a Theory of Interpersonal Panopticism', *Information,
-Communication & Society* 21.2 (1 February 2018): 208--23, DOI:
-<https://doi.org/10.1080/1369118X.2016.1271901>.
+Communication & Society* 21.2 (1 February 2018): 208--23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
 
 Marwick, Alice. 'The Public Domain: Surveillance in Everyday Life',
 *Surveillance & Society* 9 (2012).
 
 Marwick, A.E. and danah boyd, 'Networked privacy: How teenagers
 negotiate context in social media', *New Media & Society* 16.7 (2014):
-1051--1067, DOI: <https://doi.org/10.1177/1461444814543995>.
+1051--1067, DOI: https://doi.org/10.1177/1461444814543995.
 
 Morgan, David. *Family Connections: An Introduction to Family Studies*,
 Cambridge: Polity Press 1996.
 
 Mortier, Richard, Hamed Haddadi, Tristan Henderson, Derek McAuley and
 Jon Crowcroft. 'Human-Data Interaction: The Human Face of the
-Data-Driven Society', (1 October 2014),
-<https://ssrn.com/abstract=2508051>.
+Data-Driven Society', (1 October 2014), https://ssrn.com/abstract=2508051.
 
 Nissenbaum, Helen. 'Privacy As Contextual Integrity', *Washington Law
 Review* (2004): 79.
 
-O\'Neill, Natalie. 'Roomba maker wants to sell your home's floor plan',
+O'Neill, Natalie. 'Roomba maker wants to sell your home's floor plan',
 *NYPost*, 25 July 2017,
 https://nypost.com/2017/07/25/roomba-maker-wants-to-sell-your-homes-floor-
 plan/.
@@ -917,13 +914,11 @@ Challenges of Data Technologies*, Philosophical Studies Series \#126.
 Berlin: Springer, 2017, pp. 197--224, DOI: 10.1007/978-3-319-46608-8\_9.
 
 Thomson, Iain. 'Firmware update blunder bricks hundreds of home
-\'smart\' locks', *The Register*, 11 September 2017,
-https://www.theregister.co.uk/2017/08/11/lockstate\_bricks\_smart\_locks\_with\_dumb
-\_firmware\_upgrade/.
+'smart' locks, *The Register*, 11 September 2017,
+https://www.theregister.co.uk/2017/08/11/lockstate_bricks_smart_locks_with_dumb_firmware_upgrade/.
 
 Tolmie, Peter and Andy Crabtree, 'The practical politics of sharing
-personal data', *Personal Ubiquitous Computing* 22 (2018): 293, DOI:
-<https://doi.org/10.1007/s00779-017-1071-8>.
+personal data', *Personal Ubiquitous Computing* 22 (2018): 293, DOI: https://doi.org/10.1007/s00779-017-1071-8.
 
 United Nations Declaration on Human Rights.
 

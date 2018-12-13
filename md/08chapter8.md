@@ -668,10 +668,10 @@ University Press, 1992.
 
 Arnold, Bruce Baer and Wendy Elizabeth Bonython. 'Australian reforms
 enabling disclosure of genetic information to genetic relatives by
-health practitioners**', *Journal of Law and Medicine* 21.4 (2014):
-810**--812.
+health practitioners', *Journal of Law and Medicine* 21.4 (2014):
+810--812.
 
-Arnold, Bruce Baer and Wendy Bonython. 'Should we **stripmine** your
+Arnold, Bruce Baer and Wendy Bonython. 'Should we stripmine your
 eHealth data', *Health Voices* 15 (2014): 18--19.
 
 Arnold, Bruce Baer and Wendy Bonython. 'Sharing the Book of Life:
@@ -682,9 +682,7 @@ Atlas, Michel C. 'Ethics and Access to Teaching Materials in the Medical
 Library: The Case of the Pernkopf Atlas', *Bulletin of the Medical
 Library Association* 89.1 (2001): 51--58.
 
-Barlow, John Perry. '**The** **Economy** **of** **Ideas**: **A**
-**Framework** **for** **Patents** **and** **Copyrights** **in** **the**
-**Digital** **Age** (Everything You Know about Intellectual Property is
+Barlow, John Perry. 'The Economy of Ideas: A Framework for Patents and Copyrights in the Digital Age (Everything You Know about Intellectual Property is
 Wrong)', *Wired* 2.3 (March 1994): 1-13.
 
 Barlow, John Perry. 'A Declaration of the Independence of Cyberspace',
@@ -820,7 +818,7 @@ of Human Rights' *Metaphilosophy,* 44.4 (2010): 444--480.
 Harmon, Shawn. 'The significance of UNESCO's universal declaration on
 the human genome and human rights', *SCRIPT-ed* 2 (2005): 18--38.
 
-*---.* 'Ethical rhetoric: Genomics and the moral content of UNESCO's
+\_\_\_\_\_. 'Ethical rhetoric: Genomics and the moral content of UNESCO's
 'universal' declarations', *Journal of Medical Ethics* 34 (2008): e24.
 
 Harvey, Alison. 'Genetic risks and healthy choices: Creating
@@ -835,8 +833,8 @@ Higgs, Edward. *The Information State in England: The Central Collection
 of Information on Citizens since 1500*, Basingstoke: Palgrave Macmillan,
 2004.
 
-*---. Identifying the English: a History of Personal Identification 1500
-to the Present, London: Continuum, 2011.*
+\_\_\_\_\_. *Identifying the English: a History of Personal Identification 1500
+to the Present*, London: Continuum, 2011.
 
 Hoeksma, Jon. 'The NHS's care.data scheme: What are the risks to
 privacy?', *British Medical Journal* 348 (2014): g1547.
@@ -989,7 +987,7 @@ Rawls, John. 'The Sense of Justice', in Samuel Freeman (ed), *John
 Rawls: Collected Papers,* Cambridge: Harvard University Press, 1999:
 96--116.
 
-*---. Justice as Fairness: A Restatement*, Cambridge: Harvard University
+\_\_\_\_\_. *Justice as Fairness: A Restatement*, Cambridge: Harvard University
 Press, 2001.
 
 Reidenberg, Joel R. 'The data surveillance state in the United States
@@ -1340,7 +1338,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     prognostic tests by employers and insurers', *American Journal of
     Law & Medicine* 17 (1991): 109.
 
-[^08chapter8_58]: #  Bruce Baer Arnold and Wendy Elizabeth Bonython, 'Australian reforms enabling disclosure of genetic information to genetic relatives by health practitioners', *Journal of Law and Medicine* 21.4 (2014): 810.
+[^08chapter8_58]: Bruce Baer Arnold and Wendy Elizabeth Bonython, 'Australian reforms enabling disclosure of genetic information to genetic relatives by health practitioners', *Journal of Law and Medicine* 21.4 (2014): 810.
 
 [^08chapter8_59]: Gregory Kutz, 'Direct to consumer Genetic Tests: Misleading Test
     Results Are Further Complicated by Deceptive Marketing and Other
@@ -1392,10 +1390,7 @@ population biobanks and direct-to-consumer genetic testing companies',
 [^08chapter8_64]: John Perry Barlow, 'A Declaration of the Independence of
     Cyberspace' in Peter Ludlow (ed), *Crypto Anarchy, Cyberstates, and
     Pirate Utopias*, Cambridge MA: MIT Press, 2001, pp. 27-28; and John
-    Perry Barlow, '**The** **Economy** **of** **Ideas**: **A**
-    **Framework** **for** **Patents** **and** **Copyrights** **in**
-    **the** **Digital** **Age** (Everything You Know about Intellectual
-    Property is Wrong)' *Wired* 2.3 (March 1994): 1.
+    Perry Barlow, 'The Economy of Ideas: A Framework for Patents and Copyrights in the Digital Age (Everything You Know about Intellectual Property is Wrong)' *Wired* 2.3 (March 1994): 1.
 
 [^08chapter8_65]: Nicholas Negroponte, *Being Digital*. New York: Vintage, 1995, p.
     238.

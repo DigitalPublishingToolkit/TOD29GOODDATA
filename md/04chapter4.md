@@ -41,8 +41,6 @@ South, as well as their challenges, so data become 'good enough' to
 produce reliable evidence for social change. Data were obtained too
 thorough in-depth interviews, fieldwork and empirical observation.
 
-## 
-
 ## Introduction
 
 On 25 and 30 March 2017, the town of al-Lataminah, in northern Syria,
@@ -72,8 +70,8 @@ the target was a medical facility.[^04chapter4_11] Their report concludes that t
 perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
-*\
-Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)
+*Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
 2018).*
 
 Syrian Archive was the supplier of the videos. This organization gathers
@@ -244,19 +242,19 @@ asymmetries. As *Interviewee 5 notes, 'every qualitative data source is
 arguably open to bias.'* Paraphrasing Gitelman,[^04chapter4_45] *perfect data* is
 another oxymoron.
 
-*Errors and biases can be introduced accidentally in data processes. An
+Errors and biases can be introduced accidentally in data processes. An
 artificial intelligence (AI) algorithm learned to associate women with
 kitchen images because more women appear photographed in kitchens on the
-web.*[^04chapter4_46] *In the process of learning, the algorithm then multiplied
+web.*[^04chapter4_46] *In the process of *learning*, the algorithm then multiplied
 the bias present in the initial dataset, amplifying --not simply
-replicating--- the biased association between kitchens and women.*[^04chapter4_47]
-*This study by the University of Virginia is among several others that
+replicating--- the biased association between kitchens and women.[^04chapter4_47]
+This study by the University of Virginia is among several others that
 recently show that artificial intelligence systems can incorporate, and
 even multiply, biases if their design or the data on which they are
-based are not revised carefully.*
+based are not revised carefully.
 
-*Besides, data can also be manipulated. Edward* Snowden's 2013
-revelations include *examples of big data-based manipulation; they*
+Besides, data can also be manipulated. Edward Snowden's 2013
+revelations include examples of big data-based manipulation; they
 showed that the intelligence services of the US government, with the
 collaboration of companies and other governments, had established a
 dense layer of surveillance and data interception on the communications
@@ -284,8 +282,6 @@ how big our datasets are to determine whether they are good, we should
 start by asking first 'for what', as Robert Staughton Lynd suggested
 about science,[^04chapter4_56] and then look for data and processes that are strong
 enough to support such research.
-
-## 
 
 ## Good Enough Data
 
@@ -445,6 +441,7 @@ killings', 'arbitrary arrest and unlawful detention' and
 classified by the kind of weapon utilized, the location or the kind of
 violation or abuse. Figure 2 summarizes the process.
 
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.png)
 *Figure 2: Syrian Archive digital evidence workflow*[^04chapter4_88]*.*
 
 Based on the examination of footage, the research of the Aleppo bombings
@@ -459,8 +456,9 @@ most of the airstrikes are carried out by Russian aircraft.[^04chapter4_90] Fig
 interactive chart available online allows users to access the videos
 that sustain it.
 
-***Figure 3: Map of visual evidence about attacks in Aleppo City (July -
-December 2016).***[^04chapter4_91]
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.png)
+*Figure 3: Map of visual evidence about attacks in Aleppo City (July -
+December 2016).*[^04chapter4_91]
 
 Syrian Archive exhibits the ingenuity that characterizes data activists;
 however, not all data activist initiatives employ the same data methods.
@@ -571,8 +569,7 @@ comparability of case studies.
   **Ushahidi**                                                  **Crowdsourced citizen data; websites and social media**                 **2nd (public data)and 3rd (crowdsourced data)**                    **Crowdsourcing platform and scraping methods (i.e. for verification); scraping**
   **Citizen sensing in Gabrys, Pritchard and Barratt (2016)**   **Citizen sensing**                                                      **5th (own data)**                                                  **Sensors**
 
-*\
-Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]
+*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]
 
 Forensic Architecture employs advanced architectural and media research
 on behalf of international prosecutors, human rights organizations and
@@ -616,19 +613,19 @@ mapping employed in digital humanitarianism:
 > crisis, the otherwise assumed to be "passive recipients" of
 > information.
 
-*Even the two non-activist interviewees integrate some forms of citizen
-data in their projects. Although the fragile states index* does not
-*incorporate them 'because it is too difficult to verify at that high
+Even the two non-activist interviewees integrate some forms of citizen
+data in their projects. Although the fragile states index does not
+incorporate them 'because it is too difficult to verify at that high
 level', social media or citizen data are part of 'more ground-level,
-localized community assessments', says* Interviewee 5. The water grids
+localized community assessments', says Interviewee 5. The water grids
 designed to distribute water in cities and communities by Interviewee 2
 employ user data to identify loss and malfunction within the grids.
 
-*However, there is a distinction to be made when the lens of volume and
+However, there is a distinction to be made when the lens of volume and
 data roles are taken into account. In the case of Syrian Archive and
 Forensic Architecture, citizen data are incorporated on a case by case
 basis; WeRobotics, Ushahidi, InfoAmazonia and citizen sensing integrate
-citizens not only as data gatherers but also as analyzers and users.*
+citizens not only as data gatherers but also as analyzers and users.
 
 Another trend that can be spotted is the alternative use practitioners
 make of data-harvesting technologies. For example, while drones -
@@ -740,176 +737,234 @@ Barratt,[^04chapter4_108] creating patterns of actionable evidence that can
 mobilize policy changes, community responses, follow-up monitoring, and
 improved accountability.
 
-## Compliance with Ethics Requirements
+**Compliance with Ethics Requirements**
 
-The author *declares that she has no conflict of interest. The author
+The author declares that she has no conflict of interest. The author
 has permission to use the images included in the article. Informed
 consent was obtained from all interviewees for being included in the
-study.*
+study.
 
 ## References
 
 Al Jazeera News. 'Syria's Civil War Explained from the Beginning', *Al
-Jazeera*, 14 April 2018.
-https://www.aljazeera.com/news/2016/05/syria-civil-war-explained-160505084119966.html.Amnesty
-International. 'Exposed: Child Labour behind Smart Phone and Electric
+Jazeera*, 14 April 2018,
+https://www.aljazeera.com/news/2016/05/syria-civil-war-explained-160505084119966.html.
+
+Amnesty International. 'Exposed: Child Labour behind Smart Phone and Electric
 Car Batteries', 19 July 2016,
-https://www.amnesty.org/en/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/.---------.
-'Syria: "War Of Annihilation": Devastating Toll On Civilians, Raqqa --
-Syria', 2018,
-https://www.amnesty.org/en/documents/mde24/8367/2018/en/.Axinn, William
-G., Dirgha Ghimire and Nathalie E. Williams. 'Collecting Survey Data
-during Armed Conflict', *J Off Stat* 28.2 (2012): 153--171.Balsiger,
-Philip, and Alexandre Lambelet. 'Participant Observation', in Donatella
+https://www.amnesty.org/en/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/.
+
+\_\_\_\_\_.'Syria: "War Of Annihilation": Devastating Toll On Civilians, Raqqa Syria', 2018,
+https://www.amnesty.org/en/documents/mde24/8367/2018/en/.
+
+Axinn, William G., Dirgha Ghimire and Nathalie E. Williams. 'Collecting Survey Data
+during Armed Conflict', *J Off Stat* 28.2 (2012): 153--171.
+
+Balsiger, Philip, and Alexandre Lambelet. 'Participant Observation', in Donatella
 della Porta (ed.), M*ethodological Practices in Social Movement
-Research*, Oxford: Oxford University Press, 2014, pp. 144--72.Banchik,
-Anna, et al. 'Chemical Strikes on Al-Lataminah'. *Berkeley Human Rights
+Research*, Oxford: Oxford University Press, 2014, pp. 144--72.
+
+Banchik, Anna, et al. 'Chemical Strikes on Al-Lataminah'. *Berkeley Human Rights
 Investigation Lab*, 25, 30 March 2017,
-https://syrianarchive.org/assets/hama/Syrian\_Archive\_Hama\_Report\_Final.pdf.Berendt,
-Bettina, Marco Büchler, and Geoffrey Rockwell.'Is It Research or Is It
+https://syrianarchive.org/assets/hama/Syrian\_Archive\_Hama\_Report\_Final.pdf.
+
+Berendt,Bettina, Marco Büchler, and Geoffrey Rockwell.'Is It Research or Is It
 Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge
 Science', *Künstliche Intelligenz* 29.223 (2015),
-https://doi.org/10.1007/s13218-015-0355-2.Bernard, H. Russell. *Research
-Methods in Anthropology: Qualitative and Quantitative Approaches*,
-Fourth Edition, Maryland: AltaMira Press, 2006.Boellstorff, Tom. 'Making
-Big Data, in Theory', *First Monday* 18.10 (2013),
-http://firstmonday.org/article/view/4869/3750.Borges, Jorge Luis. 'Del
-Rigor En La Ciencia', *Palabra Virtual*, 12 February 2007.
-http://www.palabravirtual.com/index.php?ir=ver\_voz1.php&wid=726&p=Jorge%20Luis%20Borges&t=Del%20rigor%20en%20la%20ciencia&o=Jorge%20Luis%20BorgesBraman,
-Sandra. 2009. *Change of State: Information, Policy, and Power*.
-Cambridge: MIT Press.Cadwalladr, Carole, and Emma Graham-Harrison.
-'Revealed: 50 Million Facebook Profiles Harvested for Cambridge
-Analytica in Major Data Breach'. *The Guardian*, 17 March 2018.
-https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election.Cohen,
-D., and B. Crabtree. 'Qualitative Research Guidelines Project'. The
-Robert Wood Johnson Foundation: Semi-Structured Interviews. July 2006.
-http://www.qualres.org/HomeSemi-3629.html.Cukier, Kenneth. 'Big Data Is
-Better Data'. presented at the Berlin TEDSalon, Berlin, June 2014,
-http://www.ted.com/talks/kenneth\_cukier\_big\_data\_is\_better\_data?language=en.Dijck,
-Jose van. 'Datafication, Dataism and Dataveillance: Big Data between
+https://doi.org/10.1007/s13218-015-0355-2.
+
+Bernard, H. Russell. *Research Methods in Anthropology: Qualitative and Quantitative Approaches*,
+Fourth Edition, Maryland: AltaMira Press, 2006.
+
+Boellstorff, Tom. 'Making Big Data, in Theory', *First Monday* 18.10 (2013),
+http://firstmonday.org/article/view/4869/3750.
+
+Borges, Jorge Luis. 'Del Rigor En La Ciencia', *Palabra Virtual*, 12 February 2007,
+http://www.palabravirtual.com/index.php?ir=ver\_voz1.php&wid=726&p=Jorge%20Luis%20Borges&t=Del%20rigor%20en%20la%20ciencia&o=Jorge%20Luis%20Borges
+
+Braman, Sandra. 2009. *Change of State: Information, Policy, and Power*.
+Cambridge: MIT Press.
+
+Cadwalladr, Carole, and Emma Graham-Harrison. 'Revealed: 50 Million Facebook Profiles Harvested for Cambridge
+Analytica in Major Data Breach'. *The Guardian*, 17 March 2018,
+https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election.
+
+Cohen, D., and B. Crabtree. 'Qualitative Research Guidelines Project'. The
+Robert Wood Johnson Foundation: Semi-Structured Interviews. July 2006,
+http://www.qualres.org/HomeSemi-3629.html.
+
+Cukier, Kenneth. 'Big Data Is Better Data'. presented at the Berlin TEDSalon, Berlin, June 2014,
+http://www.ted.com/talks/kenneth\_cukier\_big\_data\_is\_better\_data?language=en.
+
+Dijck, Jose van. 'Datafication, Dataism and Dataveillance: Big Data between
 Scientific Paradigm and Ideology'. *Surveillance & Society* 12.2 (2014):
-197--208.Downing, John D. H. (ed.). *Encyclopedia of Social Movement
-Media*, Thousand Oaks: SAGE, 2011.Ford, Heather. 'Can Ushahidi Rely on
-Crowdsourced Verifications?', *H Blog,* 3 September 2012,
-https://hblog.org/2012/03/09/can-ushahidi-rely-on-crowdsourced-verifications/.Forensic
-Architecture. 'About Saydnaya', 2017,
-http://www.forensic-architecture.org/case/saydnaya/.---------.
-'Project', 2028, http://www.forensic-architecture.org/project/.Gabrys,
-Jennifer, and Helen Pritchard. 2015. 'Next-Generation Environmental
+197--208.
+
+Downing, John D. H. (ed.). *Encyclopedia of Social Movement Media*, Thousand Oaks: SAGE, 2011.
+
+Ford, Heather. 'Can Ushahidi Rely on Crowdsourced Verifications?', *H Blog,* 3 September 2012,
+https://hblog.org/2012/03/09/can-ushahidi-rely-on-crowdsourced-verifications/.
+
+Forensic Architecture. 'About Saydnaya', 2017,
+http://www.forensic-architecture.org/case/saydnaya/.
+
+\_\_\_\_\_.'Project', 2028, http://www.forensic-architecture.org/project/.
+
+Gabrys, Jennifer, and Helen Pritchard. 2015. 'Next-Generation Environmental
 Sensing: Moving beyond Regulatory Benchmarks for Citizen-Gathered Data',
 in AJ Berre, S Schade, and J Piera (eds), *Proceedings of the Workshop
 'Environmental Infrastructures and Platforms 2015*, Barcelona, pp.
 57--65, http://ecsa.citizen-science.net/sites/default/
-files/envip-2015-draft-binder.pdf.Gabrys, Jennifer, Helen Pritchard, and
-Benjamin Barratt. 'This Is the Other Aspect of "just" Good Enough Data
---that Citizen Data Could Provide Ways of Realising Environmental and
-Social Justice', *Big Data & Society* 1.14 (2016): 14.Gangadharan, Seeta
-Peña. 'Digital Inclusion and Data Profiling'. *First Monday* 17.5
-(2012), http://firstmonday.org/article/view/3821/3199.Gitelman, Lisa
-(ed.). *Raw Data Is an Oxymoron*, Cambridge MA/London: MIT Press,
-2013.Greenberg, Andy. 'These Are the Emails Snowden Sent to First
+files/envip-2015-draft-binder.pdf.
+
+Gabrys, Jennifer, Helen Pritchard, and Benjamin Barratt. 'This Is the Other Aspect of "just" Good Enough Data that Citizen Data Could Provide Ways of Realising Environmental and
+Social Justice', *Big Data & Society* 1.14 (2016): 14.
+
+Gangadharan, Seeta Peña. 'Digital Inclusion and Data Profiling'. *First Monday* 17.5
+(2012), http://firstmonday.org/article/view/3821/3199.
+
+Gitelman, Lisa (ed.). *Raw Data Is an Oxymoron*, Cambridge MA/London: MIT Press,
+2013.
+
+Greenberg, Andy. 'These Are the Emails Snowden Sent to First
 Introduce His Epic NSA Leaks', *The Wired*, 13 October 2014,
-https://www.wired.com/2014/10/snowdens-first-emails-to-poitras/.Gutierrez,
-Miren. *Data Activism and Social Change*, London: Palgrave Macmillan,
-2018---------.'Maputopias: Cartographies of Knowledge, Communication and
+https://www.wired.com/2014/10/snowdens-first-emails-to-poitras/.
+
+Gutierrez,Miren. *Data Activism and Social Change*, London: Palgrave Macmillan,
+2018.'Maputopias: Cartographies of Knowledge, Communication and
 Action in the Big Data Society -- The Cases of Ushahidi and
-InfoAmazonia'. *GeoJournal* (2018): 1--20.
-https://doi.org/https://doi.org/10.1007/s10708-018-9853-8.---------'The
-Public Sphere in Light of Data Activism'. *Krisis* (2018).Hogan, Mel,
-and Sarah T. Roberts. \'Data Flows and Water Woes: An Interview With
-Media Scholar Mél Hogan\'. 2015,
-http://bigdatasoc.blogspot.com.es/2015/08/data-flows-and-water-woes-interview.html.Human
-Rights Council, 'Report of the Independent International Commission of
+InfoAmazonia'. *GeoJournal* (2018): 1--20, https://doi.org/https://doi.org/10.1007/s10708-018-9853-8.
+
+\_\_\_\_\_.'The Public Sphere in Light of Data Activism'. *Krisis* (2018).
+
+Hogan, Mel, and Sarah T. Roberts. 'Data Flows and Water Woes: An Interview With
+Media Scholar Mél Hogan'. 2015,
+http://bigdatasoc.blogspot.com.es/2015/08/data-flows-and-water-woes-interview.html.
+
+Human Rights Council, 'Report of the Independent International Commission of
 Inquiry on the Syrian Arab Republic', UN General Assembly, 5 Februrary,
-2013
-http://www.ohchr.org/Documents/HRBodies/HRCouncil/CoISyria/A.HRC.22.59\_en.pdf.InfoAmazonia.
-'THE ANNUAL CYCLES of the Indigenous Peoples of the Rio Tiquié
-2005-2006\'. 2016.
-https://ciclostiquie.socioambiental.org/en/index.html.---------. 2017.
-'About'. 2017. https://infoamazonia.org/en/about/.Innerarity, Daniel.
-'Ricos Y Pobres En Datos', *Globernance.org*, 22 February 2016,
-http://www.danielinnerarity.es/opinion-preblog/ricos-y-pobres-en-datos/.International
-Telecommunication Union. 'Measuring the Information Society Report'
-2014. Geneva: International Telecommunication Union (ITU).
-http://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf.Kitchin,
-Rob, and Tracey P. Lauriault. 'Small Data, Data Infrastructures and Big
+2013, http://www.ohchr.org/Documents/HRBodies/HRCouncil/CoISyria/A.HRC.22.59\_en.pdf.
+
+InfoAmazonia. 'THE ANNUAL CYCLES of the Indigenous Peoples of the Rio Tiquié
+2005-2006\'. 2016, https://ciclostiquie.socioambiental.org/en/index.html.
+
+\_\_\_\_\_. 2017.'About'. 2017, https://infoamazonia.org/en/about/.
+
+Innerarity, Daniel.'Ricos Y Pobres En Datos', *Globernance.org*, 22 February 2016,
+http://www.danielinnerarity.es/opinion-preblog/ricos-y-pobres-en-datos/.
+
+International Telecommunication Union. 'Measuring the Information Society Report'
+2014. Geneva: International Telecommunication Union (ITU), http://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf.
+
+Kitchin, Rob, and Tracey P. Lauriault. 'Small Data, Data Infrastructures and Big
 Data', *GeoJournal*, The Programmable City Working Paper 1, 80.4 (2014):
-463--75.Knight, Ben. 'Syrian Archive Finds "Overwhelming" Russian
-Atrocities in Aleppo'. *DW*, 28 March 2017,
-http://www.dw.com/en/syrian-archive-finds-overwhelming-russian-atrocities-in-aleppo/a-38169808.Korzybski,
-Alfred. *Science and Sanity: An Introduction to Non-Aristotelian Systems
+463--75.
+
+Knight, Ben. 'Syrian Archive Finds "Overwhelming" Russian Atrocities in Aleppo'. *DW*, 28 March 2017,
+http://www.dw.com/en/syrian-archive-finds-overwhelming-russian-atrocities-in-aleppo/a-38169808.
+
+Korzybski, Alfred. *Science and Sanity: An Introduction to Non-Aristotelian Systems
 and General Semantics*, fifth edition, New York: Institute of General
-Semantics, 1994.Lancaster, Lewis. 'From Text to Image to Analysis:
-Visualization of Chinese Buddhist Canon', *Digital Humanities, 2010*,
-http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/pdf/ab-670.pdf.Lauriault,
-Tracey P.'Data, Infrastructures and Geographical Imaginations', 2012,
-Ottawa: Carleton University.
-https://curve.carleton.ca/system/files/etd/7eb756c8-3ceb-4929-8220-3b20cf3242cb/etd\_pdf/79f3425e913cc42aba9aa2b9094a9a53/lauriault-datainfrastructuresandgeographicalimaginations.pdf.Leonelli,
-Sabina. 'What Counts as Scientific Data? A Relational Framework',
-*Philosophy of Science* 82.5 (2015): 810--21.Lynch, Colum. 'Soviet-Era
-Bomb Used in Syria Chemical Weapon Attack, Claims Rights Group'.
+Semantics, 1994.
+
+Lancaster, Lewis. 'From Text to Image to Analysis: Visualization of Chinese Buddhist Canon', *Digital Humanities, 2010*,
+http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/pdf/ab-670.pdf.
+
+Lauriault, Tracey P.'Data, Infrastructures and Geographical Imaginations', 2012,
+Ottawa: Carleton University,
+https://curve.carleton.ca/system/files/etd/7eb756c8-3ceb-4929-8220-3b20cf3242cb/etd\_pdf/79f3425e913cc42aba9aa2b9094a9a53/lauriault-datainfrastructuresandgeographicalimaginations.pdf.
+
+Leonelli, Sabina. 'What Counts as Scientific Data? A Relational Framework',
+*Philosophy of Science* 82.5 (2015): 810--21.
+
+Lynch, Colum. 'Soviet-Era Bomb Used in Syria Chemical Weapon Attack, Claims Rights Group'.
 *Foreign Policy*, 5 January 2017,
-http://foreignpolicy.com/2017/05/01/soviet-era-bomb-used-in-syria-chemical-weapon-attack-claims-rights-group/.Lynd,
-Robert Staughton. *Knowledge for What: The Place of Social Science in
-American Culture*, Princeton: Princeton University Press, 1967.Lyon,
-David. 'Surveillance, Snowden, and Big Data: Capacities, Consequences',
-*Big Data & Society* (July, 2014): 1-13. Mayer-Schönberger, Viktor, and
-Kenneth Cukier. *Big Data: A Revolution That Will Transform How We Live,
-Work, and Think*, Boston: Houghton Mifflin Harcourt, 2013.Milan,
-Stefania and Miren Gutierrez. 'Citizens´ Media Meets Big Data: The
-Emergence of Data Activism'. *Mediaciones* 14 (June, 2015).
-http://biblioteca.uniminuto.edu/ojs/index.php/med/article/view/1086/1027.Miller,
-Harvey J. 'The Data Avalanche Is Here: Shouldn't We Be Digging?' *Wiley
+http://foreignpolicy.com/2017/05/01/soviet-era-bomb-used-in-syria-chemical-weapon-attack-claims-rights-group/.
+
+Lynd,Robert Staughton. *Knowledge for What: The Place of Social Science in
+American Culture*, Princeton: Princeton University Press, 1967.
+
+Lyon, David. 'Surveillance, Snowden, and Big Data: Capacities, Consequences',
+*Big Data & Society* (July, 2014): 1-13. 
+
+Mayer-Schönberger, Viktor, and Kenneth Cukier. *Big Data: A Revolution That Will Transform How We Live,
+Work, and Think*, Boston: Houghton Mifflin Harcourt, 2013.
+
+Milan, Stefania and Miren Gutierrez. 'Citizens´ Media Meets Big Data: The
+Emergence of Data Activism'. *Mediaciones* 14 (June, 2015),
+http://biblioteca.uniminuto.edu/ojs/index.php/med/article/view/1086/1027.
+
+Miller, Harvey J. 'The Data Avalanche Is Here: Shouldn't We Be Digging?' *Wiley
 Periodicals*, 22 August 2009.Nakamitsu, Izumi. 'The Situation in the
 Middle East', Briefing S/PV.8344, New York: Security Council, 6
 September 2018,
-https://www.securitycouncilreport.org/atf/cf/%7b65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7d/s\_pv\_8344.pdf.Office
-of the UN High Commissioner for Human Rights. 'Warring Parties Continued
-to Target Civilians for Abuses over Last Seven Months -- UN Commission',
+https://www.securitycouncilreport.org/atf/cf/%7b65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7d/s\_pv\_8344.pdf.
+
+Office of the UN High Commissioner for Human Rights. 'Warring Parties Continued
+to Target Civilians for Abuses over Last Seven Months - UN Commission',
 *United Nations,* 14 March, 2017,
-http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21370&LangID=E.O'Neil,
-Cathy. *Weapons of Math Destruction: How Big Data Increases Inequality
-and Threatens Democracy*, New York: Crown Publishers, 2016.Organisation
-for the Prohibition of Chemical Weapons. 'Chemical Weapons Convention',
+http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21370&LangID=E.
+
+O'Neil, Cathy. *Weapons of Math Destruction: How Big Data Increases Inequality
+and Threatens Democracy*, New York: Crown Publishers, 2016.
+
+Organisation for the Prohibition of Chemical Weapons. 'Chemical Weapons Convention',
 2005,
-https://www.opcw.org/sites/default/files/documents/CWC/CWC\_en.pdf.Palmer,
-Lindsay. 'Ushahidi at the Google Interface: Critiquing the "geospatial
+https://www.opcw.org/sites/default/files/documents/CWC/CWC\_en.pdf.
+
+Palmer, Lindsay. 'Ushahidi at the Google Interface: Critiquing the "geospatial
 Visualization of Testimony"', *Continuum* 28.3 (2014): 342--56, DOI:
-https://doi.org/10.1080/10304312.2014.893989.Poell, Thomas, Helen
-Kennedy, and Jose van Dijck. 'Special Theme: Data & Agency', *Big Data &
-Society*, 2 (July, 2015): 1-7.
-http://bigdatasoc.blogspot.com.es/2015/12/special-theme-data-agency.html.Rogers,
-Simon. 'John Snow's Data Journalism: The Cholera Map That Changed the
+https://doi.org/10.1080/10304312.2014.893989.
+
+Poell, Thomas, Helen Kennedy, and Jose van Dijck. 'Special Theme: Data & Agency', *Big Data &
+Society*, 2 (July, 2015): 1-7,
+http://bigdatasoc.blogspot.com.es/2015/12/special-theme-data-agency.html.
+
+Rogers, Simon. 'John Snow's Data Journalism: The Cholera Map That Changed the
 World', *The Guardian*, 15 March 2012,
-http://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map.Slater,
-Dirk. 'What I've Learned about Mapping Violence', *Fab Riders*, 3 April
-2016, http://www.fabriders.net/mapping-violence/.Solvang, Ole. 'Key
-Finding on Use of Chemical Weapons in Syria'. Human Rights Watch, 2017,
-https://www.hrw.org/news/2017/10/05/key-finding-use-chemical-weapons-syria.Stephens-Davidowitz,
-Seth. *Everybody Lies: Big Data, New Data, and What the Internet Can
+http://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map.
+
+Slater, Dirk. 'What I've Learned about Mapping Violence', *Fab Riders*, 3 April
+2016, http://www.fabriders.net/mapping-violence/.
+
+Solvang, Ole. 'Key Finding on Use of Chemical Weapons in Syria'. Human Rights Watch, 2017,
+https://www.hrw.org/news/2017/10/05/key-finding-use-chemical-weapons-syria.
+
+Stephens-Davidowitz, Seth. *Everybody Lies: Big Data, New Data, and What the Internet Can
 Tell Us About Who We Really Are*, New York: Dey Street Books,
-2017.Syrian Archive. 'About', 2017,
-https://syrianarchive.org/en/about.---------. 'Research Methodology'. 6
-January 2017,
-https://syrianarchive.org/p/page/methodology\_digital\_evidence\_workflow/.---------.
-'Violations Database', Database. 2016.
-https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%AD%D9%84%D8%A8&after=2016-07-01&before=2016-12-31.---------.'Eyes
-on Aleppo: Visual Evidence Analysis of Human Rights Violations Committed
+2017.
+
+Syrian Archive. 'About', 2017, https://syrianarchive.org/en/about.
+
+\_\_\_\_\_. 'Research Methodology'. 6 January 2017,
+https://syrianarchive.org/p/page/methodology\_digital\_evidence\_workflow/.
+
+\_\_\_\_\_. 'Violations Database', Database. 2016,
+https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%AD%D9%84%D8%A8&after=2016-07-01&before=2016-12-31.
+
+\_\_\_\_\_.'Eyes on Aleppo: Visual Evidence Analysis of Human Rights Violations Committed
 in Aleppo - July - Dec 2016', 2017,
-https://media.syrianarchive.org/blog/5th\_blog/Eyes%20on%20Aleppo.pdf.Tufekci,
-Zeynep. 'Engineering the Public: Internet, Surveillance and
-Computational Politics', *First Monday* 19.7 (2014). Ushahidi, 'About',
-2017, https://www.ushahidi.com/about.Vota, Wayan. 'Dead Ushahidi: A
-Stark Reminder for Sustainability Planning in ICT4D'. *ICT Works,* 9
-July 2012.
-http://www.ictworks.org/2012/07/09/dead-ushahidi-stark-reminder-sustainability-planning-ict4d/.Weller,
-Marc. 'Syria Air Strikes: Were They Legal?' *BBC News*, 14 April 2018,
-https://www.bbc.com/news/world-middle-east-43766556.WeRobotics, 'About',
-2017, http://werobotics.org/.Woodside, Arch. *Case Study Research :
-Theory, Methods and Practice*, United Kingdom: Emerald, 2010.Yin, Robert
-K. *Case Study Research: Design and Methods, *Applied Social Research
-Methods Series. Thousand Oaks: SAGE,* *2002.Zhao, Jieyu, Tianlu Wang,
-Mark Yatskar, Vicente Ordonez and Vicente Chang. 'Men Also Like
+https://media.syrianarchive.org/blog/5th\_blog/Eyes%20on%20Aleppo.pdf.
+
+Tufekci, Zeynep. 'Engineering the Public: Internet, Surveillance and
+Computational Politics', *First Monday* 19.7 (2014). 
+
+Ushahidi, 'About', 2017, https://www.ushahidi.com/about.
+
+Vota, Wayan. 'Dead Ushahidi: A Stark Reminder for Sustainability Planning in ICT4D'. *ICT Works,* 9
+July 2012, http://www.ictworks.org/2012/07/09/dead-ushahidi-stark-reminder-sustainability-planning-ict4d/.
+
+Weller, Marc. 'Syria Air Strikes: Were They Legal?' *BBC News*, 14 April 2018,
+https://www.bbc.com/news/world-middle-east-43766556.
+
+WeRobotics, 'About', 2017, http://werobotics.org/.
+
+Woodside, Arch. *Case Study Research: Theory, Methods and Practice*, United Kingdom: Emerald, 2010.
+
+Yin, Robert K. *Case Study Research: Design and Methods, *Applied Social Research
+Methods Series. Thousand Oaks: SAGE,* 2002.
+
+Zhao, Jieyu, Tianlu Wang, Mark Yatskar, Vicente Ordonez and Vicente Chang. 'Men Also Like
 Shopping: Reducing Gender Bias Amplification Using Corpus-Level
 Constraints', *Proceedings of the 2017 Conference on Empirical Methods
 in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
@@ -935,18 +990,18 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
     "geospatial Visualization of Testimony"', *Continuum* 28.3 (2014):
     342--56; Wayan Vota, 'Dead Ushahidi: A Stark Reminder for
     Sustainability Planning in ICT4D', *ICT Works*, 9 July 2012,
-    http://www.ictworks.org/2012/07/09/dead-ushahidi-stark-reminder-sustainability-planning-ict4d/
+    http://www.ictworks.org/2012/07/09/dead-ushahidi-stark-reminder-sustainability-planning-ict4d/.
 
 [^04chapter4_5]: See: Colum Lynch, 'Soviet-Era Bomb Used in Syria Chemical Weapon
     Attack, Claims Rights Group'. *Foreign Policy*, 5 January 2017,
     http://foreignpolicy.com/2017/05/01/soviet-era-bomb-used-in-syria-chemical-weapon-attack-claims-rights-group/;
     Ole Solvang, 'Key Finding on Use of Chemical Weapons in Syria',
     *Human Rights Watch,* 5 October 2017,
-    https://www.hrw.org/news/2017/10/05/key-finding-use-chemical-weapons-syria
+    https://www.hrw.org/news/2017/10/05/key-finding-use-chemical-weapons-syria.
 
 [^04chapter4_6]: Al Jazeera News, 'Syria's Civil War Explained from the Beginning'.
     *Al Jazeera*, 14 April 2018,
-    https://www.aljazeera.com/news/2016/05/syria-civil-war-explained-160505084119966.html
+    https://www.aljazeera.com/news/2016/05/syria-civil-war-explained-160505084119966.html.
 
 [^04chapter4_7]: Amnesty International, 'Exposed: Child Labour behind Smart Phone
     and Electric Car Batteries'. 19 July 2016,
@@ -1003,7 +1058,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_26]: Ibid.
 
 [^04chapter4_27]: Robert K Yin, *Case Study Research: Design and Methods, *Applied
-    Social Research Methods Series. Thousand Oaks: SAGE,* *2002, p. 13.
+    Social Research Methods Series. Thousand Oaks: SAGE,* 2002, p. 13.
 
 [^04chapter4_28]: Philip Balsiger, and Alexandre Lambelet, 'Participant
     Observation', in Donatella della Porta (ed.), M*ethodological
@@ -1047,14 +1102,14 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_37]: Kenneth Cukier, 'Big Data Is Better Data', presented at the
     Berlin TEDSalon, Berlin, June 2014,
-    http://www.ted.com/talks/kenneth\_cukier\_big\_data\_is\_better\_data?language=en
+    http://www.ted.com/talks/kenneth\_cukier\_big\_data\_is\_better\_data?language=en.
 
 [^04chapter4_38]: Lisa Gitelman (ed.), *Raw Data Is an Oxymoron*, Cambridge
     MA/London: MIT Press, 2013.
 
 [^04chapter4_39]: Jorge Luis Borges, 'Del Rigor En La Ciencia', *Palabra Virtual*,
     12 February 2007,
-    http://www.palabravirtual.com/index.php?ir=ver\_voz1.php&wid=726&p=Jorge%20Luis%20Borges&t=Del%20rigor%20en%20la%20ciencia&o=Jorge%20Luis%20Borges
+    http://www.palabravirtual.com/index.php?ir=ver\_voz1.php&wid=726&p=Jorge%20Luis%20Borges&t=Del%20rigor%20en%20la%20ciencia&o=Jorge%20Luis%20Borges.
 
 [^04chapter4_40]: Ibid.
 
@@ -1105,8 +1160,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
     https://firstmonday.org/ojs/index.php/fm/article/view/4901/4097.
 
 [^04chapter4_52]: Seeta Peña Gangadharan, 'Digital Inclusion and Data Profiling',
-    *First Monday,* 17.5 (2012)
-    http://firstmonday.org/article/view/3821/3199.
+    *First Monday,* 17.5 (2012), http://firstmonday.org/article/view/3821/3199.
 
 [^04chapter4_53]: Cathy O'Neil, *Weapons of Math Destruction: How Big Data
     Increases Inequality and Threatens Democracy*, New York: Crown
@@ -1181,7 +1235,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_73]: Gutierrez, *Data Activism and Social Change*.
 
 [^04chapter4_74]: Syrian Archive, 'Research Methodology', 6 January 2017,
-    https://syrianarchive.org/p/page/methodology\_digital\_evidence\_workflow/;
+    https://syrianarchive.org/p/page/methodology\_digital\_evidence\_workflow/.
 
 [^04chapter4_75]: Ibid.
 
@@ -1232,7 +1286,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_90]: Ibid.
 
 [^04chapter4_91]: Source: Syrian Archive, 'Research Methodology',
-    https://syrianarchive.org/p/page/methodology\_digital\_evidence\_workflow/
+    https://syrianarchive.org/p/page/methodology\_digital\_evidence\_workflow/.
 
 [^04chapter4_92]: Gabrys, Pritchard, and Barratt, 'This Is the Other Aspect of
     "just" Good Enough Data'.
@@ -1259,11 +1313,10 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_101]: Gabrys, Pritchard, and Barratt, 'This Is the Other Aspect of
     "just" Good Enough Data', p. 6.
 
-[^04chapter4_102]: **Elaboration by the author based on Gutierrez*, ****Data
+[^04chapter4_102]: Elaboration by the author based on Gutierrez, *Data
     Activism and Social Change*.
 
-[^04chapter4_103]: Forensic Architecture 'Project', 2028,
-    http://www.forensic-architecture.org/project/.
+[^04chapter4_103]: Forensic Architecture 'Project', 2028, http://www.forensic-architecture.org/project/.
 
 [^04chapter4_104]: WeRobotics, 'About', http://werobotics.org/
 

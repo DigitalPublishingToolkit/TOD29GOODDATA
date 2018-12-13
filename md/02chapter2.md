@@ -83,8 +83,6 @@ with the laws, practices and customs of a nation-state in which it is
 located.[^02chapter2_5] In the Indigenous context this may manifest at the group
 (iwi(tribe)/mob/Māori) levels.
 
-## 
-
 ## Defining Indigenous Data Governance
 
 Data governance is the power and authority over the design, ownership,
@@ -98,8 +96,6 @@ commences at the development stage, and continues through the ethics
 application stage and through the collection, analysis and reporting of
 data, and through policy translation. Indigenous peoples' ownership is
 integral to autonomy.
-
-## 
 
 ## Historical context of Data Sovereignty
 
@@ -183,8 +179,6 @@ such as Statistics Canada. These principles are primarily used in the
 area of data collection, but not in the analysis of existing data
 collected through the census or other government surveys.
 
-## 
-
 ## Emergence of IDS movements
 
 Indigenous groups across the world have increasingly become engaged in
@@ -204,8 +198,6 @@ to develop Aboriginal and Torres Strait Islander data sovereignty
 principles and to identify Aboriginal and Torres Strait Islander
 strategic data assets. The intent of these groups is to advocate for
 rights (informed by UNDRIP) using data to inform development.
-
-## 
 
 ## United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP)
 
@@ -306,9 +298,7 @@ developed principles specific to their IDS context.
 |                                   | principles.[^02chapter2_27]                  |
 +-----------------------------------+-----------------------------------+
 
-Table 1 - IDS principles in the Asia Pacific and North American States
-
-## 
+*Table 1 - IDS principles in the Asia Pacific and North American States*
 
 ## Indigenous Data Sovereignty and Governance in practice
 
@@ -431,8 +421,6 @@ province to ensure that decisions about the use and sharing of First
 Nations, Inuit, and Métis data are made by the respective governance
 organizations.
 
-## 
-
 ## Conclusions
 
 While the IDS movement has emerged in response to poor data practices
@@ -461,7 +449,7 @@ Australian Human Rights Commission. 'Australia and the Universal
 Declaration on Human Rights'.
 
 Australian National University. 'Intellectual Property Policy',
-<https://policies.anu.edu.au/ppl/document/ANUP_003603>.
+https://policies.anu.edu.au/ppl/document/ANUP_003603.
 
 Coleman, C., B. Elias, V. Lee, J. Smylie, J. Waldon, F.S. Hodge, and I.
 Ring. 'International Group for Indigenous Health Measurement:
@@ -475,11 +463,11 @@ Harms as Legitimate Risks Warranting Integration into Research
 Practice', *J. Health & Biomedical L.* 6 (2010): 175.
 
 Indian Act R.S.C. C. I-5 (1985).
-<http://laws-lois.justice.gc.ca/eng/acts/I-5/page-2.html>.
+http://laws-lois.justice.gc.ca/eng/acts/I-5/page-2.html.
 
 Indigenous and Northern Affairs. 'United Nations Declaration on the
 Rights of Indigenous Peoples', Government of Canada,
-<https://www.aadnc-aandc.gc.ca/eng/1309374407406/1309374458958>.
+https://www.aadnc-aandc.gc.ca/eng/1309374407406/1309374458958.
 
 Jones R, KA Thurber, J Chapman et al. 'Our Cultures Count: Mayi Kuwayu -
 the National Longitudinal Study of Aboriginal and Torres Strait Islander
@@ -500,7 +488,7 @@ Statistics: Reflections from Aotearoa New Zealand and Australia',
 
 Maiam nayri Wingara and the Australian Indigenous Governance Institute,
 Indigenous Data Sovereignty Summit and Indigenous Data Sovereignty
-Communique, Canberra, 2018, <http://www.maiamnayriwingara.org>.
+Communique, Canberra, 2018, http://www.maiamnayriwingara.org.
 
 Pacheco, Christina M, Sean M Daley, Travis Brown, Melissa Filippi, K
 Allen Greiner and Christine M Daley. 'Moving Forward: Breaking the Cycle
@@ -518,7 +506,7 @@ Like?' in Tahu Kukutai and John Taylor (eds) *Indigenous Data
 Sovereignty: Towards an Agenda*, Canberra: ANU Press*,* 2016, pp. 39-56.
 
 Te Mana Raraunga. 'Te Mana Raraunga --- Māori Data Sovereignty Network
-Charter', <https://www.temanararaunga.maori.nz/tutohinga/>.
+Charter', https://www.temanararaunga.maori.nz/tutohinga/.
 
 The First Nations Information Governance Centre. 'Ownership, Control,
 Access and Possession (OCAP™): The Path to First Nations Information

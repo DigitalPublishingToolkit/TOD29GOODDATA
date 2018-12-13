@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Chapter Twelve: Governance of Communal Data Sharing[^12chapter12_1]
+# Chapter Twelve: Governance of Communal Data Sharing
 
 Chih-hsing Ho\*\* and Tyng-Ruey Chuang†
 
-**Abstract **
+**Abstract**
 
 The rapid development of the data economy calls for innovative research
 into its social and ethical impacts. When enormous opportunities emerge
@@ -461,33 +461,37 @@ such data may be shared. We therefore propose a communal data sharing
 model to help create fairer platforms for everyone who takes part in
 this brave new data-driven revolution.
 
+
+**Acknowledgements**
+
+This study is supported by Academia Sinica's three-year
+    thematic project 'Socially Accountable Privacy Framework for
+    Secondary Data Usage' under grant number AS-TP-106-M06. The authors
+    would like to thank the editors and two anonymous reviewers for
+    their constructive suggestions and comments.
+
 ## References
 
 Adams, Tam. 'Facebook's week of shame: the Cambridge Analytica fallout',
 *The Guardian,* 24 March 2018.
 
 Adida, Ben. *'*Helios: Web-based Open-Audit Voting', *USENIX security
-symposium*, 28 July-1 August 2008.
-<https://www.usenix.org/legacy/event/sec08/tech/full_papers/adida/adida.pdf>.
+symposium*, 28 July-1 August 2008, https://www.usenix.org/legacy/event/sec08/tech/full_papers/adida/adida.pdf.
 
 Angiuli, Olivia, Joe Blitzstein and Jim Waldo. 'How to de-identify your
-data', *Queue* 13 (8*,* September-October 2015): 20.
-<https://dl.acm.org/citation.cfm?id=2838930>.
+data', *Queue* 13 (8*,* September-October 2015): 20, https://dl.acm.org/citation.cfm?id=2838930.
 
 Baum, Carsten, Ivan Damgård and Claudio Orlandi. 'Publicly Auditable
 Secure Multi-Party Computation', *International Conference on Security
-and Cryptography for Networks*, Springer, Cham, 3-5 September 2014,
-<https://eprint.iacr.org/2014/075.pdf>.
+and Cryptography for Networks*, Springer, Cham, 3-5 September 2014, https://eprint.iacr.org/2014/075.pdf.
 
 Bollier, David. 'Commoning as a transformative social paradigm'. *The
-Next System Project,* 2016.
-<http://www.operationkindness.net/wp-content/uploads/David-Bollier.pdf>.
+Next System Project,* 2016, http://www.operationkindness.net/wp-content/uploads/David-Bollier.pdf.
 
 \_\_\_\_\_. 'Reclaiming the commons', *Boston Review* 27 (3-4, 2002).
 
 \_\_\_\_\_. *Viral Spiral: How the Commoners Built a Digital Republic of
-Their Own*, New York: The New Press, 2009.
-<http://barcelonacomuns.pbworks.com/f/Viral+Spiral_How+the+Commoners+Built+a+Digital+Republic+of+Their+Own+%5Bdavid+bollier%5D.pdf>.
+Their Own*, New York: The New Press, 2009, http://barcelonacomuns.pbworks.com/f/Viral+Spiral_How+the+Commoners+Built+a+Digital+Republic+of+Their+Own+%5Bdavid+bollier%5D.pdf.
 
 Chiu, Chao-Min, Meng-Hsiang Hsu and Eric T.G. Wang. 'Understanding
 knowledge sharing in virtual communities: An integration of social
@@ -499,20 +503,17 @@ Vincent D. Blondel. 'Unique in the crowd: The privacy bounds of human
 mobility', *Scientific Reports* 3 (2013): 1376.
 
 Eggers, Susan J. and Tor E. Jeremiassen. 'Page-level Affinity Scheduling
-for Eliminating False Sharing'. *ICPP* (1995),\
-<https://pdfs.semanticscholar.org/34fe/b586363fead853fa7e7d6dc5678d1159a8be.pdf?_ga=2.132910156.372523520.1542619879-1465787887.1542619879>.
+for Eliminating False Sharing'. *ICPP* (1995), https://pdfs.semanticscholar.org/34fe/b586363fead853fa7e7d6dc5678d1159a8be.pdf?_ga=2.132910156.372523520.1542619879-1465787887.1542619879.
 
 Garrett Hardin. 'The Tragedy of the Commons', *Science* 162 (1968):
 1243-1248.
 
 Gibson-Graham, J.K., Jenny Cameron, Kelly Dombroski, Stephen Healy and
-Ethan Miller. 'Cultivating Community Economies', 2017,
-<https://thenextsystem.org/cultivating-community-economies>.
+Ethan Miller. 'Cultivating Community Economies', 2017, https://thenextsystem.org/cultivating-community-economies.
 
-GNU General Public License, Version 3,
-<http://www.gnu.org/licenses/gpl-3.0.en.html>.
+GNU General Public License, Version 3, http://www.gnu.org/licenses/gpl-3.0.en.html.
 
-Helios, <https://heliosvoting.org/>.
+Helios, https://heliosvoting.org/.
 
 Hess, Charlotte and Elinor Ostrom (eds). *Understanding Knowledge as a
 Commons: From Theory to Practice*, Cambridge MA: MIT Press, 2006.
@@ -521,13 +522,13 @@ Kosba, Ahmed, Andrew Miller, Elaine Shi and Zikai Wen. 'Hawk: The
 Blockchain Model of Cryptography and Privacy-Preserving Smart
 Contracts', *2016 IEEE Symposium on Security and Privacy (SP),*
 California, USA 22-26 May 2016,
-<https://ieeexplore.ieee.org/document/7546538>.
+https://ieeexplore.ieee.org/document/7546538.
 
 Lane, Julia, Victoria Stodden, Stefan Bender and Helen Nissenbaum (eds).
 *Privacy, Big Data, and the Public Good: Frameworks for Engagement*,
 Cambridge: Cambridge University Press, 2014.
 
-Mastodon, <https://mastodon.social/about>.
+Mastodon, https://mastodon.social/about.
 
 Nicholls, Alex. 'Institutionalizing social entrepreneurship in
 regulatory space: Reporting and disclosure by community interest
@@ -535,9 +536,9 @@ companies', *Accounting, Organizations and Society*, 35 (4, 2010):
 394-415.
 
 ODC Open Database License (ODbL) Summary,
-<http://opendatacommons.org/licenses/odbl/summary/>.
+http://opendatacommons.org/licenses/odbl/summary/.
 
-OpenStreetMap, <http://www.openstreetmap.org/>.
+OpenStreetMap, http://www.openstreetmap.org/.
 
 Ostrom, Elinor. *Governing the Commons: The Evolution of Institutions
 for Collective Action*, Cambridge: Cambridge University Press, 1990.
@@ -547,13 +548,13 @@ enterprise', *Corporate governance: an international review,* 15.2
 (2007): 382-392.
 
 Satoshi, Nakamoto. 'Bitcoin: A Peer-to-Peer Electronic Cash System'
-(2008), <https://bitcoin.org/bitcoin.pdf>.
+(2008), https://bitcoin.org/bitcoin.pdf.
 
 Scholz, Trebor and Nathan Schneider (eds). *Ours to hack and to own: The
 rise of platform cooperativism, a new vision for the future of work and
 a fairer internet*, New York: OR Books, 2017.
 
-Social.Coop, <https://social.coop/about>.
+Social.Coop, https://social.coop/about.
 
 Solon, Olivia. 'Facebook says Cambridge Analytica may have gained 37m
 more users' data', *The Guardian*, 4 April 2018.
@@ -581,29 +582,21 @@ Economist*, 6 May 2017.
 Wang Frank et al. 'Sieve: Cryptographically Enforced Access Control for
 User Data in Untrusted Clouds', *Proceedings of the 13th USENIX
 Symposium on Networked Systems Design and Implementation*, Santa Clara,
-CA, USA, 16-18 March 2016.\
-<https://www.usenix.org/sites/default/files/nsdi16_full_proceedings.pdf>.
+CA, USA, 16-18 March 2016,
+https://www.usenix.org/sites/default/files/nsdi16_full_proceedings.pdf.
 
 Wicks, Paul et al. 'Sharing health data for better outcomes on
 PatientsLikeMe', *Journal of medical Internet research,* 12.2 (June
-2010) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2956230/>.
+2010), https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2956230/.
 
-Wikipedia, <https://www.wikipedia.org/>.
+Wikipedia, https://www.wikipedia.org/.
 
 Wilkinson, Mark D et al. 'The FAIR Guiding Principles for scientific
-data management and stewardship',* Scientific Data *3 (March 2016).
+data management and stewardship', *Scientific Data* 3 (March 2016).
 
 *Workshop on Collaborative Data Projects*, Academia Sinica, Taipei,
 Taiwan. 8 Dec 2016, http://odw.tw/2016/.
 
-**\
-**
-
-[^12chapter12_1]: ^∗^ This study is supported by Academia Sinica's three-year
-    thematic project 'Socially Accountable Privacy Framework for
-    Secondary Data Usage' under grant number AS-TP-106-M06. The authors
-    would like to thank the editors and two anonymous reviewers for
-    their constructive suggestions and comments.
 
 [^12chapter12_2]: 'The world's most valuable resource is no longer oil, but data',
     *The Economist*, 6 May 2017.
@@ -687,8 +680,7 @@ Taiwan. 8 Dec 2016, http://odw.tw/2016/.
     retain them within the sector, otherwise donate them to charity if
     either of these is not possible.
 
-[^12chapter12_28]: [Alex
-    Nicholls](https://www.sciencedirect.com/science/article/pii/S0361368209000798#!),
+[^12chapter12_28]: Alex Nicholls, https://www.sciencedirect.com/science/article/pii/S0361368209000798#!,
     'Institutionalizing Social Entrepreneurship in Regulatory Space:
     Reporting and Disclosure by Community Interest Companies',
     *Accounting, Organisations and Society* 35.4 (2010): 394-415.

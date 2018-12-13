@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Chapter One: What is (in) Good Data?
 
-**Monique Mann, S. Kate Devitt, Angela Daly**
+Monique Mann, S. Kate Devitt, Angela Daly
 
 ## Introduction: Why Good Data?
 
@@ -197,8 +197,6 @@ final versions of the chapters, and this book overall.
 
 ## 2. What's in the Good Data book?
 
-#### 
-
 **Theme 1: Good Data Manifestos and Practices**
 
 We kick off the book with a selection of manifestos and guidance on what
@@ -267,7 +265,7 @@ sustainable energy in a sustainable, communal way. The authors provide a
 series of recommended actions in their manifesto which would lead to
 this goal.
 
-**Theme 2: Good Data and Justice **
+**Theme 2: Good Data and Justice**
 
 Data justice is a term which has become very prominent in recent times.
 We acknowledge in particular the work of the Data Justice Lab based at
@@ -777,8 +775,8 @@ Brownsword, Roger, Eloise Scotford, and Karen Yeung (eds). *The Oxford
 Handbook of Law Regulation and Technology*, Oxford: Oxford University
 Press, 2017.
 
-Carlson, Anna. '**Imagining 'Good' Data: Northern Utopias, Southern
-Lessons', *Big Data from the South blog*, 25 May 2018**
+Carlson, Anna. 'Imagining 'Good' Data: Northern Utopias, Southern
+Lessons', *Big Data from the South blog*, 25 May 2018
 https://data-activism.net/2018/05/bigdatasur-blog-13-imagining-good-data-northern-utopias-southern-lessons/.
 
 Carrington, Kerry, Russell Hogg, John Scott and Maximo Sozzo. *The
@@ -898,10 +896,9 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 [^01chapter1_6]: Brisbane Free University, About,
     https://brisbanefreeuniversity.org/about/
 
-[^01chapter1_7]: Starting with: Anna Carlson, '**Imagining 'Good' Data: Northern
+[^01chapter1_7]: Starting with: Anna Carlson, 'Imagining 'Good' Data: Northern
     Utopias, Southern Lessons', *Big Data from the South blog*, 25 May
-    2018, **
-
+    2018,
     https://data-activism.net/2018/05/bigdatasur-blog-13-imagining-good-data-northern-utopias-southern-lessons/
 
 [^01chapter1_8]: See also: Tahu Kukutai and John Taylor (eds), *Indigenous Data

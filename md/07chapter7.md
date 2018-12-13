@@ -406,12 +406,12 @@ the Dutch cyber security firm Fox-IT.[^07chapter7_69] By reverse engineering ByL
 app's source code and online fact-checking, Fox-IT addressed claims put
 forward in the MIT report and found that: (1) 'security measures
 implemented in ByLock are not exceptional and actually on par with
-widely used chat applications';[^07chapter7_70] (2) the disguise of global
+widely used chat applications';[^07chapter7_70](2) the disguise of global
 application argument is 'not backed by evidence, questionable or
-incorrect';[^07chapter7_71] (3) ByLock developer's aim for security and anonymity
+incorrect';[^07chapter7_71](3) ByLock developer's aim for security and anonymity
 'does not imply an intent for use in illegal activities',[^07chapter7_72] and 'in
 no way an indication that ByLock is aimed at a specific user
-group';[^07chapter7_73] (4) the incentive behind using a self-signed certificate is
+group';[^07chapter7_73](4) the incentive behind using a self-signed certificate is
 not necessarily to prevent authorities accessing the ByLock data, as
 self-signed certificates 'are easier to implement and are free of cost';
 (5) rather than meeting face-to-face, users could have exchanged ByLock
@@ -593,154 +593,202 @@ is democracy itself.
 ## References
 
 Amnesty International. 'BRIEFING: Prosecution Of 11 Human Rights
-Defenders', 2017.
-https://www.amnesty.org/download/Documents/EUR4473292017ENGLISH.pdf.---------.
-'Encryption. A Matter of Human Rights', 2016.
-http://www.amnestyusa.org/sites/default/files/encryption\_-\_a\_matter\_of\_human\_rights\_-\_pol\_40-3682-2016.pdf.---------.
-'NO END IN SIGHT: Purged Public Sector Workers Denied a Future in
-Turkey', 2017.
-https://www.amnesty.org/download/Documents/EUR4462722017ENGLISH.PDF.Austin,
-Lisa M. 'Lawful Illegality: What Snowden Has Taught Us About the Legal
+Defenders', 2017,
+https://www.amnesty.org/download/Documents/EUR4473292017ENGLISH.pdf.
+
+\_\_\_\_\_. 'Encryption. A Matter of Human Rights', 2016,
+http://www.amnestyusa.org/sites/default/files/encryption\_-\_a\_matter\_of\_human\_rights\_-\_pol\_40-3682-2016.pdf.
+
+\_\_\_\_\_. 'NO END IN SIGHT: Purged Public Sector Workers Denied a Future in
+Turkey', 2017, https://www.amnesty.org/download/Documents/EUR4462722017ENGLISH.PDF.
+
+Austin, Lisa M. 'Lawful Illegality: What Snowden Has Taught Us About the Legal
 Infrastructure of the Surveillance State.' *SSRN* (2014): 1--25, DOI:
-https://doi.org/10.2139/ssrn.2524653.Buono, Isabella, and Aaron Taylor.
-'Mass Surveillance in the CJEU: Forming a European Consensus', *The
+https://doi.org/10.2139/ssrn.2524653.
+
+Buono, Isabella, and Aaron Taylor. 'Mass Surveillance in the CJEU: Forming a European Consensus', *The
 Cambridge Law Journal* 76.2 (2017): 250--53, DOI:
-https://doi.org/doi:10.1017/S0008197317000526.Clegg, William, and Simon
-Baker. 'Opinion on the Legality of the Actions of the Turkish State in
+https://doi.org/doi:10.1017/S0008197317000526.
+
+Clegg, William, and Simon Baker. 'Opinion on the Legality of the Actions of the Turkish State in
 the Aftermath of the Failed Coup Attempt in 2016 and the Reliance on Use
 of the Bylock App as Evidence of Membership of a Terrorist
 Organisation.' London, 2017.
-http://2oq5cg28288838bmfu32g94v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Redacted-Opinion.pdf.CNBC.
-'Facebook-Cambridge Analytica: A Timeline of the Data Hijacking
+http://2oq5cg28288838bmfu32g94v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Redacted-Opinion.pdf.
+
+CNBC. 'Facebook-Cambridge Analytica: A Timeline of the Data Hijacking
 Scandal,' 2018,
-https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html.Cockburn,
-Harry. 'Turkey Coup: 2,700 Judges Removed from Duty Following Failed
+https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html.
+
+Cockburn, Harry. 'Turkey Coup: 2,700 Judges Removed from Duty Following Failed
 Overthrow Attempt' *The Independent*, 2016.
-https://www.independent.co.uk/news/world/europe/turkey-coup-latest-news-erdogan-istanbul-judges-removed-from-duty-failed-government-overthrow-a7140661.html.Cohen,
-Stanley. *Folk Devils and Moral Panics: The Creation of the Mods and
-Rockers*, third edition, London/New York: Routledge, 2002.Dencik, Lina,
-Arne Hintz, and Jonathan Cable. 'Towards Data Justice? The Ambiguity of
+https://www.independent.co.uk/news/world/europe/turkey-coup-latest-news-erdogan-istanbul-judges-removed-from-duty-failed-government-overthrow-a7140661.html.
+
+Cohen, Stanley. *Folk Devils and Moral Panics: The Creation of the Mods and
+Rockers*, third edition, London/New York: Routledge, 2002.
+
+Dencik, Lina, Arne Hintz, and Jonathan Cable. 'Towards Data Justice? The Ambiguity of
 Anti-Surveillance Resistance in Political Activism', *Big Data &
 Society* 3.2 (2016), DOI:
-https://doi.org/10.1177/2053951716679678.Dumovich, Liza. 'Pious
-Creativity: Negotiating Hizmet in South America after July 2016',
+https://doi.org/10.1177/2053951716679678.
+
+Dumovich, Liza. 'Pious Creativity: Negotiating Hizmet in South America after July 2016',
 *Politics, Religion and Ideology* 19.1 (2018): 81--94, DOI:
-https://doi.org/10.1080/21567689.2018.1453267.Emre Celik. 'Fethullah
-Gülen: 'I Call For An International Investigation Into The Failed Putsch
+https://doi.org/10.1080/21567689.2018.1453267.
+
+Emre Celik. 'Fethullah Gülen: 'I Call For An International Investigation Into The Failed Putsch
 In Turkey', *Huffington Post*, 2016.
-https://www.huffingtonpost.com/emre-celik/fethullah-guelen-i-call-f\_b\_11480974.html.EN.DELFI.
-'Lithuania Didn't Provide Turkey with ByLock User Data - Lithuania -
+https://www.huffingtonpost.com/emre-celik/fethullah-guelen-i-call-f\_b\_11480974.html.
+
+EN.DELFI. 'Lithuania Didn't Provide Turkey with ByLock User Data - Lithuania -
 m.En.Delfi.Lt,' 2017,
-http://m.en.delfi.lt/lithuania/article.php?id=76099973.European Union.
-'Charter of Fundamental Rights of the European Union,' 2012, 391--407,
-DOI: https://doi.org/10.1108/03090550310770974.Europol. 'IOCTA 2016:
-Internet Organised Crime Threat Assessment', The Hague, 2016, DOI:
-https://doi.org/10.2813/275589.Ferdinand, Peter. 'The Internet,
-Democracy and Democratization', *Democratization* 7.1 (2000): 1--17,
-DOI: https://doi.org/10.1080/13510340008403642.Fox-IT. 'Expert Witness
-Report on ByLock Investigation.' Delft, 2017,
-https://foxitsecurity.files.wordpress.com/2017/09/bylock-fox-it-expert-witness-report-english.pdf.Freedom
-House. 'Freedom on the Net 2017 Report,' 2017.
+http://m.en.delfi.lt/lithuania/article.php?id=76099973.
+
+European Union. 'Charter of Fundamental Rights of the European Union,' 2012, 391--407,
+DOI: https://doi.org/10.1108/03090550310770974.
+
+Europol. 'IOCTA 2016: Internet Organised Crime Threat Assessment', The Hague, 2016, DOI:
+https://doi.org/10.2813/275589.
+
+Ferdinand, Peter. 'The Internet, Democracy and Democratization', *Democratization* 7.1 (2000): 1--17,
+DOI: https://doi.org/10.1080/13510340008403642.
+
+Fox-IT. 'Expert Witness Report on ByLock Investigation.' Delft, 2017,
+https://foxitsecurity.files.wordpress.com/2017/09/bylock-fox-it-expert-witness-report-english.pdf.
+
+Freedom House. 'Freedom on the Net 2017 Report,' 2017, 
 https://freedomhouse.org/sites/default/files/FOTN
-2017\_Turkey.pdf.Gokce, Yasir. 'The Bylock Fallacy: An In-Depth Analysis
-of the Bylock Investigations in Turkey', *Digital Investigation* (March,
-2018): 1--11, DOI: https://doi.org/10.1016/j.diin.2018.06.002.Goode,
-Erich, and Nachman Ben-Yehuda. *Moral Panics The Social Construction of
-Deviance*, second edition, Chichester: Wiley-Blackwell, 2009.Gourlay,
-William. 'Oppression, Solidarity, Resistance: The Forging of Kurdish
+2017_Turkey.pdf.
+
+Gokce, Yasir. 'The Bylock Fallacy: An In-Depth Analysis of the Bylock Investigations in Turkey', *Digital Investigation* (March, 2018): 1--11, DOI: https://doi.org/10.1016/j.diin.2018.06.002.
+
+Goode, Erich, and Nachman Ben-Yehuda. *Moral Panics The Social Construction of
+Deviance*, second edition, Chichester: Wiley-Blackwell, 2009.
+
+Gourlay, William. 'Oppression, Solidarity, Resistance: The Forging of Kurdish
 Identity in Turkey', *Ethnopolitics* 17.2 (2018): 130--46, DOI:
-https://doi.org/10.1080/17449057.2017.1339425.Greenwald, G, and R
-Gallagher. 'Snowden Documents Reveal Covert Surveillance and Pressure
+https://doi.org/10.1080/17449057.2017.1339425.
+
+Greenwald, G, and R Gallagher. 'Snowden Documents Reveal Covert Surveillance and Pressure
 Tactics Aimed at WikiLeaks and Its Supporters', *The Intercept*, 2014,
-https://theintercept.com/2014/02/18/snowden-docs-reveal-covert-surveillance-and-pressure-tactics-aimed-at-wikileaks-and-its-supporters/.Haber7.com.
-'Darbeciler ByLock'tan Bu Mesajı Gönderdi! \[English: Putchists Sent
+https://theintercept.com/2014/02/18/snowden-docs-reveal-covert-surveillance-and-pressure-tactics-aimed-at-wikileaks-and-its-supporters/.
+
+Haber7.com. 'Darbeciler ByLock'tan Bu Mesajı Gönderdi! \[English: Putchists Sent
 This Message on Bylock\]', 2016,
-http://www.haber7.com/guncel/haber/2144267-darbeciler-bylocktan-bu-mesaji-gonderdi.Human
-Rights Watch. 'A BLANK CHECK: Turkey's Post-Coup Suspension of
+http://www.haber7.com/guncel/haber/2144267-darbeciler-bylocktan-bu-mesaji-gonderdi.
+
+Human Rights Watch. 'A BLANK CHECK: Turkey's Post-Coup Suspension of
 Safeguards Against Torture,' 2016,
-https://www.hrw.org/sites/default/files/report\_pdf/turkey1016\_web.pdf.King,
-R D, and G M Sutton. 'High Times for Hate Crime: Explaining the Temporal
+https://www.hrw.org/sites/default/files/report\_pdf/turkey1016\_web.pdf.
+
+King, R D, and G M Sutton. 'High Times for Hate Crime: Explaining the Temporal
 Clustering of Hate Motivated Offending\', *Criminology* 51 (2013), DOI:
-https://doi.org/10.1111/1745-9125.12022.Laura Pitel. 'Erdogan's
-Informers: Turkey's Descent into Fear and Betrayal.' *The Financial
+https://doi.org/10.1111/1745-9125.12022.
+
+Laura Pitel. 'Erdogan's Informers: Turkey's Descent into Fear and Betrayal.' *The Financial
 Times*, 2017,
-https://www.ft.com/content/6af8aaea-0906-11e7-97d1-5e720a26771b.Lotan,
-Gilad, Erhardt Graeff, Mike Ananny, Devin Gaffney, Ian Pearce and danah
-boyd. 'The Arab Spring\| The Revolutions Were Tweeted: Information Flows
+https://www.ft.com/content/6af8aaea-0906-11e7-97d1-5e720a26771b.
+
+Lotan, Gilad, Erhardt Graeff, Mike Ananny, Devin Gaffney, Ian Pearce and danah
+boyd. 'The Arab Spring | The Revolutions Were Tweeted: Information Flows
 during the 2011 Tunisian and Egyptian Revolutions', *International
-Journal of Communication* 5 (2011): 31.Lyon, D. *Surveillance After
-Snowden*, Cambridge: Polity Press, 2015.Mackey, Aaron, Seth Schoen and
-Cindy Cohn. 'Unreliable Informants: IP Addresses, Digital Tips and
+Journal of Communication* 5 (2011): 31.
+
+Lyon, D. *Surveillance After Snowden*, Cambridge: Polity Press, 2015.
+
+Mackey, Aaron, Seth Schoen and Cindy Cohn. 'Unreliable Informants: IP Addresses, Digital Tips and
 Police Raids. How Police and Courts Are Misusing Unreliable IP Address
 Information and What They Can Do to Better Verify Electronic Tips',
 *Electronic Frontier Foundation*, 2016,
-https://www.eff.org/files/2016/09/22/2016.09.20\_final\_formatted\_ip\_address\_white\_paper.pdf.Mann,
-Monique, Angela Daly, Michael Wilson and Nicolas Suzor. 'The Limits of
+https://www.eff.org/files/2016/09/22/2016.09.20\_final\_formatted\_ip\_address\_white\_paper.pdf.
+
+Mann, Monique, Angela Daly, Michael Wilson and Nicolas Suzor. 'The Limits of
 (Digital) Constitutionalism: Exploring the Privacy-Security (Im)Balance
 in Australia', *International Communication Gazette* (in press, 2018):
-DOI: https://doi.org/10.1177/1748048518757141.Marc Pierini. 'Turkey's
-Gift From God' *Carnegie Europe*, 2017,
-http://carnegieeurope.eu/strategiceurope/?fa=67826.Michaelsen, Marcus.
-'Exit and Voice in a Digital Age: Iran's Exiled Activists and the
+DOI: https://doi.org/10.1177/1748048518757141.
+
+Marc Pierini. 'Turkey's Gift From God' *Carnegie Europe*, 2017,
+http://carnegieeurope.eu/strategiceurope/?fa=67826.
+
+Michaelsen, Marcus.'Exit and Voice in a Digital Age: Iran's Exiled Activists and the
 Authoritarian State', *Globalizations* 15.2 (2018): 248--64, DOI:
-https://doi.org/10.1080/14747731.2016.1263078.Milanovic, M. 'ECtHR
-Judgment in Big Brother Watch v. UK.' EJIL:Talk!, 2018,
-https://www.ejiltalk.org/ecthr-judgment-in-big-brother-watch-v-uk/.Ni
-Loideain, Nora. 'EU Law and Mass Internet Metadata Surveillance in the
+https://doi.org/10.1080/14747731.2016.1263078.
+
+Milanovic, M. 'ECtHR Judgment in Big Brother Watch v. UK.' EJIL:Talk!, 2018,
+https://www.ejiltalk.org/ecthr-judgment-in-big-brother-watch-v-uk/.
+
+Ni Loideain, Nora. 'EU Law and Mass Internet Metadata Surveillance in the
 Post-Snowden Era', *Media and Communication* 3.2 (2015): 53, DOI:
-https://doi.org/10.17645/mac.v3i2.297.Nieminen, Hannu. 'Digital Divide
-and beyond: What Do We Know of Information and Communications
+https://doi.org/10.17645/mac.v3i2.297.
+
+Nieminen, Hannu. 'Digital Divide and beyond: What Do We Know of Information and Communications
 Technology's Long-Term Social Effects? Some Uncomfortable Questions',
 *European Journal of Communication* 31.1 (2016): 19--32, DOI:
-https://doi.org/10.1177/0267323115614198.Nugraha, Ignatius Yordan.
-'Human Rights Derogation during Coup Situations', *International Journal
+https://doi.org/10.1177/0267323115614198.
+
+Nugraha, Ignatius Yordan. 'Human Rights Derogation during Coup Situations', *International Journal
 of Human Rights* 22.2 (2018): 194--206, DOI:
-https://doi.org/10.1080/13642987.2017.1359551.Önderoglu, Erol. 'Turkey:
-State of Emergency State of Arbitrary', *Reporters Without Borders*
+https://doi.org/10.1080/13642987.2017.1359551.
+
+Önderoglu, Erol. 'Turkey: State of Emergency State of Arbitrary', *Reporters Without Borders*
 (September, 2016): 15,
-https://rsf.org/sites/default/files/turquie.etatdurgence.eng\_.def\_.pdf.Privacy
-International. 'Encryption At The Centre Of Mass Arrests : One Year On
+https://rsf.org/sites/default/files/turquie.etatdurgence.eng\_.def\_.pdf.
+
+Privacy International. 'Encryption At The Centre Of Mass Arrests : One Year On
 From Turkey's Failed Coup.' *Privacy International*, 2017,
-https://medium.com/\@privacyint/encryption-at-the-centre-of-mass-arrests-one-year-on-from-turkeys-failed-coup-e6ecd0ef77c9.---------.
-'Press Release: UK Intelligence Agency Admits Unlawfully Spying on
-Privacy International \| Privacy International,' 2018,
-https://privacyinternational.org/press-release/2283/press-release-uk-intelligence-agency-admits-unlawfully-spying-privacy.Raley,
-R. 'Dataveillance and Countervailance' in L Gitelman, *Raw Data' Is an
-Oxymoron*, Cambridge, MA: MIT Press, 2013.Reporters Without Borders.
-'Journalists in New Wave of Arrests in Turkey', 2017.
-https://rsf.org/en/news/journalists-new-wave-arrests-turkey.Richter,
-Philipp, Florian Wohlfart, Narseo Vallina-Rodriguez, Mark Allman, Randy
+https://medium.com/\@privacyint/encryption-at-the-centre-of-mass-arrests-one-year-on-from-turkeys-failed-coup-e6ecd0ef77c9.
+
+\_\_\_\_\_. 'Press Release: UK Intelligence Agency Admits Unlawfully Spying on
+Privacy International | Privacy International,' 2018,
+https://privacyinternational.org/press-release/2283/press-release-uk-intelligence-agency-admits-unlawfully-spying-privacy.
+
+Raley, R. 'Dataveillance and Countervailance' in L Gitelman, *Raw Data' Is an
+Oxymoron*, Cambridge, MA: MIT Press, 2013.
+
+Reporters Without Borders.'Journalists in New Wave of Arrests in Turkey', 2017.
+https://rsf.org/en/news/journalists-new-wave-arrests-turkey.
+
+Richter, Philipp, Florian Wohlfart, Narseo Vallina-Rodriguez, Mark Allman, Randy
 Bush, Anja Feldmann, Christian Kreibich, Nicholas Weaver and Vern
 Paxson. 'A Multi-Perspective Analysis of Carrier-Grade NAT Deployment',
 *IMC '16 Proceedings of the 2016 Internet Measurement Conference*, 2016,
-215--29, DOI: https://doi.org/10.1145/2987443.2987474.Starr, Amory, Luis
-A. Fernandez, Randall Amster, Lesley J. Wood,and Manuel J. Caro. 'The
+215--29, DOI: https://doi.org/10.1145/2987443.2987474.
+
+Starr, Amory, Luis A. Fernandez, Randall Amster, Lesley J. Wood,and Manuel J. Caro. 'The
 Impacts of State Surveillance on Political Assembly and Association: A
 Socio-Legal Analysis', *Qualitative Sociology* 31.3 (2008): 251--70,
-DOI: https://doi.org/10.1007/s11133-008-9107-z.Stepanovich, Amie, and
-Drew Mitnick. 'Universal Implementation Guide for the International
+DOI: https://doi.org/10.1007/s11133-008-9107-z.
+
+Stepanovich, Amie, and Drew Mitnick. 'Universal Implementation Guide for the International
 Principles on the Application of Human Rights to Communications
 Surveillance' *Access Now*, 2015,
-https://www.accessnow.org/cms/assets/uploads/archive/docs/Implementation\_guide\_-\_July\_10\_print.pdf.The
-Arrested Lawyers Initiative. 'Ever-Changing Evidence ByLock: Turkish
+https://www.accessnow.org/cms/assets/uploads/archive/docs/Implementation\_guide\_-\_July\_10\_print.pdf.
+
+The Arrested Lawyers Initiative. 'Ever-Changing Evidence ByLock: Turkish
 Government's Favourite Tool to Arrest Its Critics', 2017,
-https://arrestedlawyers.files.wordpress.com/2018/01/bylock\_report\_by\_the\_arrested\_lawyers.pdf.The
-International Institute for Strategic Studies. 'Turkey: The Attempted
+https://arrestedlawyers.files.wordpress.com/2018/01/bylock\_report\_by\_the\_arrested\_lawyers.pdf.
+
+The International Institute for Strategic Studies. 'Turkey: The Attempted
 Coup and Its Troubling Aftermath', *Strategic Comments* 22.5 (2016):
-v--vii, DOI: https://doi.org/10.1080/13567888.2016.1217082.Tittensor,
-David. 'The Gülen Movement and Surviving in Exile: The Case of
+v--vii, DOI: https://doi.org/10.1080/13567888.2016.1217082.
+
+Tittensor, David. 'The Gülen Movement and Surviving in Exile: The Case of
 Australia', *Politics, Religion & Ideology* 19.1 (2018): 123--38, DOI:
-https://doi.org/10.1080/21567689.2018.1453272.Turkey Purge. 'Turkey
-Purge \| Monitoring Human Rights Abuses in Turkey's Post-Coup
-Crackdown', 2018, https://turkeypurge.com/.UN Human Rights Council.
-'Report of the Special Rapporteur on the Promotion and Protection of the
+https://doi.org/10.1080/21567689.2018.1453272.
+
+Turkey Purge. 'Turkey Purge | Monitoring Human Rights Abuses in Turkey's Post-Coup
+Crackdown', 2018, https://turkeypurge.com/.
+
+UN Human Rights Council. 'Report of the Special Rapporteur on the Promotion and Protection of the
 Right to Freedom of Opinion and Expression, David Kaye.' *Human Rights
-Council*. A/HRC/29/32: UN Human Rights Council, 2015.---------. 'Report
-of the Special Rapporteur on the Promotion and Protection of the Right
+Council*. A/HRC/29/32: UN Human Rights Council, 2015.
+
+\_\_\_\_\_. 'Report of the Special Rapporteur on the Promotion and Protection of the Right
 to Freedom of Opinion and Expression on His Mission to Turkey.'
 A/HRC/35/22/Add.3, 2017.
-http://www.refworld.org/docid/59394c904.html.United Nations Human Rights
-Committee. 'International Covenant on Civil and Political Rights -
+http://www.refworld.org/docid/59394c904.html.
+
+United Nations Human Rights Committee. 'International Covenant on Civil and Political Rights -
 General Comment No. 29.' *Annual Review of Population Law* 44470.29
 (2001): 8, DOI: https://doi.org/10.1007/978-1-4020-9160-5\_533.
 
@@ -763,7 +811,7 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
     2015.
 
 [^07chapter7_6]: Privacy International, 'Press Release: UK Intelligence Agency
-    Admits Unlawfully Spying on Privacy International \| Privacy
+    Admits Unlawfully Spying on Privacy International | Privacy
     International,' 2018,
     https://privacyinternational.org/press-release/2283/press-release-uk-intelligence-agency-admits-unlawfully-spying-privacy.
 
@@ -771,24 +819,24 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
     2017,
     https://foxitsecurity.files.wordpress.com/2017/09/bylock-fox-it-expert-witness-report-english.pdf.
 
-[^07chapter7_8]: **Yasir Gokce, 'The Bylock Fallacy: An In-Depth Analysis of the
+[^07chapter7_8]: Yasir Gokce, 'The Bylock Fallacy: An In-Depth Analysis of the
     Bylock Investigations in Turkey,' *Digital Investigation* (March,
-    2018): 2, https://doi.org/10.1016/j.diin.2018.06.002.**
+    2018): 2, https://doi.org/10.1016/j.diin.2018.06.002.
 
-[^07chapter7_9]: **Freedom House, 'Freedom on the Net 2017 Report,' 2017, 15,
+[^07chapter7_9]: Freedom House, 'Freedom on the Net 2017 Report,' 2017, 15,
     https://freedomhouse.org/sites/default/files/FOTN
-    2017\_Turkey.pdf.**
+    2017\_Turkey.pdf.
 
-[^07chapter7_10]: **Ibid, 14.**
+[^07chapter7_10]: Ibid, 14.
 
-[^07chapter7_11]: **UN Human Rights Council, 'Report of the Special Rapporteur on
+[^07chapter7_11]: UN Human Rights Council, 'Report of the Special Rapporteur on
     the Promotion and Protection of the Right to Freedom of Opinion and
     Expression on His Mission to Turkey' (A/HRC/35/22/Add.3, 2017), 14,
-    http://www.refworld.org/docid/59394c904.html.**
+    http://www.refworld.org/docid/59394c904.html.
 
-[^07chapter7_12]: **Amnesty International, 'BRIEFING: Prosecution Of 11 Human
+[^07chapter7_12]: Amnesty International, 'BRIEFING: Prosecution Of 11 Human
     Rights Defenders,' 2017, 7,
-    https://www.amnesty.org/download/Documents/EUR4473292017ENGLISH.pdf.**
+    https://www.amnesty.org/download/Documents/EUR4473292017ENGLISH.pdf.
 
 [^07chapter7_13]: Privacy International, 'Encryption At The Centre Of Mass
     Arrests : One Year On From Turkey's Failed Coup,' Privacy
@@ -836,9 +884,9 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
     Hijacking Scandal,' 2018,
     https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html.
 
-[^07chapter7_23]: **Nora Ni Loideain, 'EU Law and Mass Internet Metadata
+[^07chapter7_23]: Nora Ni Loideain, 'EU Law and Mass Internet Metadata
     Surveillance in the Post-Snowden Era,' *Media and Communication* 3.2
-    (2015): 54, DOI: https://doi.org/10.17645/mac.v3i2.297.**
+    (2015): 54, DOI: https://doi.org/10.17645/mac.v3i2.297.
 
 [^07chapter7_24]: M Milanovic, 'ECtHR Judgment in Big Brother Watch v. UK,'
     EJIL:Talk!, 2018,
@@ -876,26 +924,26 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
     Construction of Deviance*, second edition, Chichester:
     Wiley-Blackwell, 2009.
 
-[^07chapter7_33]: **Ibid, 37.**
+[^07chapter7_33]: Ibid, 37.
 
 [^07chapter7_34]: R D King and G M Sutton, 'High Times for Hate Crime: Explaining
     the Temporal Clustering of Hate Motivated Offending,' *Criminology*
     51 (2013), DOI: https://doi.org/10.1111/1745-9125.12022.
 
-[^07chapter7_35]: **Goode and Ben-Yehuda, *Moral Panics The Social Construction of
-    Deviance*, 37.**
+[^07chapter7_35]: Goode and Ben-Yehuda, *Moral Panics The Social Construction of
+    Deviance*, 37.
 
-[^07chapter7_36]: **Ibid, 38.**
+[^07chapter7_36]: Ibid, 38.
 
-[^07chapter7_37]: **Ibid.**
+[^07chapter7_37]: Ibid.
 
 [^07chapter7_38]: Ibid, 41. Emphasis in original.
 
-[^07chapter7_39]: **Ibid.**
+[^07chapter7_39]: Ibid.
 
-[^07chapter7_40]: **UN Human Rights Council, 'Report of the Special Rapporteur on
+[^07chapter7_40]: UN Human Rights Council, 'Report of the Special Rapporteur on
     the Promotion and Protection of the Right to Freedom of Opinion and
-    Expression, David Kaye,' 13.**
+    Expression, David Kaye,' 13.
 
 [^07chapter7_41]: The UNHRC Special Rapporteur highlights that it is critical to
     have a 'transparent public debate' over privacy restrictions and
@@ -1005,19 +1053,19 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
     Betrayal,' *The Financial Times*, 2017,
     https://www.ft.com/content/6af8aaea-0906-11e7-97d1-5e720a26771b.
 
-[^07chapter7_58]: **Goode and Ben-Yehuda, *Moral Panics The Social Construction of
-    Deviance*, 2.**
+[^07chapter7_58]: Goode and Ben-Yehuda, *Moral Panics The Social Construction of
+    Deviance*, 2.
 
 [^07chapter7_59]: Haber7.com, 'Darbeciler ByLock'tan Bu Mesajı Gönderdi! \[English:
     Putchists Sent This Message on Bylock\],' 2016,
     http://www.haber7.com/guncel/haber/2144267-darbeciler-bylocktan-bu-mesaji-gonderdi.
 
-[^07chapter7_60]: **Fox-IT, 'Expert Witness Report on ByLock Investigation,' 9.**
+[^07chapter7_60]: Fox-IT, 'Expert Witness Report on ByLock Investigation,' 9.
 
-[^07chapter7_61]: **Gokce, 'The Bylock Fallacy: An In-Depth Analysis of the Bylock
-    Investigations in Turkey,' 2.**
+[^07chapter7_61]: Gokce, 'The Bylock Fallacy: An In-Depth Analysis of the Bylock
+    Investigations in Turkey,' 2.
 
-[^07chapter7_62]: **Gokce, 3.**
+[^07chapter7_62]: Gokce, 3.
 
 [^07chapter7_63]: EN.DELFI, 'Lithuania Didn't Provide Turkey with ByLock User Data
     - Lithuania - m.En.Delfi.Lt,' 2017,
@@ -1033,7 +1081,7 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
     the Turkish version of the MIT report here:
     https://foxitsecurity.files.wordpress.com/2017/09/bylock-mit-technical-report-turkish.pdf.
 
-[^07chapter7_66]: **Fox-IT, 'Expert Witness Report on ByLock Investigation,' 20.**
+[^07chapter7_66]: Fox-IT, 'Expert Witness Report on ByLock Investigation,' 20.
 
 [^07chapter7_67]: The relevant article is Turkish Penal Code 314/2. See
     https://www.legislationline.org/download/action/download/id/6453/file/Turkey\_CC\_2004\_am2016\_en.pdf,
@@ -1049,36 +1097,36 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
     illustrated. Fox-IT's report is so damning that it calls MIT's
     credibility in general into question.
 
-[^07chapter7_70]: **Fox-IT, 'Expert Witness Report on ByLock Investigation,' 25.**
+[^07chapter7_70]: Fox-IT, 'Expert Witness Report on ByLock Investigation,' 25.
 
-[^07chapter7_71]: **Fox-IT, 20.**
+[^07chapter7_71]: Fox-IT, 20.
 
-[^07chapter7_72]: **Fox-IT, 20.**
+[^07chapter7_72]: Fox-IT, 20.
 
-[^07chapter7_73]: **Fox-IT, 25.**
+[^07chapter7_73]: Fox-IT, 25.
 
-[^07chapter7_74]: **Fox-IT, 21.**
+[^07chapter7_74]: Fox-IT, 21.
 
-[^07chapter7_75]: **Fox-IT, 28.**
+[^07chapter7_75]: Fox-IT, 28.
 
-[^07chapter7_76]: **Fox-IT, 8.**
+[^07chapter7_76]: Fox-IT, 8.
 
-[^07chapter7_77]: **Fox-IT, 29.**
+[^07chapter7_77]: Fox-IT, 29.
 
-[^07chapter7_78]: **Gokce, 'The Bylock Fallacy: An In-Depth Analysis of the Bylock
-    Investigations in Turkey,' 10.**
+[^07chapter7_78]: Gokce, 'The Bylock Fallacy: An In-Depth Analysis of the Bylock
+    Investigations in Turkey,' 10.
 
-[^07chapter7_79]: **Gokce, 7.**
+[^07chapter7_79]: Gokce, 7.
 
-[^07chapter7_80]: **The Arrested Lawyers Initiative, 'Ever-Changing Evidence
+[^07chapter7_80]: The Arrested Lawyers Initiative, 'Ever-Changing Evidence
     ByLock: Turkish Government's Favourite Tool to Arrest Its Critics,'
     2017, 14,
-    https://arrestedlawyers.files.wordpress.com/2018/01/bylock\_report\_by\_the\_arrested\_lawyers.pdf.**
+    https://arrestedlawyers.files.wordpress.com/2018/01/bylock\_report\_by\_the\_arrested\_lawyers.pdf.
 
-[^07chapter7_81]: **Gokce, 'The Bylock Fallacy: An In-Depth Analysis of the Bylock
-    Investigations in Turkey,' 9.**
+[^07chapter7_81]: Gokce, 'The Bylock Fallacy: An In-Depth Analysis of the Bylock
+    Investigations in Turkey,' 9.
 
-[^07chapter7_82]: **Gokce, 10.**
+[^07chapter7_82]: Gokce, 10.
 
 [^07chapter7_83]: The Arrested Lawyers Initiative, 'Ever-Changing Evidence ByLock:
     Turkish Government's Favourite Tool to Arrest Its Critics.'
@@ -1106,31 +1154,31 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
     Internet Measurement Conference*, 2016: 223, DOI:
     https://doi.org/10.1145/2987443.2987474.
 
-[^07chapter7_87]: **Europol, 'IOCTA 2016: Internet Organised Crime Threat
+[^07chapter7_87]: Europol, 'IOCTA 2016: Internet Organised Crime Threat
     Assessment' (The Hague, 2016), 58, DOI:
-    https://doi.org/10.2813/275589.**
+    https://doi.org/10.2813/275589.
 
 [^07chapter7_88]: Mackey, Schoen, and Cohn, 'Unreliable Informants: IP Addresses,
     Digital Tips and Police Raids\'.
 
-[^07chapter7_89]: **William Clegg and Simon Baker, 'Opinion on the Legality of the
+[^07chapter7_89]: William Clegg and Simon Baker, 'Opinion on the Legality of the
     Actions of the Turkish State in the Aftermath of the Failed Coup
     Attempt in 2016 and the Reliance on Use of the Bylock App as
     Evidence of Membership of a Terrorist Organisation', London, 2017,
     24,
-    http://2oq5cg28288838bmfu32g94v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Redacted-Opinion.pdf.**
+    http://2oq5cg28288838bmfu32g94v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Redacted-Opinion.pdf.
 
-[^07chapter7_90]: **Clegg and Baker, 25.**
+[^07chapter7_90]: Clegg and Baker, 25.
 
-[^07chapter7_91]: **Clegg and Baker, 26.**
+[^07chapter7_91]: Clegg and Baker, 26.
 
-[^07chapter7_92]: **Clegg and Baker, 28.**
+[^07chapter7_92]: Clegg and Baker, 28.
 
-[^07chapter7_93]: **UN Human Rights Council, 'Report of the Special Rapporteur on
+[^07chapter7_93]: UN Human Rights Council, 'Report of the Special Rapporteur on
     the Promotion and Protection of the Right to Freedom of Opinion and
-    Expression, David Kaye,' 19.**
+    Expression, David Kaye,' 19.
 
-[^07chapter7_94]: **Amie Stepanovich and Drew Mitnick, 'Universal Implementation
+[^07chapter7_94]: Amie Stepanovich and Drew Mitnick, 'Universal Implementation
     Guide for the International Principles on the Application of Human
     Rights to Communications Surveillance,' *Access Now*, 2015, 41,
-    https://www.accessnow.org/cms/assets/uploads/archive/docs/Implementation\_guide\_-\_July\_10\_print.pdf.**
+    https://www.accessnow.org/cms/assets/uploads/archive/docs/Implementation\_guide\_-\_July\_10\_print.pdf.

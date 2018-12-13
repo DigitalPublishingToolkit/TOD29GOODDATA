@@ -224,7 +224,6 @@ We believe that the IWA could be a useful example of the familiar
 been given legislative support with a special statutory provision
 encouraging such technologies in the GDPR.[^19chapter19_22]
 
-## 
 
 ## Research methodology and findings
 
@@ -408,8 +407,9 @@ users and complying with any relevant legal obligations in the
 jurisdiction (or jurisdictions). Figure 1 also presents the three data
 flow scenarios A, B and C that are described in the next section.
 
+![](imgs/Chapter19_Bosua_image1.png)
 *Figure 1: Conceptual Architectural Model of the Intelligent Warning app
-(IWA)*
+(IWA).*
 
 ### Three Scenarios Illustrating Instances of Nudging
 
@@ -462,8 +462,8 @@ feel from a usability perspective. The aim is to design an interactive
 user-friendly app that is fairly intuitive in terms of use and
 functionality.
 
-*\
-Figure 2: Excerpt of wireframe mock-up of the IWA prototype *
+![](imgs/Chapter19_Bosua_image2.png)
+*Figure 2: Excerpt of wireframe mock-up of the IWA prototype.*
 
 The initial landing page requires a secure user login taking the user to
 a second Menu Page screen which allows the user to provide his/her own
@@ -586,13 +586,13 @@ Conference on Body Area Networks*, ICST (Institute for Computer
 Sciences, Social-Informatics and Telecommunications Engineering) (2012):
 256-262.
 
-**Meddings,** Jennifer, **Mary AM Rogers, Michelle Macy and Sanjay
+Meddings, Jennifer, Mary AM Rogers, Michelle Macy and Sanjay
 Saint. 'Systems Review and Meta-Analysis: Reminder Systems to Reduce
 Catheter Associated Urinary Tract Infections and Urinary Catheter Use in
-Hospitalized Patients', *Clinical Infectious Diseases* 55 (2010): 550**.
+Hospitalized Patients', *Clinical Infectious Diseases* 55 (2010): 550.
 
-Pollach, Irene. 'A **Typology of Communicative Strategies in Online
-Privacy** Policies', ***Journal of Business Ethics* 62 (2005): 221.**
+Pollach, Irene. 'A Typology of Communicative Strategies in Online
+Privacy Policies', *Journal of Business Ethics* 62 (2005): 221.
 
 Rhodes, Scott D., DA Bowie and Kenneth C Hergenrather. ‚Collecting
 Behavioural Data using the World Wide Web: Considerations for
@@ -704,9 +704,9 @@ Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
     Researchers', *Journal of Epidemiology and Community Health* 57
     (2003): 68-73.
 
-[^19chapter19_18]: Irene Pollach, 'A **Typology of Communicative Strategies in
-    Online Privacy** Policies', ***Journal of Business Ethics* 62
-    (2005): 221, 231.**
+[^19chapter19_18]: Irene Pollach, 'A Typology of Communicative Strategies in
+    Online Privacy Policies', *Journal of Business Ethics* 62
+    (2005): 221, 231.
 
 [^19chapter19_19]: Richardson, Bosua, Clark and Webb, 'Privacy and the Internet of
     Things'; Richardson, Bosua, Clark and Webb, 'Towards Responsive
@@ -729,11 +729,11 @@ Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
     ambulatory preventative care systems. In the medical domain reminder
     systems serve as invaluable prompts to alert medical staff to
     necessary interventions associated with treatment practices to
-    enhance patient safety: Jennifer **Meddings, Mary AM Rogers,
+    enhance patient safety: Jennifer Meddings, Mary AM Rogers,
     Michelle Macy and Sanjay Saint, 'Systems Review and Meta-Analysis:
     Reminder Systems to Reduce Catheter Associated Urinary Tract
     Infections and Urinary Catheter Use in Hospitalized Patients,
-    *Clinical Infectious Diseases* 55 (2010): 550-560**.
+    *Clinical Infectious Diseases* 55 (2010): 550-560.
 
 [^19chapter19_22]: See Art. 25 GDPR (Data protection by design and by default).
 

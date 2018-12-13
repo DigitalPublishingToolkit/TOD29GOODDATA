@@ -19,8 +19,8 @@ Rights: CC BY-NC 4.0
 
 # Chapter Sixteen: The Fieldnotes Plugin: Making Network Visualization in Gephi Accountable
 
-Maranke Wieringa and Daniela van Geenen and Karin van Es and Jelmer van
-Nuss.
+Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van
+Nuss
 
 **Abstract**
 
@@ -327,11 +327,16 @@ the most connections. Subsequently, it is possible to color and
 'partition' these nodes based on the communities inferred by the
 algorithm (see Figure 1).[^16chapter16_45]
 
+![](imgs/chapter16_Wieringa_image1.tiff)
+![](imgs/Chapter16_Wieringa_image2.jpg)
 *Figures 1 and 2: Gephi's 'Overview' and 'Data Laboratory' tabs after
 opening the Les Miserables dataset.*
 
-*Figure 3: The 'raw' Les Miserables sample. *
+![](imgs/chapter16_Wieringa_image3.jpg)
+*Figure 3: The 'raw' Les Miserables sample.*
 
+![](imgs/chapter16_Wieringa_image4.jpg)
+![](imgs/chapter16_Wieringa_image5.jpg)
 *Figures 4 and 5: ForceAtlas 2's default settings applied to the same
 'Les Miserables' exercise sample, and after adjusting 'Tuning' and
 'Behavior Alternative' settings such as the scaling (from 10 to 50) and
@@ -427,8 +432,7 @@ count are listed.
   Preview settings                                                      1
   --------------------------------------------------------------------- -----------------
 
-*\
-Table 1. Amount of times papers documented aspect of research project*.
+*Table 1. Amount of times papers documented aspect of research project*.
 *N is 16, the greatest potential score is 32, lowest is 0.*
 
 Our sample suggests that media studies papers drawing on Gephi
@@ -467,8 +471,7 @@ per below.
 |                       |                       | -   Preview settings  |
 +-----------------------+-----------------------+-----------------------+
 
-*\
-Table 2. Spectrum of documentation.*
+*Table 2. Spectrum of documentation.*
 
 We discovered that a number of influential aspects of the working
 process are not documented (in detail), despite their fundamental

@@ -23,8 +23,7 @@ Nikita Melashchenko[^09chapter9_1]
 
 > 'Sir, the possibility of successfully navigating an asteroid field is
 > approximately 3,720 to 1.'
->
-> C-3PO, Star Wars: The Empire Strikes Back
+> *C-3PO, Star Wars: The Empire Strikes Back*
 
 **Abstract**
 
@@ -367,6 +366,8 @@ observables and therefore the output of the DL policy.[^09chapter9_41] Such outp
 in terms of welfare consequences then could be measured against
 regulatory principles.
 
+![](imgs/Chapter9_Melashchenko_image1.tiff)
+
 *Figure 1.*
 
 Depending on collection of variables, their types and interpretation it
@@ -608,7 +609,7 @@ Technology and Mass Media, 2013.
 
 Berne Convention for the Protection of Literary and Artistic Works, Sep.
 9, 1886, revised at Paris July 24, 1979, 828 U.N.T.S. 221, S. Treaty
-Doc. No. 99-27, 99th Cong. (1986).
+Doc. No. 99-27, 99th Cong, (1986).
 
 Bossche, Peter van den, and Denise Prevost. *Essentials of WTO Law*,
 Cambridge: Cambridge University Press, 2016.
@@ -655,7 +656,7 @@ Rossiiskaia Gazeta, July 31, 2006.
 Floridi, Luciano. *The Ethics of Information*, Oxford: Oxford University
 Press, 2013.
 
----------. 'The Method of Levels of Abstraction', *Minds & Machines*
+\_\_\_\_\_. 'The Method of Levels of Abstraction', *Minds & Machines*
 18.3 (2008): 303--29.
 
 GATS: General Agreement on Trade in Services, Apr. 15, 1994, Marrakesh
@@ -745,7 +746,7 @@ Supreme Court of the United States. *Official Website*. 2018.
 Waters, Richard. 'Microsoft Setback in Cloud Era Test Case.' *Financial
 Times*, 1 August 2014.
 
----------. 'Microsoft Wins Battle with Us over Data Privacy.' *Financial
+\_\_\_\_\_. 'Microsoft Wins Battle with Us over Data Privacy.' *Financial
 Times*, 15 July 2016.
 
 Westin, Alan F. *Privacy and Freedom*, New York: Atheneum, 1967.
@@ -757,8 +758,7 @@ Kinmen and Matsu'. General Council, Council for Trade in Goods, Council
 for Trade in Services, Council for Trade-Related Aspects of Intellectual
 Property Rights, Committee on Trade and Development. '2018.
 
-> WTO Agreement: Marrakesh Agreement Establishing the World Trade
-> Organization, Apr. 15, 1994, 1867 U.N.T.S. 154, 33 I.L.M. 1144 (1994).
+WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Apr. 15, 1994, 1867 U.N.T.S. 154, 33 I.L.M. 1144 (1994).
 
 [^09chapter9_1]: ^\*^ PhD Candidate, Victoria University of Wellington. I wish to
     thank Professor Susy Frankel and Dr Mark Bennett for suggesting

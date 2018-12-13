@@ -640,8 +640,7 @@ Andrejevic, Mark. *Infoglut: how too much information is changing the
 way we think and know*, New York: Routledge, 2013.
 
 Berry, David M. (2011) The computational turn: Thinking about the
-digital humanities. *Culture Machine* 12, (2011)
-<http://www.culturemachine.net/index.php/cm/article/view/440/470>.
+digital humanities. *Culture Machine* 12, (2011), http://www.culturemachine.net/index.php/cm/article/view/440/470.
 
 Bhaskar, Roy. *A realist theory of science*, London: Verso, 2008.
 
@@ -659,8 +658,7 @@ Ethics for the Social Age*, New York: Peter Lang Publishing, 2017, pp.
 xxix-xxxiii.
 
 Casilli, Antonio. 'Lavoro e capitalismo delle piattaforme'. Talk given
-at the Centro per la Riforma dello Stato, Roma, 7 November 2017,
-<https://www.dinamopress.it/news/event/lavoro-e-capitalismo-delle-piattaforme-con-antonio-casilli/>.
+at the Centro per la Riforma dello Stato, Roma, 7 November 2017, https://www.dinamopress.it/news/event/lavoro-e-capitalismo-delle-piattaforme-con-antonio-casilli/.
 
 \_\_\_\_\_. 'Digital Labor Studies Go Global: Toward a Digital
 Decolonial Turn', *International Journal of Communication,* 11 (2017):
@@ -668,14 +666,12 @@ Decolonial Turn', *International Journal of Communication,* 11 (2017):
 
 \_\_\_\_\_. 'Four Theses on Digital Mass Surveillance and the
 Negotiation Of Privacy'. 8th Annual Privacy Law Scholar Congress,
-Berkeley, United States. June 2015.
-[https://www.law.berkeley.edu/centers/berkeley-center-for-law-technology/upcoming-
-events/june-2015-the-8th-annual-privacy-law-scholars-conference/](https://www.law.berkeley.edu/centers/berkeley-center-for-law-technology/upcoming-%20events/june-2015-the-8th-annual-privacy-law-scholars-conference/).
+Berkeley, United States. June 2015, https://www.law.berkeley.edu/centers/berkeley-center-for-law-technology/upcoming-
+events/june-2015-the-8th-annual-privacy-law-scholars-conference/](https://www.law.berkeley.edu/centers/berkeley-center-for-law-technology/upcoming-%20events/june-2015-the-8th-annual-privacy-law-scholars-conference/.
 
 Dalton, Craig and Jim Thatcher, 'What does a critical data studies look
 like, and why do we care? Seven points for a critical approach to "big
-data"', *Society and Space,* 2014,
-<http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/>.
+data"', *Society and Space,* 2014, http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/.
 
 Edwards, Adam et al. 'Digital Social Research, Social Media and the
 Sociological Imagination: surrogacy, re-orientation and augmentation',
@@ -715,12 +711,10 @@ Gregory, Karen. 'Marx, Engels and the Critique of Academic Labor',
 *Workplace: The Journal for Academic Labor*, 28 (2016).
 
 \_\_\_\_\_. 'The Future of Work'. Public Services International
-Congress. Geneva, Switzerland, 2018.
-<http://congress.world-psi.org/karen-gregory-talks-about-the-negatives-and-positives-of-computer-platform-capitalism/>.
+Congress. Geneva, Switzerland, 2018. http://congress.world-psi.org/karen-gregory-talks-about-the-negatives-and-positives-of-computer-platform-capitalism/.
 
 \_\_\_\_\_. 'The Labor of Digital Scholarship'. Talk given at the
-University of Edinburgh, 2017,
-<https://ed.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41552549-5650-4cdf-bf62-05999534c270>.
+University of Edinburgh, 2017, https://ed.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41552549-5650-4cdf-bf62-05999534c270.
 
 Hongladarom, Soraj. 'Internet Research Ethics in a Non-Western Context',
 in Michael Zimmer and Katharina Kinder-Kurlanda (eds), *Internet

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**BIOGRAPHIES**
+#BIOGRAPHIES#
 
 **Bruce Baer Arnold** is an Assistant Professor at Canberra Law School
 (University of Canberra). Dr Arnold's doctoral dissertation explored the
@@ -83,9 +83,9 @@ Professor, Public Health Policy and Management at the Community,
 Environment and Policy Department, Mel and Enid Zuckerman College of
 Public Health; Assistant Research Professor, Udall Center for Studies in
 Public Policy (UC); Associate Director and Manager -- Tribal Health
-Program for the [Native Nations Institute](http://nni.arizona.edu/) in
-the UC; and Assistant Director for the [Center for Indigenous
-Environmental Health Research](http://ciehr.arizona.edu/), MEZCOPH at
+Program for the Native Nations Institute (http://nni.arizona.edu/) in
+the UC; and Assistant Director for the Center for Indigenous
+Environmental Health Research(http://ciehr.arizona.edu/), MEZCOPH at
 the University of Arizona (UA). Stephanie's research explores the links
 between governance, health care, the environment, and community
 wellness. Stephanie is the co-founder of the United States Indigenous
@@ -323,7 +323,7 @@ Their Technologies: Wiring Social Change* (Palgrave Macmillan 2013/2016)
 and co-author of *Media/Society* (Sage 2011).
 
 **Cheng Soon Ong** is a principal research scientist at the Machine
-Learning Research Group, [Data61, CSIRO](http://data61.csiro.au/). He is
+Learning Research Group, Data61, CSIRO(http://data61.csiro.au/). He is
 also an Adjunct Associate Professor at the Australian National
 University. His PhD in Computer Science was completed at the Australian
 National University in 2005. He was a postdoc at the Max Planck
@@ -368,7 +368,7 @@ aspects of social media platforms\' content regulation. Previously, she
 studied the public discourse on social media platforms in the aftermath
 of terrorist attacks. She is one of the co-founders and chair of the
 Digital Stuff Post Graduate research group in Cardiff University
-(<https://digitalstuffcardiff.com>).
+(https://digitalstuffcardiff.com).
 
 **Colin Porlezza** is Senior Lecturer in Journalism with the Department
 of Journalism at City, University of London. He is also a Visiting

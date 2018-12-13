@@ -121,8 +121,7 @@ varieties of transnational coordination that they give rise to.[^10chapter10_11]
   2016/17   1410                    94                    11%
   --------- ----------------------- --------------------- -----------------------
 
-*\
-Table 1: Numbers of submissions, numbers of countries and % of open
+*Table 1: Numbers of submissions, numbers of countries and % of open
 datasets from Open Data Index and Open Data Census 2012-2017. Numbers
 obtained from archived websites and materials.*
 
@@ -153,6 +152,7 @@ through open source software and replicable components which enable the
 adaptation and multiplication of projects, including through
 forking.[^10chapter10_14]
 
+![](imgs/Chapter10_GrayLam_image1.png)
 *Figure 1: Detail of Open Data Census submission form showing types of
 data availability*.
 
@@ -176,35 +176,33 @@ developed into seven questions about data availability (Figure 1), which
 were used to evaluate the openness of ten areas of data 'which most
 governments could reasonably be expected to collect':
 
-> 1\. Election Results (national)
->
-> 2\. Company Register
->
-> 3\. National Map (Low resolution: 1:250,000 or better)
->
-> 4\. Government Budget (high level -- spending by sector)
->
-> 5\. Government Budget (detailed -- transactional level data)
->
-> 6\. Legislation (laws and statutes)
->
-> 7\. National Statistical Office Data (economic and demographic
-> information)
->
-> 8\. National Postcode/ZIP database
->
-> 9\. Public Transport Timetables
->
-> 10\. Environmental Data on major sources of pollutants (e.g. location,
-> emissions)
+1. Election Results (national)
+
+2. Company Register
+
+3. National Map (Low resolution: 1:250,000 or better)
+
+4. Government Budget (high level -- spending by sector)
+
+5. Government Budget (detailed -- transactional level data)
+
+6. Legislation (laws and statutes)
+
+7. National Statistical Office Data (economic and demographic information)
+
+8. National Postcode/ZIP database
+
+9. Public Transport Timetables
+
+10. Environmental Data on major sources of pollutants (e.g. location, emissions)
 
 The census was promoted via email lists, events, blog posts and social
 media platforms, including through two URLs: one for submissions (with
 the embedded Google Form) and one with visualisations and numbers
 summarising the results (Figure 2).
 
-*\
-Figure 2: Map showing preliminary results of the 2012 Open Government
+![](imgs/Chapter10_GrayLam_image2.gif)
+*Figure 2: Map showing preliminary results of the 2012 Open Government
 Data Census.*
 
 The Open Data Census was originally envisaged as a means to 'gather
@@ -298,8 +296,11 @@ check and approve incoming submissions (Figure 4). A community manager
 at OKI worked to coordinate the project and communicate with
 contributors and editors.
 
+![](imgs/Chapter10_GrayLam_image3.png)
 *Figure 3: Table showing weightings for Open Data Index 2013.*
 
+
+![](imgs/Chapter10_GrayLam_image4.png)
 *Figure 4: Review process for contributors and editors, Open Data Index
 2013.*
 
@@ -372,6 +373,8 @@ As with the examples of indices above, activists and public servants
 were thus provided with material and 'enumerated entities' to make the
 case for changes.[^10chapter10_28]
 
+![](imgs/Chapter10_GrayLam_image5.png)
+
 *Figure 5: Graphic to illustrate results of Open Data Index 2014.*
 
 Another way was to enable more flexibility and customisation for
@@ -405,13 +408,13 @@ should create raised further issues and concerns around different
 histories and contexts of governance and administration, such as the
 following comment from a Canadian open data advocate:
 
-> This doesn\'t work for Canada. There is a clear division of powers in
+> This doesn't work for Canada. There is a clear division of powers in
 > our constitution between the federal government and the provinces. The
-> federal government isn\'t going to walk into a constitutional battle
-> over e.g. education data just to satisfy this index\... Different
+> federal government isn't going to walk into a constitutional battle
+> over e.g. education data just to satisfy this index... Different
 > provinces collect health and education data in different ways. It may
 > not be possible to have one consolidated dataset. Please, just respect
-> countries\' differences instead of harmonizing everything to a central
+> countries' differences instead of harmonizing everything to a central
 > government structure like the UK.
 
 UK government officials from Government Digital Service also commented
@@ -432,6 +435,7 @@ performance data.[^10chapter10_32] Public input and involvement was also encoura
 in a forum, which saw more extended discussions about questions and
 issues around the index.
 
+![](imgs/Chapter10_GrayLam_image6.png)
 *Figure 6: "Crowdsourced survey" to inform choice of datasets included
 in 2015 Global Open Data Index.*
 
@@ -481,28 +485,24 @@ conventionalised and brought into question.
 
 ## References
 
-Bruno*,* Isabelle, Emmanuel Didier*,* Tommaso Vitale. 'Statactivism:
-Forms of Action
+Bruno, Isabelle, Emmanuel Didier, Tommaso Vitale. 'Statactivism:
+Forms of Action.
 
 Between Disclosure and Affirmation', *Partecipazione e Conflitto* 7
 (2014).
 
 Buckley, Oliver. 'Open Data - the race to the top', *Gov.Uk blog*, 15
-December 2015,
-<https://data.blog.gov.uk/2015/12/15/open-data-the-race-to-the-top/>.
+December 2015, https://data.blog.gov.uk/2015/12/15/open-data-the-race-to-the-top/.
 
 Dawes, Sharon S., Lyudmila Vidiasova and Olga Parkhimovich. 'Planning
 and designing open government data programs: An ecosystem approach',
 *Government Information Quarterly* 33 (2016): 15--27.
 
 Eaves, David. 'How To Evaluate The State Of Open Data', *Techpresident*,
-8 May 2012,
-<http://techpresident.com/news/wegov/22161/how-evaluate-state-open-data>.
+8 May 2012, http://techpresident.com/news/wegov/22161/how-evaluate-state-open-data.
 
 Espeland, Wendy N., and Mitchell L. Stevens. 'Commensuration as a Social
-Process',
-
-*Annual Review of Sociology* 24 (1998): 313--343.
+Process', *Annual Review of Sociology* 24 (1998): 313--343.
 
 Espeland, Wendy N., and Michael Sauder. 'Rankings and Reactivity: How
 Public Measures Recreate Social Worlds', *American Journal of Sociology*
@@ -510,11 +510,11 @@ Public Measures Recreate Social Worlds', *American Journal of Sociology*
 
 Fish, Adam, Christopher M. Kelty, Luis F.R. Murillo, Lilly Nguyen, and
 Aaron Panofsky. 'Birds of the Internet'. *Journal of Cultural Economy* 4
-(2011): 157--187. [ ]{.underline}
+(2011): 157--187.
 
 Gray, Jonathan. 'Towards a Genealogy of Open Data', *European Consortium
 for Political Research General Conference*, Glasgow, 3-6 September 2014,
-<http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2605828>.
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2605828.
 
 \_\_\_\_\_. 'Three Aspects of Data Worlds', *Krisis: Journal for
 Contemporary Philosophy* (2018).
@@ -542,8 +542,7 @@ Science* 43 (2013).
 
 Maron, Mikel. 'Let's Build the Global Goals Data Census', *Medium*, 5
 October 2015,
-https://medium.com/\@mikelmaron/let-s-build-the-global-goals-data-census-
-c38b0458c9a.
+https://medium.com/\@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
 
 Marres, Noortje. *Digital Sociology: The Reinvention of Social
 Research*, Cambridge: Polity Press, 2017.
@@ -554,46 +553,40 @@ Epistemologies of Data Activism', *Digital Culture & Society* 2 (2016):
 
 Montiel, Oscar. 'Our Country Sample and What It Tells Us About Our
 Contributors', *Open Knowledge International blog*, 3 May 2017,
-https://blog.okfn.org/2017/05/03/our-
-country-sample-and-what-it-tells-about-our-contributors/.
+https://blog.okfn.org/2017/05/03/our-country-sample-and-what-it-tells-about-our-contributors/.
 
 Open Knowledge International. 'Government data still not open enough --
 new survey on eve of London summit', *Open Knowledge International
 blog*, 28 October 2013,
-<https://blog.okfn.org/2013/10/28/government-data-still-not-open-enough/>.
+https://blog.okfn.org/2013/10/28/government-data-still-not-open-enough/.
 
 \_\_\_\_\_. 'The Future of the Global Open Data Index: Assessing the
 possibilities', *Open Knowledge International blog*, 2 November 2017,
-https://blog.okfn.org/2017/11/01/the-future-of-the-global-open-data-index-assessing-
-the-possibilities/.
+https://blog.okfn.org/2017/11/01/the-future-of-the-global-open-data-index-assessing-the-possibilities/.
 
 Pauwels, Pieter-Jan. 'Results of Wiki Survey and final steps', 12
 September 2014,
-<http://openbelgium.be/2014/09/results-of-wiki-survey-and-final-steps/>.
+http://openbelgium.be/2014/09/results-of-wiki-survey-and-final-steps/.
 
 Pollock, Rufus. 'The Open Data Census -- Tracking the State of Open Data
 Around the World', *Open Knowledge International blog*, 20 February
 2013,
-https://blog.okfn.org/2013/02/20/open-data-census-tracking-the-state-of-open-data-
-around-the-world/.
+https://blog.okfn.org/2013/02/20/open-data-census-tracking-the-state-of-open-data-around-the-world/.
 
 \_\_\_\_\_. 'G8 countries must work harder to open up essential data',
 *Open Knowledge International blog,* 14 June 2013,
-https://blog.okfn.org/2013/06/14/g8-countries-must-
-work-harder-to-open-up-essential-data/.
+https://blog.okfn.org/2013/06/14/g8-countries-must-work-harder-to-open-up-essential-data/.
 
 \_\_\_\_\_. 'Announcing the Local Open Data Census', *Open Knowledge
 International blog*, 4 February 2014,
-https://blog.okfn.org/2014/02/04/announcing-the-local-open-
-data-census/.
+https://blog.okfn.org/2014/02/04/announcing-the-local-open-data-census/.
 
 Power, Michael. *The Audit Society: Rituals of Verification*, Oxford:
 Oxford University Press, 1999.
 
 Prime Minister's Office. '2013 Lough Erne G8 Leaders\' Communiqué', 18
 June 2013,
-https://www.gov.uk/government/publications/2013-lough-erne-g8-leaders-
-communique.
+https://www.gov.uk/government/publications/2013-lough-erne-g8-leaders-communique.
 
 Rottenburg, Richard, Sally E. Merry, Sung-Joon Park and Johanna Mugler
 (eds). *The World of Indicators: The Making of Governmental Knowledge
@@ -602,8 +595,7 @@ through Quantification*, Cambridge: Cambridge University Press, 2015.
 Rubinstein, Mor. 'What should we include in the Global Open Data Index?
 From reference data to civil society audit', *Open Knowledge
 International blog*, 18 June 2015,
-https://blog.okfn.org/2015/06/18/what-should-we-include-in-the-global-open-data-
-index-from-reference-data-to-civil-society-audit/.
+https://blog.okfn.org/2015/06/18/what-should-we-include-in-the-global-open-data-index-from-reference-data-to-civil-society-audit/.
 
 Strathern, Marilyn. *Audit Cultures: Anthropological Studies in
 Accountability, Ethics and the Academy*, London: Routledge, 2000.
@@ -617,7 +609,7 @@ University Of Chicago Press, 2014.
 
 Transparency International. 'Corruption Perceptions Index',
 *Transparency International blog*, 21 February 2018,
-<https://www.transparency.org/news/feature/corruption_perceptions_index_2017>.
+https://www.transparency.org/news/feature/corruption_perceptions_index_2017.
 
 Verran, Helen. 'Number as an inventive frontier in knowing and working
 Australia's water resources', *Anthropological Theory* 10 (2010):
@@ -629,8 +621,7 @@ Surmise,* New York: Springer, 2015, pp. 365--379.
 
 Villum, Christian. 'The Open Data Census Challenge on Open Data Day
 2013', *Open Knowledge International blog,* 5 March 2013,
-https://blog.okfn.org/2013/03/05/the-
-open-data-census-challenge-on-open-data-day-2013/.
+https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day-2013/.
 
 [^10chapter10_1]: Bruno Latour, *An Inquiry into Modes of Existence: An Anthropology
     of the Moderns*, trans C. Porter, Cambridge MA: Harvard University
@@ -719,8 +710,7 @@ open-data-census-challenge-on-open-data-day-2013/.
 
 [^10chapter10_20]: Rufus Pollock, 'The Open Data Census -- Tracking the State of
     Open Data Around the World', *Open Knowledge International blog*, 20
-    February 2013,
-
+    February 2013, 
     https://blog.okfn.org/2013/02/20/open-data-census-tracking-the-state-of-open-data-around-the-world/.
 
 [^10chapter10_21]: Jonathan Gray, 'Three Aspects of Data Worlds', *Krisis: Journal
@@ -732,7 +722,6 @@ open-data-census-challenge-on-open-data-day-2013/.
 
 [^10chapter10_23]: Prime Minister's Office, '2013 Lough Erne G8 Leaders\'
     Communiqué', 18 June 2013,
-
     https://www.gov.uk/government/publications/2013-lough-erne-g8-leaders-communique.
 
 [^10chapter10_24]: census.okfn.org/g8
@@ -767,7 +756,6 @@ open-data-census-challenge-on-open-data-day-2013/.
 [^10chapter10_32]: Mor Rubinstein, 'What should we include in the Global Open Data
     Index? From reference data to civil society audit', *Open Knowledge
     International blog*, 18 June 2015,
-
     https://blog.okfn.org/2015/06/18/what-should-we-include-in-the-global-open-data-index-from-reference-data-to-civil-society-audit/.
 
 [^10chapter10_33]: Mikel Maron, 'Let's Build the Global Goals Data Census',

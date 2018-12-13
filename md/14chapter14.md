@@ -351,7 +351,7 @@ and the community that emerged around it. It is currently implemented in
 in 2008 in the UK under the name 'What do They Know'. The open source
 code of the platform, however, was quickly picked up by other civil
 society actors (the first in New Zealand), before the
-e-democracy[ ](https://en.wikipedia.org/wiki/E-democracy)project
+e-democracy project
 *mySociety* made its own iteration available for everyone under the name
 *Alaveteli*, offering support for groups who were interested in adopting
 it locally. *Alaveteli* enables citizens to openly request information
@@ -678,12 +678,10 @@ and the Privilege of Partial Perspective', *Feminist Studies* 14.3
 
 Heller, Charles, Lorenzo Pezzani, and Maurice Stierl. 'Disobedient
 Sensing and Border Struggles at the Maritime Frontier of Europe',
-*Spheres: Journal for Digital Cultures*, 4 (2017),
-<http://spheres-journal.org/disobedient-sensing-and-border-struggles-at-the-maritime-frontier-of-europe/>.
+*Spheres: Journal for Digital Cultures*, 4 (2017), http://spheres-journal.org/disobedient-sensing-and-border-struggles-at-the-maritime-frontier-of-europe/.
 
 Hill, Kashmir. 'What Happens When You Tell the Internet You're
-Pregnant', *Jezebel*,
-<https://jezebel.com/what-happens-when-you-tell-the-internet-youre-pregnant-1794398989>.
+Pregnant', *Jezebel*, https://jezebel.com/what-happens-when-you-tell-the-internet-youre-pregnant-1794398989.
 
 Jolivette, Andrew J. *Research Justice: Methodologies for Social
 Change*, Bristol: Policy Press, 2015.
@@ -691,7 +689,7 @@ Change*, Bristol: Policy Press, 2015.
 Knorr-Cetina, Karin, and Werner Reichmann. 'Epistemic Cultures', in
 *International Encyclopedia of the Social & Behavioral Sciences* (Second
 Edition), Oxford: Elsevier, 873--80,
-<http://www.sciencedirect.com/science/article/pii/B9780080970868104544>.
+http://www.sciencedirect.com/science/article/pii/B9780080970868104544.
 
 Kubitschko, Sebastian. 'Acting on Media Technologies and
 Infrastructures: Expanding the Media as Practice Approach', *Media,

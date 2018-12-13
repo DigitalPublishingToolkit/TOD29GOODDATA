@@ -273,15 +273,12 @@ corporations and the Eurocentric worldviews of IT specialists[^18chapter18_24] t
 community designed software and open data that benefits all, humans and
 non-humans. Truly Smart Cities would operate from the bottom up, taking
 into consideration the well-being of all, humans and non-humans. They
-work based on the Marxist idea that general [social
-knowledge](https://en.wikipedia.org/wiki/Social_knowledge) has become a
-direct [force of
-production](https://en.wikipedia.org/wiki/Productive_forces). Truly
+work based on the Marxist idea that general social
+knowledge has become a direct force of
+production. Truly
 Smart Cities could only emerge from citizen-led, communitarian efforts,
 an expression of the general intellect arising from social practice, of
 the real life process.
-
-## 
 
 ## Red de Huerteros Medellín
 
@@ -348,8 +345,6 @@ many of its ideas or do not fully subscribe to them. When we refer to
 the network of 'huerteros', we refer then to the base group and the
 activities that it develops in articulation with other nodes and
 grassroots organizations.
-
-## 
 
 ## Territory, Data and Relational Ontologies
 
@@ -550,8 +545,7 @@ journalists and filmmakers, curious about the Network.
 Altenhain, Claudio. 'Tropicalizing Surveillance: How Big Data Policing
 "Migrated" from New York to São Paulo', *Big Data from the South: From
 media to mediations, from datafication to data activism, IAMCR
-Preconference Paper*, Cartagena, Colombia, 15 July 2017,
-<http://cartagena2017.iamcr.org/big-data/>.
+Preconference Paper*, Cartagena, Colombia, 15 July 2017, http://cartagena2017.iamcr.org/big-data/.
 
 Amar, Dario. *Estudios de casos internacionales de ciudades
 inteligentes,* Documento para discusión No. IDB-DP-443, Banco
@@ -609,8 +603,7 @@ multiterritorialidad', *Cultura y representaciones sociales* 8.15
 Irani, Lilli, Janet Vertesi, Paul Dourish, Kavita Philip and Rebecca
 Grinter. 'Postcolonial computing: A lens on design and development',
 *Proceedings of the 28th International Conference on Human Factors in
-Computing Systems*, Atlanta, Georgia, USA, 10-15 April 2010,
-<https://www.cc.gatech.edu/~beki/c50.pdf>.
+Computing Systems*, Atlanta, Georgia, USA, 10-15 April 2010, https://www.cc.gatech.edu/~beki/c50.pdf.
 
 Kitchin, Rob and Tracey Lauriault. 'Towards Critical Data Studies:
 Charting and Unpacking Data Assemblages and Their Work', in Joe Eckert,
@@ -634,8 +627,7 @@ Neirotti, Paolo, et al. 'Current trends in Smart City Initiatives: Some
 Stylised Facts', *Cities* 38 (June, 2014): 25-36.
 
 Red de Huerteros Medellìn, *Manifiesto red de huerteros Medellín.
-Sembrando mundos soberanos y solidarios* (3 March 2017),
-<https://ia601601.us.archive.org/17/items/ManifiestoRedDeHuerterosDeMedelln/Manifiesto_Red%20de%20huerteros%20de%20Medell%C3%ADn%20.pdf>.
+Sembrando mundos soberanos y solidarios* (3 March 2017), https://ia601601.us.archive.org/17/items/ManifiestoRedDeHuerterosDeMedelln/Manifiesto_Red%20de%20huerteros%20de%20Medell%C3%ADn%20.pdf.
 
 Sassen, Saskia. *Expulsions: Brutality and Complexity in the Global
 Economy*, Boston: Harvard University Press, 2014.
@@ -681,7 +673,7 @@ conocimiento común y abierto en Ecuador*, Quito: FLOK Society, 2015.
 [^18chapter18_8]: Dana Cuff, Mark Hansen and Jerry Kang, 'Urban Sensing: Out of the
     Woods', *Communications of the ACM* 51.3 (2008): 29.
 
-[^18chapter18_9]: #  Gustavo Esteva, 'Development', in Wolfgang Sachs (ed.), *The Development Dictionary: A Guide to Knowledge as Power*, London: Zed Books, 1992, pp. 1-23. 
+[^18chapter18_9]: Gustavo Esteva, 'Development', in Wolfgang Sachs (ed.), *The Development Dictionary: A Guide to Knowledge as Power*, London: Zed Books, 1992, pp. 1-23. 
 
 [^18chapter18_10]: Manuel Franco-Avellaneda and Tania Pérez-Bustos, 'Tensiones y
     Convergencias en Torno a la Apropiación Social de la Ciencia y la

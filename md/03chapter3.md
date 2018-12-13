@@ -165,7 +165,7 @@ are described in this chapter.
 |                       | use                   |                       |
 +-----------------------+-----------------------+-----------------------+
 
-Table 1: Guidelines for 'good data'.
+*Table 1: Guidelines for 'good data'.*
 
 The above questions might assist data producers and consumers to
 consider the impacts on their research outcomes.
@@ -236,8 +236,8 @@ years' time when standard software may well have changed. Open formats
 include .txt, .csv, .html, .mp3, .gzip, .png, .geoTIFF, .nc, .hdf, and
 more. Because open formats adhere to published standards, maintaining
 support for these formats in the future is easier than when formats are
-proprietary.\
-\
+proprietary.
+
 Examples of closed or proprietary data formats that may also be
 appropriate to use due to their ubiquitous community uptake include
 .pdf, .doc, .xls, .gif. The vast number of files written in these
@@ -255,7 +255,8 @@ metadata redirection servers.
 Data should be *interoperable*. Data can be meaningfully read by
 multiple, ideally non-proprietary software products.
 
-Data should *reusable*. Data are available for use.\
+Data should *reusable*. Data are available for use.
+
 Data should be *ethical*. No entity will be harmed in the collection or
 use of the data.
 
@@ -301,8 +302,8 @@ Reliability outside of a laboratory context with controlled conditions
 takes different meanings for different fields. For example, a satellite
 image captured at position *(x,y)* at time *t=0* will never be repeated
 at a later time. But if a static object can be reliably identified,
-measurements of that object should return consistent results.\
-\
+measurements of that object should return consistent results.
+
 The question of reproducibility is difficult in non-controlled,
 time-dependent data collection -- a feature of many social media or
 personal geolocation platforms. In these scenarios, reliability may be
@@ -314,14 +315,12 @@ example, experiments on humans in war time),[^03chapter3_12] could be open and
 published and may contribute important understandings of e.g. human
 physiology, but the data are limited by the fact that they must not be
 reproduced. In other words, data could be FAIR but that does not make it
-'good'.\
-\
+'good'.
+
 "Good data" can be recreated when conditions of their original formation
 can be controlled.
 
-#### 
-
-#### 3.1.5 Good Data are Timely 
+#### 3.1.6 Good Data are Timely 
 
 Data should be released to primary consumers as soon as possible after
 collection. They should still be relevant when they are released to the
@@ -336,9 +335,7 @@ broader benefits to releasing data to the community that will indirectly
 benefit the funder. Delaying release means the data may no longer be fit
 for use.
 
-#### 
-
-#### 3.1.6 Good Data are Appropriately Licensed
+#### 3.1.7 Good Data are Appropriately Licensed
 
 Ambiguity about how data may be used (assuming ethical and anonymity
 criteria are met) is resolved by application of an appropriate license.
@@ -483,8 +480,8 @@ environment, Ingress (www.ingress.com) is an Augmented Reality mobile
 game built around user-identified 'portals' attached to real world
 objects, in which users are able to submit edits and corrections, and
 flag portals for removal if the object in the real world no longer
-exists.\
-\
+exists.
+
 Humans have successfully asserted that their personal data be
 'forgotten',[^03chapter3_26] arguing that the right to privacy over-rides
 historical record. In these cases, electronic records of history are
@@ -658,8 +655,8 @@ The size and variety of data created and available continues to grow,
 and we are moving from 'the 3 V's of Big Data' to 10 V's[^03chapter3_44] (or even
 17![^03chapter3_45]). In the context of 'good data' we need to consider validity,
 veracity, volatility, vulnerability, and value. This manifesto outlines
-the concepts that we believe act toward making data good.\
-\
+the concepts that we believe act toward making data good.
+
 Why are all data not inherently good data? And what are the risks of
 creating data which are not designed with 'good data' principles in
 mind? These questions are critical, but the possible answers too
@@ -674,7 +671,6 @@ the picture changes more rapidly than we can keep pace with. It is our
 hope that this chapter inspires discussion and reflection on what 'good
 data' means to you.
 
-## 
 
 **Acknowledgements**
 
@@ -692,24 +688,20 @@ Government.
 
 ## References
 
-\@adamdsteer, Twitter post, 18 January 2018,
-<https://twitter.com/adamdsteer/status/953792786607742977>.
+\@adamdsteer, Twitter post, 18 January 2018, https://twitter.com/adamdsteer/status/953792786607742977.
 
 Arockia, P. S., S.S. Varnekha and K.A. Veneshia. 'The 17 V's of Big
 Data'. *International Research Journal of Engineering and Technology
-(IRJET)*, *4*.9 (2017): 329-333,
-<https://irjet.net/archives/V4/i9/IRJET-V4I957.pdf>.
+(IRJET)*, *4*.9 (2017): 329-333, https://irjet.net/archives/V4/i9/IRJET-V4I957.pdf.
 
-Atlas of Living Australia, <https://www.ala.org.au/>.
+Atlas of Living Australia, https://www.ala.org.au/.
 
-Australian Electoral Commission, <https://www.aec.gov.au>.
+Australian Electoral Commission, https://www.aec.gov.au.
 
 Australian National Data Service \[ANDS\], 'Licensing and copyright for
-data reuse',
-<https://www.ands.org.au/working-with-data/publishing-and-reusing-data/licensing-for-reuse>.
+data reuse', https://www.ands.org.au/working-with-data/publishing-and-reusing-data/licensing-for-reuse.
 
-Australian Research Data Commons \[ARDC\], 'FAIR data assessment tool',
-<https://www.ands-nectar-rds.org.au/fair-tool>.
+Australian Research Data Commons \[ARDC\], 'FAIR data assessment tool', https://www.ands-nectar-rds.org.au/fair-tool.
 
 Brody, H., S.E. Leonard, J-B. Nie and P. Weindling. 'United States
 Responses to Japanese Wartime Inhuman Experimentation after World War
@@ -717,47 +709,42 @@ II: National Security and Wartime Exigency', *Cambridge Quarterly of
 Healthcare Ethics* 23.2 (2014): 220-230, DOI: 10.1017/S0963180113000753.
 
 (Cambridge Analytica series), *The Guardian*, 2018,
-<https://www.theguardian.com/uk-news/cambridge-analytica>.
+https://www.theguardian.com/uk-news/cambridge-analytica.
 
 Claridge, T. *Social Capital and Natural Resource Management: An
 important role for social capital?,* Unpublished Thesis, University of
 Queensland, Brisbane, Australia, 2004,
-<https://www.socialcapitalresearch.com/literature/definition/>.
+https://www.socialcapitalresearch.com/literature/definition/.
 
-Cochrane Collaboration, <http://www.cochrane.org>.
+Cochrane Collaboration, http://www.cochrane.org.
 
 data.gov.au, 'National Public Toilet Map', *Australian Government
-data.gov.au*, 2018,
-<https://data.gov.au/dataset/553b3049-2b8b-46a2-95e6-640d7986a8c1>.
+data.gov.au*, 2018, https://data.gov.au/dataset/553b3049-2b8b-46a2-95e6-640d7986a8c1.
 
 Dixon, S. and L. Quirke. 'What's the harm? \...', *Teaching Sociology*
 46.1 (2018):12-24, DOI: 10.1177/0092055X17711230.
 
 DroneRules.eu, '8 Data Protection Guiding Principles under the GDPR for
-Drone Pilots', 23 May 2018,
-<http://dronerules.eu/en/professional/news/8-data-protection-principles-under-the-gdpr-for-drone-pilots>.
+Drone Pilots', 23 May 2018, http://dronerules.eu/en/professional/news/8-data-protection-principles-under-the-gdpr-for-drone-pilots.
 
 European Commission, 'Creating value through open data', *EU
 Publications*, 2015, DOI: 10.2759/328101.
 
 European Commission, '2018 reform of EU data protection rules', 2018,
-<https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en>.
+https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en.
 
 Farrell, P. 'Darknet sale of Medicare data 'traditional criminal
-activity', minister says', *The Guardian*, 4 July 2017,
-<https://www.theguardian.com/australia-news/2017/jul/04/federal-police-asked-to-investigate-darkweb-sale-of-medicare-data>.
+activity', minister says', *The Guardian*, 4 July 2017, https://www.theguardian.com/australia-news/2017/jul/04/federal-police-asked-to-investigate-darkweb-sale-of-medicare-data.
 
 Firican, G. 'The 10 V's of Big Data', *Transforming Data with
-Intelligence*, 8 February 2017,
-<https://tdwi.org/articles/2017/02/08/10-vs-of-big-data.aspx>.
+Intelligence*, 8 February 2017, https://tdwi.org/articles/2017/02/08/10-vs-of-big-data.aspx.
 
 Floridi, L., S. Kauggman, L. Kolucka-Zuk, F. La Rue, S.
 Leutheusser-Schnarrenberger, J-L Piñar and J. Wales. '*The Advisory
-Council to Google on the Right to be Forgotten', 6 February 2015,*
-<https://static.googleusercontent.com/media/archive.google.com/en//advisorycouncil/advisement/advisory-report.pdf>.
+Council to Google on the Right to be Forgotten', 6 February 2015,* https://static.googleusercontent.com/media/archive.google.com/en//advisorycouncil/advisement/advisory-report.pdf.
 
 IEEE, 'Ethically Aligned Design', IEEE Global Initiative, v2, December
-2017, <https://ethicsinaction.ieee.org/>.
+2017, https://ethicsinaction.ieee.org/.
 
 Irving, D. 'A minimum standard for publishing computational results in
 the weather and climate sciences', *BAMS*, 2015, DOI:
@@ -771,101 +758,82 @@ Keßler, C. and G. McKenzie. 'A geoprivacy manifesto', *Transactions in
 GIS*, 22 (2018) :3--19, DOI: 10.1111/tgis.12305.
 
 Kidd, J. 'Wollemi Pines: Secret plantation in Blue Mountains to ensure
-species' survival', *ABC News,* 21 September 2014.
-<http://www.abc.net.au/news/2014-09-21/secret-bid-to-save-prehistoric-wollemi-pines/5758542>.
+species' survival', *ABC News,* 21 September 2014, http://www.abc.net.au/news/2014-09-21/secret-bid-to-save-prehistoric-wollemi-pines/5758542.
 
-Manifesto for Data Practices. 2018,
-<https://datapractices.org/manifesto/>.
+Manifesto for Data Practices. 2018, https://datapractices.org/manifesto/.
 
 Mapillary. 'Accurate Privacy Blurring at Scale', *The Mapillary* Blog,
-19 April 2018,
-<https://blog.mapillary.com/update/2018/04/19/accurate-privacy-blurring-at-scale.html>.
+19 April 2018, https://blog.mapillary.com/update/2018/04/19/accurate-privacy-blurring-at-scale.html.
 
 National Computational Infrastructure Australia \[NCI\]. 'NCI Annual
-Report 2016-2017', 2017,
-https://nci.org.au/wp-content/uploads/2014/12/NCI-Report-2017-web-sm-updated.pdf,
-p.65.
+Report 2016-2017', 2017, https://nci.org.au/wp-content/uploads/2014/12/NCI-Report-2017-web-sm-updated.pdf, p.65.
 
 Noy, N. 'Making it easier to discover datasets', *Google Blog*, 5
-September 2018,
-<https://www.blog.google/products/search/making-it-easier-discover-datasets/>.
+September 2018, https://www.blog.google/products/search/making-it-easier-discover-datasets/.
 
 New York Public Library \[NYPL\]. 'NYC Space/Time Directory', *New York
-Public Library*, <http://spacetime.nypl.org/>.
+Public Library*, http://spacetime.nypl.org/.
 
 \_\_\_\_\_. 'OldNYC: Mapping historical photos from the NYPL', *New York
-Public Library*, <https://www.oldnyc.org/>.
+Public Library*, https://www.oldnyc.org/.
 
 OAIC. 'Notifiable Data Breaches scheme', *Australian Government Office
-of the Australian Information Commissioner*,
-<https://www.oaic.gov.au/privacy-law/privacy-act/notifiable-data-breaches-scheme>.
+of the Australian Information Commissioner*, https://www.oaic.gov.au/privacy-law/privacy-act/notifiable-data-breaches-scheme.
 
 \_\_\_\_\_. 'Annual Report 2016-2017', *Australian Government Office of
-the Australian Information Commissioner, 2017,*
-https://www.oaic.gov.au/annualreport2016-17, p.80.
+the Australian Information Commissioner, 2017,* https://www.oaic.gov.au/annualreport2016-17, p.80.
 
 \_\_\_\_\_. 'Notifiable Data Breaches Quarterly Statistics Report: 1
 April -- 30 June 2018', *Australian Government Office of the Australian
-Information Commissioner,* 2018,
-<https://www.oaic.gov.au/resources/privacy-law/privacy-act/notifiable-data-breaches-scheme/quarterly-statistics/notifiable-data-breaches-quarterly-statistics-report-1-april-30-june-2018.pdf>.
+Information Commissioner,* 2018, https://www.oaic.gov.au/resources/privacy-law/privacy-act/notifiable-data-breaches-scheme/quarterly-statistics/notifiable-data-breaches-quarterly-statistics-report-1-april-30-june-2018.pdf.
 
 \_\_\_\_\_. 'Health Information and medical research', *Australian
 Government Office of the Australian Information Commissioner*,
-<https://www.oaic.gov.au/privacy-law/privacy-act/health-and-medical-research>.
+https://www.oaic.gov.au/privacy-law/privacy-act/health-and-medical-research.
 
 OECD, 'OECD Insights: Human Capital', *Organisation for Economic
-Cooperation & Development*, 2007,
-<https://www.oecd.org/insights/37966934.pdf>.
+Cooperation & Development*, 2007, https://www.oecd.org/insights/37966934.pdf.
 
 O'Leary, D.E. 'Ethics for Big Data and Analytics', *IEEE Intelligent
 Systems*, 31.4 (2016): 81-84, DOI: 10.1109/MIS.2016.70.
 
 Patil, DJ. 'A code of Ethics for Data Science', *Medium*, 1 February
-2018,
-<https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1>.
+2018, https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1.
 
 Pérez-Peña, R. and M. Rosenberg. 'Strava Fitness App Can Reveal Military
-Sites, Analysts Say', *NYTimes*, 29 January 2018,
-<https://www.nytimes.com/2018/01/29/world/middleeast/strava-heat-map.html>.
+Sites, Analysts Say', *NYTimes*, 29 January 2018, https://www.nytimes.com/2018/01/29/world/middleeast/strava-heat-map.html.
 
-Science Europe. 'cOAlition S', September 2018,
-<https://www.scienceeurope.org/coalition-s/>.
+Science Europe. 'cOAlition S', September 2018, https://www.scienceeurope.org/coalition-s/.
 
 Secretariat of the Antarctic Treaty. 'The Protocol on Environmental
-Protection to the Antarctic Treaty', 1991,
-<https://www.ats.aq/e/ep.htm>.
+Protection to the Antarctic Treaty', 1991, https://www.ats.aq/e/ep.htm.
 
 Serwadda, D., P. Ndebele, M.K. Grabowski, F. Bajunirwe and R.K.
 Wanyenze. 'Open data sharing and the Global South - Who benefits?',
 *Science*. 359.6376 (2018): 642-643, DOI: 10.1126/science.aap8395.
 
 Tandy, J., L. van den Brink, and P. Barnaghi (eds). 'Spatial Data on the
-Web Best Practices', *W3C Working Group Note*, 2017,
-<https://www.w3.org/TR/sdw-bp/>.
+Web Best Practices', *W3C Working Group Note*, 2017, https://www.w3.org/TR/sdw-bp/.
 
 Thinh. 'CC, Open Access, and moral rights', *Science Commons Blog,* 7
-November 2007,
-<http://sciencecommons.org/weblog/archives/2007/11/07/cc-oa-moral-rights/>.
+November 2007, http://sciencecommons.org/weblog/archives/2007/11/07/cc-oa-moral-rights/.
 
-Uber. 'Privacy Policy', <https://privacy.uber.com/policy>.
+Uber. 'Privacy Policy', https://privacy.uber.com/policy.
 
 UMKC. 'History of Research Ethics', *UMKC Office of the Vice
-Chancellor*, date unknown,
-<http://ors.umkc.edu/research-compliance-(iacuc-ibc-irb-rsc)/institutional-review-board-(irb)/history-of-research-ethics>.
+Chancellor*, date unknown, http://ors.umkc.edu/research-compliance-(iacuc-ibc-irb-rsc)/institutional-review-board-(irb)/history-of-research-ethics.
 
 United Nations \[UN\]. 'Universal Declaration of Human Rights', *United
-Nations General Assembly*, 1948,
-<http://www.un.org/en/universal-declaration-human-rights/>.
+Nations General Assembly*, 1948, http://www.un.org/en/universal-declaration-human-rights/.
 
 Violet Blue. 'Strava's fitness heatmaps are a "potential catastrophe"',
-*Engadget,* 2 February 2018,
-<https://www.engadget.com/2018/02/02/strava-s-fitness-heatmaps-are-a-potential-catastrophe>.
+*Engadget,* 2 February 2018, https://www.engadget.com/2018/02/02/strava-s-fitness-heatmaps-are-a-potential-catastrophe.
 
 Wang, J., B. Evans, L.A.I. Wyborn, K. Gohar, I. Bastrakova, C. Trenham
 and K. Druken. 'The A, B, C, D, E, F of Multipurpose Active Data
 Management Plans to Facilitate Multiscale Interdisciplinary Science'.
 *eResearch Australasia 2015, Brisbane, Australia*,
-2015, <https://www.researchgate.net/publication/309704990_The_A_B_C_D_E_F_of_Multipurpose_Active_Data_Management_Plans_to_Facilitate_Multiscale_Interdisciplinary_Science>.
+2015, https://www.researchgate.net/publication/309704990_The_A_B_C_D_E_F_of_Multipurpose_Active_Data_Management_Plans_to_Facilitate_Multiscale_Interdisciplinary_Science.
 
 Wikipedia contributors. 'The right to be forgotten',
 https://en.wikipedia.org/wiki/Right\_to\_be\_forgotten, accessed 13
