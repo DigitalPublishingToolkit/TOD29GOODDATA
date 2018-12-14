@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 h1{
     font-size:1.8em;
     text-transform:none;
-    page-break-before: always;
+    /*page-break-before: always;*/
 }
 
 h2{
