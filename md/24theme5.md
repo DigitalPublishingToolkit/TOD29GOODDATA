@@ -16,4 +16,4 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-#Theme 5: Good and Smart Data
+#THEME 5: GOOD DATA AND SMART CITIES AND HOMES

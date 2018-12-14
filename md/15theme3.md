@@ -16,4 +16,4 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-#Theme 3: Good Data as Open and Shared Data
+#THEME 3: GOOD DATA AS OPEN AND SHARED DATA

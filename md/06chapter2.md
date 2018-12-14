@@ -17,10 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 2: Good Data Practices for Indigenous Data Sovereignty and Governance
-
-Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie
-Carroll Rainie and Jennifer Walker
+# 2: Good Data Practices for Indigenous Data Sovereignty and Governance<br />
+*Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie
+Carroll Rainie and Jennifer Walker*
 
 **Abstract**
 
@@ -297,8 +296,8 @@ developed principles specific to their IDS context.
 |                                   | recently developed their          |
 |                                   | principles.[^02chapter2_27]                  |
 +-----------------------------------+-----------------------------------+
-
-*Table 1 - IDS principles in the Asia Pacific and North American States*
+<br />
+*Table 1 - IDS principles in the Asia Pacific and North American States.*
 
 ## Indigenous Data Sovereignty and Governance in practice
 

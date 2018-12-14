@@ -1,12 +1,12 @@
 ---
-Pr-id: MoneyLab
+Pr-id: Good Data
 P-id: INC Reader
 A-id: 10
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: 1. What is (in) Good Data?
 Article-status: accepted
 Author: name(s) of author(s)
 Author-email:   corresponding address
@@ -17,9 +17,8 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 1. What is (in) Good Data?
-
-Monique Mann, S. Kate Devitt, Angela Daly
+# 1. What is (in) Good Data?<BR />
+*Monique Mann, S. Kate Devitt, Angela Daly*
 
 ## Introduction: Why Good Data?
 
@@ -795,7 +794,7 @@ Data & Society* 3.2 (2016): 1-12.
 Ferguson, Andrew. *The Rise of Big Data Policing: Surveillance, Race,
 and the Future of Law Enforcement*, New York: NYU Press, 2017.
 
-Funding Matters. https://fundingmatters.tech/.
+Funding Matters, https://fundingmatters.tech/.
 
 Goldsmith, Jack and Tim Wu, *Who Controls the Internet: Illusions of a
 Borderless World,* New York: Oxford University Press, 2006.

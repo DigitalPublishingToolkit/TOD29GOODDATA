@@ -5,7 +5,7 @@ Theory on Demand #29 <br />
 
 Editors: Angela Daly, S. Kate Devitt, Monique Mann <br />
 Copy editor: Harley Williams <br />
-Editorial assistant: Kayleigh Murphy <br ?>
+Editorial assistant: Kayleigh Murphy <br />
 
 
 Funding: Queensland University of Technology Faculty of Law
@@ -658,7 +658,7 @@ University.
 **15: Good Data is Critical Data: An Appeal for Critical Digital Studies**<br /> 
 *Chiara Poletti and Daniel Gray*
 
-**16:The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**<br />*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss*
+**16: The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**<br />*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss*
 
 ##THEME 5: GOOD DATA AND SMART CITIES AND HOMES 
 
@@ -676,9 +676,8 @@ University.
 
 
 
-# 1. What is (in) Good Data?
-
-Monique Mann, S. Kate Devitt, Angela Daly
+# 1. What is (in) Good Data?<BR />
+*Monique Mann, S. Kate Devitt, Angela Daly*
 
 ## Introduction: Why Good Data?
 
@@ -1454,7 +1453,7 @@ Data & Society* 3.2 (2016): 1-12.
 Ferguson, Andrew. *The Rise of Big Data Policing: Surveillance, Race,
 and the Future of Law Enforcement*, New York: NYU Press, 2017.
 
-Funding Matters. https://fundingmatters.tech/.
+Funding Matters, https://fundingmatters.tech/.
 
 Goldsmith, Jack and Tim Wu, *Who Controls the Internet: Illusions of a
 Borderless World,* New York: Oxford University Press, 2006.
@@ -1640,13 +1639,12 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
     https://www.cnbc.com/2018/11/27/read-google-employees-open-letter-protesting-project-dragonfly.html
 
 
-#Theme 1: Good Data Manifestos and Practices
+#THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
 
 
-# 2: Good Data Practices for Indigenous Data Sovereignty and Governance
-
-Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie
-Carroll Rainie and Jennifer Walker
+# 2: Good Data Practices for Indigenous Data Sovereignty and Governance<br />
+*Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie
+Carroll Rainie and Jennifer Walker*
 
 **Abstract**
 
@@ -1923,8 +1921,8 @@ developed principles specific to their IDS context.
 |                                   | recently developed their          |
 |                                   | principles.[^02chapter2_27]                  |
 +-----------------------------------+-----------------------------------+
-
-*Table 1 - IDS principles in the Asia Pacific and North American States*
+<br />
+*Table 1 - IDS principles in the Asia Pacific and North American States.*
 
 ## Indigenous Data Sovereignty and Governance in practice
 
@@ -2289,9 +2287,8 @@ Indigenous Peoples', 2008.
 
 
 
-# 3: The Good Data Manifesto
-
-Claire Trenham and Adam Steer
+# 3: The Good Data Manifesto<br />
+*Claire Trenham and Adam Steer*
 
 **Abstract**
 
@@ -3287,9 +3284,8 @@ Collection*, 2017, DOI: 10.4225/08/5a12348f8567b.
 
 
 
-# 4: The Good, the Bad and the Beauty of 'Good Enough Data'
-
-Miren Gutiérrez
+# 4: The Good, the Bad and the Beauty of 'Good Enough Data'<br />
+*Miren Gutiérrez*
 
 **Abstract**
 
@@ -3315,8 +3311,8 @@ thorough in-depth interviews, fieldwork and empirical observation.
 
 On 25 and 30 March 2017, the town of al-Lataminah, in northern Syria,
 suffered two chemical attacks possibly committed by Syrian government
-aircraft.[^04chapter4_5] Since 2011, Syria has been engulfed by a multi-sided armed
-conflict between forces led by President Bashar al-Assad, together with
+aircraft.[^04chapter4_5] Since 2011, Syria has been engulfed by a multi-sided armed
+conflict between forces led by President Bashar al-Assad, together with
 its international allies, and other forces opposing both the government
 and each other in varying groupings.[^04chapter4_6] International organizations
 have blamed the Syrian government, and its ally, Russia, opponent rebel
@@ -3340,9 +3336,10 @@ the target was a medical facility.[^04chapter4_11] Their report concludes that t
 perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)
-*Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
-2018).*
+![Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
+2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)<small>*Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
+2018).*</small>
+
 
 Syrian Archive was the supplier of the videos. This organization gathers
 visual accounts about human rights violations committed by all sides of
@@ -3498,7 +3495,7 @@ not a question only of quantity, but also of quality and intent.
 No matter how big, data can never be perfect because they cannot be
 raw.[^04chapter4_38] Borges's tale of frustrated mapmakers could be read as a
 warning about the impossibility of perfect science, or data.[^04chapter4_39] In
-'**On Exactitude in Science,' *Borges ***speaks about an empire where
+'On Exactitude in Science,' Borges speaks about an empire where
 pursuing scientific authenticity, cartographers made maps as big as the
 land they portrayed, whereupon these charts failed to be useful and were
 forgotten.[^04chapter4_40] The same way that 'the map is not the territory',[^04chapter4_41]
@@ -3508,8 +3505,8 @@ free of the views, methods and technologies of the people that conceive,
 generate, process, curate, analyze and store them.[^04chapter4_43] Data are not
 natural but *cultural resources* 'cooked' in processes of collection and
 use, which are also 'cooked',[^04chapter4_44] thus, they can embed biases, gaps and
-asymmetries. As *Interviewee 5 notes, 'every qualitative data source is
-arguably open to bias.'* Paraphrasing Gitelman,[^04chapter4_45] *perfect data* is
+asymmetries. As Interviewee 5 notes, 'every qualitative data source is
+arguably open to bias.' Paraphrasing Gitelman,[^04chapter4_45] *perfect data* is
 another oxymoron.
 
 Errors and biases can be introduced accidentally in data processes. An
@@ -3686,7 +3683,7 @@ sources' motivations, as Interviewee 4 notes:
 > We don't care about their agendas. What we are trying to do here is to
 > look at the content itself, and cross-reference the content with
 > hundreds of thousands of other contents to conclude whether it is true
-> or not. We are aware of the types of problems that our sources endure
+> or not. We are aware of the types of problems that our sources endure
 > (for example blockages by the Syrian government), but we do not look
 > at that. As much as we can understand limitations for sources, our job
 > is to verify the contents.
@@ -3712,23 +3709,23 @@ classified by the kind of weapon utilized, the location or the kind of
 violation or abuse. Figure 2 summarizes the process.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.png)
-*Figure 2: Syrian Archive digital evidence workflow*[^04chapter4_88]*.*
+<small>*Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*</small>
 
 Based on the examination of footage, the research of the Aleppo bombings
 from July to December 2016 includes overwhelming evidence of 'unlawful
 attacks,' illegal weapons, attacks against civilians, humanitarian
 workers, journalists and civilian facilities such as hospitals,
-schools or markets, and the use of incendiary and cluster
-munitions.[^04chapter4_89] Given that rebel groups and terrorist militias like the
+schools or markets, and the use of incendiary and cluster
+munitions.[^04chapter4_89] Given that rebel groups and terrorist militias like the
 Islamic State do not have air forces, Syrian Archive concludes that
-most of the airstrikes are carried out by Russian aircraft.[^04chapter4_90] Figure
+most of the airstrikes are carried out by Russian aircraft.[^04chapter4_90] Figure
 3 shows a static snapshot of the location of verified attacks; the
 interactive chart available online allows users to access the videos
 that sustain it.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.png)
-*Figure 3: Map of visual evidence about attacks in Aleppo City (July -
-December 2016).*[^04chapter4_91]
+<small>*Figure 3: Map of visual evidence about attacks in Aleppo City (July -
+December 2016).*[^04chapter4_91]</small>
 
 Syrian Archive exhibits the ingenuity that characterizes data activists;
 however, not all data activist initiatives employ the same data methods.
@@ -3808,9 +3805,9 @@ social change in Syria, but there are various means by which change
 might be promoted. Syrian Archive goes about fulfilling its mission in
 its own way: producing evidence of abuses that can withstand examination
 in court. The nature of what counts as 'good enough' data is
-*unavoidably* contextual. The data in the Syrian Archive are good enough
+*unavoidably* contextual. The data in the Syrian Archive are good enough
 to show that there are human rights violations in the military
-conflict. It appears we cannot ask whether a pertinent dataset is good
+conflict. It appears we cannot ask whether a pertinent dataset is good
 enough without further formulating the specific use to which the data
 will be put; that is, without stipulating a) the specific role the data
 play in how change is to be fostered, and b) what change is to be
@@ -3830,16 +3827,15 @@ data activism and means to understand good enough data more broadly and
 provide a taxonomy that can be used as a tool to enhance the
 comparability of case studies.
 
-                                                                **Origins of data**                                                      **Type of data activism**                                           **Means**
-  ------------------------------------------------------------- ------------------------------------------------------------------------ ------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Syrian Archive**                                            Videos on social media (posted by citizens and others)                   **2nd (public data) and 3rd (crowdsourced data)**                   Videos uploaded by citizens, journalists and activists on sharing platforms and social media, news media; public satellite imagery; news media; testimonies from a network of sources
-  **Forensic Architecture**                                     **Satellite imagery and data, ballistic analysis, news, citizen data**   **2nd (public data)and 5th (own data)**                             **Public satellite imagery and data (i.e. AIS signals); news media; sensors; a variety of means**
-  **WeRobotics**                                                **Drone-based imagery (gathered by citizens)**                           **5th (own data)**                                                  **Drones; people as data/images analyzers**
-  **InfoAmazonia**                                              **Satellite imagery, crowdsourced citizen data, citizen sensing**        **2nd (public data), 3rd (crowdsourced data) and 5th (own data)**   **Public satellite imagery; crowdsourcing platform; sensors (i.e. water quality)**
-  **Ushahidi**                                                  **Crowdsourced citizen data; websites and social media**                 **2nd (public data)and 3rd (crowdsourced data)**                    **Crowdsourcing platform and scraping methods (i.e. for verification); scraping**
-  **Citizen sensing in Gabrys, Pritchard and Barratt (2016)**   **Citizen sensing**                                                      **5th (own data)**                                                  **Sensors**
-
-*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]
+| ﻿                                                        | Origins of data                                                    | Type of data activism                                         | Means                                                                                                                                                                                 |
+|---------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Syrian Archive**                                          | Videos on social media (posted by citizens and others)             | 2nd (public data)  and 3rd (crowdsourced data)                | Videos uploaded by citizens, journalists and activists on sharing platforms and social media, news media; public satellite imagery; news media; testimonies from a network of sources |
+| **Forensic Architecture**                                   | Satellite imagery and data, ballistic analysis, news, citizen data | 2nd (public data)and 5th (own data)                           | Public satellite imagery and data (i.e. AIS signals); news media; sensors; a variety of means                                                                                         |
+| **WeRobotics**                                              | Drone-based imagery (gathered by citizens)                         | 5th (own data)                                                | Drones; people as data/images analyzers                                                                                                                                               |
+| **InfoAmazonia**                                            | Satellite imagery, crowdsourced citizen data, citizen sensing      | 2nd (public data), 3rd (crowdsourced data) and 5th (own data) | Public satellite imagery; crowdsourcing platform; sensors (i.e. water quality)                                                                                                        |
+| **Ushahidi**                                                | Crowdsourced citizen data; websites and social media               | 2nd (public data)and 3rd (crowdsourced data)                  | Crowdsourcing platform and scraping methods (i.e. for verification); scraping                                                                                                         |
+| **Citizen sensing in Gabrys, Pritchard and Barratt (2016)** | Citizen sensing                                                    | 5th (own data)                                                | Sensors                                                                                                                                                                               |
+<br /><left>*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]</left>
 
 Forensic Architecture employs advanced architectural and media research
 on behalf of international prosecutors, human rights organizations and
@@ -3870,8 +3866,8 @@ projects. Talking about Syrian Archive Interviewee 3 puts it like this:
 > (Syrian) footage gathered by ordinary citizens and journalists and
 > posted online has started to appear as evidence in courtrooms. In
 > August 2017, the International Criminal Court used a video posted on
-> YouTube to get an international arrest warrant on an officer of the
-> Libyan army accused of war crimes. Open information obtained from
+> YouTube to get an international arrest warrant on an officer of the
+> Libyan army accused of war crimes. Open information obtained from
 > social media is increasingly recognized in court as potential
 > evidence, which is really encouraging.
 
@@ -3928,7 +3924,7 @@ context related.
 > sources (...) I think the definition of good enough data is something
 > that can only be determined from one deployment to another. Is it
 > relevant to the topic of interest/goal of your deployment? Do the
-> submissions give you enough information to act? 
+> submissions give you enough information to act? 
 
 Interviewee 2 also highlights the fact that, while good enough data is a
 relative concept, all data have to be standardized and validated to be
@@ -3936,7 +3932,7 @@ usable:
 
 > Good enough data is really a moving target. Each data submission (...)
 > can lead to new, unsupported data that needs to be analyzed and added
-> to our raw input data validation and normalization stage. We also need
+> to our raw input data validation and normalization stage. We also need
 > to have a data QA stage that extracts statistics that let us inspect
 > incoming data and adjust accordingly. Our definition of good data
 > could be: It passes our initial raw input data validation filters;
@@ -4231,8 +4227,8 @@ WeRobotics, 'About', 2017, http://werobotics.org/.
 
 Woodside, Arch. *Case Study Research: Theory, Methods and Practice*, United Kingdom: Emerald, 2010.
 
-Yin, Robert K. *Case Study Research: Design and Methods, *Applied Social Research
-Methods Series. Thousand Oaks: SAGE,* 2002.
+Yin, Robert K. *Case Study Research: Design and Methods, *Applied Social Research
+Methods Series. Thousand Oaks: SAGE,* 2002.
 
 Zhao, Jieyu, Tianlu Wang, Mark Yatskar, Vicente Ordonez and Vicente Chang. 'Men Also Like
 Shopping: Reducing Gender Bias Amplification Using Corpus-Level
@@ -4327,8 +4323,8 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_26]: Ibid.
 
-[^04chapter4_27]: Robert K Yin, *Case Study Research: Design and Methods, *Applied
-    Social Research Methods Series. Thousand Oaks: SAGE,* 2002, p. 13.
+[^04chapter4_27]: Robert K Yin, *Case Study Research: Design and Methods, *Applied
+    Social Research Methods Series. Thousand Oaks: SAGE,* 2002, p. 13.
 
 [^04chapter4_28]: Philip Balsiger, and Alexandre Lambelet, 'Participant
     Observation', in Donatella della Porta (ed.), M*ethodological
@@ -4599,7 +4595,6 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_108]: Gabrys, Pritchard, and Barratt, 'This Is the Other Aspect of
     "just" Good Enough Data'.
-
 
 
 # 5: An Energy Data Manifesto
@@ -5665,7 +5660,7 @@ EnergyAustralia,* 2004.
     Medicine* 73.6 (2011): 882-888.
 
 
-#Theme 2: Good Data and Justice 
+#THEME 2: GOOD DATA AND JUSTICE 
 
 
 #6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study
@@ -10558,7 +10553,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     Information Ethics. See Floridi, *The Ethics of* Information, 70-74.
 
 
-#Theme 3: Good Data as Open and Shared Data
+#THEME 3: GOOD DATA AS OPEN AND SHARED DATA
 
 
 # 10: Making Data Public? The Open Data Index as Participatory Device
@@ -12822,7 +12817,7 @@ Taiwan. 8 Dec 2016, http://odw.tw/2016/.
     (2014).
 
 
-#Theme 4: Good Data Activism and Research
+#THEME 4: GOOD DATA ACTIVISM AND RESEARCH
 
 
 #13: Provocations for Social Media Research: Toward Good Data Ethics
@@ -17838,7 +17833,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     https://github.com/gephi/gephi/wiki/Roadmap.
 
 
-#Theme 5: Good and Smart Data
+#THEME 5: GOOD DATA AND SMART CITIES AND HOMES
 
 
 # 17: Algorithmic Mapmaking in 'Smart Cities': Data Protection Impact Assessments as a means of Protection for Groups

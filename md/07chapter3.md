@@ -17,9 +17,8 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 3: The Good Data Manifesto
-
-Claire Trenham and Adam Steer
+# 3: The Good Data Manifesto<br />
+*Claire Trenham and Adam Steer*
 
 **Abstract**
 

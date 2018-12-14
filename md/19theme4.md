@@ -16,4 +16,4 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-#Theme 4: Good Data Activism and Research
+#THEME 4: GOOD DATA ACTIVISM AND RESEARCH

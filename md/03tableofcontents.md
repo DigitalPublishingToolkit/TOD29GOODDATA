@@ -73,7 +73,7 @@ Rights: CC BY-NC 4.0
 **15: Good Data is Critical Data: An Appeal for Critical Digital Studies**<br /> 
 *Chiara Poletti and Daniel Gray*
 
-**16:The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**<br />*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss*
+**16: The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**<br />*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss*
 
 ##THEME 5: GOOD DATA AND SMART CITIES AND HOMES 
 

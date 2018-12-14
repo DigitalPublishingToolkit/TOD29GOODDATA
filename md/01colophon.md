@@ -22,7 +22,7 @@ Theory on Demand #29 <br />
 
 Editors: Angela Daly, S. Kate Devitt, Monique Mann <br />
 Copy editor: Harley Williams <br />
-Editorial assistant: Kayleigh Murphy <br ?>
+Editorial assistant: Kayleigh Murphy <br />
 
 
 Funding: Queensland University of Technology Faculty of Law

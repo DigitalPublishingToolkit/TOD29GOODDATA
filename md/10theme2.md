@@ -16,4 +16,4 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-#Theme 2: Good Data and Justice 
+#THEME 2: GOOD DATA AND JUSTICE 
