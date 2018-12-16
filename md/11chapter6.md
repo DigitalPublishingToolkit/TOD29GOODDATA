@@ -18,8 +18,7 @@ Rights: CC BY-NC 4.0
 
 
 #6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study
-
-Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong
+*Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong*
 
 ##Introduction
 
@@ -484,49 +483,25 @@ from the cleaned records. Four steps are repeated for each batch of
 examples from the training data:
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.png)
+*Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.*
+
+| Feature                                                         | Description                                                                                                                                                                                      |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                 | *Oﬀender demographic characteristics*                                                                                                                                                              |
+| Gender                                                          | Whether the oﬀender was recorded in ROD as male or female.                                                                                                                                       |
+| Age                                                             | The age category of the oﬀender at the court appearance, derived from the date of birth of the oﬀender and the date of finalization for the court appearance.                                    |
+| Indigenous status                                               | Recorded in ROD as ‘Indigenous’ if the oﬀender had ever identified as being of Aboriginal or Torres Strait Islander descent, otherwise ‘non-Indigenous’.                                         |
+| Disadvantaged areas index Quartile                              | Measures disadvantage of an oﬀender’s residential postcode at the time of the oﬀence. Based on the Socio-Economic Index for Areas (SEIFA) score produced by the Australian Bureau of Statistics. |
+|                                                                 | *Conviction characteristics*                                                                                                                                                                       |
+| Concurrent oﬀences                                              | Number of concurrent proven oﬀences, including the principal oﬀence, at the oﬀender’s court appearance.                                                                                          |
+| AVO breaches                                                    | Number of proven breaches of Apprehended Violence Order (AVO) at the court appearance.                                                                                                           |
+|                                                                 | *Criminal history characteristics*                                                                                                                                                                 |
+| Prior juvenile or adult convictions                             | Number of Youth Justice Conferences or finalized court appearances with any proven oﬀences as a juvenile or adult prior to the court appearance.                                                 |
+| Prior serious violent oﬀence conviction past 5 years            | Number of Youth Justice Conferences or finalized court appearances in the 5 years prior with any proven homicide or serious assault.                                                             |
+| Prior DV-related property damage oﬀence conviction past 2 years | Number of Youth Justice Conferences or finalized court appearances in the 2 years prior with any proven DV-related property damage oﬀence.                                                       |
+| Prior bonds past 5 years                                        | Number of finalized court appearances in the 5 years prior at which given a bond.                                                                                                                |
+| Prior prison or custodial order                                 | Number of previous finalized court appearances at which given a full-time prison sentence or custodial order.                                                                                    |
 *Table 1: Independent features in the BOCSAR dataset.*
-
-
-Feature Description
-
-  --------------------------------- ----------------------------------------------------------------------
-                                    *Oﬀender demographic characteristics*
-                                    
-  Gender                            Whether the oﬀender was recorded in ROD as male or female.
-  Age                               The age category of the oﬀender at the court appearance,
-                                    derived from the date of birth of the oﬀender
-                                    and the date of finalization for the court appearance.
-  Indigenous status                 Recorded in ROD as 'Indigenous' if the oﬀender had ever
-                                    identified as being of Aboriginal or Torres Strait Islander
-                                    descent, otherwise 'non-Indigenous'.
-  Disadvantaged areas index         Measures disadvantage of an oﬀender's residential postcode at
-  Quartile                          the time of the oﬀence. Based on the Socio-Economic Index for
-                                    Areas (SEIFA) score produced by the Australian Bureau of Statistics.
-                                    
-                                    *Conviction characteristics*
-                                    
-  Concurrent oﬀences                Number of concurrent proven oﬀences, including the principal
-                                    oﬀence, at the oﬀender's court appearance.
-  AVO breaches                      Number of proven breaches of Apprehended Violence Order (AVO)
-                                    at the court appearance.
-                                    
-                                    *Criminal history characteristics*
-                                    
-  Prior juvenile or adult           Number of Youth Justice Conferences or finalized court
-  Convictions                       appearances with any proven oﬀences as a juvenile or
-                                    adult prior to the court appearance.
-  Prior serious violent             Number of Youth Justice Conferences or finalized court
-  oﬀence conviction                 appearances in the 5 years prior with any proven
-  past 5 years                      homicide or serious assault.
-  Prior DV-related property         Number of Youth Justice Conferences or finalized court
-  damage oﬀence conviction          appearances in the 2 years prior with any proven
-  past 2 years                      DV-related property damage oﬀence.
-  Prior bonds past 5 years          Number of finalized court appearances in the 5 years prior
-                                    at which given a bond.
-  Prior prison or custodial order   Number of previous finalized court appearances at which given
-                                    a full-time prison sentence or custodial order.
-                                    
-  --------------------------------- ----------------------------------------------------------------------
 
 1.  On receiving examples of *X*, the data producer passes them through
     a neural network with weights *θ*~1~ to produce examples of *Z*
@@ -567,13 +542,8 @@ input features for each example, as shown in Table [1](#page9). The
 input features are grouped to represent the oﬀender, oﬀence, and
 criminal history related characteristics of the oﬀenders.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.tiff)
-*Figure 2: Results of applying pre-processing to the BOCSAR dataset,
-followed by logistic regression, to predict DV reoﬀences. Baselines
-using logistic regression without pre-processing are shown as dashed
-lines. The y-axes show several fairness and accuracy measures of
-interest on the test data. The x-axes show the parameter ***λ*** used in
-pre-processing on a logarithmic scale.*
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.tiff)*Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed
+lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter **λ** used in pre-processing on a logarithmic scale.*
 
 The target variable is whether or not an individual re-committed a DV
 related oﬀence within a duration of 24 months since the first court

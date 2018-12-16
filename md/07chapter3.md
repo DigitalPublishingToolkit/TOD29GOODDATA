@@ -164,7 +164,7 @@ are described in this chapter.
 |                       | use                   |                       |
 +-----------------------+-----------------------+-----------------------+
 
-*Table 1: Guidelines for 'good data'.*
+<left>*Table 1: Guidelines for 'good data'.*<left />
 
 The above questions might assist data producers and consumers to
 consider the impacts on their research outcomes.

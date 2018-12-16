@@ -568,7 +568,7 @@ comparability of case studies.
 | **InfoAmazonia**                                            | Satellite imagery, crowdsourced citizen data, citizen sensing      | 2nd (public data), 3rd (crowdsourced data) and 5th (own data) | Public satellite imagery; crowdsourcing platform; sensors (i.e. water quality)                                                                                                        |
 | **Ushahidi**                                                | Crowdsourced citizen data; websites and social media               | 2nd (public data)and 3rd (crowdsourced data)                  | Crowdsourcing platform and scraping methods (i.e. for verification); scraping                                                                                                         |
 | **Citizen sensing in Gabrys, Pritchard and Barratt (2016)** | Citizen sensing                                                    | 5th (own data)                                                | Sensors                                                                                                                                                                               |
-<br /><left>*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]</left>
+<br /><left>*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]<left />
 
 Forensic Architecture employs advanced architectural and media research
 on behalf of international prosecutors, human rights organizations and
@@ -670,7 +670,7 @@ usable:
 > incoming data and adjust accordingly. Our definition of good data
 > could be: It passes our initial raw input data validation filters;
 > it's normalized to our system\'s internal requirements; it doesn't
-> produce abnormalities in data QA ***(quality assurance)*** statistics,
+> produce abnormalities in data QA *(quality assurance)* statistics,
 > and it fits into each of the system's internal data structures.
 
 Interviewees 1, 2 and 4 suggest that what is good enough today, can

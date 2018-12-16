@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # 20: *Domesticating Data*: Socio-Legal Perspectives on Smart Homes and Good Data Design
 
-Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart
+*Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart*
 
 **Abstract**
 

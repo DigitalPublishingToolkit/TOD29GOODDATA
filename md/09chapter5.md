@@ -19,8 +19,8 @@ Rights: CC BY-NC 4.0
 
 # 5: An Energy Data Manifesto
 
-Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts,
-Iain MacGill, Anna Bruce and Rob Passey
+*Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts,
+Iain MacGill, Anna Bruce and Rob Passey*
 
 **Abstract**
 
@@ -32,7 +32,7 @@ coal power plants to competition policy. We outline paths forward in
 three overlapping areas: firstly, data for the empowerment of consumers
 should see easier access to usage data provided by retailers, whilst new
 collectives to produce energy should be encouraged and enabled. Secondly
-under the umbrella of 'data for accountability', we situate practical
+under the umbrella of ‘data for accountability’, we situate practical
 work we have undertake in open source modelling in a wider set of
 concerns about how retailers and electricity supply (poles and wires)
 businesses are run. Finally, building on these two areas, we speculate
@@ -40,13 +40,13 @@ how moving past the binary between individual versus corporate interest
 may enable a more democratic and accountable research capacity into
 energy planning. We conclude noting the scale and scope of challenges
 facing energy policy makers in Australia and underscore the importance
-of a strategic 'technopolitics' -- the technical details of market
-design -- to both effective action on climate change and robust,
-sustainable energy systems. 
+of a strategic ‘technopolitics’ – the technical details of market design
+– to both effective action on climate change and robust, sustainable
+energy systems. 
 
 ## Introduction
 
-A spectre is haunting Australia -- the spectre of an energy transition.
+A spectre is haunting Australia – the spectre of an energy transition.
 All the powers of the old energy sector have entered an unholy alliance
 to exorcise this spectre.[^05chapter5_1] Enabled by rapid technological changes,
 including developments in distributed solar, storage, metering and
@@ -60,8 +60,8 @@ politicians and others are pushing to maintain present asymmetries in
 energy data collection and access. Two things result from the struggle
 to remedy these asymmetries:
 
-1.  A revolution in how we collect and disseminate energy data --
-    especially that of end-users -- is sorely needed. This is widely
+1.  A revolution in how we collect and disseminate energy data –
+    especially that of end-users – is sorely needed. This is widely
     acknowledged by Australian policy-makers.
 
 2.  Appropriate frameworks are urgently needed for collecting and
@@ -80,7 +80,7 @@ We focus on the electricity sector that is the primary subject of our
 work, and where the quantity and complexity of energy data is increasing
 rapidly, with only limited guidance from policy-makers regarding who
 should have access and under what terms. This work is both technical and
-political -- it redraws the boundaries of which actors have access to
+political – it redraws the boundaries of which actors have access to
 relevant data, and, therefore, who can make decisions. Political
 structures are important in shaping regulation, but equally, politics
 and regulations are shaped by technical details and flows of data.
@@ -124,27 +124,16 @@ There was far less focus on the role of public energy data (Box 1) to
 facilitate effective engagement at the distribution network and retail
 market level.
 
-+-----------------------------------------------------------------------+
-| **Box 1: What is 'Public Energy Data'?**                              |
-|                                                                       |
-| Energy data typically refers to information over time regarding the   |
-| level of energy consumption, generation, quality,[^05chapter5_6] and price. When |
-| coupled with metadata (such as consumer location or demographics),    |
-| this data can yield valuable insights for researchers, and            |
-| policymakers in domains such as urban planning, demography, and       |
-| sociology. We use the prefix '*public'* to refer to energy data which |
-| is freely and publicly available. This can be contrasted to           |
-| proprietary data held by privately owned retailers or within          |
-| government departments. Public refers to both the state of            |
-| accessibility and the process of making otherwise enclosed data       |
-| freely available.                                                     |
-+-----------------------------------------------------------------------+
+| **Box 1: What is ‘Public Energy Data’?**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Energy data typically refers to information over time regarding the level of energy consumption, generation, quality,[^05chapter5_5] and price. When coupled with metadata (such as consumer location or demographics), this data can yield valuable insights for researchers, and policymakers in domains such as urban planning, demography, and sociology. We use the prefix ‘*public’* to refer to energy data which is freely and publicly available. This can be contrasted to proprietary data held by privately owned retailers or within government departments. Public refers to both the state of accessibility and the process of making otherwise enclosed data freely available. |
 
-Market design decisions in the 1990s mean that key parameters of the
+
+<br /> Market design decisions in the 1990s mean that key parameters of the
 energy markets are published online. The Federal regulator AEMO
 publishes energy consumption and wholesale price across regions (such as
 New South Wales) and updates this information every five minutes. energy
-data demonstrate the importance of aggregation^.^[^05chapter5_7] When household
+data demonstrate the importance of aggregation^.^[^05chapter5_6] When household
 data includes thousands or even millions of households, it yields
 insights relevant to decision-making about the supply and distribution
 system (poles and wires), retail and wholesale markets. Because Retailer
@@ -156,7 +145,7 @@ and broader decision-making.
 ## Data for Empowerment of Consumers and New Collectives
 
 Decarbonising an electricity sector governed through the competition
-policy paradigm has proven incredibly problematic.[^05chapter5_8] A new paradigm of
+policy paradigm has proven incredibly problematic.[^05chapter5_7] A new paradigm of
 governing carbon emissions through a nationally regulated cap and trade
 scheme spluttered into life briefly in 2012 before being snuffed out by
 the Coalition Government of Tony Abbott in 2014.
@@ -190,12 +179,12 @@ increasingly prevalent, secure energy data sharing is needed to
 facilitate new markets and options.
 
 Community groups such as Pingala and ClearSky Solar have been asking the
-question, 'who should have energy usage data and under what
-circumstances?' with quite different perspectives to those of network
+question, ‘who should have energy usage data and under what
+circumstances?’ with quite different perspectives to those of network
 operators, the large retailers and Federal regulators that are a legacy
 of the old paradigm. These community groups seek to democratise
-ownership of the energy system through facilitating communities'
-investment in solar PV assets and sale of the electricity generated.[^05chapter5_9]
+ownership of the energy system through facilitating communities’
+investment in solar PV assets and sale of the electricity generated.[^05chapter5_8]
 However, without visibility over relevant data to investment
 decision-making and electricity loads, participation in the electricity
 market is more difficult. Managing a decentralised, variable renewable
@@ -207,7 +196,7 @@ installed across Australia, the required data acquisition tools have not
 been deployed in parallel at a similar scale. Distributed resources to
 monitor and forecast their own operation are much better able to
 integrate with and respond to price signals, especially when aggregated
-into Virtual Power Plants -- where a host of smaller controllable loads
+into Virtual Power Plants – where a host of smaller controllable loads
 such as battery systems, electric cars, air conditioners and/or pool
 pumps act together like a physical power station.
 
@@ -215,7 +204,7 @@ In this political and regulatory context, data empowerment for the
 grassroots provides hope. For individual consumers, this can simply mean
 being able to compare their retail offer with others. This has been made
 somewhat possible, to the extent possible just by using bill data, via
-the Australian Government's 'Energy Made Easy' website, while the
+the Australian Government’s ‘Energy Made Easy’ website, while the
 Australian Consumer Association, Choice, is also developing a tool to
 inform consumers in the marketplace, particularly around purchases of
 solar or batteries. For communities, empowerment can mean accessing the
@@ -227,7 +216,7 @@ generation data to facilitate real-time peer-to-peer local energy
 trading in a microgrid or across the network as exemplified by Power
 Ledger or LO3. However, even timeseries usage data from a single site is
 currently typically not available or easily accessible. Rather than
-being "allowed" retrospective access to their data, there are collective
+being “allowed” retrospective access to their data, there are collective
 benefits in households having real-time access to their energy use data,
 with the ability to control access to that data and to share it with
 trusted organisations.
@@ -237,15 +226,15 @@ an apt example for a new paradigm of data flows. In this case, community
 owned retailer Enova is seeking to enable local sharing of generated
 solar power between consumers in an arts and industrial estate and is
 considering battery energy storage to increase the volume of solar power
-consumer locally.[^05chapter5_10] In this instance, the data is essential to
+consumer locally.[^05chapter5_9] In this instance, the data is essential to
 allowing peer-to-peer energy trading, which otherwise would not be
 possible and critically, understanding of the collective energy needs
 for the estate would not be known. Furthermore, the ability for a
 battery to provide network benefits requires understanding of network
 conditions, typically known only by the local distribution network
-service provider.[^05chapter5_11] Open Utility in the UK is a similar example,
+service provider.[^05chapter5_10] Open Utility in the UK is a similar example,
 enabling consumers to trade peer-to-peer through a retailer, and looking
-to offer networks flexibility services.[^05chapter5_12]
+to offer networks flexibility services.[^05chapter5_11]
 
 These examples demonstrate that appropriate data access can foster
 creativity with legal structures and contracts which enables communities
@@ -267,6 +256,7 @@ to distributed, sustainable energy economy.
 -   Further experimentation with the legal form of electricity
     businesses that will enable investments in renewable energy.
 
+## 
 
 ## Data for Accountability
 
@@ -282,9 +272,9 @@ collectives, and brings with it risks of high costs and new power
 imbalances. The Australian Energy Market Operator have recently
 identified a potential cost reduction of nearly \$4 billion if
 distributed energy resources (namely rooftop solar PV and battery energy
-storage) are effectively integrated,[^05chapter5_13] whilst also flagging the
+storage) are effectively integrated,[^05chapter5_12] whilst also flagging the
 substantial risks associated with the lack of visibility and control
-that distributed energy resources afford.[^05chapter5_14] In this context of
+that distributed energy resources afford.[^05chapter5_13] In this context of
 technological change and associated market and regulatory reform, we see
 public energy data as a critical tool in a) ensuring efficient outcomes,
 particularly as they can remedy historical incentives and incumbent
@@ -292,11 +282,11 @@ player advantages, and; b) supporting fair outcomes by increasing
 visibility of the distribution of costs and benefits associated with the
 transition.
 
-Network Service Providers (NSPs) own and operate the 'poles and wires'
+Network Service Providers (NSPs) own and operate the ‘poles and wires’
 across Australia and present a particular challenge for regulators and
 rule makers. As regulated monopolies, they need to be effectively
 supervised without stifling innovation. They are subject to five yearly
-reviews in which their revenue for the upcoming 'regulatory period' is
+reviews in which their revenue for the upcoming ‘regulatory period’ is
 set by the Australian Energy Regulator (AER), based on information
 provided by the NSPs. Their regulated task of ensuring energy supply is
 technically complex and they are increasingly challenged as distributed
@@ -310,48 +300,20 @@ that install these technologies. Improved independent oversight of
 technical conditions in the depths of the network (e.g. Box 2) may lead
 to more efficient and fair investment and operational outcomes.
 
-+-----------------------------------------------------------------------+
-| **Box 2: The importance of voltage data for integrating distributed   |
-| renewables **                                                         |
-|                                                                       |
-| **Understanding how networks are functioning at both the high voltage |
-| transmission and low voltage distribution ends is crucial to          |
-| integrating renewable energy resources effectively and at a fair cost |
-| to society. For instance, as PV uptake continues, a technical upper   |
-| voltage limit is reached at local transformers, at which point it is  |
-| difficult for additional PV to connect to the network. The            |
-| responsibility of Network Service Providers to maintain a stable      |
-| electricity network can lead them to a cautious approach to           |
-| integration of distributed renewables, and in some jurisdictions,     |
-| this has resulted in NSPs drastically restricting deployment of       |
-| residential PV.**[^05chapter5_18]                                                |
-|                                                                       |
-| **However, recent data analysis -- which used information captured    |
-| from independent monitoring of household PV systems -- shows that     |
-| network voltages are generally high due to historic network decision  |
-| making (distribution transformer set points were generally set at a   |
-| high voltage, leaving minimal 'headroom' for PV).**[^05chapter5_19] **This has   |
-| implications for exporting rooftop PV electricity to the national     |
-| grid. The visibility afforded by voltage data readings across the     |
-| network may enable scrutiny of network expenditure to ensure money is |
-| spent in a judicious manner;**[^05chapter5_20] **there may be cost-effective     |
-| solutions to maintain grid stability without placing unnecessary      |
-| restrictions on deployment of distributed PV.**                       |
-|                                                                       |
-| **Access to such data is key to overcoming integration barriers and   |
-| market asymmetries, and as such is an important companion to wider    |
-| policies on a just energy transition that have received more          |
-| widespread attention such as the Renewable Energy Target and carbon   |
-| pricing schemes.**                                                   |
-+-----------------------------------------------------------------------+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Box 2: The importance of voltage data for integrating distributed renewables **
+  
+  Understanding how networks are functioning at both the high voltage transmission and low voltage distribution ends is crucial to integrating renewable energy resources effectively and at a fair cost to society. For instance, as PV uptake continues, a technical upper voltage limit is reached at local transformers, at which point it is difficult for additional PV to connect to the network. The responsibility of Network Service Providers to maintain a stable electricity network can lead them to a cautious approach to integration of distributed renewables, and in some jurisdictions, this has resulted in NSPs drastically restricting deployment of residential PV.[^05chapter5_14]<br /><br />
+  However, recent data analysis – which used information captured from independent monitoring of household PV systems – shows that network voltages are generally high due to historic network decision making (distribution transformer set points were generally set at a high voltage, leaving minimal ‘headroom’ for PV).[^05chapter5_15] This has implications for exporting rooftop PV electricity to the national grid. The visibility afforded by voltage data readings across the network may enable scrutiny of network expenditure to ensure money is spent in a judicious manner;[^05chapter5_16] there may be cost-effective solutions to maintain grid stability without placing unnecessary restrictions on deployment of distributed PV.<br /><br />Access to such data is key to overcoming integration barriers and market asymmetries, and as such is an important companion to wider policies on a just energy transition that have received more widespread attention such as the Renewable Energy Target and carbon pricing schemes.
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-We believe the existing regulatory hierarchy of access rights to
+<br />We believe the existing regulatory hierarchy of access rights to
 electricity usage data requires restructuring. As things stand,
-incumbent retailers automatically have full access to their customers'
+incumbent retailers automatically have full access to their customers’
 data which they can use for commercial purposes beyond just ensuring
 accurate billing, such as targeted marketing. While recent regulatory
 changes give customers the right to access their electricity consumption
-data from retailers or NSPs, [^05chapter5_21] householders must apply
+data from retailers or NSPs, [^05chapter5_17] householders must apply
 retrospectively for the data, while both the application process and the
 format of data supplied lack consistency and clarity. Although the
 regulation allows a customer to authorise a third party to access their
@@ -361,8 +323,8 @@ are exempted from the time limits imposed on retailers and NSPs to
 provide data. This leaves researchers, along with community groups and
 other players needing data from multiple users, at the bottom of the
 pile. The creation of Consumer Data Rights will likely entrench this
-hierarchy, further entrenching a regulatory mindset of 'individual
-household vs. corporations', hobbling collectively forms of action from
+hierarchy, further entrenching a regulatory mindset of ‘individual
+household vs. corporations’, hobbling collectively forms of action from
 these other forms of actors.
 
 A hierarchy based on the purpose of data usage could be designed to
@@ -375,7 +337,7 @@ schemes that include ongoing re-evaluation of the data usage. Customers
 should be empowered to easily give or withdraw consent to access their
 data for specific purposes, which may involve a role for a delegated
 authority (similar to the community representative committees in
-Nepal)[^05chapter5_22] to respond to specific access requests on their behalf.
+Nepal)[^05chapter5_18] to respond to specific access requests on their behalf.
 
 A good energy data regime cannot continue to play by the incumbent
 rules. Good policy-making and robust regulation depend on access to data
@@ -383,59 +345,25 @@ and the development of appropriate models and methods for analysis that
 allow efficiency, competition and equity to be assessed. Outdated rules
 must be reformed so that data can be harnessed by individual consumers
 and those that act on their behalf, community energy groups and
-consumer-advocates.[^05chapter5_23]
+consumer-advocates.[^05chapter5_19]
 
 It has been especially challenging for consumer advocacy groups, NGOs,
 and general public to effectively participate and engage in regulatory
-decision-making processes. Network operators' submissions to regulatory
+decision-making processes. Network operators’ submissions to regulatory
 process could be made available to consumer groups and researchers for
 greater scrutiny. To effectively engage with these groups, they should
 also provide access to appropriate analysis and modelling platforms.
-CEEM's tariff analysis tool (Box 3) provides an example of a transparent
+CEEM’s tariff analysis tool (Box 3) provides an example of a transparent
 and open-source modelling platform that can improve stakeholder
 engagement around electricity prices.
 
-+-----------------------------------------------------------------------+
-| **Box 3: Opening the black boxes: CEEM's Tariff Analysis Tool**       |
-|                                                                       |
-| CEEM's tariff analysis tool is an example of an open source model     |
-| which is accessible by stakeholders like think tanks, community       |
-| energy organisations, local councils and policy-makers.[^05chapter5_25]          |
-|                                                                       |
-| Consumers' ability to reduce their consumption using energy           |
-| efficiency and solar is altering the distribution of revenue          |
-| collection from consumers via tariffs, and has drawn attention to     |
-| apparent cross-subsidies from traditional electricity-consuming       |
-| customers to solar 'prosumers', while users of air-conditioning have  |
-| also been identified as placing an unfair cost burden on other        |
-| customers. Along with emerging costs of transforming the electricity  |
-| network to a more distributed model, this has driven regulatory       |
-| changes that now require network utilities to develop more            |
-| cost-reflective tariffs. However, the proprietary energy models used  |
-| by network providers and their private consultants are often complex, |
-| opaque and based on assumed variables, making it possible for the     |
-| energy modellers to exploit uncertainties within a regulatory context |
-| biased towards recovering capital expenditure on electricity          |
-| infrastructure.                                                       |
-|                                                                       |
-| To overcome this information asymmetry, CEEM's tariff tool allows     |
-| stakeholders to test different electricity network tariffs on         |
-| different sets of customers and investigate the impact on users'      |
-| electricity bills, their cost-reflectivity, and distributional        |
-| impacts using anonymised load data. Because it is open-source, the    |
-| tool and results can be easily verified and can therefore facilitate  |
-| transparency and more robust regulatory decisions.                    |
-|                                                                       |
-| Unlike black-box and expensive proprietary energy models which are    |
-| usually only available to powerful incumbent stakeholders, open       |
-| source modelling platforms can be used, expanded, scrutinised, and    |
-| verified by any interested stakeholders. This democratisation of      |
-| tariff analysis is an example of how open source tools can empower    |
-| more stakeholders, improve the operation of markets, regulation and   |
-| policymaking.                                                         |
-+-----------------------------------------------------------------------+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool**
+  
+  CEEM’s tariff analysis tool is an example of an open source model which is accessible by stakeholders like think tanks, community energy organisations, local councils and policy-makers.[^05chapter5_20]<br /><br />Consumers’ ability to reduce their consumption using energy efficiency and solar is altering the distribution of revenue collection from consumers via tariffs, and has drawn attention to apparent cross-subsidies from traditional electricity-consuming customers to solar ‘prosumers’, while users of air-conditioning have also been identified as placing an unfair cost burden on other customers. Along with emerging costs of transforming the electricity network to a more distributed model, this has driven regulatory changes that now require network utilities to develop more cost-reflective tariffs. However, the proprietary energy models used by network providers and their private consultants are often complex, opaque and based on assumed variables, making it possible for the energy modellers to exploit uncertainties within a regulatory context biased towards recovering capital expenditure on electricity infrastructure.<br /><br />To overcome this information asymmetry, CEEM’s tariff tool allows stakeholders to test different electricity network tariffs on different sets of customers and investigate the impact on users’ electricity bills, their cost-reflectivity, and distributional impacts using anonymised load data. Because it is open-source, the tool and results can be easily verified and can therefore facilitate transparency and more robust regulatory decisions.<br /><br />Unlike black-box and expensive proprietary energy models which are usually only available to powerful incumbent stakeholders, open source modelling platforms can be used, expanded, scrutinised, and verified by any interested stakeholders. This democratisation of tariff analysis is an example of how open source tools can empower more stakeholders, improve the operation of markets, regulation and policymaking.
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Regulators of energy retail licenses (AER), energy reliability (AEMO)
+<br />Regulators of energy retail licenses (AER), energy reliability (AEMO)
 and market competition and power (ACCC) have particularly important
 roles in maintaining the accountability of energy market players. and
 existing so-called markets in energy services have some fundamental
@@ -464,6 +392,7 @@ challenging to obtain, for other potential energy service providers.
     regulatory decision-making to reduce reliance on opaque analysis
     from private consultants
 
+## 
 
 ## Data for the People: The Potential of Standards
 
@@ -474,23 +403,23 @@ Rights to privacy, to withdraw from research and so forth, can act as
 valuable bulwarks against the abuse of the powers and privileges to
 access sensitive data.
 
-But singular moments of 'consent' are not ideal for the dynamics of
+But singular moments of ‘consent’ are not ideal for the dynamics of
 energy data research, nor are they suitable for the digital platforms
-upon which much of today's interactions take place. Blurred boundaries
+upon which much of today’s interactions take place. Blurred boundaries
 between public-interest research and commercially-driven consultancy
 (exacerbated by privatisation of public institutions and increased
 corporatisation of universities) sharpen the need for consent
 conditional on the *purpose* of proposed data usage. Data activist
-Paul-Olivier Dehaye has recently quipped that a lot of 'data protection
+Paul-Olivier Dehaye has recently quipped that a lot of ‘data protection
 issues come from a narrow-minded business view of personal data as
 commodity. Much better is to embrace the European view, with a notion of
-personhood covering flows of personal data as well'.[^05chapter5_26] This move from
+personhood covering flows of personal data as well’.[^05chapter5_21] This move from
 liberal privacy to communal personhood, he suggests is analogous to the
 shift from property rights to granting rights to rivers.
 
 Ongoing public dialogue over the trade-off between privacy concerns and
 the granularity and reliability of data for analysis is required in such
-a shift -- especially where the appropriation of data for private gain
+a shift – especially where the appropriation of data for private gain
 has often occurred at the behest of government agencies. Privacy,
 granularity and reliability of data for analysis and decision-making are
 intimately related for the purposes of infrastructure planning. Usage
@@ -505,7 +434,7 @@ there is little privacy or commercial risk involved in releasing it.
 However, the same data identified by street address, while potentially
 even more useful for certain purposes, requires more careful handling.
 
-Public debate over energy data privacy often focuses on an individual's
+Public debate over energy data privacy often focuses on an individual’s
 place of residence. This is often a result of imagining an individual
 household as a final fortress in an increasingly invasively connected
 world. As a result, energy researchers are hamstrung by highly
@@ -529,24 +458,24 @@ abstraction of data:
     distributed generation such as rooftop PV and batteries. These
     systems can have significant impacts on the security of the
     electricity system (i.e. the ability for the system to keep working
-    without significant risk of power quality issues),[^05chapter5_27] however
+    without significant risk of power quality issues),[^05chapter5_22] however
     their behaviours need to be understood in the context of their local
     network. Postcode level anonymisation makes this near impossible,
     whereas street location or even location on a specific section of
-    the 'poles and wires' would be ideal.
+    the ‘poles and wires’ would be ideal.
 
 Just as a more communal notion of personhood can foster better data
 practice outcomes, social scientists have argued that shifting the focus
 away from individual choice towards collective responsibility is key to
-effective climate action.[^05chapter5_28] During our research, we have observed
+effective climate action.[^05chapter5_23] During our research, we have observed
 that individual consumers do not act as rational agents without help
 from material devices that enable calculation: they need apps, meters,
-interfaces and other market tools to act as 'rational actors' in the
+interfaces and other market tools to act as ‘rational actors’ in the
 context of competitive retail markets. Moreover, it is often only
-through co-ordinated activity -- selling aggregated generation from
+through co-ordinated activity – selling aggregated generation from
 multiple small PV systems, co-ordinating temporal shifting of their
 electricity use to periods of low demand or applying the output of a
-collectively owned generator to their aggregated load -- that they can
+collectively owned generator to their aggregated load – that they can
 engage effectively with the market.
 
 Accessing data requires careful consideration about the purpose and
@@ -557,14 +486,14 @@ facilities and improved network planning, yet also opportunities for
 well-resourced burglars to identify unattended dwellings, or for
 targeted advertising campaigns based on identification of existing
 appliances through their usage footprints. Highlighted in the rollout of
-'smart meters' or Advanced Metering Infrastructure across Victoria,[^05chapter5_29]
+‘smart meters’ or Advanced Metering Infrastructure across Victoria,[^05chapter5_24]
 similar challenges are also flagged by the CSIRO in its ongoing Energy
-Use Data Model project,[^05chapter5_30] which seeks to collect an array of data
-across Australia for research and consultancy purposes.[^05chapter5_31]
+Use Data Model project,[^05chapter5_25] which seeks to collect an array of data
+across Australia for research and consultancy purposes.[^05chapter5_26]
 
 Data misuse, targeted marketing or malicious attacks on the energy
 market participants requires vigilance and effectively resourced
-regulators.[^05chapter5_32] As researchers, we are mindful of the trust we solicit
+regulators.[^05chapter5_27] As researchers, we are mindful of the trust we solicit
 when we ask for data at a time when purposeful exploitation of personal
 data is a commonplace business model. If we cannot engender trust, we
 rightly risk losing access to appropriate data.
@@ -573,7 +502,7 @@ The rights and responsibilities of all energy data stakeholders need to
 be rebalanced to harness the power of energy data in the interests of
 energy users and society. Privacy is vital but should be considered in
 this wider context. Policies mandating social and ethical
-responsibilities integrated with public research and innovation,[^05chapter5_33]
+responsibilities integrated with public research and innovation,[^05chapter5_28]
 such as those in the EU Horizon 2020, offer one platform to address the
 challenge of maintaining trust. Researchers have a responsibility to
 maintain security and confidentiality, through de-identification of
@@ -583,31 +512,12 @@ sharing of anonymised data with other public-interest researchers and
 groups and undermine commercial exploitation of publicly-funded or
 personally-sourced data.
 
-+-----------------------------------------------------------------------+
-| **Box 4: Making a Data Commons from Household Photovoltaic Solar      |
-| Output** http://pvoutput.org                                          |
-|                                                                       |
-| PVOutput is a free online service for sharing and comparing           |
-| distributed photovoltaic solar generation unit output data across     |
-| time. It provides both manual and automatic data uploading facilities |
-| for households to contribute the outputs from their photovoltaic      |
-| system.                                                               |
-|                                                                       |
-| PVOutput began in 2010 as an open-access commons in response to the   |
-| interest and enthusiasm of many households deploying PV to let others |
-| know of their system performance. It then, unintentionally but        |
-| certainly fortuitously, came to fill the growing need for an          |
-| aggregate measurement of the contribution of photovoltaic solar to    |
-| the grid. The site has become a public resource that is used by a     |
-| wide range of market participants, including those seeking to         |
-| facilitate rule changes that recognise the value of distributed PV    |
-| systems, and others seeking to improve network planning. Today there  |
-| are over 1.7m households in Australia with photovoltaic solar and     |
-| PVoutput.org has played a key role in helping researchers and other   |
-| stakeholders understand the challenges and opportunities this         |
-| presents.                                                             |
-+-----------------------------------------------------------------------+
-
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Box 4: Making a Data Commons from Household Photovoltaic Solar Output** http://pvoutput.org
+  
+  PVOutput is a free online service for sharing and comparing distributed photovoltaic solar generation unit output data across time. It provides both manual and automatic data uploading facilities for households to contribute the outputs from their photovoltaic system.<br /><br />PVOutput began in 2010 as an open-access commons in response to the interest and enthusiasm of many households deploying PV to let others know of their system performance. It then, unintentionally but certainly fortuitously, came to fill the growing need for an aggregate measurement of the contribution of photovoltaic solar to the grid. The site has become a public resource that is used by a wide range of market participants, including those seeking to facilitate rule changes that recognise the value of distributed PV systems, and others seeking to improve network planning. Today there are over 1.7m households in Australia with photovoltaic solar and PVoutput.org has played a key role in helping researchers and other stakeholders understand the challenges and opportunities this presents.
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br />
 ### Standards are sorely needed
 
 Research currently requires a pragmatic approach to making sense of
@@ -615,35 +525,23 @@ data. Metadata is often incomplete or incorrect. Strings of numbers with
 no indication of the units of measurement (e.g. kWh, kW or kVA) have
 little value. Time stamps are particularly vexatious, as inconsistent
 treatment of daylight-saving periods, time zones and even time period
-'ending' or 'starting' can all lead to misleading analysis outcomes. The
+‘ending’ or ‘starting’ can all lead to misleading analysis outcomes. The
 detail on exactly what a data set contains must be documented (and kept
 current) and have a clear standard across the industry.
 
 The Australian Energy Market Operator has recently gone to great lengths
-to establish a data communication standard at the utility scale,[^05chapter5_34]
+to establish a data communication standard at the utility scale,[^05chapter5_29]
 whilst requirements for a new register of distributed energy resource
-metadata is in the final stages of consultation.[^05chapter5_35]
+metadata is in the final stages of consultation.[^05chapter5_30]
 
-+-----------------------------------------------------------------------+
-| **Box 5: The Green Button Initiative has empowered electricity        |
-| consumers**                                                           |
-|                                                                       |
-| *'The Green Button initiative is an industry-led effort that responds |
-| to a 2012 White House call-to-action to provide utility customers     |
-| with easy and secure access to their energy usage information in a    |
-| consumer-friendly and computer-friendly format for electricity,       |
-| natural gas, and water usage.'*[^05chapter5_37]                                  |
-|                                                                       |
-| Inspired by the success of the *Blue Button* in providing access to   |
-| health records, *Green Button* was an initiative of the US Chief      |
-| Technology Officer that was taken up by utilities, network operators, |
-| technology suppliers and integrators, policy makers and regulators.   |
-| *Green Button* is a standardised API web service and a common data    |
-| format for transmission of energy data.                               |
-+-----------------------------------------------------------------------+
-
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Box 5: The Green Button Initiative has empowered electricity consumers**
+  
+  *‘The Green Button initiative is an industry-led effort that responds to a 2012 White House call-to-action to provide utility customers with easy and secure access to their energy usage information in a consumer-friendly and computer-friendly format for electricity, natural gas, and water usage.’*[^05chapter5_31]<br /><br />Inspired by the success of the *Blue Button* in providing access to health records, *Green Button* was an initiative of the US Chief Technology Officer that was taken up by utilities, network operators, technology suppliers and integrators, policy makers and regulators. *Green Button* is a standardised API web service and a common data format for transmission of energy data.
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br />
 Standardised reporting criteria and formats enable collective
-knowledge-sharing.[^05chapter5_38] By standardising energy data, consumers,
+knowledge-sharing.[^05chapter5_32] By standardising energy data, consumers,
 researchers and industry will be able to build tools and perform
 analysis upon a stable platform, eliminating a wide range of common
 errors and miscalculations. As such, we recommend that, through
@@ -660,7 +558,7 @@ basis for discussion:
 -   Standard use of Unicode file formats for internationalisation
 
 -   Development of open-source tools for standard conversions (e.g.,
-    JSON -\> CSV) and translations (e.g. labels English -\> Chinese)
+    JSON -&gt; CSV) and translations (e.g. labels English -&gt; Chinese)
 
 -   Standard labelling & protocols for handling missing data
 
@@ -770,7 +668,7 @@ community enterprises to flourish and wrest power from the incumbents.
 
 -   The need for ongoing dialogue about how and where data is used.
     Analysis can discover new valuable insights that may require consent
-    to be re-evaluated - one form isn't enough!
+    to be re-evaluated - one form isn’t enough!
 
 -   Researchers have responsibility to act in the public interest when
     using public funds or public data and be mindful of data security
@@ -802,133 +700,139 @@ remains a profound challenge. Traditional political advocacy focused on
 building coalitions, writing letters, protesting and so forth remains
 vital to reforming energy politics, but it has also proved entirely
 insufficient. Political advocacy can be complemented with what Donald
-MacKenzie has termed 'technopolitics': an attention to details of policy
+MacKenzie has termed ‘technopolitics’: an attention to details of policy
 designs that may be highly consequential to the efficacy or otherwise of
-political interventions such as climate change policies.[^05chapter5_39]
+political interventions such as climate change policies.[^05chapter5_33]
 
 Climate change debates demonstrate that simply sharing evidence is
 insufficient to swaying political opinion. A growing body of Science and
 Technology Studies literature shows, instead, that evidence-making is
 situated in peculiar contexts according to the issues considered and
-audience. Evidence is contextual,[^05chapter5_40] and this is consequential to how
+audience. Evidence is contextual,[^05chapter5_34] and this is consequential to how
 distinctions between technology and politics are drawn, how and why
 coalitions around energy policies succeed or fail to affect political
 power structures. Our energy data manifesto should be read in this
-context -- a call for a new energy society.
+context – a call for a new energy society.
 
 ## References
 
-AEMC. 'Final Rule Determination: National Electricity Amendment
-(Customer access to information about their energy consumption)', 2014.
+AEMC. ‘Final Rule Determination: National
+Electricity Amendment (Customer access to information about their energy
+consumption)’, 2014.
 
-AEMC. 'National Electricity Amendment (Register of distributed energy
-resources) Rule', 2018.
+AEMC. ‘National Electricity Amendment (Register of distributed energy
+resources) Rule’, 2018.
 
 AEMO. Power System Data Communication Standard, 2018.
 
-AEMO. 'Integrated System Plan', 2018.
+AEMO. ‘Integrated System Plan’, 2018.
 
-AEMO. 'Visibility of Distributed Energy Resources', 2017.
+AEMO. ‘Visibility of Distributed Energy Resources’, 2017.
 
-Björnmalm, Mattias, Matthew Faria and Frank Caruso. 'Increasing the
+Björnmalm, Mattias, Matthew Faria and Frank Caruso. ‘Increasing the
 Impact of
 
-Materials in and beyond Bio-Nano Science' *Journal of the American
+Materials in and beyond Bio-Nano Science’ *Journal of the American
 Chemical Society*
 
 138.41 (2016): 13449-13456. DOI:10.1021/jacs.6b08673.
 
-Callon, Michel and Fabian Muniesa. 'Peripheral vision: Economic markets
-as calculative collective devices', *Organization studies* 26.8
+Callon, Michel and Fabian Muniesa. ‘Peripheral vision: Economic markets
+as calculative collective devices’, *Organization studies* 26.8
 (2005):1229-1250.
 
-CSIRO. 'Energy Use Data Model (EUDM)', 2015, https://research.csiro.au/distributed-systems-security/projects/energy-data-use-model/.
+CSIRO. ‘Energy Use Data Model (EUDM)’, 2015,
+https://research.csiro.au/distributed-systems-security/projects/energy-data-use-model/.
 
-Green Button Alliance. 'Green Button Data', 2015,
+Green Button Alliance. ‘Green Button Data’, 2015,
 http://www.greenbuttondata.org/.
 
-International Energy Agency. 'Digitization and Energy', 2017
+International Energy Agency. ‘Digitization and Energy’, 2017
 http://www.iea.org/publications/freepublications/publication/DigitalizationandEnergy3.pdf.
 
-Islam, S. N., M. A. Mahmud and A.M.T. Oo. 'Impact of optimal false data
-injection attacks on local energy trading in a residential microgrid.'
-*ICT Express*, 4.1 (2018): 30-34, DOI: http://doi:10.1016/j.icte.2018.01.015.
+Islam, S. N., M. A. Mahmud and A.M.T. Oo. ‘Impact of optimal false data
+injection attacks on local energy trading in a residential microgrid.’
+*ICT Express*, 4.1 (2018): 30-34, DOI:
+http://doi:10.1016/j.icte.2018.01.015.
 
-Kuch, Declan and Bronwen Morgan. 'Dissonant Justifications: an
-organisational perspective of support for Australian community energy',
+Kuch, Declan and Bronwen Morgan. ‘Dissonant Justifications: an
+organisational perspective of support for Australian community energy’,
 *People Place and Policy* 9 (2015): 177-218.
 
 Lew, Debra, Mark Asano, Jens Boemer, Colton Ching, Ulrich Focken,
-Richard Hydzik, Mathias Lange and Amber Motley. 'The Power of Small -
-The Effects of Distributed Energy Resources on System Reliability',
+Richard Hydzik, Mathias Lange and Amber Motley. ‘The Power of Small -
+The Effects of Distributed Energy Resources on System Reliability’,
 *IEEE Power & Energy Magazine.* 15 (2017): 50-60.
 
-Lockstep Consulting. 'Privacy Impact Assessment Report Advanced Metering
-Infrastructure (AMI)', Dept of Primary Industries, 2011.
+Lockstep Consulting. ‘Privacy Impact Assessment Report Advanced Metering
+Infrastructure (AMI)’, Dept of Primary Industries, 2011.
 
-MacGill, Iain, and Stephen Healy. 'Is electricity industry reform the
+MacGill, Iain, and Stephen Healy. ‘Is electricity industry reform the
 right answer to the wrong question? Lessons from Australian
-restructuring and climate policy.', in Fereidoon P. Sioshansi (ed.),
+restructuring and climate policy.’, in Fereidoon P. Sioshansi (ed.),
 *Evolution of Global Electricity Markets*, Cambridge MA: Academic Press,
 2013, pp. 615-644.
 
-MacGill, Iain, and Robert Smith. 'Consumers or prosumers, customers or
+MacGill, Iain, and Robert Smith. ‘Consumers or prosumers, customers or
 competitors?-Some Australian perspectives on possible energy users of
-the future.' *Economics of Energy & Environmental Policy* 6.1 (2017).
+the future.’ *Economics of Energy & Environmental Policy* 6.1 (2017).
 
-MacKenzie, Donald. 'Constructing Carbon Markets: Learning from
-Experiments in the Technopolitics of Emissions Trading Schemes', in A.
+MacKenzie, Donald. ‘Constructing Carbon Markets: Learning from
+Experiments in the Technopolitics of Emissions Trading Schemes’, in A.
 Lakoff (ed.), *Disaster and the Politics of Intervention*, New York:
 Columbia University Press, 2010, pp. 130-149.
 
-Owen, Richard, Phil Macnaghten and Jack Stilgoe. 'Responsible research
+Owen, Richard, Phil Macnaghten and Jack Stilgoe. ‘Responsible research
 and innovation: From science in society to science for society, with
-society'. *Science and public policy*, 39.6 (2012): 751-760.
+society’. *Science and public policy*, 39.6 (2012): 751-760.
 
-Passey, Rob, Navid Haghdadi, Anna Bruce and Iain MacGill. 'Designing
-more cost reflective electricity network tariffs with demand charges',
+Passey, Rob, Navid Haghdadi, Anna Bruce and Iain MacGill. ‘Designing
+more cost reflective electricity network tariffs with demand charges’,
 *Energy Policy*, 109 (2017): 642-649.
 
-Rhodes, T., K. Lancaster, M. Harris, M and C. Treloar. 'Evidence-making
+Rhodes, T., K. Lancaster, M. Harris, M and C. Treloar. ‘Evidence-making
 controversies: the case of hepatitis C treatment and the promise of
-viral elimination.' *Critical Public Health* (2018): 1-14.
+viral elimination.’ *Critical Public Health* (2018): 1-14.
 
-Scottish and Southern Electricity Networks (SSEN). 'SSEN and Open
-Utility partner to trial revolutionary smart grid platform', 2018, http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/.
+Scottish and Southern Electricity Networks (SSEN). ‘SSEN and Open
+Utility partner to trial revolutionary smart grid platform’, 2018,
 
-Shove, Elizabeth. 'Beyond the ABC: climate change policy and theories of
-social change' *Environment and planning A*, 42.6 (2010): 1273-1285.
+http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/.
 
-Simpson, G. 'Network operators and the transition to decentralised
-electricity: An Australian socio-technical case study.' *Energy Policy*,
+Shove, Elizabeth. ‘Beyond the ABC: climate change policy and theories of
+social change’ *Environment and planning A*, 42.6 (2010): 1273-1285.
+
+Simpson, G. ‘Network operators and the transition to decentralised
+electricity: An Australian socio-technical case study.’ *Energy Policy*,
 110 (2017): 422-433.
 
-Stringer, Naomi, Anna Bruce and Iain MacGill. 'Data driven exploration
+Stringer, Naomi, Anna Bruce and Iain MacGill. ‘Data driven exploration
 of voltage conditions in the Low Voltage network for sites with
-distributed solar PV', paper presented at the *Asia Pacific Solar
+distributed solar PV’, paper presented at the *Asia Pacific Solar
 Research Conference*, Melbourne, Australia, 2017.
 
-Trundle, Catherine. 'Biopolitical endpoints: Diagnosing a deserving
-British nuclear test veteran.' *Social Science & Medicine* 73.6 (2011):
+Trundle, Catherine. ‘Biopolitical endpoints: Diagnosing a deserving
+British nuclear test veteran.’ *Social Science & Medicine* 73.6 (2011):
 882-888.
 
-Wilkenfeld, George. 'Cutting greenhouse emissions-what would we do if we
-really meant it?', *Australian Review of Public Affairs,* 2007,
+Wilkenfeld, George. ‘Cutting greenhouse emissions-what would we do if we
+really meant it?’, *Australian Review of Public Affairs,* 2007,
 http://www.australianreview.net/digest/2007/08/wilkenfeld.html.
 
-Wilkenfeld, George and Peter Spearritt. 'Electrifying Sydney', *Sydney:
-EnergyAustralia,* 2004.
+Wilkenfeld, George and Peter Spearritt. ‘Electrifying Sydney’, Sydney:
+EnergyAustralia*,* 2004.
 
 [^05chapter5_1]: Of course, we understand this is not entirely true, and that toxic
     politics is a major barrier, but we adapt this quote from another
     famous manifesto to illustrate the difficulties being faced by
     proponents of sustainable energy in Australia.
 
-[^05chapter5_2]: George Wilkenfeld, 'Cutting greenhouse emissions-what would we do
-    if we really meant it?', *Australian Review of Public Affairs,*
-    (2007), http://www.australianreview.net/digest/2007/08/wilkenfeld.html;
-    George Wilkenfeld & Peter Spearritt, 'Electrifying Sydney', Sydney:
-    EnergyAustralia, 2004.
+[^05chapter5_2]: George Wilkenfeld, ‘Cutting greenhouse emissions-what would we do
+    if we really meant it?’, *Australian Review of Public Affairs,*
+    (2007)
+    http://www.australianreview.net/digest/2007/08/wilkenfeld.html;
+    George Wilkenfeld & Peter Spearritt, ‘Electrifying Sydney’, Sydney:
+    EnergyAustralia*,* 2004.
 
 [^05chapter5_3]: The Australian National Electricity Market uses detailed data
     regarding large-scale generation, namely five-minute market offers
@@ -943,138 +847,113 @@ EnergyAustralia,* 2004.
     and in extreme cases, poor power quality can cause damage to
     appliances.
 
-[^05chapter5_6]: Information regarding power quality relates to technical
-    characteristics of power delivered such as voltage. Power quality
-    can determine how well equipment and household appliances function,
-    and in extreme cases, poor power quality can cause damage to
-    appliances.
+[^05chapter5_6]: Available on the Australian Energy Market Operator’s website:
+    https://www.aemo.com.au/
 
-[^05chapter5_7]: Available on the Australian Energy Market Operator's website:
-    https://www.aemo.com.au/.
-
-[^05chapter5_8]: Iain MacGill and Stephen Healy, 'Is electricity industry reform
+[^05chapter5_7]: Iain MacGill and Stephen Healy, ‘Is electricity industry reform
     the right answer to the wrong question? Lessons from Australian
-    restructuring and climate policy.', in Fereidoon P. Sioshansi (ed.),
+    restructuring and climate policy.’, in Fereidoon P. Sioshansi (ed.),
     *Evolution of Global Electricity Markets*, Cambridge MA: Academic
     Press, 2013, pp. 615-644.
 
-[^05chapter5_9]: See Declan Kuch and Bronwen Morgan, 'Dissonant Justifications: an
+[^05chapter5_8]: See Declan Kuch and Bronwen Morgan, ‘Dissonant Justifications: an
     organisational perspective of support for Australian community
-    energy', *People Place and Policy* 9 (2015): 177-218.
+    energy’, *People Place and Policy* 9 (2015): 177-218.
 
-[^05chapter5_10]: See https://enovaenergy.com.au/about-us/\#structure for Enova's
+[^05chapter5_9]: See https://enovaenergy.com.au/about-us/\#structure for Enova’s
     corporate structure, which includes a holding company divided into a
     retailer which channels 50% of profits into its non-profit arm.
-    Enova's constitution specifies that most shareholders must reside
+    Enova’s constitution specifies that most shareholders must reside
     locally to the Northern Rivers region of NSW.
 
-[^05chapter5_11]: We note that there are ongoing efforts to make network
+[^05chapter5_10]: We note that there are ongoing efforts to make network
     information more widely available, for instance through the
     Australian Renewable Energy Mapping Infrastructure project.
 
-[^05chapter5_12]: Scottish and Southern Electricity Networks (SSEN), 'SSEN and Open
-    Utility partner to trial revolutionary smart grid platform', 2018,
-    http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/.
+[^05chapter5_11]: Scottish and Southern Electricity Networks (SSEN), ‘SSEN and Open
+    Utility partner to trial revolutionary smart grid platform’, 2018,
+    http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/
 
-[^05chapter5_13]: AEMO, 'Integrated System Plan', 2018.
+[^05chapter5_12]: AEMO, ‘Integrated System Plan’, 2018.
 
-[^05chapter5_14]: AEMO, 'Visibility of Distributed Energy Resources', 2017.
+[^05chapter5_13]: AEMO, ‘Visibility of Distributed Energy Resources’, 2017.
 
-[^05chapter5_15]: G. Simpson, 'Network operators and the transition to
+[^05chapter5_14]: G. Simpson, ‘Network operators and the transition to
     decentralised electricity: An Australian socio-technical case
-    study', *Energy Policy* 110 (2017): 422-433.
+    study’, *Energy Policy* 110 (2017): 422-433.
 
-[^05chapter5_16]: Naomi Stringer, Anna Bruce and Iain MacGill, 'Data driven
+[^05chapter5_15]: Naomi Stringer, Anna Bruce and Iain MacGill, ‘Data driven
     exploration of voltage conditions in the Low Voltage network for
-    sites with distributed solar PV', paper presented at the *Asia
+    sites with distributed solar PV’, paper presented at the *Asia
     Pacific Solar Research Conference*, Melbourne, Australia, 2017.
 
-[^05chapter5_17]: See also the 'network opportunities map' project by UTS ISF:
-    https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2.
+[^05chapter5_16]: See also the ‘network opportunities map’ project by UTS ISF:
+    https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2
 
-[^05chapter5_18]: G. Simpson, 'Network operators and the transition to
-    decentralised electricity: An Australian socio-technical case
-    study', *Energy Policy* 110 (2017): 422-433.
-
-[^05chapter5_19]: Naomi Stringer, Anna Bruce and Iain MacGill, 'Data driven
-    exploration of voltage conditions in the Low Voltage network for
-    sites with distributed solar PV', paper presented at the *Asia
-    Pacific Solar Research Conference*, Melbourne, Australia, 2017.
-
-[^05chapter5_20]: See also the 'network opportunities map' project by UTS ISF:
-    https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2.
-
-[^05chapter5_21]: AEMC, 'Final Rule Determination: National Electricity Amendment
-    (Customer access to information about their energy consumption)',
+[^05chapter5_17]: AEMC, ‘Final Rule Determination: National Electricity Amendment
+    (Customer access to information about their energy consumption)’,
     2014.
 
-[^05chapter5_22]: See
-    https://medium.com/\@accountability/leadership-by-local-communities-in-nepal-paves-the-path-for-development-that-respects-rights-bdb906f43209.
+[^05chapter5_18]: See
+    https://medium.com/@accountability/leadership-by-local-communities-in-nepal-paves-the-path-for-development-that-respects-rights-bdb906f43209
 
-[^05chapter5_23]: Michel Callon and Fabian Muniesa, 'Peripheral vision: Economic
-    markets as calculative collective devices.' *Organization studies*,
+[^05chapter5_19]: Michel Callon and Fabian Muniesa, ‘Peripheral vision: Economic
+    markets as calculative collective devices.’ *Organization studies*,
     26.8 (2005): 1229-1250.
 
-[^05chapter5_24]: Rob Passey, Navid Haghdadi, Anna Bruce & Iain MacGill, 'Designing
+[^05chapter5_20]: Rob Passey, Navid Haghdadi, Anna Bruce & Iain MacGill, ‘Designing
     more cost reflective electricity network tariffs with demand
-    charges', *Energy Policy* 109 (2017): 642-649.
+    charges’, *Energy Policy* 109 (2017): 642-649.
 
-[^05chapter5_25]: Rob Passey, Navid Haghdadi, Anna Bruce & Iain MacGill, 'Designing
-    more cost reflective electricity network tariffs with demand
-    charges', *Energy Policy* 109 (2017): 642-649.
+[^05chapter5_21]: See https://twitter.com/podehaye/status/1030773658975981569
 
-[^05chapter5_26]: See https://twitter.com/podehaye/status/1030773658975981569.
-
-[^05chapter5_27]: Debra Lew, Mark Asano, Jens Boemer, Colton Ching, Ulrich Focken,
-    Richard Hydzik, Mathias Lange and Amber Motley, 'The Power of Small
+[^05chapter5_22]: Debra Lew, Mark Asano, Jens Boemer, Colton Ching, Ulrich Focken,
+    Richard Hydzik, Mathias Lange and Amber Motley, ‘The Power of Small
     - The Effects of Distributed Energy Resources on System
-    Reliability', *IEEE Power & Energy Magazine,* 15 (2017): 50-60.
+    Reliability’, *IEEE Power & Energy Magazine,* 15 (2017): 50-60.
 
-[^05chapter5_28]: Elizabeth Shove, 'Beyond the ABC: climate change policy and
-    theories of social change.' *Environment and planning A*, 42.6
+[^05chapter5_23]: Elizabeth Shove, ‘Beyond the ABC: climate change policy and
+    theories of social change.’ *Environment and planning A*, 42.6
     (2010): 1273-1285.
 
-[^05chapter5_29]: Lockstep Consulting, 'Privacy Impact Assessment Report Advanced
-    Metering Infrastructure (AMI)', Dept of Primary Industries, 2011.
+[^05chapter5_24]: Lockstep Consulting, ‘Privacy Impact Assessment Report Advanced
+    Metering Infrastructure (AMI)’, Dept of Primary Industries, 2011.
 
-[^05chapter5_30]: CSIRO, 'Energy Use Data Model (EUDM)', 2015,
+[^05chapter5_25]: CSIRO, ‘Energy Use Data Model (EUDM)’, 2015,
     https://research.csiro.au/distributed-systems-security/projects/energy-data-use-model/.
 
-[^05chapter5_31]: CSIRO 'partners with small and large companies, government and
-    industry in Australia and around the world'
-    https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Economic-modelling/Energy-Use-Data-Model.
+[^05chapter5_26]: CSIRO ‘partners with small and large companies, government and
+    industry in Australia and around the world’
+    https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Economic-modelling/Energy-Use-Data-Model
 
-[^05chapter5_32]: S.N. Islam, M. A. Mahmud and A.M.T. Oo, 'Impact of optimal false
+[^05chapter5_27]: S.N. Islam, M. A. Mahmud and A.M.T. Oo, ‘Impact of optimal false
     data injection attacks on local energy trading in a residential
-    microgrid.' *ICT Express*, 4.1 (2018): 30-34, DOI:
-    http://doi:10.1016/j.icte.2018.01.015.
+    microgrid.’ *ICT Express*, 4.1 (2018): 30-34, DOI:
+    http://doi:10.1016/j.icte.2018.01.015
 
-[^05chapter5_33]: Richard Owen, Phil Macnaghten and Jack Stilgoe, 'Responsible
+[^05chapter5_28]: Richard Owen, Phil Macnaghten and Jack Stilgoe, ‘Responsible
     research and innovation: From science in society to science for
-    society, with society', *Science and public policy*, 39.6 (2012):
+    society, with society’, *Science and public policy*, 39.6 (2012):
     751-760.
 
-[^05chapter5_34]: AEMO, 'Visibility of Distributed Energy Resources', 2017.
+[^05chapter5_29]: AEMO, ‘Visibility of Distributed Energy Resources’, 2017.
 
-[^05chapter5_35]: AEMC, 'National Electricity Amendment (Register of distributed
-    energy resources) Rule', 2018.
+[^05chapter5_30]: AEMC, ‘National Electricity Amendment (Register of distributed
+    energy resources) Rule’, 2018.
 
-[^05chapter5_36]: Green Button Alliance. 'Green Button Data', 2015,
+[^05chapter5_31]: Green Button Alliance. ‘Green Button Data’, 2015,
     http://www.greenbuttondata.org/.
 
-[^05chapter5_37]: Green Button Alliance. 'Green Button Data', 2015,
-    http://www.greenbuttondata.org/.
-
-[^05chapter5_38]: Matthias Björnmalm, Matthew Faria and Frank Caruso. 'Increasing
-    the Impact of Materials in and beyond Bio-Nano Science', *Journal of
+[^05chapter5_32]: Matthias Björnmalm, Matthew Faria and Frank Caruso. ‘Increasing
+    the Impact of Materials in and beyond Bio-Nano Science’, *Journal of
     the American Chemical Society* 138.41 (2016): 13449-13456,
     DOI:10.1021/jacs.6b08673.
 
-[^05chapter5_39]: Donald MacKenzie, 'Constructing Carbon Markets: Learning from
-    Experiments in the Technopolitics of Emissions Trading Schemes', in
+[^05chapter5_33]: Donald MacKenzie, ‘Constructing Carbon Markets: Learning from
+    Experiments in the Technopolitics of Emissions Trading Schemes’, in
     A. Lakoff (ed.), *Disaster and the Politics of Intervention*, New
     York: Columbia University Press, 2010, pp. 130-149.
 
-[^05chapter5_40]: Catherine Trundle, 'Biopolitical endpoints: Diagnosing a
-    deserving British nuclear test veteran.' *Social Science &
+[^05chapter5_34]: Catherine Trundle, ‘Biopolitical endpoints: Diagnosing a
+    deserving British nuclear test veteran.’ *Social Science &
     Medicine* 73.6 (2011): 882-888.
