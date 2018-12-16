@@ -19,8 +19,8 @@ Rights: CC BY-NC 4.0
 
 # 16: The Fieldnotes Plugin: Making Network Visualization in Gephi Accountable
 
-Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van
-Nuss
+*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van
+Nuss*
 
 **Abstract**
 
@@ -415,22 +415,21 @@ whether the information was not at all (0), to some extent (1), or
 completely (2) present. Below the inventoried dimensions and their total
 count are listed.
 
-  --------------------------------------------------------------------- -----------------
-  **Dimension**                                                         **Total count**
-  Amount of nodes                                                       21
-  Amount of edges                                                       18
-  Layout algorithm applied                                              21
-  Settings algorithm                                                    0
-  Filters                                                               12
-  Appearance N/E (explaining the ranking/partition elements in graph)   24
-  Color nodes                                                           15
-  Color edges                                                           5
-  Size nodes                                                            16
-  Edge thickness/shape                                                  8
-  Statistics used                                                       17
-  Data lab manipulations                                                1
-  Preview settings                                                      1
-  --------------------------------------------------------------------- -----------------
+| ﻿Dimension                                                           | Total count |
+|---------------------------------------------------------------------|-------------|
+| Amount of nodes                                                     | 21          |
+| Amount of edges                                                     | 18          |
+| Layout algorithm applied                                            | 21          |
+| Settings algorithm                                                  | 0           |
+| Filters                                                             | 12          |
+| Appearance N/E (explaining the ranking/partition elements in graph) | 24          |
+| Color nodes                                                         | 15          |
+| Color edges                                                         | 5           |
+| Size nodes                                                          | 16          |
+| Edge thickness/shape                                                | 8           |
+| Statistics used                                                     | 17          |
+| Data lab manipulations                                              | 1           |
+| Preview settings                                                    | 1           |
 
 *Table 1. Amount of times papers documented aspect of research project*.
 *N is 16, the greatest potential score is 32, lowest is 0.*
@@ -452,25 +451,13 @@ limited documentation. This categorization serves to show the
 disproportional attention particular aspects of the process receive, as
 per below.
 
-+-----------------------+-----------------------+-----------------------+
-| **Rich documentation  | **Some documentation  | **Limited             |
-| (\>20)**              | (10-20)**             | documentation         |
-|                       |                       | (\<10)**              |
-+-----------------------+-----------------------+-----------------------+
-| -   Amount of nodes   | -   Amount of edges   | -   Settings          |
-|                       |                       |     algorithm         |
-| -   Layout algorithm  | -   Filters           |                       |
-|     applied           |                       | -   Color edges       |
-|                       | -   Color nodes       |                       |
-| -   Appearance N/E    |                       | -   Edge              |
-|     (explaining the   | -   Size nodes        |     thickness/shape   |
-|     ranking/partition |                       |                       |
-|     elements in       | -   Statistics used   | -   Data lab          |
-|     graph)            |                       |     manipulations     |
-|                       |                       |                       |
-|                       |                       | -   Preview settings  |
-+-----------------------+-----------------------+-----------------------+
-
+| ﻿Rich documentation (>20)                                            | Some documentation (10-20) | Limited documentation (<10) |
+|---------------------------------------------------------------------|----------------------------|-----------------------------|
+| Amount of nodes                                                     | Amount of edges            | Settings algorithm          |
+| Layout algorithm applied                                            | Filters                    | Color edges                 |
+| Appearance N/E (explaining the ranking/partition elements in graph) | Color nodes                | Edge thickness/shape        |
+|                                                                     | Size nodes                 | Data lab manipulations      |
+|                                                                     | Statistics used            | Preview settings            |
 *Table 2. Spectrum of documentation.*
 
 We discovered that a number of influential aspects of the working
@@ -528,6 +515,8 @@ on our priority list for future development. Nevertheless, even with the
 limited functionality in logging this particular aspect, it still
 greatly speeds up the logging which would otherwise be done manually.
 
+
+![](imgs/chapter16_Wieringa_image6.jpg.png)
 *Figure 6. Example of settings.txt file*
 
 Aside from the settings file, the plugin also automatically saves the

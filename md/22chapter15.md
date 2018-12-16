@@ -18,8 +18,7 @@ Rights: CC BY-NC 4.0
 
 
 # 15: Good Data is Critical Data: An Appeal for Critical Digital Studies
-
-Chiara Poletti and Daniel Gray
+*Chiara Poletti and Daniel Gray*
 
 **Abstract**
 

@@ -18,8 +18,7 @@ Rights: CC BY-NC 4.0
 
 
 # 18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia
-
-Juan-Carlos Valencia and Paula Restrepo
+*Juan-Carlos Valencia and Paula Restrepo*
 
 **Abstract**
 

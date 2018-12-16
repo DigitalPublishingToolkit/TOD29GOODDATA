@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # 11: Data Journalism and the Ethics of Open Source
 
-Colin Porlezza
+*Colin Porlezza*
 
 **Abstract**
 

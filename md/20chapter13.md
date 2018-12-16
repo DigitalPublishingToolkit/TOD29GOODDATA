@@ -18,8 +18,7 @@ Rights: CC BY-NC 4.0
 
 
 #13: Provocations for Social Media Research: Toward Good Data Ethics
-
-Andrea Zeffiro
+*Andrea Zeffiro*
 
 **Abstract**
 
@@ -349,7 +348,7 @@ understand their ethical obligations when it comes to the collection and
 management of 'public' data associated with social media. For example,
 big data collection and analysis of social media may reveal more
 information about people than what they choose to expose 'publicly'. The
-**interoperability of datasets** demands ethical considerations beyond
+interoperability of datasets demands ethical considerations beyond
 the matter of disclosing risk from a single dataset or individual
 control of personal data.[^13chapter13_40] Datasets that would otherwise be
 innocuous and adequately anonymized on their own can be used to reveal
@@ -622,7 +621,7 @@ any third parties'.[^13chapter13_71] I would go so far as to endorse a version o
 > protecting individual privacy?'
 > 
 > -- Democratic Representative Anna Eshoo[^13chapter13_72]
->
+><br />
 > 'Congresswoman, I'm not sure what that means.'
 > 
 > --Mark Zuckerberg[^13chapter13_73]

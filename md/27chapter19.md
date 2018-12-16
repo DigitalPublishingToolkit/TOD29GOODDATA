@@ -18,9 +18,8 @@ Rights: CC BY-NC 4.0
 
 
 # 19: Intelligent Warning Systems: 'Technological Nudges' to Enhance User Control of IoT Data Collection, Storage and Use
-
-Rachelle Bosua[^19chapter19_1], Karin Clark[^19chapter19_2], Megan Richardson[^19chapter19_3] and Jeb
-Webb[^19chapter19_4] 
+*Rachelle Bosua, Karin Clark, Megan Richardson and Jeb
+Webb*
 
 **Abstract**
 

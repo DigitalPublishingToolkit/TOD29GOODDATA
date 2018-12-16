@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # 10: Making Data Public? The Open Data Index as Participatory Device
 
-Jonathan Gray and Danny Lämmerhirt
+*Jonathan Gray and Danny Lämmerhirt*
 
 **Abstract**
 
@@ -112,14 +112,13 @@ official regimes of quantification and datafication -- including around
 the horizons of intelligibility, the formation of collectives and the
 varieties of transnational coordination that they give rise to.[^10chapter10_11]
 
-  --------- ----------------------- --------------------- -----------------------
-  Year      Number of submissions   Number of countries   \% of "open" datasets
-  2012      177                     34                    Not given
-  2013      597                     77                    16%
-  2014      970                     97                    12%
-  2015      1586                    122                   9%
-  2016/17   1410                    94                    11%
-  --------- ----------------------- --------------------- -----------------------
+| ﻿Year    | Number of submissions | Number of countries | % of “open” datasets |
+|---------|-----------------------|---------------------|----------------------|
+| 2012    | 177                   | 34                  | Not given            |
+| 2013    | 597                   | 77                  | 16%                  |
+| 2014    | 970                   | 97                  | 12%                  |
+| 2015    | 1586                  | 122                 | 9%                   |
+| 2016/17 | 1410                  | 94                  | 11%                  |
 
 *Table 1: Numbers of submissions, numbers of countries and % of open
 datasets from Open Data Index and Open Data Census 2012-2017. Numbers
@@ -310,10 +309,9 @@ website to gather submissions accompanied by a review process conducted
 with Google Spreadsheets. Submissions were gathered through the census,
 then normalised, reviewed and published as part of the index. Results
 were displayed on a NodeJS application, deployed on Heroku, and the code
-was made available on GitHub. A dedicated '\[open-data-census\]' public
+was made available on GitHub. A dedicated '[open-data-census]' public
 mailing list was set up for contributors to discuss and support the
-review process. On Twitter the hashtags \#OpenDataCensus and
-\#OpenDataIndex were used to promote activity and discussion around the
+review process. On Twitter the hashtags #OpenDataCensus and #OpenDataIndex were used to promote activity and discussion around the
 project.
 
 Activity around the census was organised to align with relevant
@@ -353,7 +351,7 @@ for Germany stated:
 > ... the census it very tricky for a country like Germany with a
 > federal system. Some of the datasets simply are not available at the
 > national level as they belong to the federal states. To draw a
-> \[realistic\] picture for Germany, we would need to do a census 16+1
+> [realistic] picture for Germany, we would need to do a census 16+1
 > (for the 16 federal states + 1 for the federal government).[^10chapter10_27]
 
 Over the coming years the index explored different ways of responding to
@@ -399,7 +397,7 @@ government data should be assessed, including the role of states in
 coordinating the production of data. For example, it was claimed:
 
 > Our assumption the national government has a role as a regulator to
-> create and enforce publishing \[of\] such data. Therefore, even if the
+> create and enforce publishing [of] such data. Therefore, even if the
 > data is not produced by the government, we see it as responsible to
 > ensure the open publication of the data.
 
@@ -420,7 +418,7 @@ following comment from a Canadian open data advocate:
 UK government officials from Government Digital Service also commented
 that 'some criteria are an awkward fit in different national contexts',
 contending that changes in the assessment criteria around election data
-had 'cost \[them\] the top spot' and that '\[they'd\] need to change the
+had 'cost [them] the top spot' and that '[they'd] need to change the
 laws governing our electoral system to make progress'.[^10chapter10_31]
 
 There was also a consultation around which datasets should be included
@@ -452,7 +450,7 @@ of analysis (especially with regards to sub-national governments with
 'submissions for places that are not officially recognised as
 independent countries'.[^10chapter10_34] A 'dialogue phase' in the assessment
 process was also introduced in order to enable 'civil society and
-government \[to\] talk to one another'.
+government [to] talk to one another'.
 
 More recently there has been more reflection about what the Open Data
 Index does. Blog posts in 2017 have warned against 'volunteer
@@ -542,7 +540,7 @@ Science* 43 (2013).
 
 Maron, Mikel. 'Let's Build the Global Goals Data Census', *Medium*, 5
 October 2015,
-https://medium.com/\@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
+https://medium.com/@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
 
 Marres, Noortje. *Digital Sociology: The Reinvention of Social
 Research*, Cambridge: Polity Press, 2017.
@@ -584,7 +582,7 @@ https://blog.okfn.org/2014/02/04/announcing-the-local-open-data-census/.
 Power, Michael. *The Audit Society: Rituals of Verification*, Oxford:
 Oxford University Press, 1999.
 
-Prime Minister's Office. '2013 Lough Erne G8 Leaders\' Communiqué', 18
+Prime Minister's Office. '2013 Lough Erne G8 Leaders' Communiqué', 18
 June 2013,
 https://www.gov.uk/government/publications/2013-lough-erne-g8-leaders-communique.
 
@@ -652,7 +650,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_6]: Transparency International, 'Corruption Perceptions Index',
     *Transparency International blog*, 21 February 2018,
-    https://www.transparency.org/news/feature/corruption\_perceptions\_index\_2017.
+    https://www.transparency.org/news/feature/corruption_perceptions_index_2017.
 
 [^10chapter10_7]: Jane Guyer, 'Percentages and perchance: archaic forms in the
     twenty-first century', *Distinktion, Journal of Social Theory* 15
@@ -720,7 +718,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
     Day 2013', *Open Knowledge International blog,* 5 March 2013,
     https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day-2013/
 
-[^10chapter10_23]: Prime Minister's Office, '2013 Lough Erne G8 Leaders\'
+[^10chapter10_23]: Prime Minister's Office, '2013 Lough Erne G8 Leaders'
     Communiqué', 18 June 2013,
     https://www.gov.uk/government/publications/2013-lough-erne-g8-leaders-communique.
 
@@ -760,7 +758,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_33]: Mikel Maron, 'Let's Build the Global Goals Data Census',
     *Medium*, 5 October 2015,
-    https://medium.com/\@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
+    https://medium.com/@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
 
 [^10chapter10_34]: https://index.okfn.org/methodology/.
 
@@ -782,7 +780,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
     Internet*, Durham NC: Duke University Press, 2008. Jonathan Gray,
     'Towards a Genealogy of Open Data', *European Consortium for
     Political Research General Conference*, Glasgow, 3-6 September 2014,
-    http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2605828;
+    http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2605828;
     Jonathan Gray, 'Three Aspects of Data Worlds', *Krisis: Journal for
     Contemporary Philosophy* (2018).
 

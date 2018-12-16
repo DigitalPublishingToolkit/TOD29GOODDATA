@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # 12: Governance of Communal Data Sharing
 
-Chih-hsing Ho\*\* and Tyng-Ruey Chuang†
+*Chih-hsing Ho [^12chapter12_†] and Tyng-Ruey Chuangt[^12chapter12_††]*
 
 **Abstract**
 
@@ -710,3 +710,8 @@ Taiwan. 8 Dec 2016, http://odw.tw/2016/.
 [^12chapter12_35]: Ewa Syta et al, 'Security Analysis of Accountable Anonymity in
     Dissent', *ACM Transactions on Information and System Security* 17.1
     (2014).
+    
+[^12chapter12_†]: Assistant Research Fellow, Institute of European and American Studies, Academia Sinica, Taipei Taiwan; LLM (Columbia), JSM (Stanford), PhD in Law (LSE), Email: chihho@sinica.edu.tw (corresponding author).
+
+[^12chapter12_††]: Associate Research Fellow, Institute of Information Science, Academia Sinica, Taipei, Taiwan, PhD (NYU), Email: trc@iis.sinica.edu.tw
+

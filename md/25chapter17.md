@@ -18,8 +18,7 @@ Rights: CC BY-NC 4.0
 
 
 # 17: Algorithmic Mapmaking in 'Smart Cities': Data Protection Impact Assessments as a means of Protection for Groups
-
-Gerard Jan Ritsema van Eck[^17chapter17_1]
+*Gerard Jan Ritsema van Eck*
 
 **Abstract**
 

@@ -18,9 +18,8 @@ Rights: CC BY-NC 4.0
 
 
 # 14: Data for the Social Good: Toward a Data-Activist Research Agenda
-
-Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti
-Wissenbach and Stefania Milan[^14chapter14_1]
+*Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti
+Wissenbach and Stefania Milan[^14chapter14_1]*
 
 **Introduction**
 

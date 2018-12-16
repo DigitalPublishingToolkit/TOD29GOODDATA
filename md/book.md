@@ -6728,7 +6728,7 @@ Statistical Society: Series A (Statistics in Societ*y) 180.3 (2017).
 
 # 7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: The ByLock Case
 
-A. Sefa Ozalp
+*A. Sefa Ozalp*
 
 **Abstract**
 
@@ -7152,6 +7152,7 @@ servers) are deliberately manipulated by MIT which '﻿points out the
 great likelihood that MIT and other Turkish authorities manipulated the
 Bylock database and fabricated false Bylock records'.[^07chapter7_78]
 
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter7_Ozelp_Image1.png)
 *Figure* *1: Screenshots from MIT report, allegedly from ByLock
 database. Total numbers of rows returned by the SQL queries (7 and 10
 respectively) do not match total numbers of rows shown at the bottom of
@@ -7896,7 +7897,7 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
 
 # 8: Not as Good as Gold? Genomics, Data and Dignity
 
-Bruce Baer Arnold and Wendy Elizabeth Bonython
+*Bruce Baer Arnold and Wendy Elizabeth Bonython*
 
 **Abstract**
 
@@ -8624,7 +8625,7 @@ the Medical Sciences* 317.1 (1999): 5--8.
 Daly, Angela. 'The ethics of big data', *Ethics Quarterly* 97 (Spring
 2014): 22--23.
 
-Davies, Kevin. *The \$1,000 Genome: The Revolution in DNA Sequencing and
+Davies, Kevin. *The $1,000 Genome: The Revolution in DNA Sequencing and
 the New Era of Personalized Medicine*, New York: Simon and Schuster,
 2010.
 
@@ -8651,7 +8652,7 @@ transplantation: a dead issue after Alder Hey?', *Journal of Medical
 Ethics* 29.3 (2003): 147--152.
 
 Feldman, Robin, Evan Frondorf, Andrew K. Cordova and Connie Wang.
-'Empirical Evidence of Drug Pricing Games -- A Citizen\'s Pathway Gone
+'Empirical Evidence of Drug Pricing Games -- A Citizen's Pathway Gone
 Astray', *Stanford Technology Law Review* 20.1 (2017): 39--92.
 
 Fennell, Lee Anne. 'Ostrom's Law: Property rights in the commons',
@@ -8720,7 +8721,7 @@ Hopkins, Richard. 'An introduction to biometrics and large scale
 civilian identification', *International Review of Law, Computers &
 Technology* 13.3 (1999): 337--363.
 
-Hubbard, Chris. 'Eduard Pernkopf\'s atlas of topographical and applied
+Hubbard, Chris. 'Eduard Pernkopf's atlas of topographical and applied
 human anatomy: The continuing ethical controversy' *The Anatomical
 Record* *265*.5 (2001): 207--211.
 
@@ -8782,7 +8783,7 @@ Litman, Jessica. 'Information Privacy/Information Property', *Stanford
 Law Review* 152 (2000): 1283--1313.
 
 Manning, Kimberley and Felix Wemheuer (eds). *Eating Bitterness: New
-Perspectives on China\'s Great Leap Forward and Famine*, Vancouver: UBC
+Perspectives on China's Great Leap Forward and Famine*, Vancouver: UBC
 Press, 2011.
 
 Marginson, Simon and Mark Considine. *The Enterprise University: Power,
@@ -8796,7 +8797,7 @@ of Epidemiology* 31.6 (2002): 1091-1093.
 Mathews, Debra and Leila Jamal. 'Revisiting respect for persons in
 genomic research' *Genes* 5 (2014): 1--12.
 
-McCoy, Alfred W. 'Science in Dachau\'s shadow: Hebb, Beecher, and the
+McCoy, Alfred W. 'Science in Dachau's shadow: Hebb, Beecher, and the
 development of CIA psychological torture and modern medical ethics',
 *Journal of the History of the Behavioral Sciences* 43.4 (2007):
 401--417.
@@ -8811,7 +8812,7 @@ Borders and Bodies,* London: Routledge, 2010.
 Muller-Hill, Benno. *Murderous Science*, Oxford: Oxford University
 Press, 1988.
 
-Murray, Michael. 'Why We Should Care About What You Get for 'Only \$99'
+Murray, Michael. 'Why We Should Care About What You Get for 'Only $99'
 from a Personal Genomic Service', *Annals of Internal Medicine* 160
 (2014): 507--508.
 
@@ -8964,7 +8965,7 @@ population biobanks and direct-to-consumer genetic testing companies',
 
 [^08chapter8_7]: https://www.ancestry.com/dna/.
 
-[^08chapter8_8]: Bruce Baer Arnold and Wendy Bonython, 'Should we **stripmine**
+[^08chapter8_8]: Bruce Baer Arnold and Wendy Bonython, 'Should we stripmine
     your eHealth data', *Health Voices* 15 (2014): 18.
 
 [^08chapter8_9]: Kazimierz Krzysztofek, 'The algorithmic society: digitarians of
@@ -9057,9 +9058,8 @@ population biobanks and direct-to-consumer genetic testing companies',
 
 [^08chapter8_26]: International Human Genome Sequencing Consortium, 'Initial
     sequencing and analysis of the human genome' *Nature* 409 (2001):
-    860; and Kevin Davies. *The \$1,000 Genome: The Revolution in DNA
-    Sequencing and the New Era of Personalized Medicine*, New York:
-    Simon and Schuster, 2010.
+    860; and Kevin Davies. *The $1,000 Genome: The Revolution in DNA
+    Sequencing and the New Era of Personalized Medicine*, New York: Simon and Schuster, 2010.
 
 [^08chapter8_27]: Wendy Elizabeth Bonython and Bruce Baer Arnold, 'Direct to
     consumer genetic testing and the libertarian right to test' *Journal
@@ -9166,7 +9166,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     Nuremberg Code: Human Rights in Human Experimentation,* Oxford:
     Oxford University Press, 1992.
 
-[^08chapter8_49]: Chris Hubbard, 'Eduard Pernkopf\'s atlas of topographical and
+[^08chapter8_49]: Chris Hubbard, 'Eduard Pernkopf's atlas of topographical and
     applied human anatomy: The continuing ethical controversy', *The
     Anatomical Record* *265*.5 (2001): 207; and Michel C Atlas, 'Ethics
     and Access to Teaching Materials in the Medical Library: The Case of
@@ -9180,7 +9180,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     Public Health Service research studies in Tuskegee and Guatemala',
     *Public Health Reviews* 34.1 (2012): 13.
 
-[^08chapter8_51]: Alfred W McCoy, 'Science in Dachau\'s shadow: Hebb, Beecher, and
+[^08chapter8_51]: Alfred W McCoy, 'Science in Dachau's shadow: Hebb, Beecher, and
     the development of CIA psychological torture and modern medical
     ethics', *Journal of the History of the Behavioral Sciences* 43.4
     (2007): 401.
@@ -9226,7 +9226,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     'Predictive ability of direct to consumer pharmacogenetic testing:
     When is lack of evidence really lack of evidence?'
     *Pharmacogenomics* 14 (2013): 341; and Michael Murray, 'Why We
-    Should Care About What You Get for 'Only \$99' from a Personal
+    Should Care About What You Get for 'Only $99' from a Personal
     Genomic Service', *Annals of Internal Medicine* 160 (2014): 507.
 
 [^08chapter8_60]: Justin Keen, Radu Calinescu, Richard Paige and John Rooksby, 'Big
@@ -9290,7 +9290,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     Approach,* Cambridge: Harvard University Press, 2011: p. 33.
 
 [^08chapter8_70]: Robin Feldman, Evan Frondorf, Andrew K. Cordova, and Connie Wang,
-    'Empirical Evidence of Drug Pricing Games -- A Citizen\'s Pathway
+    'Empirical Evidence of Drug Pricing Games -- A Citizen's Pathway
     Gone Astray' *Stanford Technology Law Review* 20.1 (2017): 39.
 
 [^08chapter8_71]: Alison Harvey, 'Genetic risks and healthy choices: Creating
@@ -9298,7 +9298,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     facilitation', *Sociology of Health & Illness* 32 (2010): 365.
 
 [^08chapter8_72]: Kimberley Manning and Felix Wemheuer (eds), *Eating Bitterness:
-    New Perspectives on China\'s Great Leap Forward and Famine*,
+    New Perspectives on China's Great Leap Forward and Famine*,
     Vancouver: UBC Press, 2011.
 
 [^08chapter8_73]: David Winickoff and Larissa B. Neumann, 'Towards a social
@@ -9309,10 +9309,10 @@ population biobanks and direct-to-consumer genetic testing companies',
 
 # 9: Data Localization: Policymaking or Gambling?
 
-Nikita Melashchenko[^09chapter9_1]
+*Nikita Melashchenko[^09chapter9_1]*
 
 > 'Sir, the possibility of successfully navigating an asteroid field is
-> approximately 3,720 to 1.'
+> approximately 3,720 to 1.'<br />
 > *C-3PO, Star Wars: The Empire Strikes Back*
 
 **Abstract**
@@ -9455,13 +9455,13 @@ be necessary to understand the legal and policy problems that arise from
 the tension between the three concepts that provided grounds for DL in
 the first place.
 
-## Localization Tensions: Privacy -- Data Sovereignty -- International Trade 
+## Localization Tensions: Privacy - Data Sovereignty - International Trade 
 
 DL raises theoretical and practical issues on many levels. First, there
 is the issue of individual privacy, in particular the desire to protect
 personal (identifiable) information (PII) from others. Privacy over PII
-is the ability 'to determine \[...\] when, how, and to what extent
-information about \[...\] \[*individuals, groups, institutions*\] is
+is the ability 'to determine [...] when, how, and to what extent
+information about [...] [*individuals, groups, institutions*] is
 communicated to others'.[^09chapter9_20] Second, states as independent agents
 interact with individuals as well as other states. They also have an
 interest in protecting and accessing information that has value to them.
@@ -9893,7 +9893,7 @@ and affect societal welfare.
 'Analiz Sushestvujushih Metodov Upravlenija Dostupom K Internet-Resursam
 I Rekomendatsii Po Ih Primeneniju', (*Analysis of Existing Methods
 Regarding Administration of the Access to Internet-Resources and
-Recommendations on Their Application*). \[In Russian\]. Official Website
+Recommendations on Their Application*). [In Russian]. Official Website
 of Federal Service for Supervision of Communications, Information
 Technology and Mass Media, 2013.
 
@@ -9939,8 +9939,8 @@ International Business* 10.4 (1978): 1055--103.
 Balanced Solutions'. EastWest Institute, 2018.
 
 Federal'nyi Zakon RF ob Informacii, informacionnyh tehnologijah i o
-zashite informacii \[Federal law of the Russian Federation on
-Information, Information technologies and Protection of Information\],
+zashite informacii [Federal law of the Russian Federation on
+Information, Information technologies and Protection of Information],
 Rossiiskaia Gazeta, July 31, 2006.
 
 Floridi, Luciano. *The Ethics of Information*, Oxford: Oxford University
@@ -10012,7 +10012,7 @@ Draft)'. Organisation for Economic Co-operation and Development, 2013.
 'Rethinking Data, Geography, and Jurisdiction: Towards a Common
 Framework for Harmonizing Global Data Flow Controls'. New America, 2018.
 
-'Russia\'s "Big Brother Law" to Cost Telecoms \$154bln -- Report'. *The
+'Russia's "Big Brother Law" to Cost Telecoms $154bln -- Report'. *The
 Moscow Times*. 26 August 2016.
 
 Selby, John. 'Data Localization Laws: Trade Barriers or Legitimate
@@ -10025,7 +10025,7 @@ Rights and Freedoms Globally', *Big Data & Society* 4.2 (2017): 1--14.
 'Telegram Loses Bid to Block Russia from Encryption Keys'. *Bloomberg.*
 21 March 2018.
 
-Toor, Amar. 'This Twitter Bot Is Tracking Dictators\' Flights in and out
+Toor, Amar. 'This Twitter Bot Is Tracking Dictators' Flights in and out
 of Geneva'. *The Verge*. 16 October 2016.
 
 'United States v. Microsoft Corp.'. *SCOTUSblog*. 2017.
@@ -10050,7 +10050,7 @@ Property Rights, Committee on Trade and Development. '2018.
 
 WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Apr. 15, 1994, 1867 U.N.T.S. 154, 33 I.L.M. 1144 (1994).
 
-[^09chapter9_1]: ^\*^ PhD Candidate, Victoria University of Wellington. I wish to
+[^09chapter9_1]: ^*^ PhD Candidate, Victoria University of Wellington. I wish to
     thank Professor Susy Frankel and Dr Mark Bennett for suggesting
     improvements to this chapter.
 
@@ -10061,7 +10061,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     https://groups.csail.mit.edu/ana/People/DDC/lbook-arch.pdf.
 
 [^09chapter9_3]: See 'LinkedIn to be Blocked in Russia', *RAPSI*, 10 November 2016,
-    http://www.rapsinews.com/judicial\_news/20161110/277106589.html;
+    http://www.rapsinews.com/judicial/_news/20161110/277106589.html;
     Cicilia Kang and Katie Benner, 'Russia Requires Apple and Google to
     Remove LinkedIn From Local App Stores', *The New York Times*, 6
     January 2017,
@@ -10110,7 +10110,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     whether SCOTUS is forced to make such a choice. See 'United States
     v. Microsoft Corporation (Oral Argument Transcription)', Official
     Website, (2018),
-    https://www.supremecourt.gov/oral\_arguments/argument\_transcripts/2017/17-2\_j4ek.pdf.
+    https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/17-2_j4ek.pdf.
 
 [^09chapter9_7]: Valerie Braithwaite, 'Closing the Gap Between Regulation and the
     Community', in Peter Drahos (ed.), *Regulatory Theory: Foundations
@@ -10143,9 +10143,9 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
 
 [^09chapter9_14]: See Clarifying Lawful Overseas Use of Data Act, 18 U.S.C. § 2713
     (2018); Federal'nyi Zakon RF ob Informacii, informacionnyh
-    tehnologijah i o zashite informacii \[Federal law of the Russian
+    tehnologijah i o zashite informacii [Federal law of the Russian
     Federation on Information, Information technologies and Protection
-    of Information\], Rossiiskaia Gazeta, July 31, 2006, item 10.1(4.1).
+    of Information], Rossiiskaia Gazeta, July 31, 2006, item 10.1(4.1).
 
 [^09chapter9_15]: Localized data hosting -- a requirement to store certain data on
     servers physically based within the state's territory. Localized
@@ -10200,7 +10200,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     *Houston Law Review* 47.3 (2010): 679-80. Also see 'New Legislation
     Regulating Cyber Security and the Internet in Russia', *Clifford
     Chance Resources*, 3 March, 2017,
-    https://www.cliffordchance.com/briefings/2017/10/new\_legislation\_regulatingcybersecurityandth.html;
+    https://www.cliffordchance.com/briefings/2017/10/new_legislation_regulatingcybersecurityandth.html;
     'China Cybersecurity Law Update: Finally, Draft Regulations on
     'Critical Information Infrastructure' *Bird & Bird News Centre*, 3
     March, 2017,
@@ -10248,7 +10248,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     consuming and of a highly political nature. In most cases the
     request for the information exchange under MLATs may be easily
     denied. Thus, under the MLAT between Russia and the United States
-    'the execution of the request \[may be denied if it\] would
+    'the execution of the request [may be denied if it] would
     prejudice the security or other essential interests of the Requested
     Party'. Apparently, the category of essential interests is broad and
     would have different meanings for both Russia and the United States
@@ -10261,7 +10261,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     Legality of Data Residency Requirements', 201--202; 'Rethinking
     Data, Geography, and Jurisdiction: Towards a Common Framework for
     Harmonizing Global Data Flow Controls', New America, (2018), 5--8,
-    https://newamerica.org/documents/2084/Rethinking\_Data\_Geography\_Jurisdiction\_2.21.pdf.
+    https://newamerica.org/documents/2084/Rethinking_Data_Geography_Jurisdiction_2.21.pdf.
 
 [^09chapter9_38]: 'Principles for Good Governance of Regulators (Public
     Consultation Draft)', Organisation for Economic Co-operation and
@@ -10297,13 +10297,13 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
 [^09chapter9_45]: 'Analiz Sushestvujushih Metodov Upravlenija Dostupom k
     Internet-Resursam i Rekomendatsii po ih Primeneniju', (*Analysis of
     Existing Methods Regarding Administration of the Access to
-    Internet-Resources and Recommendations on Their Application*), \[in
-    Russian\], Official Website of Federal Service for Supervision of
+    Internet-Resources and Recommendations on Their Application*), [in
+    Russian], Official Website of Federal Service for Supervision of
     Communications, Information Technology and Mass Media, (2013),
-    https://rkn.gov.ru/docs/Analysys\_and\_recommendations\_comments\_fin.pdf;
+    https://rkn.gov.ru/docs/Analysys_and_recommendations_comments_fin.pdf;
     'Digital Child Exploitation Filtering System', The New Zealand
     Department of Internal Affairs, (2009),
-    http://www.dia.govt.nz/pubforms.nsf/URL/DCESF-PublicInformationPack.pdf/\$file/DCESF-PublicInformationPack.pdf.
+    http://www.dia.govt.nz/pubforms.nsf/URL/DCESF-PublicInformationPack.pdf/$file/DCESF-PublicInformationPack.pdf.
 
 [^09chapter9_46]: 'Encryption Policy in Democratic Regimes: Finding Convergent
     Paths and Balanced Solutions', EastWest Institute, (2018), 32-38,
@@ -10328,8 +10328,8 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     conclude whether any of them amount to smart regulatory practice.
 
 [^09chapter9_50]: By various estimates only the costs of communications data
-    localisation will be anywhere from \$50 million to \$154 billion.
-    See 'Russia\'s "Big Brother Law" to Cost Telecoms \$154Bln --
+    localisation will be anywhere from $50 million to $154 billion.
+    See 'Russia's "Big Brother Law" to Cost Telecoms $154Bln --
     Report', *The Moscow Times*, 26 August 2016,
     https://themoscowtimes.com/news/anti-terror-big-brother-law-to-cost-russian-companies-154bln-says-expert-55125.
 
@@ -10355,7 +10355,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
 
 # 10: Making Data Public? The Open Data Index as Participatory Device
 
-Jonathan Gray and Danny Lämmerhirt
+*Jonathan Gray and Danny Lämmerhirt*
 
 **Abstract**
 
@@ -10448,14 +10448,13 @@ official regimes of quantification and datafication -- including around
 the horizons of intelligibility, the formation of collectives and the
 varieties of transnational coordination that they give rise to.[^10chapter10_11]
 
-  --------- ----------------------- --------------------- -----------------------
-  Year      Number of submissions   Number of countries   \% of "open" datasets
-  2012      177                     34                    Not given
-  2013      597                     77                    16%
-  2014      970                     97                    12%
-  2015      1586                    122                   9%
-  2016/17   1410                    94                    11%
-  --------- ----------------------- --------------------- -----------------------
+| ﻿Year    | Number of submissions | Number of countries | % of “open” datasets |
+|---------|-----------------------|---------------------|----------------------|
+| 2012    | 177                   | 34                  | Not given            |
+| 2013    | 597                   | 77                  | 16%                  |
+| 2014    | 970                   | 97                  | 12%                  |
+| 2015    | 1586                  | 122                 | 9%                   |
+| 2016/17 | 1410                  | 94                  | 11%                  |
 
 *Table 1: Numbers of submissions, numbers of countries and % of open
 datasets from Open Data Index and Open Data Census 2012-2017. Numbers
@@ -10646,10 +10645,9 @@ website to gather submissions accompanied by a review process conducted
 with Google Spreadsheets. Submissions were gathered through the census,
 then normalised, reviewed and published as part of the index. Results
 were displayed on a NodeJS application, deployed on Heroku, and the code
-was made available on GitHub. A dedicated '\[open-data-census\]' public
+was made available on GitHub. A dedicated '[open-data-census]' public
 mailing list was set up for contributors to discuss and support the
-review process. On Twitter the hashtags \#OpenDataCensus and
-\#OpenDataIndex were used to promote activity and discussion around the
+review process. On Twitter the hashtags #OpenDataCensus and #OpenDataIndex were used to promote activity and discussion around the
 project.
 
 Activity around the census was organised to align with relevant
@@ -10689,7 +10687,7 @@ for Germany stated:
 > ... the census it very tricky for a country like Germany with a
 > federal system. Some of the datasets simply are not available at the
 > national level as they belong to the federal states. To draw a
-> \[realistic\] picture for Germany, we would need to do a census 16+1
+> [realistic] picture for Germany, we would need to do a census 16+1
 > (for the 16 federal states + 1 for the federal government).[^10chapter10_27]
 
 Over the coming years the index explored different ways of responding to
@@ -10735,7 +10733,7 @@ government data should be assessed, including the role of states in
 coordinating the production of data. For example, it was claimed:
 
 > Our assumption the national government has a role as a regulator to
-> create and enforce publishing \[of\] such data. Therefore, even if the
+> create and enforce publishing [of] such data. Therefore, even if the
 > data is not produced by the government, we see it as responsible to
 > ensure the open publication of the data.
 
@@ -10756,7 +10754,7 @@ following comment from a Canadian open data advocate:
 UK government officials from Government Digital Service also commented
 that 'some criteria are an awkward fit in different national contexts',
 contending that changes in the assessment criteria around election data
-had 'cost \[them\] the top spot' and that '\[they'd\] need to change the
+had 'cost [them] the top spot' and that '[they'd] need to change the
 laws governing our electoral system to make progress'.[^10chapter10_31]
 
 There was also a consultation around which datasets should be included
@@ -10788,7 +10786,7 @@ of analysis (especially with regards to sub-national governments with
 'submissions for places that are not officially recognised as
 independent countries'.[^10chapter10_34] A 'dialogue phase' in the assessment
 process was also introduced in order to enable 'civil society and
-government \[to\] talk to one another'.
+government [to] talk to one another'.
 
 More recently there has been more reflection about what the Open Data
 Index does. Blog posts in 2017 have warned against 'volunteer
@@ -10878,7 +10876,7 @@ Science* 43 (2013).
 
 Maron, Mikel. 'Let's Build the Global Goals Data Census', *Medium*, 5
 October 2015,
-https://medium.com/\@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
+https://medium.com/@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
 
 Marres, Noortje. *Digital Sociology: The Reinvention of Social
 Research*, Cambridge: Polity Press, 2017.
@@ -10920,7 +10918,7 @@ https://blog.okfn.org/2014/02/04/announcing-the-local-open-data-census/.
 Power, Michael. *The Audit Society: Rituals of Verification*, Oxford:
 Oxford University Press, 1999.
 
-Prime Minister's Office. '2013 Lough Erne G8 Leaders\' Communiqué', 18
+Prime Minister's Office. '2013 Lough Erne G8 Leaders' Communiqué', 18
 June 2013,
 https://www.gov.uk/government/publications/2013-lough-erne-g8-leaders-communique.
 
@@ -10988,7 +10986,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_6]: Transparency International, 'Corruption Perceptions Index',
     *Transparency International blog*, 21 February 2018,
-    https://www.transparency.org/news/feature/corruption\_perceptions\_index\_2017.
+    https://www.transparency.org/news/feature/corruption_perceptions_index_2017.
 
 [^10chapter10_7]: Jane Guyer, 'Percentages and perchance: archaic forms in the
     twenty-first century', *Distinktion, Journal of Social Theory* 15
@@ -11056,7 +11054,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
     Day 2013', *Open Knowledge International blog,* 5 March 2013,
     https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day-2013/
 
-[^10chapter10_23]: Prime Minister's Office, '2013 Lough Erne G8 Leaders\'
+[^10chapter10_23]: Prime Minister's Office, '2013 Lough Erne G8 Leaders'
     Communiqué', 18 June 2013,
     https://www.gov.uk/government/publications/2013-lough-erne-g8-leaders-communique.
 
@@ -11096,7 +11094,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_33]: Mikel Maron, 'Let's Build the Global Goals Data Census',
     *Medium*, 5 October 2015,
-    https://medium.com/\@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
+    https://medium.com/@mikelmaron/let-s-build-the-global-goals-data-census-c38b0458c9a.
 
 [^10chapter10_34]: https://index.okfn.org/methodology/.
 
@@ -11118,7 +11116,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
     Internet*, Durham NC: Duke University Press, 2008. Jonathan Gray,
     'Towards a Genealogy of Open Data', *European Consortium for
     Political Research General Conference*, Glasgow, 3-6 September 2014,
-    http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2605828;
+    http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2605828;
     Jonathan Gray, 'Three Aspects of Data Worlds', *Krisis: Journal for
     Contemporary Philosophy* (2018).
 
@@ -11129,7 +11127,7 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 # 11: Data Journalism and the Ethics of Open Source
 
-Colin Porlezza
+*Colin Porlezza*
 
 **Abstract**
 
@@ -11921,7 +11919,7 @@ news for us?" Audience revolution or business as usual at the BBC?'
 
 # 12: Governance of Communal Data Sharing
 
-Chih-hsing Ho\*\* and Tyng-Ruey Chuang†
+*Chih-hsing Ho [^12chapter12_†] and Tyng-Ruey Chuangt[^12chapter12_††]*
 
 **Abstract**
 
@@ -12612,14 +12610,18 @@ Taiwan. 8 Dec 2016, http://odw.tw/2016/.
 [^12chapter12_35]: Ewa Syta et al, 'Security Analysis of Accountable Anonymity in
     Dissent', *ACM Transactions on Information and System Security* 17.1
     (2014).
+    
+[^12chapter12_†]: Assistant Research Fellow, Institute of European and American Studies, Academia Sinica, Taipei Taiwan; LLM (Columbia), JSM (Stanford), PhD in Law (LSE), Email: chihho@sinica.edu.tw (corresponding author).
+
+[^12chapter12_††]: Associate Research Fellow, Institute of Information Science, Academia Sinica, Taipei, Taiwan, PhD (NYU), Email: trc@iis.sinica.edu.tw
+
 
 
 #THEME 4: GOOD DATA ACTIVISM AND RESEARCH
 
 
 #13: Provocations for Social Media Research: Toward Good Data Ethics
-
-Andrea Zeffiro
+*Andrea Zeffiro*
 
 **Abstract**
 
@@ -12949,7 +12951,7 @@ understand their ethical obligations when it comes to the collection and
 management of 'public' data associated with social media. For example,
 big data collection and analysis of social media may reveal more
 information about people than what they choose to expose 'publicly'. The
-**interoperability of datasets** demands ethical considerations beyond
+interoperability of datasets demands ethical considerations beyond
 the matter of disclosing risk from a single dataset or individual
 control of personal data.[^13chapter13_40] Datasets that would otherwise be
 innocuous and adequately anonymized on their own can be used to reveal
@@ -13222,7 +13224,7 @@ any third parties'.[^13chapter13_71] I would go so far as to endorse a version o
 > protecting individual privacy?'
 > 
 > -- Democratic Representative Anna Eshoo[^13chapter13_72]
->
+><br />
 > 'Congresswoman, I'm not sure what that means.'
 > 
 > --Mark Zuckerberg[^13chapter13_73]
@@ -14452,9 +14454,8 @@ Zwitter, Andrej. 'Big Data Ethics', *Big Data & Society* (July 2014), https://jo
 
 
 # 14: Data for the Social Good: Toward a Data-Activist Research Agenda
-
-Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti
-Wissenbach and Stefania Milan[^14chapter14_1]
+*Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti
+Wissenbach and Stefania Milan[^14chapter14_1]*
 
 **Introduction**
 
@@ -15459,8 +15460,7 @@ Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
 
 
 # 15: Good Data is Critical Data: An Appeal for Critical Digital Studies
-
-Chiara Poletti and Daniel Gray
+*Chiara Poletti and Daniel Gray*
 
 **Abstract**
 
@@ -16528,8 +16528,8 @@ Society*, 4.2 (2018).
 
 # 16: The Fieldnotes Plugin: Making Network Visualization in Gephi Accountable
 
-Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van
-Nuss
+*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van
+Nuss*
 
 **Abstract**
 
@@ -16924,22 +16924,21 @@ whether the information was not at all (0), to some extent (1), or
 completely (2) present. Below the inventoried dimensions and their total
 count are listed.
 
-  --------------------------------------------------------------------- -----------------
-  **Dimension**                                                         **Total count**
-  Amount of nodes                                                       21
-  Amount of edges                                                       18
-  Layout algorithm applied                                              21
-  Settings algorithm                                                    0
-  Filters                                                               12
-  Appearance N/E (explaining the ranking/partition elements in graph)   24
-  Color nodes                                                           15
-  Color edges                                                           5
-  Size nodes                                                            16
-  Edge thickness/shape                                                  8
-  Statistics used                                                       17
-  Data lab manipulations                                                1
-  Preview settings                                                      1
-  --------------------------------------------------------------------- -----------------
+| ﻿Dimension                                                           | Total count |
+|---------------------------------------------------------------------|-------------|
+| Amount of nodes                                                     | 21          |
+| Amount of edges                                                     | 18          |
+| Layout algorithm applied                                            | 21          |
+| Settings algorithm                                                  | 0           |
+| Filters                                                             | 12          |
+| Appearance N/E (explaining the ranking/partition elements in graph) | 24          |
+| Color nodes                                                         | 15          |
+| Color edges                                                         | 5           |
+| Size nodes                                                          | 16          |
+| Edge thickness/shape                                                | 8           |
+| Statistics used                                                     | 17          |
+| Data lab manipulations                                              | 1           |
+| Preview settings                                                    | 1           |
 
 *Table 1. Amount of times papers documented aspect of research project*.
 *N is 16, the greatest potential score is 32, lowest is 0.*
@@ -16961,25 +16960,13 @@ limited documentation. This categorization serves to show the
 disproportional attention particular aspects of the process receive, as
 per below.
 
-+-----------------------+-----------------------+-----------------------+
-| **Rich documentation  | **Some documentation  | **Limited             |
-| (\>20)**              | (10-20)**             | documentation         |
-|                       |                       | (\<10)**              |
-+-----------------------+-----------------------+-----------------------+
-| -   Amount of nodes   | -   Amount of edges   | -   Settings          |
-|                       |                       |     algorithm         |
-| -   Layout algorithm  | -   Filters           |                       |
-|     applied           |                       | -   Color edges       |
-|                       | -   Color nodes       |                       |
-| -   Appearance N/E    |                       | -   Edge              |
-|     (explaining the   | -   Size nodes        |     thickness/shape   |
-|     ranking/partition |                       |                       |
-|     elements in       | -   Statistics used   | -   Data lab          |
-|     graph)            |                       |     manipulations     |
-|                       |                       |                       |
-|                       |                       | -   Preview settings  |
-+-----------------------+-----------------------+-----------------------+
-
+| ﻿Rich documentation (>20)                                            | Some documentation (10-20) | Limited documentation (<10) |
+|---------------------------------------------------------------------|----------------------------|-----------------------------|
+| Amount of nodes                                                     | Amount of edges            | Settings algorithm          |
+| Layout algorithm applied                                            | Filters                    | Color edges                 |
+| Appearance N/E (explaining the ranking/partition elements in graph) | Color nodes                | Edge thickness/shape        |
+|                                                                     | Size nodes                 | Data lab manipulations      |
+|                                                                     | Statistics used            | Preview settings            |
 *Table 2. Spectrum of documentation.*
 
 We discovered that a number of influential aspects of the working
@@ -17037,6 +17024,8 @@ on our priority list for future development. Nevertheless, even with the
 limited functionality in logging this particular aspect, it still
 greatly speeds up the logging which would otherwise be done manually.
 
+
+![](imgs/chapter16_Wieringa_image6.jpg.png)
 *Figure 6. Example of settings.txt file*
 
 Aside from the settings file, the plugin also automatically saves the
@@ -17634,8 +17623,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
 
 
 # 17: Algorithmic Mapmaking in 'Smart Cities': Data Protection Impact Assessments as a means of Protection for Groups
-
-Gerard Jan Ritsema van Eck[^17chapter17_1]
+*Gerard Jan Ritsema van Eck*
 
 **Abstract**
 
@@ -18846,8 +18834,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
 
 
 # 18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia
-
-Juan-Carlos Valencia and Paula Restrepo
+*Juan-Carlos Valencia and Paula Restrepo*
 
 **Abstract**
 
@@ -19627,9 +19614,8 @@ conocimiento común y abierto en Ecuador*, Quito: FLOK Society, 2015.
 
 
 # 19: Intelligent Warning Systems: 'Technological Nudges' to Enhance User Control of IoT Data Collection, Storage and Use
-
-Rachelle Bosua[^19chapter19_1], Karin Clark[^19chapter19_2], Megan Richardson[^19chapter19_3] and Jeb
-Webb[^19chapter19_4] 
+*Rachelle Bosua, Karin Clark, Megan Richardson and Jeb
+Webb*
 
 **Abstract**
 
@@ -20393,7 +20379,6 @@ Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
 
 
 # 20: *Domesticating Data*: Socio-Legal Perspectives on Smart Homes and Good Data Design
-
 *Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart*
 
 **Abstract**

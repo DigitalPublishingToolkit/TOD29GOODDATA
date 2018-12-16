@@ -19,10 +19,10 @@ Rights: CC BY-NC 4.0
 
 # 9: Data Localization: Policymaking or Gambling?
 
-Nikita Melashchenko[^09chapter9_1]
+*Nikita Melashchenko[^09chapter9_1]*
 
 > 'Sir, the possibility of successfully navigating an asteroid field is
-> approximately 3,720 to 1.'
+> approximately 3,720 to 1.'<br />
 > *C-3PO, Star Wars: The Empire Strikes Back*
 
 **Abstract**
@@ -165,13 +165,13 @@ be necessary to understand the legal and policy problems that arise from
 the tension between the three concepts that provided grounds for DL in
 the first place.
 
-## Localization Tensions: Privacy -- Data Sovereignty -- International Trade 
+## Localization Tensions: Privacy - Data Sovereignty - International Trade 
 
 DL raises theoretical and practical issues on many levels. First, there
 is the issue of individual privacy, in particular the desire to protect
 personal (identifiable) information (PII) from others. Privacy over PII
-is the ability 'to determine \[...\] when, how, and to what extent
-information about \[...\] \[*individuals, groups, institutions*\] is
+is the ability 'to determine [...] when, how, and to what extent
+information about [...] [*individuals, groups, institutions*] is
 communicated to others'.[^09chapter9_20] Second, states as independent agents
 interact with individuals as well as other states. They also have an
 interest in protecting and accessing information that has value to them.
@@ -603,7 +603,7 @@ and affect societal welfare.
 'Analiz Sushestvujushih Metodov Upravlenija Dostupom K Internet-Resursam
 I Rekomendatsii Po Ih Primeneniju', (*Analysis of Existing Methods
 Regarding Administration of the Access to Internet-Resources and
-Recommendations on Their Application*). \[In Russian\]. Official Website
+Recommendations on Their Application*). [In Russian]. Official Website
 of Federal Service for Supervision of Communications, Information
 Technology and Mass Media, 2013.
 
@@ -649,8 +649,8 @@ International Business* 10.4 (1978): 1055--103.
 Balanced Solutions'. EastWest Institute, 2018.
 
 Federal'nyi Zakon RF ob Informacii, informacionnyh tehnologijah i o
-zashite informacii \[Federal law of the Russian Federation on
-Information, Information technologies and Protection of Information\],
+zashite informacii [Federal law of the Russian Federation on
+Information, Information technologies and Protection of Information],
 Rossiiskaia Gazeta, July 31, 2006.
 
 Floridi, Luciano. *The Ethics of Information*, Oxford: Oxford University
@@ -722,7 +722,7 @@ Draft)'. Organisation for Economic Co-operation and Development, 2013.
 'Rethinking Data, Geography, and Jurisdiction: Towards a Common
 Framework for Harmonizing Global Data Flow Controls'. New America, 2018.
 
-'Russia\'s "Big Brother Law" to Cost Telecoms \$154bln -- Report'. *The
+'Russia's "Big Brother Law" to Cost Telecoms $154bln -- Report'. *The
 Moscow Times*. 26 August 2016.
 
 Selby, John. 'Data Localization Laws: Trade Barriers or Legitimate
@@ -735,7 +735,7 @@ Rights and Freedoms Globally', *Big Data & Society* 4.2 (2017): 1--14.
 'Telegram Loses Bid to Block Russia from Encryption Keys'. *Bloomberg.*
 21 March 2018.
 
-Toor, Amar. 'This Twitter Bot Is Tracking Dictators\' Flights in and out
+Toor, Amar. 'This Twitter Bot Is Tracking Dictators' Flights in and out
 of Geneva'. *The Verge*. 16 October 2016.
 
 'United States v. Microsoft Corp.'. *SCOTUSblog*. 2017.
@@ -760,7 +760,7 @@ Property Rights, Committee on Trade and Development. '2018.
 
 WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Apr. 15, 1994, 1867 U.N.T.S. 154, 33 I.L.M. 1144 (1994).
 
-[^09chapter9_1]: ^\*^ PhD Candidate, Victoria University of Wellington. I wish to
+[^09chapter9_1]: ^*^ PhD Candidate, Victoria University of Wellington. I wish to
     thank Professor Susy Frankel and Dr Mark Bennett for suggesting
     improvements to this chapter.
 
@@ -771,7 +771,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     https://groups.csail.mit.edu/ana/People/DDC/lbook-arch.pdf.
 
 [^09chapter9_3]: See 'LinkedIn to be Blocked in Russia', *RAPSI*, 10 November 2016,
-    http://www.rapsinews.com/judicial\_news/20161110/277106589.html;
+    http://www.rapsinews.com/judicial/_news/20161110/277106589.html;
     Cicilia Kang and Katie Benner, 'Russia Requires Apple and Google to
     Remove LinkedIn From Local App Stores', *The New York Times*, 6
     January 2017,
@@ -820,7 +820,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     whether SCOTUS is forced to make such a choice. See 'United States
     v. Microsoft Corporation (Oral Argument Transcription)', Official
     Website, (2018),
-    https://www.supremecourt.gov/oral\_arguments/argument\_transcripts/2017/17-2\_j4ek.pdf.
+    https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/17-2_j4ek.pdf.
 
 [^09chapter9_7]: Valerie Braithwaite, 'Closing the Gap Between Regulation and the
     Community', in Peter Drahos (ed.), *Regulatory Theory: Foundations
@@ -853,9 +853,9 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
 
 [^09chapter9_14]: See Clarifying Lawful Overseas Use of Data Act, 18 U.S.C. § 2713
     (2018); Federal'nyi Zakon RF ob Informacii, informacionnyh
-    tehnologijah i o zashite informacii \[Federal law of the Russian
+    tehnologijah i o zashite informacii [Federal law of the Russian
     Federation on Information, Information technologies and Protection
-    of Information\], Rossiiskaia Gazeta, July 31, 2006, item 10.1(4.1).
+    of Information], Rossiiskaia Gazeta, July 31, 2006, item 10.1(4.1).
 
 [^09chapter9_15]: Localized data hosting -- a requirement to store certain data on
     servers physically based within the state's territory. Localized
@@ -910,7 +910,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     *Houston Law Review* 47.3 (2010): 679-80. Also see 'New Legislation
     Regulating Cyber Security and the Internet in Russia', *Clifford
     Chance Resources*, 3 March, 2017,
-    https://www.cliffordchance.com/briefings/2017/10/new\_legislation\_regulatingcybersecurityandth.html;
+    https://www.cliffordchance.com/briefings/2017/10/new_legislation_regulatingcybersecurityandth.html;
     'China Cybersecurity Law Update: Finally, Draft Regulations on
     'Critical Information Infrastructure' *Bird & Bird News Centre*, 3
     March, 2017,
@@ -958,7 +958,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     consuming and of a highly political nature. In most cases the
     request for the information exchange under MLATs may be easily
     denied. Thus, under the MLAT between Russia and the United States
-    'the execution of the request \[may be denied if it\] would
+    'the execution of the request [may be denied if it] would
     prejudice the security or other essential interests of the Requested
     Party'. Apparently, the category of essential interests is broad and
     would have different meanings for both Russia and the United States
@@ -971,7 +971,7 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     Legality of Data Residency Requirements', 201--202; 'Rethinking
     Data, Geography, and Jurisdiction: Towards a Common Framework for
     Harmonizing Global Data Flow Controls', New America, (2018), 5--8,
-    https://newamerica.org/documents/2084/Rethinking\_Data\_Geography\_Jurisdiction\_2.21.pdf.
+    https://newamerica.org/documents/2084/Rethinking_Data_Geography_Jurisdiction_2.21.pdf.
 
 [^09chapter9_38]: 'Principles for Good Governance of Regulators (Public
     Consultation Draft)', Organisation for Economic Co-operation and
@@ -1007,13 +1007,13 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
 [^09chapter9_45]: 'Analiz Sushestvujushih Metodov Upravlenija Dostupom k
     Internet-Resursam i Rekomendatsii po ih Primeneniju', (*Analysis of
     Existing Methods Regarding Administration of the Access to
-    Internet-Resources and Recommendations on Their Application*), \[in
-    Russian\], Official Website of Federal Service for Supervision of
+    Internet-Resources and Recommendations on Their Application*), [in
+    Russian], Official Website of Federal Service for Supervision of
     Communications, Information Technology and Mass Media, (2013),
-    https://rkn.gov.ru/docs/Analysys\_and\_recommendations\_comments\_fin.pdf;
+    https://rkn.gov.ru/docs/Analysys_and_recommendations_comments_fin.pdf;
     'Digital Child Exploitation Filtering System', The New Zealand
     Department of Internal Affairs, (2009),
-    http://www.dia.govt.nz/pubforms.nsf/URL/DCESF-PublicInformationPack.pdf/\$file/DCESF-PublicInformationPack.pdf.
+    http://www.dia.govt.nz/pubforms.nsf/URL/DCESF-PublicInformationPack.pdf/$file/DCESF-PublicInformationPack.pdf.
 
 [^09chapter9_46]: 'Encryption Policy in Democratic Regimes: Finding Convergent
     Paths and Balanced Solutions', EastWest Institute, (2018), 32-38,
@@ -1038,8 +1038,8 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
     conclude whether any of them amount to smart regulatory practice.
 
 [^09chapter9_50]: By various estimates only the costs of communications data
-    localisation will be anywhere from \$50 million to \$154 billion.
-    See 'Russia\'s "Big Brother Law" to Cost Telecoms \$154Bln --
+    localisation will be anywhere from $50 million to $154 billion.
+    See 'Russia's "Big Brother Law" to Cost Telecoms $154Bln --
     Report', *The Moscow Times*, 26 August 2016,
     https://themoscowtimes.com/news/anti-terror-big-brother-law-to-cost-russian-companies-154bln-says-expert-55125.
 

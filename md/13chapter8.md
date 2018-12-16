@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # 8: Not as Good as Gold? Genomics, Data and Dignity
 
-Bruce Baer Arnold and Wendy Elizabeth Bonython
+*Bruce Baer Arnold and Wendy Elizabeth Bonython*
 
 **Abstract**
 
@@ -747,7 +747,7 @@ the Medical Sciences* 317.1 (1999): 5--8.
 Daly, Angela. 'The ethics of big data', *Ethics Quarterly* 97 (Spring
 2014): 22--23.
 
-Davies, Kevin. *The \$1,000 Genome: The Revolution in DNA Sequencing and
+Davies, Kevin. *The $1,000 Genome: The Revolution in DNA Sequencing and
 the New Era of Personalized Medicine*, New York: Simon and Schuster,
 2010.
 
@@ -774,7 +774,7 @@ transplantation: a dead issue after Alder Hey?', *Journal of Medical
 Ethics* 29.3 (2003): 147--152.
 
 Feldman, Robin, Evan Frondorf, Andrew K. Cordova and Connie Wang.
-'Empirical Evidence of Drug Pricing Games -- A Citizen\'s Pathway Gone
+'Empirical Evidence of Drug Pricing Games -- A Citizen's Pathway Gone
 Astray', *Stanford Technology Law Review* 20.1 (2017): 39--92.
 
 Fennell, Lee Anne. 'Ostrom's Law: Property rights in the commons',
@@ -843,7 +843,7 @@ Hopkins, Richard. 'An introduction to biometrics and large scale
 civilian identification', *International Review of Law, Computers &
 Technology* 13.3 (1999): 337--363.
 
-Hubbard, Chris. 'Eduard Pernkopf\'s atlas of topographical and applied
+Hubbard, Chris. 'Eduard Pernkopf's atlas of topographical and applied
 human anatomy: The continuing ethical controversy' *The Anatomical
 Record* *265*.5 (2001): 207--211.
 
@@ -905,7 +905,7 @@ Litman, Jessica. 'Information Privacy/Information Property', *Stanford
 Law Review* 152 (2000): 1283--1313.
 
 Manning, Kimberley and Felix Wemheuer (eds). *Eating Bitterness: New
-Perspectives on China\'s Great Leap Forward and Famine*, Vancouver: UBC
+Perspectives on China's Great Leap Forward and Famine*, Vancouver: UBC
 Press, 2011.
 
 Marginson, Simon and Mark Considine. *The Enterprise University: Power,
@@ -919,7 +919,7 @@ of Epidemiology* 31.6 (2002): 1091-1093.
 Mathews, Debra and Leila Jamal. 'Revisiting respect for persons in
 genomic research' *Genes* 5 (2014): 1--12.
 
-McCoy, Alfred W. 'Science in Dachau\'s shadow: Hebb, Beecher, and the
+McCoy, Alfred W. 'Science in Dachau's shadow: Hebb, Beecher, and the
 development of CIA psychological torture and modern medical ethics',
 *Journal of the History of the Behavioral Sciences* 43.4 (2007):
 401--417.
@@ -934,7 +934,7 @@ Borders and Bodies,* London: Routledge, 2010.
 Muller-Hill, Benno. *Murderous Science*, Oxford: Oxford University
 Press, 1988.
 
-Murray, Michael. 'Why We Should Care About What You Get for 'Only \$99'
+Murray, Michael. 'Why We Should Care About What You Get for 'Only $99'
 from a Personal Genomic Service', *Annals of Internal Medicine* 160
 (2014): 507--508.
 
@@ -1087,7 +1087,7 @@ population biobanks and direct-to-consumer genetic testing companies',
 
 [^08chapter8_7]: https://www.ancestry.com/dna/.
 
-[^08chapter8_8]: Bruce Baer Arnold and Wendy Bonython, 'Should we **stripmine**
+[^08chapter8_8]: Bruce Baer Arnold and Wendy Bonython, 'Should we stripmine
     your eHealth data', *Health Voices* 15 (2014): 18.
 
 [^08chapter8_9]: Kazimierz Krzysztofek, 'The algorithmic society: digitarians of
@@ -1180,9 +1180,8 @@ population biobanks and direct-to-consumer genetic testing companies',
 
 [^08chapter8_26]: International Human Genome Sequencing Consortium, 'Initial
     sequencing and analysis of the human genome' *Nature* 409 (2001):
-    860; and Kevin Davies. *The \$1,000 Genome: The Revolution in DNA
-    Sequencing and the New Era of Personalized Medicine*, New York:
-    Simon and Schuster, 2010.
+    860; and Kevin Davies. *The $1,000 Genome: The Revolution in DNA
+    Sequencing and the New Era of Personalized Medicine*, New York: Simon and Schuster, 2010.
 
 [^08chapter8_27]: Wendy Elizabeth Bonython and Bruce Baer Arnold, 'Direct to
     consumer genetic testing and the libertarian right to test' *Journal
@@ -1289,7 +1288,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     Nuremberg Code: Human Rights in Human Experimentation,* Oxford:
     Oxford University Press, 1992.
 
-[^08chapter8_49]: Chris Hubbard, 'Eduard Pernkopf\'s atlas of topographical and
+[^08chapter8_49]: Chris Hubbard, 'Eduard Pernkopf's atlas of topographical and
     applied human anatomy: The continuing ethical controversy', *The
     Anatomical Record* *265*.5 (2001): 207; and Michel C Atlas, 'Ethics
     and Access to Teaching Materials in the Medical Library: The Case of
@@ -1303,7 +1302,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     Public Health Service research studies in Tuskegee and Guatemala',
     *Public Health Reviews* 34.1 (2012): 13.
 
-[^08chapter8_51]: Alfred W McCoy, 'Science in Dachau\'s shadow: Hebb, Beecher, and
+[^08chapter8_51]: Alfred W McCoy, 'Science in Dachau's shadow: Hebb, Beecher, and
     the development of CIA psychological torture and modern medical
     ethics', *Journal of the History of the Behavioral Sciences* 43.4
     (2007): 401.
@@ -1349,7 +1348,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     'Predictive ability of direct to consumer pharmacogenetic testing:
     When is lack of evidence really lack of evidence?'
     *Pharmacogenomics* 14 (2013): 341; and Michael Murray, 'Why We
-    Should Care About What You Get for 'Only \$99' from a Personal
+    Should Care About What You Get for 'Only $99' from a Personal
     Genomic Service', *Annals of Internal Medicine* 160 (2014): 507.
 
 [^08chapter8_60]: Justin Keen, Radu Calinescu, Richard Paige and John Rooksby, 'Big
@@ -1413,7 +1412,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     Approach,* Cambridge: Harvard University Press, 2011: p. 33.
 
 [^08chapter8_70]: Robin Feldman, Evan Frondorf, Andrew K. Cordova, and Connie Wang,
-    'Empirical Evidence of Drug Pricing Games -- A Citizen\'s Pathway
+    'Empirical Evidence of Drug Pricing Games -- A Citizen's Pathway
     Gone Astray' *Stanford Technology Law Review* 20.1 (2017): 39.
 
 [^08chapter8_71]: Alison Harvey, 'Genetic risks and healthy choices: Creating
@@ -1421,7 +1420,7 @@ population biobanks and direct-to-consumer genetic testing companies',
     facilitation', *Sociology of Health & Illness* 32 (2010): 365.
 
 [^08chapter8_72]: Kimberley Manning and Felix Wemheuer (eds), *Eating Bitterness:
-    New Perspectives on China\'s Great Leap Forward and Famine*,
+    New Perspectives on China's Great Leap Forward and Famine*,
     Vancouver: UBC Press, 2011.
 
 [^08chapter8_73]: David Winickoff and Larissa B. Neumann, 'Towards a social
