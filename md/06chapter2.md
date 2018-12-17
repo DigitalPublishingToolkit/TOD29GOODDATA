@@ -1,20 +1,4 @@
----
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
-Book-type: anthology
-Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
-Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
-Rights: CC BY-NC 4.0
-...
+
 
 
 # 2: Good Data Practices for Indigenous Data Sovereignty and Governance<br />
@@ -106,7 +90,7 @@ practices that have been passed on across generations. With colonisation
 these practices were disrupted (and often heavily censured), but not
 extinguished. In many contexts, the census was an indispensable tool of
 colonisation; indeed, the census has long been tied to the exercise of
-power and statecraft. [^02chapter2_6] The word 'census' comes from the Latin word
+power and statecraft.[^02chapter2_6] The word 'census' comes from the Latin word
 'censere', which means to tax or assess, and the origins of the census
 coincide with the rise of early Chinese, Egyptian and Roman states and
 their extraction of resources from the population, either through
@@ -204,7 +188,7 @@ UNDRIP was the result of a quarter of a century work to develop minimum
 standards to protect Indigenous peoples' rights. After a series of
 changes to the draft (initially submitted in 1994), the United Nations
 Declaration on the Rights of Indigenous Peoples (UNDRIP) was adopted by
-the General Assembly on 13 September 2007.[^02chapter2_17]A majority of 144 states
+the General Assembly on 13 September 2007.[^02chapter2_17] A majority of 144 states
 voted in favour, four voted against (notably Australia, New Zealand,
 Canada and the United States), and 11 abstained.[^02chapter2_18] Australia did not
 adopt the declaration until 2009, even though it played a key role in
@@ -229,7 +213,7 @@ decision-making and control on their development and application
 processes, and control over the data and knowledge. In the same
 foundational publication, Kukutai and Taylor highlight that to give
 'practical effect' to UNDRIP, Indigenous peoples should assert (and are
-asserting) control of data from nation states^.^[^02chapter2_25] Both UNDRIP
+asserting) control of data from nation states.[^02chapter2_25] Both UNDRIP
 articles require data to appropriately inform legislative and
 administrative decisions.
 
@@ -237,15 +221,19 @@ Based on the groundwork from First Nations in Canada and with additional
 impetus provided through UNDRIP, Indigenous groups have, over time,
 developed principles specific to their IDS context.
 
-|                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|---------------------------------------------------------------------------------------|----
-| Research Data Alliance (RDA) International Indigenous Data Sovereignty Interest Group| Generate recommendations for principles and best practices in IDS (currently in the principles development phase).                                                                                                                                                                                                                                                                                                         |
-| Aotearoa/NZ. Te Mana Raraunga, the Māori Data Sovereignty Network| *Whakapapa and whanaungatanga*: Recognising the connectedness between the material, natural and spiritual worlds<br />*Rangatiratanga*: Iwi(tribal)/Māori rights to own, access, control and possess data from them or about them and their environs <br />*Kotahitanga*: Collective vision and unity of purpose <br />*Manaakitanga*: Ethical data use to progress iwi/Māori aspirations for wellbeing<br /> *Kaitiakitanga*: Sustainable data stewardship |
-| United States - US Indigenous Data Sovereignty Network (USIDSN)| The USIDSN is in the principles development phase. Draft principles include recognition of inherent sovereignty; protection of Indigenous data; a commitment to aligning with Indigenous values for intergenerational collective wellbeing; a focus on relationships between Indigenous nations and other stakeholders; for IDG; and the honouring of Indigenous knowledge.                                                |
-| Canada (First Nations) - OCAP®| **O**wnership of data<br />  **C**ontrol - First Nations hold on how the data are collected, used and disclosed<br /> **A**ccess - whereby First Nations have access to any data about them<br /> **P**ossession whereby all First Nations data fall within First Nations jurisdiction                                                                                                                                                                      |
-| Australia - Maiam nayri Wingara| Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles.[^02chapter2_26]                                                                                                                                                                                                                                                                                                                      |
-
-<left>*Table 1 - IDS principles in the Asia Pacific and North American States.*<left />
+| IDS principles in the Asia Pacific and North American States                                                                                                                                                                                                                                                                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ***Research Data Alliance (RDA) International Indigenous Data Sovereignty Interest Group***                                                                                                                                                                                                                                                                                                                                      |
+| Generate recommendations for principles and best practices in IDS (currently in the principles development phase).                                                                                                                                                                                                                                                                                                         |
+| ***Aotearoa/NZ. Te Mana Raraunga, the Māori Data Sovereignty Network***                                                                                                                                                                                                                                                                                                                                                          |
+| *Whakapapa and whanaungatanga*: Recognising the connectedness between the material, natural and spiritual worlds<br />*Rangatiratanga*: Iwi(tribal)/Māori rights to own, access, control and possess data from them or about them and their environs <br />*Kotahitanga*: Collective vision and unity of purpose<br /> *Manaakitanga*: Ethical data use to progress iwi/Māori aspirations for wellbeing<br /> *Kaitiakitanga*: Sustainable data stewardship |
+| ***United States - US Indigenous Data Sovereignty Network (USIDSN)***                                                                                                                                                                                                                                                                                                                                                            |
+| The USIDSN is in the principles development phase. Draft principles include recognition of inherent sovereignty; protection of Indigenous data; a commitment to aligning with Indigenous values for intergenerational collective wellbeing; a focus on relationships between Indigenous nations and other stakeholders; for IDG; and the honouring of Indigenous knowledge.                                                |
+| ***Canada (First Nations) - OCAP®***                                                                                                                                                                                                                                                                                                                                                                                             |
+| **O**wnership of data<br /> **C**ontrol - First Nations hold on how the data are collected, used and disclosed,<br />**A**ccess - whereby First Nations have access to any data about them<br /> **P**ossession whereby all First Nations data fall within First Nations jurisdiction                                                                                                                                                                       |
+| ***Australia - Maiam nayri Wingara***                                                                                                                                                                                                                                                                                                                                                                                            |
+| Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles.[^02chapter2_26]                                                                                                                                                                                                                                                                                                                      |
+*Table 1 - IDS principles in the Asia Pacific and North American States.*
 
 ## Indigenous Data Sovereignty and Governance in practice
 
@@ -509,8 +497,7 @@ Indigenous Peoples', 2008.
     Indigenous mortality'. *Statistical Journal of the IAOS* 32 (2016):
     729--738, 729, DOI: 10.3233/SJI-161023
 
-[^02chapter2_11]: Productivity Commission, 'Data Availability and Use: Overview &
-    Recommendations', Canberra, 2017.
+[^02chapter2_11]: Productivity Commission, 'Data Availability and Use: Overview & Recommendations', Canberra, 2017.
 
 [^02chapter2_12]: Katherine Drabiak-Syed, 'Lessons from Havasupai Tribe V. Arizona
     State University Board of Regents: Recognizing Group, Cultural, and
@@ -546,9 +533,7 @@ Indigenous Peoples', 2008.
 
 [^02chapter2_20]: N.B In 2010, the State Department released, 'Announcement of U.S.
     Support for the United Nations Declaration on the Rights of
-    Indigenous Peoples'. To read the full statement, go to
-
-    http://www.achp.gov/docs/US%20Support%20for%20Declaration%2012-10.pdf.
+    Indigenous Peoples'. To read the full statement, go to http://www.achp.gov/docs/US%20Support%20for%20Declaration%2012-10.pdf.
 
 [^02chapter2_21]: Indigenous and Northern Affairs, 'United Nations Declaration on
     the Rights of Indigenous Peoples', Government of Canada,
@@ -565,10 +550,6 @@ Indigenous Peoples', 2008.
 [^02chapter2_25]: Ibid.
 
 [^02chapter2_26]: Maiam nayri Wingara and the Australian Indigenous Governance
-    Institute, *Indigenous Data Sovereignty Summit and Indigenous Data
-    Sovereignty Communique,* Canberra, 2018, www.maiamnayriwingara.org
-
-[^02chapter2_27]: Maiam nayri Wingara and the Australian Indigenous Governance
     Institute, *Indigenous Data Sovereignty Summit and Indigenous Data
     Sovereignty Communique,* Canberra, 2018, www.maiamnayriwingara.org
 

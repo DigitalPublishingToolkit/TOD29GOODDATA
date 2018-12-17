@@ -164,7 +164,7 @@ are described in this chapter.
 |                       | use                   |                       |
 +-----------------------+-----------------------+-----------------------+
 
-<left>*Table 1: Guidelines for 'good data'.*<left />
+*Table 1: Guidelines for 'good data'.*
 
 The above questions might assist data producers and consumers to
 consider the impacts on their research outcomes.
@@ -213,8 +213,6 @@ also human-readable. Google have recently released a Dataset Search tool
 which relies on the use of open metadata standards in contributing
 datasets.[^03chapter3_9]
 
-#### 
-
 #### 3.1.2 Good Data Include Uncertainty Estimates or Description of Limitations 
 
 Good data are self-deferential, datasets are open about limitations.
@@ -223,8 +221,6 @@ uncertainties, and are not asserted as canonical truth. Data collectors
 must consider all sources of error and uncertainty in their data, and
 ensure this information is available to downstream consumers of the
 data.
-
-#### 
 
 #### 3.1.3 Good Data are Readable
 
@@ -366,8 +362,6 @@ considered are 'responsibilities' of the data collector - sustainability
 fairness/equitability, and path to impact; as well as 'value', which may
 have a range of meanings.
 
-#### 
-
 #### 3.2.1 Human Privacy
 
 The Australian Government recently tightened requirements around
@@ -384,8 +378,6 @@ for their citizens via the General Data Protection Regulation
 (GDPR).[^03chapter3_17] The GDPR sets a high standard for data privacy. The changes
 have had wide-reaching impacts on mobile apps and websites that collect
 data.
-
-#### 
 
 #### 3.2.2 The Natural World
 
@@ -415,8 +407,8 @@ licensing to pay-per-access. The utility (or 'goodness') of any data is
 always restricted if nobody knows they exist, so publication of
 metadata, even without the accompanying data, is very important. There
 can be no means of assessing data quality and veracity if the data are
-not published and comparable with other datasets.\
-\
+not published and comparable with other datasets.
+
 There must be exceptions where privacy or ethics are concerned to
 maintain the rights of the data subject(s), but aggregated and
 de-identified data (which cannot be re-identified) should be published
@@ -428,8 +420,6 @@ value of the data as a citeable resource. In turn this provides
 incentive for academic data collectors to release valuable data
 collections, as it helps researchers to accrue credit in the academic
 system. DOIs also provide a permanent metadata record for the dataset.
-
-#### 
 
 #### 3.3.1 Open Data should be Published Openly
 
@@ -444,8 +434,6 @@ people.[^03chapter3_20] Publicly funded research should be published openly, bot
 data and journal articles.[^03chapter3_21] Ideally, 'for profit' or 'commercial'
 data should also be available for discovery in an open fashion.
 
-#### 
-
 #### 3.3.2 Published Data must Maintain Privacy
 
 It is important that no individual (person, government, corporation, or
@@ -458,8 +446,6 @@ revealed in the media. Data released in Strava's Heatmap demonstrated an
 unexpected privacy violation;[^03chapter3_23] similarly the Earth and humanity may
 be better served if the location of critically endangered species (e.g.,
 the Wollemi Pine)[^03chapter3_24] is kept secret.
-
-#### 
 
 #### 3.3.3 Published Data should Carry Owner Licensing
 
@@ -487,8 +473,6 @@ historical record. In these cases, electronic records of history are
 revised -- not necessarily removed -- with aggregate or non-personal
 data and information potentially retained for historical purposes.
 
-#### 
-
 #### 3.4.1 Personal Data should be Opt-in
 
 Keßler and McKenzie construct a *Geoprivacy Manifesto* designed to
@@ -508,8 +492,6 @@ sensitivity requires consideration of deceased persons? There may be
 ethical advantages to data retention which appropriately considers
 privacy, e.g. notification of people who may have been exposed to a
 toxin because they visited an infected location in a given timeframe.
-
-#### 
 
 #### 3.4.2 Good Data may Change over Time
 
@@ -568,8 +550,6 @@ may not be openly accessible, 'good data' are reliable and their
 veracity can be examined by whoever has the appropriate permission to
 use it.
 
-## 
-
 ## Examples of Good Data and Conclusion
 
 To the authors, a dataset is 'good' if it can reasonably address the
@@ -617,8 +597,6 @@ d)  The Australian Electoral Commission (AEC),[^03chapter3_36] and state-based
     due to the possible permutations of preferences combined with small
     numbers of persons voting at each booth). Transparency in democracy
     is a powerful thing.
-
-## 
 
 ## Collected Thoughts on 'Good Data'
 

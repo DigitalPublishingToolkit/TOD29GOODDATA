@@ -1642,6 +1642,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 #THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
 
 
+
 # 2: Good Data Practices for Indigenous Data Sovereignty and Governance<br />
 *Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie
 Carroll Rainie and Jennifer Walker*
@@ -1731,7 +1732,7 @@ practices that have been passed on across generations. With colonisation
 these practices were disrupted (and often heavily censured), but not
 extinguished. In many contexts, the census was an indispensable tool of
 colonisation; indeed, the census has long been tied to the exercise of
-power and statecraft. [^02chapter2_6] The word 'census' comes from the Latin word
+power and statecraft.[^02chapter2_6] The word 'census' comes from the Latin word
 'censere', which means to tax or assess, and the origins of the census
 coincide with the rise of early Chinese, Egyptian and Roman states and
 their extraction of resources from the population, either through
@@ -1829,7 +1830,7 @@ UNDRIP was the result of a quarter of a century work to develop minimum
 standards to protect Indigenous peoples' rights. After a series of
 changes to the draft (initially submitted in 1994), the United Nations
 Declaration on the Rights of Indigenous Peoples (UNDRIP) was adopted by
-the General Assembly on 13 September 2007.[^02chapter2_17]A majority of 144 states
+the General Assembly on 13 September 2007.[^02chapter2_17] A majority of 144 states
 voted in favour, four voted against (notably Australia, New Zealand,
 Canada and the United States), and 11 abstained.[^02chapter2_18] Australia did not
 adopt the declaration until 2009, even though it played a key role in
@@ -1854,7 +1855,7 @@ decision-making and control on their development and application
 processes, and control over the data and knowledge. In the same
 foundational publication, Kukutai and Taylor highlight that to give
 'practical effect' to UNDRIP, Indigenous peoples should assert (and are
-asserting) control of data from nation states^.^[^02chapter2_25] Both UNDRIP
+asserting) control of data from nation states.[^02chapter2_25] Both UNDRIP
 articles require data to appropriately inform legislative and
 administrative decisions.
 
@@ -1862,15 +1863,19 @@ Based on the groundwork from First Nations in Canada and with additional
 impetus provided through UNDRIP, Indigenous groups have, over time,
 developed principles specific to their IDS context.
 
-|                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|---------------------------------------------------------------------------------------|----
-| Research Data Alliance (RDA) International Indigenous Data Sovereignty Interest Group| Generate recommendations for principles and best practices in IDS (currently in the principles development phase).                                                                                                                                                                                                                                                                                                         |
-| Aotearoa/NZ. Te Mana Raraunga, the Māori Data Sovereignty Network| *Whakapapa and whanaungatanga*: Recognising the connectedness between the material, natural and spiritual worlds<br />*Rangatiratanga*: Iwi(tribal)/Māori rights to own, access, control and possess data from them or about them and their environs <br />*Kotahitanga*: Collective vision and unity of purpose <br />*Manaakitanga*: Ethical data use to progress iwi/Māori aspirations for wellbeing<br /> *Kaitiakitanga*: Sustainable data stewardship |
-| United States - US Indigenous Data Sovereignty Network (USIDSN)| The USIDSN is in the principles development phase. Draft principles include recognition of inherent sovereignty; protection of Indigenous data; a commitment to aligning with Indigenous values for intergenerational collective wellbeing; a focus on relationships between Indigenous nations and other stakeholders; for IDG; and the honouring of Indigenous knowledge.                                                |
-| Canada (First Nations) - OCAP®| **O**wnership of data<br />  **C**ontrol - First Nations hold on how the data are collected, used and disclosed<br /> **A**ccess - whereby First Nations have access to any data about them<br /> **P**ossession whereby all First Nations data fall within First Nations jurisdiction                                                                                                                                                                      |
-| Australia - Maiam nayri Wingara| Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles.[^02chapter2_26]                                                                                                                                                                                                                                                                                                                      |
-
-<left>*Table 1 - IDS principles in the Asia Pacific and North American States.*<left />
+| IDS principles in the Asia Pacific and North American States                                                                                                                                                                                                                                                                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ***Research Data Alliance (RDA) International Indigenous Data Sovereignty Interest Group***                                                                                                                                                                                                                                                                                                                                      |
+| Generate recommendations for principles and best practices in IDS (currently in the principles development phase).                                                                                                                                                                                                                                                                                                         |
+| ***Aotearoa/NZ. Te Mana Raraunga, the Māori Data Sovereignty Network***                                                                                                                                                                                                                                                                                                                                                          |
+| *Whakapapa and whanaungatanga*: Recognising the connectedness between the material, natural and spiritual worlds<br />*Rangatiratanga*: Iwi(tribal)/Māori rights to own, access, control and possess data from them or about them and their environs <br />*Kotahitanga*: Collective vision and unity of purpose<br /> *Manaakitanga*: Ethical data use to progress iwi/Māori aspirations for wellbeing<br /> *Kaitiakitanga*: Sustainable data stewardship |
+| ***United States - US Indigenous Data Sovereignty Network (USIDSN)***                                                                                                                                                                                                                                                                                                                                                            |
+| The USIDSN is in the principles development phase. Draft principles include recognition of inherent sovereignty; protection of Indigenous data; a commitment to aligning with Indigenous values for intergenerational collective wellbeing; a focus on relationships between Indigenous nations and other stakeholders; for IDG; and the honouring of Indigenous knowledge.                                                |
+| ***Canada (First Nations) - OCAP®***                                                                                                                                                                                                                                                                                                                                                                                             |
+| **O**wnership of data<br /> **C**ontrol - First Nations hold on how the data are collected, used and disclosed,<br />**A**ccess - whereby First Nations have access to any data about them<br /> **P**ossession whereby all First Nations data fall within First Nations jurisdiction                                                                                                                                                                       |
+| ***Australia - Maiam nayri Wingara***                                                                                                                                                                                                                                                                                                                                                                                            |
+| Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles.[^02chapter2_26]                                                                                                                                                                                                                                                                                                                      |
+*Table 1 - IDS principles in the Asia Pacific and North American States.*
 
 ## Indigenous Data Sovereignty and Governance in practice
 
@@ -2134,8 +2139,7 @@ Indigenous Peoples', 2008.
     Indigenous mortality'. *Statistical Journal of the IAOS* 32 (2016):
     729--738, 729, DOI: 10.3233/SJI-161023
 
-[^02chapter2_11]: Productivity Commission, 'Data Availability and Use: Overview &
-    Recommendations', Canberra, 2017.
+[^02chapter2_11]: Productivity Commission, 'Data Availability and Use: Overview & Recommendations', Canberra, 2017.
 
 [^02chapter2_12]: Katherine Drabiak-Syed, 'Lessons from Havasupai Tribe V. Arizona
     State University Board of Regents: Recognizing Group, Cultural, and
@@ -2171,9 +2175,7 @@ Indigenous Peoples', 2008.
 
 [^02chapter2_20]: N.B In 2010, the State Department released, 'Announcement of U.S.
     Support for the United Nations Declaration on the Rights of
-    Indigenous Peoples'. To read the full statement, go to
-
-    http://www.achp.gov/docs/US%20Support%20for%20Declaration%2012-10.pdf.
+    Indigenous Peoples'. To read the full statement, go to http://www.achp.gov/docs/US%20Support%20for%20Declaration%2012-10.pdf.
 
 [^02chapter2_21]: Indigenous and Northern Affairs, 'United Nations Declaration on
     the Rights of Indigenous Peoples', Government of Canada,
@@ -2190,10 +2192,6 @@ Indigenous Peoples', 2008.
 [^02chapter2_25]: Ibid.
 
 [^02chapter2_26]: Maiam nayri Wingara and the Australian Indigenous Governance
-    Institute, *Indigenous Data Sovereignty Summit and Indigenous Data
-    Sovereignty Communique,* Canberra, 2018, www.maiamnayriwingara.org
-
-[^02chapter2_27]: Maiam nayri Wingara and the Australian Indigenous Governance
     Institute, *Indigenous Data Sovereignty Summit and Indigenous Data
     Sovereignty Communique,* Canberra, 2018, www.maiamnayriwingara.org
 
@@ -2382,7 +2380,7 @@ are described in this chapter.
 |                       | use                   |                       |
 +-----------------------+-----------------------+-----------------------+
 
-<left>*Table 1: Guidelines for 'good data'.*<left />
+*Table 1: Guidelines for 'good data'.*
 
 The above questions might assist data producers and consumers to
 consider the impacts on their research outcomes.
@@ -2431,8 +2429,6 @@ also human-readable. Google have recently released a Dataset Search tool
 which relies on the use of open metadata standards in contributing
 datasets.[^03chapter3_9]
 
-#### 
-
 #### 3.1.2 Good Data Include Uncertainty Estimates or Description of Limitations 
 
 Good data are self-deferential, datasets are open about limitations.
@@ -2441,8 +2437,6 @@ uncertainties, and are not asserted as canonical truth. Data collectors
 must consider all sources of error and uncertainty in their data, and
 ensure this information is available to downstream consumers of the
 data.
-
-#### 
 
 #### 3.1.3 Good Data are Readable
 
@@ -2584,8 +2578,6 @@ considered are 'responsibilities' of the data collector - sustainability
 fairness/equitability, and path to impact; as well as 'value', which may
 have a range of meanings.
 
-#### 
-
 #### 3.2.1 Human Privacy
 
 The Australian Government recently tightened requirements around
@@ -2602,8 +2594,6 @@ for their citizens via the General Data Protection Regulation
 (GDPR).[^03chapter3_17] The GDPR sets a high standard for data privacy. The changes
 have had wide-reaching impacts on mobile apps and websites that collect
 data.
-
-#### 
 
 #### 3.2.2 The Natural World
 
@@ -2633,8 +2623,8 @@ licensing to pay-per-access. The utility (or 'goodness') of any data is
 always restricted if nobody knows they exist, so publication of
 metadata, even without the accompanying data, is very important. There
 can be no means of assessing data quality and veracity if the data are
-not published and comparable with other datasets.\
-\
+not published and comparable with other datasets.
+
 There must be exceptions where privacy or ethics are concerned to
 maintain the rights of the data subject(s), but aggregated and
 de-identified data (which cannot be re-identified) should be published
@@ -2646,8 +2636,6 @@ value of the data as a citeable resource. In turn this provides
 incentive for academic data collectors to release valuable data
 collections, as it helps researchers to accrue credit in the academic
 system. DOIs also provide a permanent metadata record for the dataset.
-
-#### 
 
 #### 3.3.1 Open Data should be Published Openly
 
@@ -2662,8 +2650,6 @@ people.[^03chapter3_20] Publicly funded research should be published openly, bot
 data and journal articles.[^03chapter3_21] Ideally, 'for profit' or 'commercial'
 data should also be available for discovery in an open fashion.
 
-#### 
-
 #### 3.3.2 Published Data must Maintain Privacy
 
 It is important that no individual (person, government, corporation, or
@@ -2676,8 +2662,6 @@ revealed in the media. Data released in Strava's Heatmap demonstrated an
 unexpected privacy violation;[^03chapter3_23] similarly the Earth and humanity may
 be better served if the location of critically endangered species (e.g.,
 the Wollemi Pine)[^03chapter3_24] is kept secret.
-
-#### 
 
 #### 3.3.3 Published Data should Carry Owner Licensing
 
@@ -2705,8 +2689,6 @@ historical record. In these cases, electronic records of history are
 revised -- not necessarily removed -- with aggregate or non-personal
 data and information potentially retained for historical purposes.
 
-#### 
-
 #### 3.4.1 Personal Data should be Opt-in
 
 Keßler and McKenzie construct a *Geoprivacy Manifesto* designed to
@@ -2726,8 +2708,6 @@ sensitivity requires consideration of deceased persons? There may be
 ethical advantages to data retention which appropriately considers
 privacy, e.g. notification of people who may have been exposed to a
 toxin because they visited an infected location in a given timeframe.
-
-#### 
 
 #### 3.4.2 Good Data may Change over Time
 
@@ -2786,8 +2766,6 @@ may not be openly accessible, 'good data' are reliable and their
 veracity can be examined by whoever has the appropriate permission to
 use it.
 
-## 
-
 ## Examples of Good Data and Conclusion
 
 To the authors, a dataset is 'good' if it can reasonably address the
@@ -2835,8 +2813,6 @@ d)  The Australian Electoral Commission (AEC),[^03chapter3_36] and state-based
     due to the possible permutations of preferences combined with small
     numbers of persons voting at each booth). Transparency in democracy
     is a powerful thing.
-
-## 
 
 ## Collected Thoughts on 'Good Data'
 
@@ -3285,9 +3261,9 @@ perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
 ![Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
-2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)<small>*Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
-2018).*</small>
-
+2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)
+*Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
+2018).*
 
 Syrian Archive was the supplier of the videos. This organization gathers
 visual accounts about human rights violations committed by all sides of
@@ -3657,7 +3633,7 @@ classified by the kind of weapon utilized, the location or the kind of
 violation or abuse. Figure 2 summarizes the process.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.png)
-<small>*Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*</small>
+*Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*
 
 Based on the examination of footage, the research of the Aleppo bombings
 from July to December 2016 includes overwhelming evidence of 'unlawful
@@ -3672,8 +3648,8 @@ interactive chart available online allows users to access the videos
 that sustain it.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.png)
-<small>*Figure 3: Map of visual evidence about attacks in Aleppo City (July -
-December 2016).*[^04chapter4_91]</small>
+*Figure 3: Map of visual evidence about attacks in Aleppo City (July -
+December 2016).*[^04chapter4_91]
 
 Syrian Archive exhibits the ingenuity that characterizes data activists;
 however, not all data activist initiatives employ the same data methods.
@@ -3783,7 +3759,7 @@ comparability of case studies.
 | **InfoAmazonia**                                            | Satellite imagery, crowdsourced citizen data, citizen sensing      | 2nd (public data), 3rd (crowdsourced data) and 5th (own data) | Public satellite imagery; crowdsourcing platform; sensors (i.e. water quality)                                                                                                        |
 | **Ushahidi**                                                | Crowdsourced citizen data; websites and social media               | 2nd (public data)and 3rd (crowdsourced data)                  | Crowdsourcing platform and scraping methods (i.e. for verification); scraping                                                                                                         |
 | **Citizen sensing in Gabrys, Pritchard and Barratt (2016)** | Citizen sensing                                                    | 5th (own data)                                                | Sensors                                                                                                                                                                               |
-<br /><left>*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]<left />
+<br />*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]
 
 Forensic Architecture employs advanced architectural and media research
 on behalf of international prosecutors, human rights organizations and
@@ -4655,9 +4631,9 @@ market level.
 | **Box 1: What is ‘Public Energy Data’?**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Energy data typically refers to information over time regarding the level of energy consumption, generation, quality,[^05chapter5_5] and price. When coupled with metadata (such as consumer location or demographics), this data can yield valuable insights for researchers, and policymakers in domains such as urban planning, demography, and sociology. We use the prefix ‘*public’* to refer to energy data which is freely and publicly available. This can be contrasted to proprietary data held by privately owned retailers or within government departments. Public refers to both the state of accessibility and the process of making otherwise enclosed data freely available. |
+*Box 1: What is ‘Public Energy Data’?*
 
-
-<br /> Market design decisions in the 1990s mean that key parameters of the
+Market design decisions in the 1990s mean that key parameters of the
 energy markets are published online. The Federal regulator AEMO
 publishes energy consumption and wholesale price across regions (such as
 New South Wales) and updates this information every five minutes. energy
@@ -4835,7 +4811,9 @@ to more efficient and fair investment and operational outcomes.
   However, recent data analysis – which used information captured from independent monitoring of household PV systems – shows that network voltages are generally high due to historic network decision making (distribution transformer set points were generally set at a high voltage, leaving minimal ‘headroom’ for PV).[^05chapter5_15] This has implications for exporting rooftop PV electricity to the national grid. The visibility afforded by voltage data readings across the network may enable scrutiny of network expenditure to ensure money is spent in a judicious manner;[^05chapter5_16] there may be cost-effective solutions to maintain grid stability without placing unnecessary restrictions on deployment of distributed PV.<br /><br />Access to such data is key to overcoming integration barriers and market asymmetries, and as such is an important companion to wider policies on a just energy transition that have received more widespread attention such as the Renewable Energy Target and carbon pricing schemes.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<br />We believe the existing regulatory hierarchy of access rights to
+*Box 2: The importance of voltage data for integrating distributed renewables*
+ 
+We believe the existing regulatory hierarchy of access rights to
 electricity usage data requires restructuring. As things stand,
 incumbent retailers automatically have full access to their customers’
 data which they can use for commercial purposes beyond just ensuring
@@ -4890,8 +4868,9 @@ engagement around electricity prices.
   
   CEEM’s tariff analysis tool is an example of an open source model which is accessible by stakeholders like think tanks, community energy organisations, local councils and policy-makers.[^05chapter5_20]<br /><br />Consumers’ ability to reduce their consumption using energy efficiency and solar is altering the distribution of revenue collection from consumers via tariffs, and has drawn attention to apparent cross-subsidies from traditional electricity-consuming customers to solar ‘prosumers’, while users of air-conditioning have also been identified as placing an unfair cost burden on other customers. Along with emerging costs of transforming the electricity network to a more distributed model, this has driven regulatory changes that now require network utilities to develop more cost-reflective tariffs. However, the proprietary energy models used by network providers and their private consultants are often complex, opaque and based on assumed variables, making it possible for the energy modellers to exploit uncertainties within a regulatory context biased towards recovering capital expenditure on electricity infrastructure.<br /><br />To overcome this information asymmetry, CEEM’s tariff tool allows stakeholders to test different electricity network tariffs on different sets of customers and investigate the impact on users’ electricity bills, their cost-reflectivity, and distributional impacts using anonymised load data. Because it is open-source, the tool and results can be easily verified and can therefore facilitate transparency and more robust regulatory decisions.<br /><br />Unlike black-box and expensive proprietary energy models which are usually only available to powerful incumbent stakeholders, open source modelling platforms can be used, expanded, scrutinised, and verified by any interested stakeholders. This democratisation of tariff analysis is an example of how open source tools can empower more stakeholders, improve the operation of markets, regulation and policymaking.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool*
 
-<br />Regulators of energy retail licenses (AER), energy reliability (AEMO)
+Regulators of energy retail licenses (AER), energy reliability (AEMO)
 and market competition and power (ACCC) have particularly important
 roles in maintaining the accountability of energy market players. and
 existing so-called markets in energy services have some fundamental
@@ -4919,8 +4898,6 @@ challenging to obtain, for other potential energy service providers.
 -   Support for open-source modelling and data transparency in
     regulatory decision-making to reduce reliance on opaque analysis
     from private consultants
-
-## 
 
 ## Data for the People: The Potential of Standards
 
@@ -5045,7 +5022,8 @@ personally-sourced data.
   
   PVOutput is a free online service for sharing and comparing distributed photovoltaic solar generation unit output data across time. It provides both manual and automatic data uploading facilities for households to contribute the outputs from their photovoltaic system.<br /><br />PVOutput began in 2010 as an open-access commons in response to the interest and enthusiasm of many households deploying PV to let others know of their system performance. It then, unintentionally but certainly fortuitously, came to fill the growing need for an aggregate measurement of the contribution of photovoltaic solar to the grid. The site has become a public resource that is used by a wide range of market participants, including those seeking to facilitate rule changes that recognise the value of distributed PV systems, and others seeking to improve network planning. Today there are over 1.7m households in Australia with photovoltaic solar and PVoutput.org has played a key role in helping researchers and other stakeholders understand the challenges and opportunities this presents.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br />
+*Box 4: Making a Data Commons from Household Photovoltaic Solar Output*
+
 ### Standards are sorely needed
 
 Research currently requires a pragmatic approach to making sense of
@@ -5067,7 +5045,8 @@ metadata is in the final stages of consultation.[^05chapter5_30]
   
   *‘The Green Button initiative is an industry-led effort that responds to a 2012 White House call-to-action to provide utility customers with easy and secure access to their energy usage information in a consumer-friendly and computer-friendly format for electricity, natural gas, and water usage.’*[^05chapter5_31]<br /><br />Inspired by the success of the *Blue Button* in providing access to health records, *Green Button* was an initiative of the US Chief Technology Officer that was taken up by utilities, network operators, technology suppliers and integrators, policy makers and regulators. *Green Button* is a standardised API web service and a common data format for transmission of energy data.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br />
+*Box 5: The Green Button Initiative has empowered electricity consumers*
+
 Standardised reporting criteria and formats enable collective
 knowledge-sharing.[^05chapter5_32] By standardising energy data, consumers,
 researchers and industry will be able to build tools and perform
@@ -5277,6 +5256,7 @@ http://www.greenbuttondata.org/.
 
 International Energy Agency. ‘Digitization and Energy’, 2017
 http://www.iea.org/publications/freepublications/publication/DigitalizationandEnergy3.pdf.
+
 
 Islam, S. N., M. A. Mahmud and A.M.T. Oo. ‘Impact of optimal false data
 injection attacks on local energy trading in a residential microgrid.’
@@ -9657,7 +9637,6 @@ in terms of welfare consequences then could be measured against
 regulatory principles.
 
 ![](imgs/Chapter9_Melashchenko_image1.tiff)
-
 *Figure 1.*
 
 Depending on collection of variables, their types and interpretation it
@@ -13222,12 +13201,10 @@ any third parties'.[^13chapter13_71] I would go so far as to endorse a version o
 
 > 'Are you willing to change your business model in the interest of
 > protecting individual privacy?'
-> 
-> -- Democratic Representative Anna Eshoo[^13chapter13_72]
-><br />
+> <br />-- Democratic Representative Anna Eshoo[^13chapter13_72]
+><br /><br />
 > 'Congresswoman, I'm not sure what that means.'
-> 
-> --Mark Zuckerberg[^13chapter13_73]
+> <br />--Mark Zuckerberg[^13chapter13_73]
 
 Privacy in relation to social media data has received significant
 attention as of late.[^13chapter13_74] The Facebook and Cambridge Analytica
@@ -15850,8 +15827,6 @@ while some more recent guidelines have recommended that digital scholars
 'neither ignore nor fetishize' ethics in conducting research, there is a
 need to develop this position.[^15chapter15_56]
 
-### 
-
 ## Challenging dominant rhetoric 
 
 Researchers have to contrast the positive rhetoric associated to big
@@ -16940,8 +16915,8 @@ count are listed.
 | Data lab manipulations                                              | 1           |
 | Preview settings                                                    | 1           |
 
-*Table 1. Amount of times papers documented aspect of research project*.
-*N is 16, the greatest potential score is 32, lowest is 0.*
+*Table 1. Amount of times papers documented aspect of research project.
+N is 16, the greatest potential score is 32, lowest is 0.*
 
 Our sample suggests that media studies papers drawing on Gephi
 frequently document the layout algorithm that was used and details on
@@ -17695,7 +17670,6 @@ But are they really a panacea that can provide meaningful safeguards, or
 an expensive Band-Aid that will be avoided, ignored, and brushed aside?
 
 ![](imgs/chapter17_Ritsema_image1.jpg)
-
 *Figure 1. Screenshot taken by the author on
 https://labs.strava.com/heatmaps on 2 February 2018. Shown is the
 Stadspark in Groningen, the Netherlands. The clearly visible small
@@ -17750,7 +17724,6 @@ split between those who "produce" the map, those who "edit" the map and
 those who "consume" the map'.[^17chapter17_17]
 
 ![](imgs/chapter17_Ritsema_image2.jpg)
-
 *Figure 2. Screenshot taken by the author on
 https://www.waze.com/livemap on 5 February 2018. Shown is part of the
 center of London, England. The three data sources are clearly visible:
@@ -18863,8 +18836,6 @@ citizen-led approaches in Medellín's Gardeners Network (RHM). We also
 found some issues and challenges arising from the particular,
 non-western, highly unequal context of these citizen-led initiatives.
 
-## 
-
 ## A Brief Review of Smart City Literature
 
 Smart City projects are being implemented around the world, from
@@ -18912,8 +18883,6 @@ correlated with other sources of information to manufacture metadata
 that could be understood as data commons and should be available to
 all,[^18chapter18_8] but that in fact are the domain of government agencies and
 corporations.
-
-## 
 
 ## Top-down Smart City Projects in the Global South
 
@@ -19041,8 +19010,6 @@ to get them to produce local content. A year later, this goal was
 abandoned and most staff were sacked. Currently, this is the name of the
 public internet network of the city, but it is not possible to find an
 agency with such a name.
-
-## 
 
 ## Social Movements, *Buen Conocer*, Good Data and Postcolonial Computing 
 

@@ -619,12 +619,10 @@ any third parties'.[^13chapter13_71] I would go so far as to endorse a version o
 
 > 'Are you willing to change your business model in the interest of
 > protecting individual privacy?'
-> 
-> -- Democratic Representative Anna Eshoo[^13chapter13_72]
-><br />
+> <br />-- Democratic Representative Anna Eshoo[^13chapter13_72]
+><br /><br />
 > 'Congresswoman, I'm not sure what that means.'
-> 
-> --Mark Zuckerberg[^13chapter13_73]
+> <br />--Mark Zuckerberg[^13chapter13_73]
 
 Privacy in relation to social media data has received significant
 attention as of late.[^13chapter13_74] The Facebook and Cambridge Analytica

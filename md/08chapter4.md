@@ -70,9 +70,9 @@ perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
 ![Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
-2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)<small>*Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
-2018).*</small>
-
+2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)
+*Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
+2018).*
 
 Syrian Archive was the supplier of the videos. This organization gathers
 visual accounts about human rights violations committed by all sides of
@@ -442,7 +442,7 @@ classified by the kind of weapon utilized, the location or the kind of
 violation or abuse. Figure 2 summarizes the process.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.png)
-<small>*Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*</small>
+*Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*
 
 Based on the examination of footage, the research of the Aleppo bombings
 from July to December 2016 includes overwhelming evidence of 'unlawful
@@ -457,8 +457,8 @@ interactive chart available online allows users to access the videos
 that sustain it.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.png)
-<small>*Figure 3: Map of visual evidence about attacks in Aleppo City (July -
-December 2016).*[^04chapter4_91]</small>
+*Figure 3: Map of visual evidence about attacks in Aleppo City (July -
+December 2016).*[^04chapter4_91]
 
 Syrian Archive exhibits the ingenuity that characterizes data activists;
 however, not all data activist initiatives employ the same data methods.
@@ -568,7 +568,7 @@ comparability of case studies.
 | **InfoAmazonia**                                            | Satellite imagery, crowdsourced citizen data, citizen sensing      | 2nd (public data), 3rd (crowdsourced data) and 5th (own data) | Public satellite imagery; crowdsourcing platform; sensors (i.e. water quality)                                                                                                        |
 | **Ushahidi**                                                | Crowdsourced citizen data; websites and social media               | 2nd (public data)and 3rd (crowdsourced data)                  | Crowdsourcing platform and scraping methods (i.e. for verification); scraping                                                                                                         |
 | **Citizen sensing in Gabrys, Pritchard and Barratt (2016)** | Citizen sensing                                                    | 5th (own data)                                                | Sensors                                                                                                                                                                               |
-<br /><left>*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]<left />
+<br />*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]
 
 Forensic Architecture employs advanced architectural and media research
 on behalf of international prosecutors, human rights organizations and

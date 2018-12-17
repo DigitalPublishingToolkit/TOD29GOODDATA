@@ -431,8 +431,8 @@ count are listed.
 | Data lab manipulations                                              | 1           |
 | Preview settings                                                    | 1           |
 
-*Table 1. Amount of times papers documented aspect of research project*.
-*N is 16, the greatest potential score is 32, lowest is 0.*
+*Table 1. Amount of times papers documented aspect of research project.
+N is 16, the greatest potential score is 32, lowest is 0.*
 
 Our sample suggests that media studies papers drawing on Gephi
 frequently document the layout algorithm that was used and details on

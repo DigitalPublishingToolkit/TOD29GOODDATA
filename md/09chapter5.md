@@ -127,9 +127,9 @@ market level.
 | **Box 1: What is ‘Public Energy Data’?**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Energy data typically refers to information over time regarding the level of energy consumption, generation, quality,[^05chapter5_5] and price. When coupled with metadata (such as consumer location or demographics), this data can yield valuable insights for researchers, and policymakers in domains such as urban planning, demography, and sociology. We use the prefix ‘*public’* to refer to energy data which is freely and publicly available. This can be contrasted to proprietary data held by privately owned retailers or within government departments. Public refers to both the state of accessibility and the process of making otherwise enclosed data freely available. |
+*Box 1: What is ‘Public Energy Data’?*
 
-
-<br /> Market design decisions in the 1990s mean that key parameters of the
+Market design decisions in the 1990s mean that key parameters of the
 energy markets are published online. The Federal regulator AEMO
 publishes energy consumption and wholesale price across regions (such as
 New South Wales) and updates this information every five minutes. energy
@@ -307,7 +307,9 @@ to more efficient and fair investment and operational outcomes.
   However, recent data analysis – which used information captured from independent monitoring of household PV systems – shows that network voltages are generally high due to historic network decision making (distribution transformer set points were generally set at a high voltage, leaving minimal ‘headroom’ for PV).[^05chapter5_15] This has implications for exporting rooftop PV electricity to the national grid. The visibility afforded by voltage data readings across the network may enable scrutiny of network expenditure to ensure money is spent in a judicious manner;[^05chapter5_16] there may be cost-effective solutions to maintain grid stability without placing unnecessary restrictions on deployment of distributed PV.<br /><br />Access to such data is key to overcoming integration barriers and market asymmetries, and as such is an important companion to wider policies on a just energy transition that have received more widespread attention such as the Renewable Energy Target and carbon pricing schemes.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<br />We believe the existing regulatory hierarchy of access rights to
+*Box 2: The importance of voltage data for integrating distributed renewables*
+ 
+We believe the existing regulatory hierarchy of access rights to
 electricity usage data requires restructuring. As things stand,
 incumbent retailers automatically have full access to their customers’
 data which they can use for commercial purposes beyond just ensuring
@@ -362,8 +364,9 @@ engagement around electricity prices.
   
   CEEM’s tariff analysis tool is an example of an open source model which is accessible by stakeholders like think tanks, community energy organisations, local councils and policy-makers.[^05chapter5_20]<br /><br />Consumers’ ability to reduce their consumption using energy efficiency and solar is altering the distribution of revenue collection from consumers via tariffs, and has drawn attention to apparent cross-subsidies from traditional electricity-consuming customers to solar ‘prosumers’, while users of air-conditioning have also been identified as placing an unfair cost burden on other customers. Along with emerging costs of transforming the electricity network to a more distributed model, this has driven regulatory changes that now require network utilities to develop more cost-reflective tariffs. However, the proprietary energy models used by network providers and their private consultants are often complex, opaque and based on assumed variables, making it possible for the energy modellers to exploit uncertainties within a regulatory context biased towards recovering capital expenditure on electricity infrastructure.<br /><br />To overcome this information asymmetry, CEEM’s tariff tool allows stakeholders to test different electricity network tariffs on different sets of customers and investigate the impact on users’ electricity bills, their cost-reflectivity, and distributional impacts using anonymised load data. Because it is open-source, the tool and results can be easily verified and can therefore facilitate transparency and more robust regulatory decisions.<br /><br />Unlike black-box and expensive proprietary energy models which are usually only available to powerful incumbent stakeholders, open source modelling platforms can be used, expanded, scrutinised, and verified by any interested stakeholders. This democratisation of tariff analysis is an example of how open source tools can empower more stakeholders, improve the operation of markets, regulation and policymaking.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool*
 
-<br />Regulators of energy retail licenses (AER), energy reliability (AEMO)
+Regulators of energy retail licenses (AER), energy reliability (AEMO)
 and market competition and power (ACCC) have particularly important
 roles in maintaining the accountability of energy market players. and
 existing so-called markets in energy services have some fundamental
@@ -391,8 +394,6 @@ challenging to obtain, for other potential energy service providers.
 -   Support for open-source modelling and data transparency in
     regulatory decision-making to reduce reliance on opaque analysis
     from private consultants
-
-## 
 
 ## Data for the People: The Potential of Standards
 
@@ -517,7 +518,8 @@ personally-sourced data.
   
   PVOutput is a free online service for sharing and comparing distributed photovoltaic solar generation unit output data across time. It provides both manual and automatic data uploading facilities for households to contribute the outputs from their photovoltaic system.<br /><br />PVOutput began in 2010 as an open-access commons in response to the interest and enthusiasm of many households deploying PV to let others know of their system performance. It then, unintentionally but certainly fortuitously, came to fill the growing need for an aggregate measurement of the contribution of photovoltaic solar to the grid. The site has become a public resource that is used by a wide range of market participants, including those seeking to facilitate rule changes that recognise the value of distributed PV systems, and others seeking to improve network planning. Today there are over 1.7m households in Australia with photovoltaic solar and PVoutput.org has played a key role in helping researchers and other stakeholders understand the challenges and opportunities this presents.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br />
+*Box 4: Making a Data Commons from Household Photovoltaic Solar Output*
+
 ### Standards are sorely needed
 
 Research currently requires a pragmatic approach to making sense of
@@ -539,7 +541,8 @@ metadata is in the final stages of consultation.[^05chapter5_30]
   
   *‘The Green Button initiative is an industry-led effort that responds to a 2012 White House call-to-action to provide utility customers with easy and secure access to their energy usage information in a consumer-friendly and computer-friendly format for electricity, natural gas, and water usage.’*[^05chapter5_31]<br /><br />Inspired by the success of the *Blue Button* in providing access to health records, *Green Button* was an initiative of the US Chief Technology Officer that was taken up by utilities, network operators, technology suppliers and integrators, policy makers and regulators. *Green Button* is a standardised API web service and a common data format for transmission of energy data.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br />
+*Box 5: The Green Button Initiative has empowered electricity consumers*
+
 Standardised reporting criteria and formats enable collective
 knowledge-sharing.[^05chapter5_32] By standardising energy data, consumers,
 researchers and industry will be able to build tools and perform
@@ -749,6 +752,7 @@ http://www.greenbuttondata.org/.
 
 International Energy Agency. ‘Digitization and Energy’, 2017
 http://www.iea.org/publications/freepublications/publication/DigitalizationandEnergy3.pdf.
+
 
 Islam, S. N., M. A. Mahmud and A.M.T. Oo. ‘Impact of optimal false data
 injection attacks on local energy trading in a residential microgrid.’

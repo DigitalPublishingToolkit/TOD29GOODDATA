@@ -47,8 +47,6 @@ citizen-led approaches in Medellín's Gardeners Network (RHM). We also
 found some issues and challenges arising from the particular,
 non-western, highly unequal context of these citizen-led initiatives.
 
-## 
-
 ## A Brief Review of Smart City Literature
 
 Smart City projects are being implemented around the world, from
@@ -96,8 +94,6 @@ correlated with other sources of information to manufacture metadata
 that could be understood as data commons and should be available to
 all,[^18chapter18_8] but that in fact are the domain of government agencies and
 corporations.
-
-## 
 
 ## Top-down Smart City Projects in the Global South
 
@@ -225,8 +221,6 @@ to get them to produce local content. A year later, this goal was
 abandoned and most staff were sacked. Currently, this is the name of the
 public internet network of the city, but it is not possible to find an
 agency with such a name.
-
-## 
 
 ## Social Movements, *Buen Conocer*, Good Data and Postcolonial Computing 
 

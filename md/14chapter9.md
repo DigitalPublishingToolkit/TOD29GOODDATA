@@ -367,7 +367,6 @@ in terms of welfare consequences then could be measured against
 regulatory principles.
 
 ![](imgs/Chapter9_Melashchenko_image1.tiff)
-
 *Figure 1.*
 
 Depending on collection of variables, their types and interpretation it

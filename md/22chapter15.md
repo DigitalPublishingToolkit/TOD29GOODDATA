@@ -408,8 +408,6 @@ while some more recent guidelines have recommended that digital scholars
 'neither ignore nor fetishize' ethics in conducting research, there is a
 need to develop this position.[^15chapter15_56]
 
-### 
-
 ## Challenging dominant rhetoric 
 
 Researchers have to contrast the positive rhetoric associated to big
