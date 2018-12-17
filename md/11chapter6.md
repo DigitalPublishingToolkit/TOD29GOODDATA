@@ -1,18 +1,19 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 29
+Type: book
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: u
+Article-title: Good Data
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Editors: Angela Daly, S. Kate Devitt, Monique Mann 
 Author-email:   corresponding address
 Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Abstract:   In recent years, there has been an exponential increase in the collection, aggregation and automated analysis of information by government and private actors, and in response to this there has been a significant critique regarding what could be termed ‘bad’ data practices in the globalised digital economy. 
+In order to paint an alternative, more optimistic but still pragmatic picture of the datafied future, this book examines and proposes ‘good data’ practices, values and principles from an interdisciplinary, international perspective. From ideas of data sovereignty and justice, to manifestos for change and calls for activism, this collection opens a multifaceted conversation on the kinds of futures we want to see, and presents concrete steps on how we can start realising good data in practice.
+Keywords:   data, datafication, data collection, data practice, sovereignty, activism
 Rights: CC BY-NC 4.0
 ...
 
@@ -538,11 +539,12 @@ data, but at the cost of predictive accuracy.
 ### 6.3.1 BOCSAR Dataset Experiments
 
 The BOCSAR ROD contains 14776 examples and 11 categorical and ordinal
-input features for each example, as shown in Table [1](#page9). The
+input features for each example, as shown in Table 1. The
 input features are grouped to represent the oﬀender, oﬀence, and
 criminal history related characteristics of the oﬀenders.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.tiff)*Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.jpg)
+*Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed
 lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter **λ** used in pre-processing on a logarithmic scale.*
 
 The target variable is whether or not an individual re-committed a DV

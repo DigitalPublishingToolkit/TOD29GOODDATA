@@ -16,7 +16,7 @@ In order to paint an alternative, more optimistic but still pragmatic picture of
 Keywords:   data, datafication, data collection, data practice, sovereignty, activism
 Rights: CC BY-NC 4.0
 ...
-
+#Colophon
 
 Theory on Demand #29 <br />
 **Good Data**
@@ -49,4 +49,4 @@ This publication is made available through various print on demand
 services and freely downloadable from
 http://www.networkcultures.org/publications
 
-<left>![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.png)</left>
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.png)

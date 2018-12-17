@@ -1,18 +1,19 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 29
+Type: book
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: u
+Article-title: Good Data
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Editors: Angela Daly, S. Kate Devitt, Monique Mann 
 Author-email:   corresponding address
 Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Abstract:   In recent years, there has been an exponential increase in the collection, aggregation and automated analysis of information by government and private actors, and in response to this there has been a significant critique regarding what could be termed ‘bad’ data practices in the globalised digital economy. 
+In order to paint an alternative, more optimistic but still pragmatic picture of the datafied future, this book examines and proposes ‘good data’ practices, values and principles from an interdisciplinary, international perspective. From ideas of data sovereignty and justice, to manifestos for change and calls for activism, this collection opens a multifaceted conversation on the kinds of futures we want to see, and presents concrete steps on how we can start realising good data in practice.
+Keywords:   data, datafication, data collection, data practice, sovereignty, activism
 Rights: CC BY-NC 4.0
 ...
 
@@ -327,16 +328,16 @@ the most connections. Subsequently, it is possible to color and
 'partition' these nodes based on the communities inferred by the
 algorithm (see Figure 1).[^16chapter16_45]
 
-![](imgs/chapter16_Wieringa_image1.tiff)
-![](imgs/Chapter16_Wieringa_image2.jpg)
+![image](imgs/chapter16_Wieringa_image1.jpg)
+![image](imgs/Chapter16_Wieringa_image2.jpg)
 *Figures 1 and 2: Gephi's 'Overview' and 'Data Laboratory' tabs after
 opening the Les Miserables dataset.*
 
-![](imgs/chapter16_Wieringa_image3.jpg)
+![image](imgs/chapter16_Wieringa_image3.jpg)
 *Figure 3: The 'raw' Les Miserables sample.*
 
-![](imgs/chapter16_Wieringa_image4.jpg)
-![](imgs/chapter16_Wieringa_image5.jpg)
+![image](imgs/chapter16_Wieringa_image4.jpg)
+![image](imgs/chapter16_Wieringa_image5.jpg)
 *Figures 4 and 5: ForceAtlas 2's default settings applied to the same
 'Les Miserables' exercise sample, and after adjusting 'Tuning' and
 'Behavior Alternative' settings such as the scaling (from 10 to 50) and
@@ -516,7 +517,7 @@ limited functionality in logging this particular aspect, it still
 greatly speeds up the logging which would otherwise be done manually.
 
 
-![](imgs/chapter16_Wieringa_image6.jpg.png)
+![image](imgs/chapter16_Wieringa_image6.jpg)
 *Figure 6. Example of settings.txt file*
 
 Aside from the settings file, the plugin also automatically saves the

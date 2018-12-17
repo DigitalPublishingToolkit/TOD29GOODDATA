@@ -1,4 +1,4 @@
-
+#Colophon
 
 Theory on Demand #29 <br />
 **Good Data**
@@ -15,7 +15,7 @@ Design and EPUB development: Barbara Dubbeldam <br />
 
 Published by the Institute of Network Cultures, Amsterdam, 2019
 
-ISBN 978-94-92302-28-1
+ISBN 978-94-92302-27-4
 
 **Contact** <br />
 Institute of Network Cultures <br />
@@ -31,9 +31,7 @@ This publication is made available through various print on demand
 services and freely downloadable from
 http://www.networkcultures.org/publications
 
-<left>![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.png)</left>
-
-
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.png)
 #BIOGRAPHIES#
 
 **Bruce Baer Arnold** is an Assistant Professor at Canberra Law School
@@ -601,7 +599,7 @@ Lewis & Ruth Sherman Centre for Digital Scholarship at McMaster
 University.
 
 
-#TABLE OF CONTENTS
+#overview
 
 ##BIOGRAPHIES
 
@@ -676,7 +674,7 @@ University.
 
 
 
-# 1. What is (in) Good Data?<BR />
+# 1. What is (in) Good Data?
 *Monique Mann, S. Kate Devitt, Angela Daly*
 
 ## Introduction: Why Good Data?
@@ -1640,9 +1638,6 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 
 
 #THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
-
-
-
 # 2: Good Data Practices for Indigenous Data Sovereignty and Governance<br />
 *Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie
 Carroll Rainie and Jennifer Walker*
@@ -5991,11 +5986,12 @@ data, but at the cost of predictive accuracy.
 ### 6.3.1 BOCSAR Dataset Experiments
 
 The BOCSAR ROD contains 14776 examples and 11 categorical and ordinal
-input features for each example, as shown in Table [1](#page9). The
+input features for each example, as shown in Table 1. The
 input features are grouped to represent the oﬀender, oﬀence, and
 criminal history related characteristics of the oﬀenders.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.tiff)*Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.jpg)
+*Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed
 lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter **λ** used in pre-processing on a logarithmic scale.*
 
 The target variable is whether or not an individual re-committed a DV
@@ -9636,7 +9632,7 @@ observables and therefore the output of the DL policy.[^09chapter9_41] Such outp
 in terms of welfare consequences then could be measured against
 regulatory principles.
 
-![](imgs/Chapter9_Melashchenko_image1.tiff)
+![image](imgs/Chapter9_Melashchenko_image1.jpg)
 *Figure 1.*
 
 Depending on collection of variables, their types and interpretation it
@@ -10687,7 +10683,6 @@ were thus provided with material and 'enumerated entities' to make the
 case for changes.[^10chapter10_28]
 
 ![](imgs/Chapter10_GrayLam_image5.png)
-
 *Figure 5: Graphic to illustrate results of Open Data Index 2014.*
 
 Another way was to enable more flexibility and customisation for
@@ -11101,7 +11096,6 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_39]: Noortje Marres, *Digital Sociology: The Reinvention of Social
     Research*, Cambridge: Polity Press, 2017.
-
 
 
 # 11: Data Journalism and the Ethics of Open Source
@@ -16811,16 +16805,16 @@ the most connections. Subsequently, it is possible to color and
 'partition' these nodes based on the communities inferred by the
 algorithm (see Figure 1).[^16chapter16_45]
 
-![](imgs/chapter16_Wieringa_image1.tiff)
-![](imgs/Chapter16_Wieringa_image2.jpg)
+![image](imgs/chapter16_Wieringa_image1.jpg)
+![image](imgs/Chapter16_Wieringa_image2.jpg)
 *Figures 1 and 2: Gephi's 'Overview' and 'Data Laboratory' tabs after
 opening the Les Miserables dataset.*
 
-![](imgs/chapter16_Wieringa_image3.jpg)
+![image](imgs/chapter16_Wieringa_image3.jpg)
 *Figure 3: The 'raw' Les Miserables sample.*
 
-![](imgs/chapter16_Wieringa_image4.jpg)
-![](imgs/chapter16_Wieringa_image5.jpg)
+![image](imgs/chapter16_Wieringa_image4.jpg)
+![image](imgs/chapter16_Wieringa_image5.jpg)
 *Figures 4 and 5: ForceAtlas 2's default settings applied to the same
 'Les Miserables' exercise sample, and after adjusting 'Tuning' and
 'Behavior Alternative' settings such as the scaling (from 10 to 50) and
@@ -17000,7 +16994,7 @@ limited functionality in logging this particular aspect, it still
 greatly speeds up the logging which would otherwise be done manually.
 
 
-![](imgs/chapter16_Wieringa_image6.jpg.png)
+![image](imgs/chapter16_Wieringa_image6.jpg)
 *Figure 6. Example of settings.txt file*
 
 Aside from the settings file, the plugin also automatically saves the
