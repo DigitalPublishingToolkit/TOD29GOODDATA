@@ -483,7 +483,7 @@ a neural network parameterized by weights *θ*~2~, which predicts race
 from the cleaned records. Four steps are repeated for each batch of
 examples from the training data:
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.png)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.jpg)
 *Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.*
 
 | Feature                                                         | Description                                                                                                                                                                                      |

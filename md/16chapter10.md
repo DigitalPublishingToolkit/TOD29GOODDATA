@@ -152,7 +152,7 @@ through open source software and replicable components which enable the
 adaptation and multiplication of projects, including through
 forking.[^10chapter10_14]
 
-![](imgs/Chapter10_GrayLam_image1.png)
+![](imgs/Chapter10_GrayLam_image1.jpg)
 *Figure 1: Detail of Open Data Census submission form showing types of
 data availability*.
 
@@ -296,11 +296,11 @@ check and approve incoming submissions (Figure 4). A community manager
 at OKI worked to coordinate the project and communicate with
 contributors and editors.
 
-![](imgs/Chapter10_GrayLam_image3.png)
+![](imgs/Chapter10_GrayLam_image3.jpg)
 *Figure 3: Table showing weightings for Open Data Index 2013.*
 
 
-![](imgs/Chapter10_GrayLam_image4.png)
+![](imgs/Chapter10_GrayLam_image4.jpg)
 *Figure 4: Review process for contributors and editors, Open Data Index
 2013.*
 
@@ -372,7 +372,7 @@ As with the examples of indices above, activists and public servants
 were thus provided with material and 'enumerated entities' to make the
 case for changes.[^10chapter10_28]
 
-![](imgs/Chapter10_GrayLam_image5.png)
+![](imgs/Chapter10_GrayLam_image5.jpg)
 *Figure 5: Graphic to illustrate results of Open Data Index 2014.*
 
 Another way was to enable more flexibility and customisation for
@@ -433,7 +433,7 @@ performance data.[^10chapter10_32] Public input and involvement was also encoura
 in a forum, which saw more extended discussions about questions and
 issues around the index.
 
-![](imgs/Chapter10_GrayLam_image6.png)
+![](imgs/Chapter10_GrayLam_image6.jpg)
 *Figure 6: "Crowdsourced survey" to inform choice of datasets included
 in 2015 Global Open Data Index.*
 

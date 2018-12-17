@@ -71,7 +71,7 @@ perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
 ![Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
-2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)
+2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.jpg)
 *Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
 2018).*
 
@@ -442,7 +442,7 @@ killings', 'arbitrary arrest and unlawful detention' and
 classified by the kind of weapon utilized, the location or the kind of
 violation or abuse. Figure 2 summarizes the process.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.png)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.jpg)
 *Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*
 
 Based on the examination of footage, the research of the Aleppo bombings
@@ -457,7 +457,7 @@ most of the airstrikes are carried out by Russian aircraft.[^04chapter4_90] Figu
 interactive chart available online allows users to access the videos
 that sustain it.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.png)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.jpg)
 *Figure 3: Map of visual evidence about attacks in Aleppo City (July -
 December 2016).*[^04chapter4_91]
 

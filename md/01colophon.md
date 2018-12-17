@@ -49,4 +49,4 @@ This publication is made available through various print on demand
 services and freely downloadable from
 http://www.networkcultures.org/publications
 
-![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.png)
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.jpg)

@@ -444,7 +444,7 @@ servers) are deliberately manipulated by MIT which '﻿points out the
 great likelihood that MIT and other Turkish authorities manipulated the
 Bylock database and fabricated false Bylock records'.[^07chapter7_78]
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter7_Ozelp_Image1.png)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter7_Ozelp_Image1.jpg)
 *Figure* *1: Screenshots from MIT report, allegedly from ByLock
 database. Total numbers of rows returned by the SQL queries (7 and 10
 respectively) do not match total numbers of rows shown at the bottom of
