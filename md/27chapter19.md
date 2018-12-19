@@ -54,7 +54,7 @@ use of individuals' data enabled by the Internet of Things (IoT) is
 unsettling in a world of more connectivity, networking and
 collaboration. The research question that can be asked is: *how can
 users better control the management of their personal data in an
-increasingly connected and digitised world*? While this is a key
+increasingly connected and digitised world?* While this is a key
 question, we acknowledge that new technologies and their accompanying
 data collection practices provide multiple new services and promises to
 significantly ease and enrich our lives in many different ways. For
@@ -331,7 +331,7 @@ thought in the \[software design\] process*'.[^19chapter19_35]
 
 As to legal standards, another participant expressed concern that these
 terms and conditions \[of use\] are subject to change without any
-notice*,*[^19chapter19_36] while another participant indicated another issue with
+notice,[^19chapter19_36] while another participant indicated another issue with
 consent forms -- '...*the difference is that US law is very different to
 Australian law with respect to fair and reasonable use -- so you have
 this problem with terms and conditions which may be enforceable under a
@@ -420,7 +420,7 @@ raised during our consultations and make provision for specific informed
 consent to be provided or requested for adaptating a user's pre-set
 controls for IoT data collection, storage, processing and use.
 
-**i**) **Dataflow A** as set up by Abigail: The IWA will sense or track
+i) **Dataflow A** as set up by Abigail: The IWA will sense or track
 Abigail's fitness-monitoring IoT device, which is connected to her
 phone, access her location data through the mobile phone's geolocation
 technology and integrate this geolocation data with fitness i.e. health
@@ -443,7 +443,7 @@ decide to take preventative actions to stop the flow of her unencrypted
 data, for instance disconnecting the device or putting the device behind
 a 'firewall'.
 
-**iii) Dataflow C** as set up by Chester: In this scenario, the IWA
+iii) **Dataflow C** as set up by Chester: In this scenario, the IWA
 makes Chester aware of voluminous data flowing through one or more
 channels (e.g. connected to Chester's Wi-Fi network) to a third-party
 server overseas. Once again, the IWA will sense or track uncontrolled

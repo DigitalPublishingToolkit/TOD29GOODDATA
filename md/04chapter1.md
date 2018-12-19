@@ -21,7 +21,7 @@ Rights: CC BY-NC 4.0
 # 1. What is (in) Good Data?
 *Monique Mann, S. Kate Devitt and Angela Daly*
 
-## Introduction: Why Good Data?
+## 1. Introduction: Why Good Data?
 
 In recent years, there has been an exponential increase in the
 collection, aggregation and automated analysis of information by
@@ -170,13 +170,9 @@ them as best we can under some headings which give a flavour of the
 chapters:
 
 1.  Good Data Manifestos and Practices;
-
 2.  Good Data and Justice;
-
 3.  Good Data as Open and Shared Data;
-
 4.  Good Data Activism and Research; and
-
 5.  Good and Smart Data.
 
 Finally, we would like to offer our sincere thanks to our research and
@@ -637,7 +633,7 @@ data and designing personalised privacy interventions. However, given
 limited legal protections and fast-paced technological innovation, it is
 possible that the best data at home is not smart at all.
 
-## What (else) is Good Data?
+## 3. What (else) is Good Data?
 
 We are very pleased to include 20 Chapters of Good Data discussions with
 differing perspectives on the question of what Good Data is. But, like
@@ -713,7 +709,7 @@ researchers to strive towards higher order ethical norms, beyond the
 minimum required of 'do not harm' and instead a cry to do more, to 'do
 good'.
 
-## Next steps: How do we start building Good Data initiatives? 
+## 4. Next steps: How do we start building Good Data initiatives? 
 
 An important question following from this book is how do we start to
 build, develop and reward Good Data initiatives? This is the logical

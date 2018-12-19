@@ -22,7 +22,7 @@ Rights: CC BY-NC 4.0
 *Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti
 Wissenbach and Stefania Milan[^14chapter14_1]*
 
-**Introduction**
+##Introduction
 
 'Big data' is a hyped buzzword---or rather, it has been for a while,
 before being supplanted by 'newer' acclaimed concepts such as artificial

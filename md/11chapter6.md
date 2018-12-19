@@ -436,10 +436,9 @@ variable *X,* reoﬀence as the target variable *Y*, and a cleaned version
 of past criminal record as *Z*. However, it is worth remembering that
 the approach works in general for other sets of variables.
 
-Figure 1: Learning fair representations with an adversary. In the text
-we use the example of *X*=criminal record, *Z*=the cleaned version of
-the criminal record, *S*=race, *Y*=whether the person reoﬀended. ~1~ and
-~2~ are parameters of the learning algorithm.
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.jpg)
+*Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.*
+
 
 One approach to pre-processing is to design the cleaned variable (*Z*)
 such that the distributions of Z conditioned on diﬀerent values of race
@@ -463,14 +462,14 @@ approach as *learning fair representations with an adversary*, since the
 pre-processing step can be seen as a modification to the representation
 of the data provided to the algorithm.
 
-We introduce a parameter ***λ*** (lambda), a non-negative constant (once
+We introduce a parameter *λ* (lambda), a non-negative constant (once
 set, its value stays the same), to control the trade-oﬀ between the two
 objectives involved in the construction of the cleaned variable (*Z*).
-When ***λ*** is large, the algorithm focuses more on making the
-adversary unable to predict race (*S*). When ***λ*** approaches zero,
+When *λ* is large, the algorithm focuses more on making the
+adversary unable to predict race (*S*). When *λ* approaches zero,
 the algorithm focuses more on making the original records and cleaned
 records similar. The algorithm does not provide any guidance as to how
-to select ***λ***. Rather, this depends on a decision about the relative
+to select *λ*. Rather, this depends on a decision about the relative
 importance assigned to fairness and accuracy in the design of the
 algorithmic risk assessment. Such a decision is a social, political and
 regulatory one -- the algorithm simply provides an implementation for
@@ -483,8 +482,6 @@ a neural network parameterized by weights *θ*~2~, which predicts race
 from the cleaned records. Four steps are repeated for each batch of
 examples from the training data:
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.jpg)
-*Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.*
 
 | Feature                                                         | Description                                                                                                                                                                                      |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -518,7 +515,7 @@ examples from the training data:
     these examples, the data producer updates *θ*~1~ to worsen the
     adversary's prediction of *S* in the future while also trying make
     *Z* similar to *X*. The trade-oﬀ between these two objectives is
-    governed by the parameter ***λ***.
+    governed by the parameter *λ*.
 
 Once learning is complete, for each individual the data producer passes
 their input record through a neural network with weights *θ*~1~. This
@@ -545,7 +542,7 @@ criminal history related characteristics of the oﬀenders.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.jpg)
 *Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed
-lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter **λ** used in pre-processing on a logarithmic scale.*
+lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter λ used in pre-processing on a logarithmic scale.*
 
 The target variable is whether or not an individual re-committed a DV
 related oﬀence within a duration of 24 months since the first court
@@ -557,7 +554,7 @@ Graham.
 
 Our baseline experiments use the original data, including the Indigenous
 status variable. We also tested the pre-processing method described in
-Section 6.2.4 for several values of the parameter ***λ***. We predicted
+Section 6.2.4 for several values of the parameter *λ*. We predicted
 recidivism from the data -- the original data in the baseline
 experiments and the pre-processed data in the other experiments -- using
 logistic regression as in Fitzgerald and Graham's study, which predicts
@@ -604,7 +601,7 @@ Removing the Indigenous status column in the data is a possible step
 towards remediating these issues. It would address the final concern
 around fair process. However, our results show that the first three
 concerns stand even without the presence of this column. The solid lines
-on the left-hand side of the plots, where ***λ*** approaches zero and
+on the left-hand side of the plots, where *λ* approaches zero and
 the data is eﬀectively left untouched except for the exclusion of the
 Indigenous status column, indicate that while the discrepancies between
 the Indigenous and non-Indigenous populations are not as acute as in the
@@ -613,19 +610,19 @@ in the other columns still results in diﬀerent outcomes for Indigenous
 and non-Indigenous populations, a phenomenon known as *redundant
 encoding*.[^06chapter6_73]
 
-Applying pre-processing with increasing values of ***λ***, the above
+Applying pre-processing with increasing values of *λ*, the above
 issues are addressed:
 
 -   the predicted reoﬀence rate for non-reoﬀenders is more similar for
-    Indigenous and non-Indigenous populations (for ***λ*** = 10, 8.1%
+    Indigenous and non-Indigenous populations (for *λ* = 10, 8.1%
     for Indigenous vs 7.8% for non-Indigenous);
 
 -   the predicted reoﬀence rate for reoﬀenders is more similar for
-    Indigenous and non-Indigenous populations (for ***λ*** = 10, 9.7%
+    Indigenous and non-Indigenous populations (for *λ* = 10, 9.7%
     for Indigenous vs 9.5% for non-Indigenous);
 
 -   the predicted reoﬀence rate overall is more similar for Indigenous
-    and non-Indigenous populations (for ***λ*** = 10, 8.3% for
+    and non-Indigenous populations (for *λ* = 10, 8.3% for
     Indigenous vs 7.9% for non-Indigenous).
 
 There is a cost to pre-processing in terms of accurately predicting
@@ -633,9 +630,9 @@ reoﬀence. The AUC drops to 0.62, so that the predictions are less
 accurate than the baseline (AUC 0.71), while still significantly more
 accurate than a random prediction (AUC 0.5).[^06chapter6_74] Overall predicted
 reoﬀence rates for non-reoﬀenders are higher compared to the baseline:
-7.9% for ***λ*** = 10 vs 7.6% for the baseline, a 10.2% increase.
+7.9% for *λ* = 10 vs 7.6% for the baseline, a 10.2% increase.
 Overall predicted reoﬀence rates for reoﬀenders are lower compared to
-the baseline: 9.6% for ***λ*** = 10 vs 12.9% for the baseline, a 26.0%
+the baseline: 9.6% for *λ* = 10 vs 12.9% for the baseline, a 26.0%
 decrease. This reduced accuracy is not surprising as the pre-processing
 removes information from the dataset. The decrease in predicted reoﬀence
 rates for reoﬀenders caused by the pre-processing is undesirable from
@@ -648,12 +645,12 @@ compared to Fitzgerald and Graham's study. The naive approach of
 learning from the original input data results in a prediction that
 indicates that the average risk associated with Indigenous individuals
 is more than twice that of their non-Indigenous counterparts, even among
-non-reoﬀenders - while for a value of ***λ*** = 10 these risks are
+non-reoﬀenders - while for a value of *λ* = 10 these risks are
 comparable. As discussed previously, this could not have been achieved
 simply by removing the Indigenous status column from the data. However,
 achieving comparable risks comes at the cost of overall predictive
 accuracy (AUC 0.71 to AUC 0.62). It is worth repeating that our approach
-does not prescribe a particular value of the trade-oﬀ parameter ***λ***,
+does not prescribe a particular value of the trade-oﬀ parameter *λ*,
 but rather provides a quantitative tool to estimate the eﬀect of this
 trade-oﬀ. We discuss further implications of fairness trade-oﬀs in our
 conclusion.

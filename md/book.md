@@ -1,4 +1,6 @@
 
+#GOOD DATA 
+
 Theory on Demand #29 <br />
 **Good Data**
 
@@ -31,6 +33,80 @@ services and freely downloadable from
 http://www.networkcultures.org/publications
 
 ![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.jpg)
+#TABLE OF CONTENTS
+
+##Biographies
+
+**1: Introduction: What is (in) Good Data** <br />
+*Monique Mann, Kate Devitt and Angela Daly*
+
+##THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
+
+**2: Good Data Practices for Indigenous Data Sovereignty and Governance** <br />
+*Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie Carroll Rainie and Jennifer Walker*
+
+**3: The Good Data Manifesto** <br />
+*Claire Trenham and Adam Steer*
+
+**4: The Good, the Bad and the Beauty of ‘Good Enough Data’** <br />
+*Miren Gutiérrez*
+
+**5: An Energy Data Manifesto** <br />
+*Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts, Iain MacGill, Anna Bruce and Rob Passey*
+
+##THEME 2: GOOD DATA AND JUSTICE 
+
+**6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study** <br /> 
+*Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong*
+
+**7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: the ByLock Case** <br /> 
+*A. Sefa Ozalp*
+
+**8: Not as Good as Gold? Genomics, Data and Dignity**<br /> 
+*Bruce Baer Arnold and Wendy Elizabeth Bonython*
+
+**9: Data Localization: Policymaking or Gambling?**<br /> 
+*Nikita Melashchenko*
+
+##THEME 3: GOOD DATA AS OPEN AND SHARED DATA
+
+**10: Making Data Public? The Open Data Index as Participatory Device**<br /> 
+*Jonathan Gray and Danny Lämmerhirt*
+
+**11: Data Journalism and the Ethics of Open Source**<br />
+*Colin Porlezza*
+
+**12: Governance of Communal Data Sharing**<br />
+*Chih-Hsing Ho and Tyng-Ruey Chuang*
+
+##THEME 4: GOOD DATA ACTIVISM AND RESEARCH 
+
+**13: Provocations for Social Media Research: Toward Good Data Ethics**<br />
+*Andrea Zeffiro*
+
+**14: Data for the Social Good: Toward a Data-Activist Research Agenda**<br />
+*Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti Wissenbach and Stefania Milan* 
+
+**15: Good Data is Critical Data: An Appeal for Critical Digital Studies**<br /> 
+*Chiara Poletti and Daniel Gray*
+
+**16: The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**<br />*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss*
+
+##THEME 5: GOOD DATA AND SMART CITIES AND HOMES 
+
+**17: Algorithmic Mapmaking in ‘Smart Cities’: Data Protection Impact Assessments as a means of Protection for Groups**<br />
+*Gerard Jan Ritsema van Eck*
+
+**18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia**<br />
+*Juan-Carlos Valencia and Paula Restrepo*
+
+**19: Intelligent Warning Systems: ‘Technological Nudges’ to Enhance User Control of IoT Data Collection, Storage and Use**<br /> 
+*Rachelle Bosua, Karin Clark, Megan Richardson and Jeb Webb*
+
+**20: Domesticating Data: Socio-Legal Perspectives on Smart Homes and Good Data Design**<br />
+*Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart*
+
+
 #BIOGRAPHIES
 
 **Bruce Baer Arnold** is an Assistant Professor at Canberra Law School
@@ -597,83 +673,12 @@ Communication Studies and Multimedia, and Academic Director for the
 Lewis & Ruth Sherman Centre for Digital Scholarship at McMaster
 University.
 
-#CONTENT
-
-**1: Introduction: What is (in) Good Data** <br />
-*Monique Mann, Kate Devitt and Angela Daly*
-
-##THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
-
-**2: Good Data Practices for Indigenous Data Sovereignty and Governance** <br />
-*Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie Carroll Rainie and Jennifer Walker*
-
-**3: The Good Data Manifesto** <br />
-*Claire Trenham and Adam Steer*
-
-**4: The Good, the Bad and the Beauty of ‘Good Enough Data’** <br />
-*Miren Gutiérrez*
-
-**5: An Energy Data Manifesto** <br />
-*Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts, Iain MacGill, Anna Bruce and Rob Passey*
-
-##THEME 2: GOOD DATA AND JUSTICE 
-
-**6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study** <br /> 
-*Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong*
-
-**7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: the ByLock Case** <br /> 
-*A. Sefa Ozalp*
-
-**8: Not as Good as Gold? Genomics, Data and Dignity**<br /> 
-*Bruce Baer Arnold and Wendy Elizabeth Bonython*
-
-**9: Data Localization: Policymaking or Gambling?**<br /> 
-*Nikita Melashchenko*
-
-##THEME 3: GOOD DATA AS OPEN AND SHARED DATA
-
-**10: Making Data Public? The Open Data Index as Participatory Device**<br /> 
-*Jonathan Gray and Danny Lämmerhirt*
-
-**11: Data Journalism and the Ethics of Open Source**<br />
-*Colin Porlezza*
-
-**12: Governance of Communal Data Sharing**<br />
-*Chih-Hsing Ho and Tyng-Ruey Chuang*
-
-##THEME 4: GOOD DATA ACTIVISM AND RESEARCH 
-
-**13: Provocations for Social Media Research: Toward Good Data Ethics**<br />
-*Andrea Zeffiro*
-
-**14: Data for the Social Good: Toward a Data-Activist Research Agenda**<br />
-*Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti Wissenbach and Stefania Milan* 
-
-**15: Good Data is Critical Data: An Appeal for Critical Digital Studies**<br /> 
-*Chiara Poletti and Daniel Gray*
-
-**16: The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**<br />*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss*
-
-##THEME 5: GOOD DATA AND SMART CITIES AND HOMES 
-
-**17: Algorithmic Mapmaking in ‘Smart Cities’: Data Protection Impact Assessments as a means of Protection for Groups**<br />
-*Gerard Jan Ritsema van Eck*
-
-**18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia**<br />
-*Juan-Carlos Valencia and Paula Restrepo*
-
-**19: Intelligent Warning Systems: ‘Technological Nudges’ to Enhance User Control of IoT Data Collection, Storage and Use**<br /> 
-*Rachelle Bosua, Karin Clark, Megan Richardson and Jeb Webb*
-
-**20: Domesticating Data: Socio-Legal Perspectives on Smart Homes and Good Data Design**<br />
-*Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart*
-
 
 
 # 1. What is (in) Good Data?
 *Monique Mann, S. Kate Devitt and Angela Daly*
 
-## Introduction: Why Good Data?
+## 1. Introduction: Why Good Data?
 
 In recent years, there has been an exponential increase in the
 collection, aggregation and automated analysis of information by
@@ -822,13 +827,9 @@ them as best we can under some headings which give a flavour of the
 chapters:
 
 1.  Good Data Manifestos and Practices;
-
 2.  Good Data and Justice;
-
 3.  Good Data as Open and Shared Data;
-
 4.  Good Data Activism and Research; and
-
 5.  Good and Smart Data.
 
 Finally, we would like to offer our sincere thanks to our research and
@@ -1289,7 +1290,7 @@ data and designing personalised privacy interventions. However, given
 limited legal protections and fast-paced technological innovation, it is
 possible that the best data at home is not smart at all.
 
-## What (else) is Good Data?
+## 3. What (else) is Good Data?
 
 We are very pleased to include 20 Chapters of Good Data discussions with
 differing perspectives on the question of what Good Data is. But, like
@@ -1365,7 +1366,7 @@ researchers to strive towards higher order ethical norms, beyond the
 minimum required of 'do not harm' and instead a cry to do more, to 'do
 good'.
 
-## Next steps: How do we start building Good Data initiatives? 
+## 4. Next steps: How do we start building Good Data initiatives? 
 
 An important question following from this book is how do we start to
 build, develop and reward Good Data initiatives? This is the logical
@@ -1863,7 +1864,7 @@ developed principles specific to their IDS context.
 | ***United States - US Indigenous Data Sovereignty Network (USIDSN)***                                                                                                                                                                                                                                                                                                                                                            |
 | The USIDSN is in the principles development phase. Draft principles include recognition of inherent sovereignty; protection of Indigenous data; a commitment to aligning with Indigenous values for intergenerational collective wellbeing; a focus on relationships between Indigenous nations and other stakeholders; for IDG; and the honouring of Indigenous knowledge.                                                |
 | ***Canada (First Nations) - OCAP®***                                                                                                                                                                                                                                                                                                                                                                                             |
-| **O**wnership of data<br /> **C**ontrol - First Nations hold on how the data are collected, used and disclosed,<br />**A**ccess - whereby First Nations have access to any data about them<br /> **P**ossession whereby all First Nations data fall within First Nations jurisdiction                                                                                                                                                                       |
+| **O**wnership of data<br /> **C**ontrol - First Nations hold on how the data are collected, used and disclosed,<br />**A**ccess - whereby First Nations have access to any data about them<br /> **P**ossession - whereby all First Nations data fall within First Nations jurisdiction                                                                                                                                                                       |
 | ***Australia - Maiam nayri Wingara***                                                                                                                                                                                                                                                                                                                                                                                            |
 | Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles.[^02chapter2_26]                                                                                                                                                                                                                                                                                                                      |
 *Table 1 - IDS principles in the Asia Pacific and North American States.*
@@ -3204,7 +3205,7 @@ Collection*, 2017, DOI: 10.4225/08/5a12348f8567b.
 
 **Abstract**
 
-Drawing on the concept of 'good enough data,'[^04chapter4_1] which apply to citizen
+Drawing on the concept of 'good enough data'[^04chapter4_1], which apply to citizen
 data collected via sensors this chapter looks critically at data in
 'proactive data activism,' understood as a social practice that uses the
 data infrastructure politically and proactively to foster social
@@ -3344,7 +3345,7 @@ they are *good enough* to sustain further legal investigations. This is
 a single-focused, descriptive study that employs an instance to offer a
 common framework for future studies.[^04chapter4_26] Syrian Archive provides a case
 of a class of phenomena; that is, activism that utilizes the data
-infrastructure for knowledge and action*.* The case study methodology is
+infrastructure for knowledge and action. The case study methodology is
 helpful when the boundaries between a phenomenon and its context are not
 apparent.[^04chapter4_27] This organization has been chosen based on the fact that
 background conditions are relevant to the inspection of data practices
@@ -3427,7 +3428,7 @@ another oxymoron.
 Errors and biases can be introduced accidentally in data processes. An
 artificial intelligence (AI) algorithm learned to associate women with
 kitchen images because more women appear photographed in kitchens on the
-web.*[^04chapter4_46] *In the process of *learning*, the algorithm then multiplied
+web.[^04chapter4_46] In the process of *learning*, the algorithm then multiplied
 the bias present in the initial dataset, amplifying --not simply
 replicating--- the biased association between kitchens and women.[^04chapter4_47]
 This study by the University of Virginia is among several others that
@@ -3454,8 +3455,8 @@ that undermines democracy.[^04chapter4_53]
 
 This paper's aim is not to determine the difference between *good* and
 *good enough* because to do that, and it would have to establish first
-the philosophical question of the meaning *good,* over which there is no
-consensus*.* Gabrys, Pritchard and Barrat do not fathom what *good*
+the philosophical question of the meaning *good*, over which there is no
+consensus. Gabrys, Pritchard and Barrat do not fathom what *good*
 means related to data either.[^04chapter4_54] Thus, good enough is to be initially
 understood as robust enough - devoid of significant unfair or impairing
 manipulation - to sustain research for socially beneficial purposes.
@@ -3640,7 +3641,7 @@ that sustain it.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.jpg)
 *Figure 3: Map of visual evidence about attacks in Aleppo City (July -
-December 2016).*[^04chapter4_91]
+December 2016).[^04chapter4_91]*
 
 Syrian Archive exhibits the ingenuity that characterizes data activists;
 however, not all data activist initiatives employ the same data methods.
@@ -3750,7 +3751,7 @@ comparability of case studies.
 | **InfoAmazonia**                                            | Satellite imagery, crowdsourced citizen data, citizen sensing      | 2nd (public data), 3rd (crowdsourced data) and 5th (own data) | Public satellite imagery; crowdsourcing platform; sensors (i.e. water quality)                                                                                                        |
 | **Ushahidi**                                                | Crowdsourced citizen data; websites and social media               | 2nd (public data)and 3rd (crowdsourced data)                  | Crowdsourcing platform and scraping methods (i.e. for verification); scraping                                                                                                         |
 | **Citizen sensing in Gabrys, Pritchard and Barratt (2016)** | Citizen sensing                                                    | 5th (own data)                                                | Sensors                                                                                                                                                                               |
-<br />*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]
+<br />*Table 1: Comparison of Data Initiatives by Their Origins[^04chapter4_102]*
 
 Forensic Architecture employs advanced architectural and media research
 on behalf of international prosecutors, human rights organizations and
@@ -3847,12 +3848,12 @@ usable:
 
 > Good enough data is really a moving target. Each data submission (...)
 > can lead to new, unsupported data that needs to be analyzed and added
-> to our raw input data validation and normalization stage. We also need
+> to our *raw* input data validation and normalization stage. We also need
 > to have a data QA stage that extracts statistics that let us inspect
 > incoming data and adjust accordingly. Our definition of good data
 > could be: It passes our initial raw input data validation filters;
 > it's normalized to our system\'s internal requirements; it doesn't
-> produce abnormalities in data QA *(quality assurance)* statistics,
+> produce abnormalities in data QA (quality assurance) statistics,
 > and it fits into each of the system's internal data structures.
 
 Interviewees 1, 2 and 4 suggest that what is good enough today, can
@@ -4034,8 +4035,7 @@ InfoAmazonia. 'THE ANNUAL CYCLES of the Indigenous Peoples of the Rio Tiquié
 Innerarity, Daniel.'Ricos Y Pobres En Datos', *Globernance.org*, 22 February 2016,
 http://www.danielinnerarity.es/opinion-preblog/ricos-y-pobres-en-datos/.
 
-International Telecommunication Union. 'Measuring the Information Society Report'
-2014. Geneva: International Telecommunication Union (ITU), http://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf.
+International Telecommunication Union. 'Measuring the Information Society Report' 2014. Geneva: International Telecommunication Union (ITU), http://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf.
 
 Kitchin, Rob, and Tracey P. Lauriault. 'Small Data, Data Infrastructures and Big
 Data', *GeoJournal*, The Programmable City Working Paper 1, 80.4 (2014):
@@ -4558,7 +4558,7 @@ to remedy these asymmetries:
 1.  A revolution in how we collect and disseminate energy data –
     especially that of end-users – is sorely needed. This is widely
     acknowledged by Australian policy-makers.
-
+    
 2.  Appropriate frameworks are urgently needed for collecting and
     sharing suitably anonymised energy data to enable a rapid transition
     to a democratic and sustainable energy future.
@@ -4742,16 +4742,12 @@ to distributed, sustainable energy economy.
 
 -   Opt-in data access to energy use data beyond just networks and
     retailers.
-
 -   Residential consumers be granted straightforward access to their own
     energy use data and be given consent to give or withdraw data for
     specific purposes; and so are able to easily come together to
     produce and consume energy as community energy groups.
-
 -   Further experimentation with the legal form of electricity
     businesses that will enable investments in renewable energy.
-
-## 
 
 ## Data for Accountability
 
@@ -4874,18 +4870,14 @@ challenging to obtain, for other potential energy service providers.
 
 -   Retailers be required to obtain opt-in permission for targeted
     sales.
-
 -   The expansion of tools to enhance market participation of individual
     consumers and community groups, created in the public interest.
-
 -   Some communities of modellers be granted delegated authority to
     access fine-grain energy data: good energy data requires an
     appropriate interface between energy users, regulators and power
     providers.
-
 -   Increased expert resources for regulators to enable them to access
     to usage and tariff data.
-
 -   Support for open-source modelling and data transparency in
     regulatory decision-making to reduce reliance on opaque analysis
     from private consultants
@@ -4949,7 +4941,7 @@ abstraction of data:
     distribution network usage data. This connection is important
     because it forms the basis of significant supply, demand and network
     investment decisions.
-
+    
 2.  The second arises because of the extremely rapid growth of
     distributed generation such as rooftop PV and batteries. These
     systems can have significant impacts on the security of the
@@ -5049,37 +5041,24 @@ basis for discussion:
 
 -   Human-readability (e.g. standardised labelling, sensible time
     series)
-
 -   Cross-compatibility between common processing platforms (Excel,
     Matlab, Python, R)
-
 -   Standard use of Unicode file formats for internationalisation
-
 -   Development of open-source tools for standard conversions (e.g.,
     JSON -&gt; CSV) and translations (e.g. labels English -&gt; Chinese)
-
 -   Standard labelling & protocols for handling missing data
-
 -   Clear labelling of data types (e.g. Power, Energy, Real vs.
     Reactive)
-
 -   Mandatory fields (e.g. period length, time)
-
 -   Standardised time format (suggest addition of Unix and/or GMT
     timestamp for elimination of general ambiguity)
-
 -   Standardisation of time-ending data (vs. time-starting data)
-
 -   Standardisation of metadata, with common fields (e.g. Location and
     range, Country of origin, Postcode etc.)
-
 -   Standardised procedure for de-identification and anonymisation of
     datasets
-
 -   Standard approach for data quality assessment
-
 -   Standard platform to validate the meta-data
-
 -   Standardised data compression protocols for storage
 
 It is also important to consider the current impact of inadequate data
@@ -5145,12 +5124,10 @@ community enterprises to flourish and wrest power from the incumbents.
 -   Maintain appropriate privacy in the context of existing information
     and power asymmetries with a view to opening up a more communal
     notion of personhood upon which trustworthy data sharing may occur.
-
 -   Learn from other successful delegated authorities in other
     countries: make consumers aware of benefits of good governance. For
     example, in Nepal there are representative committees at community
     level that can make decisions on behalf of others.
-
 -   Some communities of modellers be granted delegated authority to
     access fine-grain energy data. Good energy data requires an
     appropriate interface between energy users, regulators and power
@@ -5160,14 +5137,11 @@ community enterprises to flourish and wrest power from the incumbents.
 
 -   The importance of creating a process for communities to access data
     and enable studies based on energy use data.
-
 -   That good data is embedded in good governance. Community energy
     projects need to build their authority to make decisions.
-
 -   The need for ongoing dialogue about how and where data is used.
     Analysis can discover new valuable insights that may require consent
     to be re-evaluated - one form isn’t enough!
-
 -   Researchers have responsibility to act in the public interest when
     using public funds or public data and be mindful of data security
     and anonymity, and the importance of allowing broad access to their
@@ -5879,10 +5853,9 @@ variable *X,* reoﬀence as the target variable *Y*, and a cleaned version
 of past criminal record as *Z*. However, it is worth remembering that
 the approach works in general for other sets of variables.
 
-Figure 1: Learning fair representations with an adversary. In the text
-we use the example of *X*=criminal record, *Z*=the cleaned version of
-the criminal record, *S*=race, *Y*=whether the person reoﬀended. ~1~ and
-~2~ are parameters of the learning algorithm.
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.jpg)
+*Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.*
+
 
 One approach to pre-processing is to design the cleaned variable (*Z*)
 such that the distributions of Z conditioned on diﬀerent values of race
@@ -5906,14 +5879,14 @@ approach as *learning fair representations with an adversary*, since the
 pre-processing step can be seen as a modification to the representation
 of the data provided to the algorithm.
 
-We introduce a parameter ***λ*** (lambda), a non-negative constant (once
+We introduce a parameter *λ* (lambda), a non-negative constant (once
 set, its value stays the same), to control the trade-oﬀ between the two
 objectives involved in the construction of the cleaned variable (*Z*).
-When ***λ*** is large, the algorithm focuses more on making the
-adversary unable to predict race (*S*). When ***λ*** approaches zero,
+When *λ* is large, the algorithm focuses more on making the
+adversary unable to predict race (*S*). When *λ* approaches zero,
 the algorithm focuses more on making the original records and cleaned
 records similar. The algorithm does not provide any guidance as to how
-to select ***λ***. Rather, this depends on a decision about the relative
+to select *λ*. Rather, this depends on a decision about the relative
 importance assigned to fairness and accuracy in the design of the
 algorithmic risk assessment. Such a decision is a social, political and
 regulatory one -- the algorithm simply provides an implementation for
@@ -5926,8 +5899,6 @@ a neural network parameterized by weights *θ*~2~, which predicts race
 from the cleaned records. Four steps are repeated for each batch of
 examples from the training data:
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.jpg)
-*Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.*
 
 | Feature                                                         | Description                                                                                                                                                                                      |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5961,7 +5932,7 @@ examples from the training data:
     these examples, the data producer updates *θ*~1~ to worsen the
     adversary's prediction of *S* in the future while also trying make
     *Z* similar to *X*. The trade-oﬀ between these two objectives is
-    governed by the parameter ***λ***.
+    governed by the parameter *λ*.
 
 Once learning is complete, for each individual the data producer passes
 their input record through a neural network with weights *θ*~1~. This
@@ -5988,7 +5959,7 @@ criminal history related characteristics of the oﬀenders.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image2.jpg)
 *Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed
-lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter **λ** used in pre-processing on a logarithmic scale.*
+lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter λ used in pre-processing on a logarithmic scale.*
 
 The target variable is whether or not an individual re-committed a DV
 related oﬀence within a duration of 24 months since the first court
@@ -6000,7 +5971,7 @@ Graham.
 
 Our baseline experiments use the original data, including the Indigenous
 status variable. We also tested the pre-processing method described in
-Section 6.2.4 for several values of the parameter ***λ***. We predicted
+Section 6.2.4 for several values of the parameter *λ*. We predicted
 recidivism from the data -- the original data in the baseline
 experiments and the pre-processed data in the other experiments -- using
 logistic regression as in Fitzgerald and Graham's study, which predicts
@@ -6047,7 +6018,7 @@ Removing the Indigenous status column in the data is a possible step
 towards remediating these issues. It would address the final concern
 around fair process. However, our results show that the first three
 concerns stand even without the presence of this column. The solid lines
-on the left-hand side of the plots, where ***λ*** approaches zero and
+on the left-hand side of the plots, where *λ* approaches zero and
 the data is eﬀectively left untouched except for the exclusion of the
 Indigenous status column, indicate that while the discrepancies between
 the Indigenous and non-Indigenous populations are not as acute as in the
@@ -6056,19 +6027,19 @@ in the other columns still results in diﬀerent outcomes for Indigenous
 and non-Indigenous populations, a phenomenon known as *redundant
 encoding*.[^06chapter6_73]
 
-Applying pre-processing with increasing values of ***λ***, the above
+Applying pre-processing with increasing values of *λ*, the above
 issues are addressed:
 
 -   the predicted reoﬀence rate for non-reoﬀenders is more similar for
-    Indigenous and non-Indigenous populations (for ***λ*** = 10, 8.1%
+    Indigenous and non-Indigenous populations (for *λ* = 10, 8.1%
     for Indigenous vs 7.8% for non-Indigenous);
 
 -   the predicted reoﬀence rate for reoﬀenders is more similar for
-    Indigenous and non-Indigenous populations (for ***λ*** = 10, 9.7%
+    Indigenous and non-Indigenous populations (for *λ* = 10, 9.7%
     for Indigenous vs 9.5% for non-Indigenous);
 
 -   the predicted reoﬀence rate overall is more similar for Indigenous
-    and non-Indigenous populations (for ***λ*** = 10, 8.3% for
+    and non-Indigenous populations (for *λ* = 10, 8.3% for
     Indigenous vs 7.9% for non-Indigenous).
 
 There is a cost to pre-processing in terms of accurately predicting
@@ -6076,9 +6047,9 @@ reoﬀence. The AUC drops to 0.62, so that the predictions are less
 accurate than the baseline (AUC 0.71), while still significantly more
 accurate than a random prediction (AUC 0.5).[^06chapter6_74] Overall predicted
 reoﬀence rates for non-reoﬀenders are higher compared to the baseline:
-7.9% for ***λ*** = 10 vs 7.6% for the baseline, a 10.2% increase.
+7.9% for *λ* = 10 vs 7.6% for the baseline, a 10.2% increase.
 Overall predicted reoﬀence rates for reoﬀenders are lower compared to
-the baseline: 9.6% for ***λ*** = 10 vs 12.9% for the baseline, a 26.0%
+the baseline: 9.6% for *λ* = 10 vs 12.9% for the baseline, a 26.0%
 decrease. This reduced accuracy is not surprising as the pre-processing
 removes information from the dataset. The decrease in predicted reoﬀence
 rates for reoﬀenders caused by the pre-processing is undesirable from
@@ -6091,12 +6062,12 @@ compared to Fitzgerald and Graham's study. The naive approach of
 learning from the original input data results in a prediction that
 indicates that the average risk associated with Indigenous individuals
 is more than twice that of their non-Indigenous counterparts, even among
-non-reoﬀenders - while for a value of ***λ*** = 10 these risks are
+non-reoﬀenders - while for a value of *λ* = 10 these risks are
 comparable. As discussed previously, this could not have been achieved
 simply by removing the Indigenous status column from the data. However,
 achieving comparable risks comes at the cost of overall predictive
 accuracy (AUC 0.71 to AUC 0.62). It is worth repeating that our approach
-does not prescribe a particular value of the trade-oﬀ parameter ***λ***,
+does not prescribe a particular value of the trade-oﬀ parameter *λ*,
 but rather provides a quantitative tool to estimate the eﬀect of this
 trade-oﬀ. We discuss further implications of fairness trade-oﬀs in our
 conclusion.
@@ -13228,7 +13199,7 @@ What is 'privacy' in the context of social media research? If we follow
 Helen Nissenbaum's lead, concerns over privacy are not simply concerns
 about control over personal information. A 'right to privacy', reflects
 Nissenbaum, 'is neither a right to secrecy nor a right to control, but a
-right to the *appropriate* flow of personal information'.[^13chapter13_77]
+right to the appropriate flow of personal information'.[^13chapter13_77]
 Nissenbaum advocates for a 'contextual integrity approach' to privacy,
 wherein 'we locate contexts, explicate entrenched informational norms,
 identify disruptive flows, and evaluate these flows against norms based
@@ -14424,7 +14395,7 @@ Zwitter, Andrej. 'Big Data Ethics', *Big Data & Society* (July 2014), https://jo
 *Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti
 Wissenbach and Stefania Milan[^14chapter14_1]*
 
-**Introduction**
+##Introduction
 
 'Big data' is a hyped buzzword---or rather, it has been for a while,
 before being supplanted by 'newer' acclaimed concepts such as artificial
@@ -16703,7 +16674,7 @@ researcher are informed by an understanding of the concepts and
 techniques mobilized by the software.
 
 It is in the facilitation of further understanding about the analysis
-process that we situate the plugin: as a *first step* on the road to
+process that we situate the plugin: as a first step on the road to
 what we term 'account-ability by design.' The design process springs
 forth from an ethnographic, processual, and systematic engagement with
 the tool. The reflexive practice we envision for scholars working with
@@ -19608,7 +19579,7 @@ use of individuals' data enabled by the Internet of Things (IoT) is
 unsettling in a world of more connectivity, networking and
 collaboration. The research question that can be asked is: *how can
 users better control the management of their personal data in an
-increasingly connected and digitised world*? While this is a key
+increasingly connected and digitised world?* While this is a key
 question, we acknowledge that new technologies and their accompanying
 data collection practices provide multiple new services and promises to
 significantly ease and enrich our lives in many different ways. For
@@ -19885,7 +19856,7 @@ thought in the \[software design\] process*'.[^19chapter19_35]
 
 As to legal standards, another participant expressed concern that these
 terms and conditions \[of use\] are subject to change without any
-notice*,*[^19chapter19_36] while another participant indicated another issue with
+notice,[^19chapter19_36] while another participant indicated another issue with
 consent forms -- '...*the difference is that US law is very different to
 Australian law with respect to fair and reasonable use -- so you have
 this problem with terms and conditions which may be enforceable under a
@@ -19974,7 +19945,7 @@ raised during our consultations and make provision for specific informed
 consent to be provided or requested for adaptating a user's pre-set
 controls for IoT data collection, storage, processing and use.
 
-**i**) **Dataflow A** as set up by Abigail: The IWA will sense or track
+i) **Dataflow A** as set up by Abigail: The IWA will sense or track
 Abigail's fitness-monitoring IoT device, which is connected to her
 phone, access her location data through the mobile phone's geolocation
 technology and integrate this geolocation data with fitness i.e. health
@@ -19997,7 +19968,7 @@ decide to take preventative actions to stop the flow of her unencrypted
 data, for instance disconnecting the device or putting the device behind
 a 'firewall'.
 
-**iii) Dataflow C** as set up by Chester: In this scenario, the IWA
+iii) **Dataflow C** as set up by Chester: In this scenario, the IWA
 makes Chester aware of voluminous data flowing through one or more
 channels (e.g. connected to Chester's Wi-Fi network) to a third-party
 server overseas. Once again, the IWA will sense or track uncontrolled

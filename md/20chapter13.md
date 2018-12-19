@@ -657,7 +657,7 @@ What is 'privacy' in the context of social media research? If we follow
 Helen Nissenbaum's lead, concerns over privacy are not simply concerns
 about control over personal information. A 'right to privacy', reflects
 Nissenbaum, 'is neither a right to secrecy nor a right to control, but a
-right to the *appropriate* flow of personal information'.[^13chapter13_77]
+right to the appropriate flow of personal information'.[^13chapter13_77]
 Nissenbaum advocates for a 'contextual integrity approach' to privacy,
 wherein 'we locate contexts, explicate entrenched informational norms,
 identify disruptive flows, and evaluate these flows against norms based

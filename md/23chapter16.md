@@ -230,7 +230,7 @@ researcher are informed by an understanding of the concepts and
 techniques mobilized by the software.
 
 It is in the facilitation of further understanding about the analysis
-process that we situate the plugin: as a *first step* on the road to
+process that we situate the plugin: as a first step on the road to
 what we term 'account-ability by design.' The design process springs
 forth from an ethnographic, processual, and systematic engagement with
 the tool. The reflexive practice we envision for scholars working with

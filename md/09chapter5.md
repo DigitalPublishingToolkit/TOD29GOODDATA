@@ -64,7 +64,7 @@ to remedy these asymmetries:
 1.  A revolution in how we collect and disseminate energy data –
     especially that of end-users – is sorely needed. This is widely
     acknowledged by Australian policy-makers.
-
+    
 2.  Appropriate frameworks are urgently needed for collecting and
     sharing suitably anonymised energy data to enable a rapid transition
     to a democratic and sustainable energy future.
@@ -248,16 +248,12 @@ to distributed, sustainable energy economy.
 
 -   Opt-in data access to energy use data beyond just networks and
     retailers.
-
 -   Residential consumers be granted straightforward access to their own
     energy use data and be given consent to give or withdraw data for
     specific purposes; and so are able to easily come together to
     produce and consume energy as community energy groups.
-
 -   Further experimentation with the legal form of electricity
     businesses that will enable investments in renewable energy.
-
-## 
 
 ## Data for Accountability
 
@@ -380,18 +376,14 @@ challenging to obtain, for other potential energy service providers.
 
 -   Retailers be required to obtain opt-in permission for targeted
     sales.
-
 -   The expansion of tools to enhance market participation of individual
     consumers and community groups, created in the public interest.
-
 -   Some communities of modellers be granted delegated authority to
     access fine-grain energy data: good energy data requires an
     appropriate interface between energy users, regulators and power
     providers.
-
 -   Increased expert resources for regulators to enable them to access
     to usage and tariff data.
-
 -   Support for open-source modelling and data transparency in
     regulatory decision-making to reduce reliance on opaque analysis
     from private consultants
@@ -455,7 +447,7 @@ abstraction of data:
     distribution network usage data. This connection is important
     because it forms the basis of significant supply, demand and network
     investment decisions.
-
+    
 2.  The second arises because of the extremely rapid growth of
     distributed generation such as rooftop PV and batteries. These
     systems can have significant impacts on the security of the
@@ -555,37 +547,24 @@ basis for discussion:
 
 -   Human-readability (e.g. standardised labelling, sensible time
     series)
-
 -   Cross-compatibility between common processing platforms (Excel,
     Matlab, Python, R)
-
 -   Standard use of Unicode file formats for internationalisation
-
 -   Development of open-source tools for standard conversions (e.g.,
     JSON -&gt; CSV) and translations (e.g. labels English -&gt; Chinese)
-
 -   Standard labelling & protocols for handling missing data
-
 -   Clear labelling of data types (e.g. Power, Energy, Real vs.
     Reactive)
-
 -   Mandatory fields (e.g. period length, time)
-
 -   Standardised time format (suggest addition of Unix and/or GMT
     timestamp for elimination of general ambiguity)
-
 -   Standardisation of time-ending data (vs. time-starting data)
-
 -   Standardisation of metadata, with common fields (e.g. Location and
     range, Country of origin, Postcode etc.)
-
 -   Standardised procedure for de-identification and anonymisation of
     datasets
-
 -   Standard approach for data quality assessment
-
 -   Standard platform to validate the meta-data
-
 -   Standardised data compression protocols for storage
 
 It is also important to consider the current impact of inadequate data
@@ -651,12 +630,10 @@ community enterprises to flourish and wrest power from the incumbents.
 -   Maintain appropriate privacy in the context of existing information
     and power asymmetries with a view to opening up a more communal
     notion of personhood upon which trustworthy data sharing may occur.
-
 -   Learn from other successful delegated authorities in other
     countries: make consumers aware of benefits of good governance. For
     example, in Nepal there are representative committees at community
     level that can make decisions on behalf of others.
-
 -   Some communities of modellers be granted delegated authority to
     access fine-grain energy data. Good energy data requires an
     appropriate interface between energy users, regulators and power
@@ -666,14 +643,11 @@ community enterprises to flourish and wrest power from the incumbents.
 
 -   The importance of creating a process for communities to access data
     and enable studies based on energy use data.
-
 -   That good data is embedded in good governance. Community energy
     projects need to build their authority to make decisions.
-
 -   The need for ongoing dialogue about how and where data is used.
     Analysis can discover new valuable insights that may require consent
     to be re-evaluated - one form isn’t enough!
-
 -   Researchers have responsibility to act in the public interest when
     using public funds or public data and be mindful of data security
     and anonymity, and the importance of allowing broad access to their

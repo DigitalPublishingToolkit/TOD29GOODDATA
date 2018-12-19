@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 
 **Abstract**
 
-Drawing on the concept of 'good enough data,'[^04chapter4_1] which apply to citizen
+Drawing on the concept of 'good enough data'[^04chapter4_1], which apply to citizen
 data collected via sensors this chapter looks critically at data in
 'proactive data activism,' understood as a social practice that uses the
 data infrastructure politically and proactively to foster social
@@ -163,7 +163,7 @@ they are *good enough* to sustain further legal investigations. This is
 a single-focused, descriptive study that employs an instance to offer a
 common framework for future studies.[^04chapter4_26] Syrian Archive provides a case
 of a class of phenomena; that is, activism that utilizes the data
-infrastructure for knowledge and action*.* The case study methodology is
+infrastructure for knowledge and action. The case study methodology is
 helpful when the boundaries between a phenomenon and its context are not
 apparent.[^04chapter4_27] This organization has been chosen based on the fact that
 background conditions are relevant to the inspection of data practices
@@ -246,7 +246,7 @@ another oxymoron.
 Errors and biases can be introduced accidentally in data processes. An
 artificial intelligence (AI) algorithm learned to associate women with
 kitchen images because more women appear photographed in kitchens on the
-web.*[^04chapter4_46] *In the process of *learning*, the algorithm then multiplied
+web.[^04chapter4_46] In the process of *learning*, the algorithm then multiplied
 the bias present in the initial dataset, amplifying --not simply
 replicating--- the biased association between kitchens and women.[^04chapter4_47]
 This study by the University of Virginia is among several others that
@@ -273,8 +273,8 @@ that undermines democracy.[^04chapter4_53]
 
 This paper's aim is not to determine the difference between *good* and
 *good enough* because to do that, and it would have to establish first
-the philosophical question of the meaning *good,* over which there is no
-consensus*.* Gabrys, Pritchard and Barrat do not fathom what *good*
+the philosophical question of the meaning *good*, over which there is no
+consensus. Gabrys, Pritchard and Barrat do not fathom what *good*
 means related to data either.[^04chapter4_54] Thus, good enough is to be initially
 understood as robust enough - devoid of significant unfair or impairing
 manipulation - to sustain research for socially beneficial purposes.
@@ -459,7 +459,7 @@ that sustain it.
 
 ![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.jpg)
 *Figure 3: Map of visual evidence about attacks in Aleppo City (July -
-December 2016).*[^04chapter4_91]
+December 2016).[^04chapter4_91]*
 
 Syrian Archive exhibits the ingenuity that characterizes data activists;
 however, not all data activist initiatives employ the same data methods.
@@ -569,7 +569,7 @@ comparability of case studies.
 | **InfoAmazonia**                                            | Satellite imagery, crowdsourced citizen data, citizen sensing      | 2nd (public data), 3rd (crowdsourced data) and 5th (own data) | Public satellite imagery; crowdsourcing platform; sensors (i.e. water quality)                                                                                                        |
 | **Ushahidi**                                                | Crowdsourced citizen data; websites and social media               | 2nd (public data)and 3rd (crowdsourced data)                  | Crowdsourcing platform and scraping methods (i.e. for verification); scraping                                                                                                         |
 | **Citizen sensing in Gabrys, Pritchard and Barratt (2016)** | Citizen sensing                                                    | 5th (own data)                                                | Sensors                                                                                                                                                                               |
-<br />*Table 1: Comparison of Data Initiatives by Their Origins*[^04chapter4_102]
+<br />*Table 1: Comparison of Data Initiatives by Their Origins[^04chapter4_102]*
 
 Forensic Architecture employs advanced architectural and media research
 on behalf of international prosecutors, human rights organizations and
@@ -666,12 +666,12 @@ usable:
 
 > Good enough data is really a moving target. Each data submission (...)
 > can lead to new, unsupported data that needs to be analyzed and added
-> to our raw input data validation and normalization stage. We also need
+> to our *raw* input data validation and normalization stage. We also need
 > to have a data QA stage that extracts statistics that let us inspect
 > incoming data and adjust accordingly. Our definition of good data
 > could be: It passes our initial raw input data validation filters;
 > it's normalized to our system\'s internal requirements; it doesn't
-> produce abnormalities in data QA *(quality assurance)* statistics,
+> produce abnormalities in data QA (quality assurance) statistics,
 > and it fits into each of the system's internal data structures.
 
 Interviewees 1, 2 and 4 suggest that what is good enough today, can
@@ -853,8 +853,7 @@ InfoAmazonia. 'THE ANNUAL CYCLES of the Indigenous Peoples of the Rio Tiquié
 Innerarity, Daniel.'Ricos Y Pobres En Datos', *Globernance.org*, 22 February 2016,
 http://www.danielinnerarity.es/opinion-preblog/ricos-y-pobres-en-datos/.
 
-International Telecommunication Union. 'Measuring the Information Society Report'
-2014. Geneva: International Telecommunication Union (ITU), http://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf.
+International Telecommunication Union. 'Measuring the Information Society Report' 2014. Geneva: International Telecommunication Union (ITU), http://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf.
 
 Kitchin, Rob, and Tracey P. Lauriault. 'Small Data, Data Infrastructures and Big
 Data', *GeoJournal*, The Programmable City Working Paper 1, 80.4 (2014):
