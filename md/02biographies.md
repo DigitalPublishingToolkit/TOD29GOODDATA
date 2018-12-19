@@ -16,7 +16,8 @@ In order to paint an alternative, more optimistic but still pragmatic picture of
 Keywords:   data, datafication, data collection, data practice, sovereignty, activism
 Rights: CC BY-NC 4.0
 ...
-#BIOGRAPHIES#
+
+#BIOGRAPHIES
 
 **Bruce Baer Arnold** is an Assistant Professor at Canberra Law School
 (University of Canberra). Dr Arnold's doctoral dissertation explored the

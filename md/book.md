@@ -1,9 +1,8 @@
-#Colophon
 
 Theory on Demand #29 <br />
 **Good Data**
 
-Editors: Angela Daly, S. Kate Devitt, Monique Mann <br />
+Editors: Angela Daly, S. Kate Devitt and Monique Mann <br />
 Copy editor: Harley Williams <br />
 Editorial assistant: Kayleigh Murphy <br />
 
@@ -31,8 +30,8 @@ This publication is made available through various print on demand
 services and freely downloadable from
 http://www.networkcultures.org/publications
 
-![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.png)
-#BIOGRAPHIES#
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.jpg)
+#BIOGRAPHIES
 
 **Bruce Baer Arnold** is an Assistant Professor at Canberra Law School
 (University of Canberra). Dr Arnold's doctoral dissertation explored the
@@ -598,10 +597,7 @@ Communication Studies and Multimedia, and Academic Director for the
 Lewis & Ruth Sherman Centre for Digital Scholarship at McMaster
 University.
 
-
-#overview
-
-##BIOGRAPHIES
+#CONTENT
 
 **1: Introduction: What is (in) Good Data** <br />
 *Monique Mann, Kate Devitt and Angela Daly*
@@ -675,7 +671,7 @@ University.
 
 
 # 1. What is (in) Good Data?
-*Monique Mann, S. Kate Devitt, Angela Daly*
+*Monique Mann, S. Kate Devitt and Angela Daly*
 
 ## Introduction: Why Good Data?
 
@@ -3256,7 +3252,7 @@ perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
 ![Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
-2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.png)
+2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.jpg)
 *Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
 2018).*
 
@@ -3627,7 +3623,7 @@ killings', 'arbitrary arrest and unlawful detention' and
 classified by the kind of weapon utilized, the location or the kind of
 violation or abuse. Figure 2 summarizes the process.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.png)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.jpg)
 *Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*
 
 Based on the examination of footage, the research of the Aleppo bombings
@@ -3642,7 +3638,7 @@ most of the airstrikes are carried out by Russian aircraft.[^04chapter4_90] Figu
 interactive chart available online allows users to access the videos
 that sustain it.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.png)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.jpg)
 *Figure 3: Map of visual evidence about attacks in Aleppo City (July -
 December 2016).*[^04chapter4_91]
 
@@ -5930,7 +5926,7 @@ a neural network parameterized by weights *θ*~2~, which predicts race
 from the cleaned records. Four steps are repeated for each batch of
 examples from the training data:
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.png)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.jpg)
 *Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.*
 
 | Feature                                                         | Description                                                                                                                                                                                      |
@@ -7128,7 +7124,7 @@ servers) are deliberately manipulated by MIT which '﻿points out the
 great likelihood that MIT and other Turkish authorities manipulated the
 Bylock database and fabricated false Bylock records'.[^07chapter7_78]
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter7_Ozelp_Image1.png)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter7_Ozelp_Image1.jpg)
 *Figure* *1: Screenshots from MIT report, allegedly from ByLock
 database. Total numbers of rows returned by the SQL queries (7 and 10
 respectively) do not match total numbers of rows shown at the bottom of
@@ -10462,7 +10458,7 @@ through open source software and replicable components which enable the
 adaptation and multiplication of projects, including through
 forking.[^10chapter10_14]
 
-![](imgs/Chapter10_GrayLam_image1.png)
+![](imgs/Chapter10_GrayLam_image1.jpg)
 *Figure 1: Detail of Open Data Census submission form showing types of
 data availability*.
 
@@ -10606,11 +10602,11 @@ check and approve incoming submissions (Figure 4). A community manager
 at OKI worked to coordinate the project and communicate with
 contributors and editors.
 
-![](imgs/Chapter10_GrayLam_image3.png)
+![](imgs/Chapter10_GrayLam_image3.jpg)
 *Figure 3: Table showing weightings for Open Data Index 2013.*
 
 
-![](imgs/Chapter10_GrayLam_image4.png)
+![](imgs/Chapter10_GrayLam_image4.jpg)
 *Figure 4: Review process for contributors and editors, Open Data Index
 2013.*
 
@@ -10682,7 +10678,7 @@ As with the examples of indices above, activists and public servants
 were thus provided with material and 'enumerated entities' to make the
 case for changes.[^10chapter10_28]
 
-![](imgs/Chapter10_GrayLam_image5.png)
+![](imgs/Chapter10_GrayLam_image5.jpg)
 *Figure 5: Graphic to illustrate results of Open Data Index 2014.*
 
 Another way was to enable more flexibility and customisation for
@@ -10743,7 +10739,7 @@ performance data.[^10chapter10_32] Public input and involvement was also encoura
 in a forum, which saw more extended discussions about questions and
 issues around the index.
 
-![](imgs/Chapter10_GrayLam_image6.png)
+![](imgs/Chapter10_GrayLam_image6.jpg)
 *Figure 6: "Crowdsourced survey" to inform choice of datasets included
 in 2015 Global Open Data Index.*
 
@@ -17664,6 +17660,7 @@ But are they really a panacea that can provide meaningful safeguards, or
 an expensive Band-Aid that will be avoided, ignored, and brushed aside?
 
 ![](imgs/chapter17_Ritsema_image1.jpg)
+
 *Figure 1. Screenshot taken by the author on
 https://labs.strava.com/heatmaps on 2 February 2018. Shown is the
 Stadspark in Groningen, the Netherlands. The clearly visible small
@@ -17718,6 +17715,7 @@ split between those who "produce" the map, those who "edit" the map and
 those who "consume" the map'.[^17chapter17_17]
 
 ![](imgs/chapter17_Ritsema_image2.jpg)
+
 *Figure 2. Screenshot taken by the author on
 https://www.waze.com/livemap on 5 February 2018. Shown is part of the
 center of London, England. The three data sources are clearly visible:
@@ -19963,7 +19961,7 @@ users and complying with any relevant legal obligations in the
 jurisdiction (or jurisdictions). Figure 1 also presents the three data
 flow scenarios A, B and C that are described in the next section.
 
-![](imgs/Chapter19_Bosua_image1.png)
+![](imgs/Chapter19_Bosua_image1.jpg)
 *Figure 1: Conceptual Architectural Model of the Intelligent Warning app
 (IWA).*
 
@@ -20018,7 +20016,7 @@ feel from a usability perspective. The aim is to design an interactive
 user-friendly app that is fairly intuitive in terms of use and
 functionality.
 
-![](imgs/Chapter19_Bosua_image2.png)
+![](imgs/Chapter19_Bosua_image2.jpg)
 *Figure 2: Excerpt of wireframe mock-up of the IWA prototype.*
 
 The initial landing page requires a secure user login taking the user to

@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Cite" Name="Cite">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Superscript" Name="Superscript" Position="Superscript">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/BulList &gt; Paragraph" Name="BulList &gt; Paragraph" BulletsAndNumberingListType="BulletList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string" />
+              <Position type="unit">10</Position>
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/BulList &gt; first &gt; Paragraph" Name="BulList &gt; first &gt; Paragraph" BulletsAndNumberingListType="BulletList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string" />
+              <Position type="unit">10</Position>
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; Paragraph" Name="NumList &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; Paragraph" Name="NumList &gt; first &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/TableCaption" Name="TableCaption" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/TablePar" Name="TablePar" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/TablePar &gt; LeftAlign" Name="TablePar &gt; LeftAlign" LeftIndent="0" Justification="LeftAlign">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/TablePar &gt; TableHeader" Name="TablePar &gt; TableHeader" LeftIndent="0" FontStyle="Bold">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>5: An Energy Data Manifesto</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts, Iain MacGill, Anna Bruce and Rob Passey</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Abstract</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This collaborative manifesto, co-written by a social scientist and engineers, situates the demands for data about energy use and planning by regulators, consumers and policy-makers in an historical and regulatory context, most notably the shift from state ownership of large coal power plants to competition policy. We outline paths forward in three overlapping areas: firstly, data for the empowerment of consumers should see easier access to usage data provided by retailers, whilst new collectives to produce energy should be encouraged and enabled. Secondly under the umbrella of ‘data for accountability’, we situate practical work we have undertake in open source modelling in a wider set of concerns about how retailers and electricity supply (poles and wires) businesses are run. Finally, building on these two areas, we speculate how moving past the binary between individual versus corporate interest may enable a more democratic and accountable research capacity into energy planning. We conclude noting the scale and scope of challenges facing energy policy makers in Australia and underscore the importance of a strategic ‘technopolitics’ – the technical details of market design – to both effective action on climate change and robust, sustainable energy systems. </Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Introduction</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A spectre is haunting Australia – the spectre of an energy transition. All the powers of the old energy sector have entered an unholy alliance to exorcise this spectre.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Of course, we understand this is not entirely true, and that toxic politics is a major barrier, but we adapt this quote from another famous manifesto to illustrate the difficulties being faced by proponents of sustainable energy in Australia.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Enabled by rapid technological changes, including developments in distributed solar, storage, metering and control, the prospect of an environmentally sustainable, equitable and reliable energy system driven by community knowledge and engagement has emerged. The control of the resultant explosion of energy data lies at the heart of the battle for our energy future. Although enthusiasm for much broader access to energy data to monitor and facilitate this transition is growing, some key incumbent energy sector businesses, politicians and others are pushing to maintain present asymmetries in energy data collection and access. Two things result from the struggle to remedy these asymmetries:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A revolution in how we collect and disseminate energy data – especially that of end-users – is sorely needed. This is widely acknowledged by Australian policy-makers.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Appropriate frameworks are urgently needed for collecting and sharing suitably anonymised energy data to enable a rapid transition to a democratic and sustainable energy future.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As energy researchers, we use energy data to inform our work, build our models and provide insights on possible energy transition futures. By collectively and openly publishing our views about what good energy data access and oversight might look like, and the prospects for an energy data revolution, we hope to facilitate public debate to help bring about a just transition in the energy sector in ways that empower and enable communities to determine their own futures.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We focus on the electricity sector that is the primary subject of our work, and where the quantity and complexity of energy data is increasing rapidly, with only limited guidance from policy-makers regarding who should have access and under what terms. This work is both technical and political – it redraws the boundaries of which actors have access to relevant data, and, therefore, who can make decisions. Political structures are important in shaping regulation, but equally, politics and regulations are shaped by technical details and flows of data.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A History of the Current Paradigm Through Data</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The history of the Australian electricity system is a history of paradigms: small, local generation and governance at the municipal level has given way to large, state-owned, and generally vertically integrated electricity commissions. These became responsible for planning, building and operating large centralised generation assets and networks to serve energy consumers under a social contract of affordable and reliable electricity provision. Unlike some jurisdictions, such as those States in the US that established Utility Commissions to oversee monopoly electricity utilities, there was remarkably little transparency about the operation of these Australian state electricity commissions. To this day, Utilities themselves have had very limited information on nearly all energy consumers because data infrastructure has typically comprised simple accumulation meters that provided only quarterly consumption data.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Events in the 1980s, such as attempts to build power stations for an aluminium smelting boom that never materialised, increased pressure to establish greater government and public oversight of the Utilities in some key states. However, these initiatives were overtaken by a micro-economic reform agenda in the early 1990s that established a very different direction for the electricity sector.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The reform agenda for electricity focussed on the vertical separation of generation and retail from the natural monopoly networks, the introduction of competition and the sale of publicly-owned electricity generation, transmission and distribution assets to the private sector.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>George Wilkenfeld, ‘Cutting greenhouse emissions-what would we do if we really meant it?’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Australian Review of Public Affairs,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (2007) http://www.australianreview.net/digest/2007/08/wilkenfeld.html; George Wilkenfeld &amp; Peter Spearritt, ‘Electrifying Sydney’, Sydney: EnergyAustralia</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 2004.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The key role of publicly available data (see Box 1) to facilitate an effective market in electricity provision was appreciated at an early stage of this restructuring.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>The Australian National Electricity Market uses detailed data regarding large-scale generation, namely five-minute market offers of all scheduled generators, their dispatch and market prices.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A key objective of micro-economic reform was to provide energy consumers with greater choice, which according to economic rationalist theory would put them at the heart of decision-making in the industry.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>This is of course not true as consumers would still only be responding to the products offered to them.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> There was far less focus on the role of public energy data (Box 1) to facilitate effective engagement at the distribution network and retail market level.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="1" ColumnCount="1">
+  <Column Name="0" SingleColumnWidth="500.0" />
+  <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+        <Content>Box 1: What is ‘Public Energy Data’?</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Energy data typically refers to information over time regarding the level of energy consumption, generation, quality,</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+        <Footnote>
+          <ParagraphStyleRange>
+            <CharacterStyleRange>
+              <Content><?ACE 4?></Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>	</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>Information regarding power quality relates to technical characteristics of power delivered such as voltage. Power quality can determine how well equipment and household appliances function, and in extreme cases, poor power quality can cause damage to appliances.</Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+        </Footnote>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> and price. When coupled with metadata (such as consumer location or demographics), this data can yield valuable insights for researchers, and policymakers in domains such as urban planning, demography, and sociology. We use the prefix ‘</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+        <Content>public’</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> to refer to energy data which is freely and publicly available. This can be contrasted to proprietary data held by privately owned retailers or within government departments. Public refers to both the state of accessibility and the process of making otherwise enclosed data freely available.</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+</Table>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Box 1: What is ‘Public Energy Data’?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Market design decisions in the 1990s mean that key parameters of the energy markets are published online. The Federal regulator AEMO publishes energy consumption and wholesale price across regions (such as New South Wales) and updates this information every five minutes. energy data demonstrate the importance of aggregation</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
+    <Content>.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Available on the Australian Energy Market Operator’s website: https://www.aemo.com.au/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> When household data includes thousands or even millions of households, it yields insights relevant to decision-making about the supply and distribution system (poles and wires), retail and wholesale markets. Because Retailer and Network Business access to consumer data is generally far superior to that of consumers, regulators or researchers, there are substantial information asymmetries with implications for competition, regulation and broader decision-making.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Data for Empowerment of Consumers and New Collectives</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Decarbonising an electricity sector governed through the competition policy paradigm has proven incredibly problematic.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Iain MacGill and Stephen Healy, ‘Is electricity industry reform the right answer to the wrong question? Lessons from Australian restructuring and climate policy.’, in Fereidoon P. Sioshansi (ed.), </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Evolution of Global Electricity Markets</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge MA: Academic Press, 2013, pp. 615-644.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> A new paradigm of governing carbon emissions through a nationally regulated cap and trade scheme spluttered into life briefly in 2012 before being snuffed out by the Coalition Government of Tony Abbott in 2014.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In this contentious policy context, private action by households to reduce emissions by deploying household PV has been one of the few environmental success stories for effective transition to a sustainable energy system in Australia. Collectives have also sprung up in the ashes of the carbon emissions trading regime seeking to make the transition to sustainable electricity industry infrastructure. The competition policy paradigm preserves universal individual household access to competitive retail markets. However, these markets have generally served retailers better than their customers. Moreover, the competition policy paradigm has constrained collectives at the community scale seeking to building mini or microgrids or develop shared energy resources like solar and batteries. Crucially, groups organising around contracts that would effectively remove choice of provider have been scuppered by competition justifications. Furthermore, competition policies have further constrained access to data by locking these groups into market arrangements where legacy retail businesses have advantages of scale and incumbency.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>At present, households can be both consumers and producers of energy (prosumers) yet do not have real-time access to their energy consumption data. This data is collected by the metering service providers and then passed to the electricity retailers and network companies for billing, sales and planning needs. While consumers are able to obtain their past consumption data, it is usually not a straightforward process and there is no consistent format of delivery. As decentralised energy becomes increasingly prevalent, secure energy data sharing is needed to facilitate new markets and options.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Community groups such as Pingala and ClearSky Solar have been asking the question, ‘who should have energy usage data and under what circumstances?’ with quite different perspectives to those of network operators, the large retailers and Federal regulators that are a legacy of the old paradigm. These community groups seek to democratise ownership of the energy system through facilitating communities’ investment in solar PV assets and sale of the electricity generated.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See Declan Kuch and Bronwen Morgan, ‘Dissonant Justifications: an organisational perspective of support for Australian community energy’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>People Place and Policy</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 9 (2015): 177-218.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> However, without visibility over relevant data to investment decision-making and electricity loads, participation in the electricity market is more difficult. Managing a decentralised, variable renewable energy supply requires an accurate and time-sensitive set of monitoring tools.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>While millions of rooftop distributed solar generators have been installed across Australia, the required data acquisition tools have not been deployed in parallel at a similar scale. Distributed resources to monitor and forecast their own operation are much better able to integrate with and respond to price signals, especially when aggregated into Virtual Power Plants – where a host of smaller controllable loads such as battery systems, electric cars, air conditioners and/or pool pumps act together like a physical power station.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In this political and regulatory context, data empowerment for the grassroots provides hope. For individual consumers, this can simply mean being able to compare their retail offer with others. This has been made somewhat possible, to the extent possible just by using bill data, via the Australian Government’s ‘Energy Made Easy’ website, while the Australian Consumer Association, Choice, is also developing a tool to inform consumers in the marketplace, particularly around purchases of solar or batteries. For communities, empowerment can mean accessing the electricity usage data of one or more sites like breweries or community halls, to size an appropriate suite of distributed energy technologies to reduce dependence on what are often unfair contracts with retailers. Or it can be as complex as using high temporal resolution load and generation data to facilitate real-time peer-to-peer local energy trading in a microgrid or across the network as exemplified by Power Ledger or LO3. However, even timeseries usage data from a single site is currently typically not available or easily accessible. Rather than being “allowed” retrospective access to their data, there are collective benefits in households having real-time access to their energy use data, with the ability to control access to that data and to share it with trusted organisations.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A proposed trial in the sunny Byron Bay region of Northern NSW provides an apt example for a new paradigm of data flows. In this case, community owned retailer Enova is seeking to enable local sharing of generated solar power between consumers in an arts and industrial estate and is considering battery energy storage to increase the volume of solar power consumer locally.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See https://enovaenergy.com.au/about-us/#structure for Enova’s corporate structure, which includes a holding company divided into a retailer which channels 50% of profits into its non-profit arm. Enova’s constitution specifies that most shareholders must reside locally to the Northern Rivers region of NSW.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In this instance, the data is essential to allowing peer-to-peer energy trading, which otherwise would not be possible and critically, understanding of the collective energy needs for the estate would not be known. Furthermore, the ability for a battery to provide network benefits requires understanding of network conditions, typically known only by the local distribution network service provider.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>We note that there are ongoing efforts to make network information more widely available, for instance through the Australian Renewable Energy Mapping Infrastructure project.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Open Utility in the UK is a similar example, enabling consumers to trade peer-to-peer through a retailer, and looking to offer networks flexibility services.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Scottish and Southern Electricity Networks (SSEN), ‘SSEN and Open Utility partner to trial revolutionary smart grid platform’, 2018, http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These examples demonstrate that appropriate data access can foster creativity with legal structures and contracts which enables communities to work around the intransigence of incumbent organisations and rules, and for new collectives to form. These new collectives are based on the sharing of data on energy loads in ways that can catalyse a transition to distributed, sustainable energy economy.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We Recommend</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Opt-in data access to energy use data beyond just networks and retailers.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Residential consumers be granted straightforward access to their own energy use data and be given consent to give or withdraw data for specific purposes; and so are able to easily come together to produce and consume energy as community energy groups.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Further experimentation with the legal form of electricity businesses that will enable investments in renewable energy.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Data for Accountability</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The corporatisation of large centralised generation and transmission brings with it requirements of accountability. The displacement of a public service provision model with market and corporate logics has resulted in incentives to seek rents on what was public infrastructure, as electricity systems globally are becoming more decentralised and decarbonised.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Decentralisation presents is both an opportunity to empower new collectives, and brings with it risks of high costs and new power imbalances. The Australian Energy Market Operator have recently identified a potential cost reduction of nearly $4 billion if distributed energy resources (namely rooftop solar PV and battery energy storage) are effectively integrated,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>AEMO, ‘Integrated System Plan’, 2018.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> whilst also flagging the substantial risks associated with the lack of visibility and control that distributed energy resources afford.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>AEMO, ‘Visibility of Distributed Energy Resources’, 2017.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In this context of technological change and associated market and regulatory reform, we see public energy data as a critical tool in a) ensuring efficient outcomes, particularly as they can remedy historical incentives and incumbent player advantages, and; b) supporting fair outcomes by increasing visibility of the distribution of costs and benefits associated with the transition.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Network Service Providers (NSPs) own and operate the ‘poles and wires’ across Australia and present a particular challenge for regulators and rule makers. As regulated monopolies, they need to be effectively supervised without stifling innovation. They are subject to five yearly reviews in which their revenue for the upcoming ‘regulatory period’ is set by the Australian Energy Regulator (AER), based on information provided by the NSPs. Their regulated task of ensuring energy supply is technically complex and they are increasingly challenged as distributed energy resources such as rooftop photovoltaic solar (the most common form of flat, black panels on roofs) grow in number. Technologies such as solar can reduce consumer bills and therefore utility profitability. Therefore, without transparency about network investment there is a risk that technical challenges can be used to justify limiting access to networks, or the use of tariff structures that disadvantage consumers that install these technologies. Improved independent oversight of technical conditions in the depths of the network (e.g. Box 2) may lead to more efficient and fair investment and operational outcomes.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="0" BodyRowCount="2" ColumnCount="1">
+  <Column Name="0" SingleColumnWidth="498.5875706214689" />
+  <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+        <Content>Box 2: The importance of voltage data for integrating distributed renewables </Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Understanding how networks are functioning at both the high voltage transmission and low voltage distribution ends is crucial to integrating renewable energy resources effectively and at a fair cost to society. For instance, as PV uptake continues, a technical upper voltage limit is reached at local transformers, at which point it is difficult for additional PV to connect to the network. The responsibility of Network Service Providers to maintain a stable electricity network can lead them to a cautious approach to integration of distributed renewables, and in some jurisdictions, this has resulted in NSPs drastically restricting deployment of residential PV.</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+        <Footnote>
+          <ParagraphStyleRange>
+            <CharacterStyleRange>
+              <Content><?ACE 4?></Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>	</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>G. Simpson, ‘Network operators and the transition to decentralised electricity: An Australian socio-technical case study’, </Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+              <Content>Energy Policy</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content> 110 (2017): 422-433.</Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+        </Footnote>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> However, recent data analysis – which used information captured from independent monitoring of household PV systems – shows that network voltages are generally high due to historic network decision making (distribution transformer set points were generally set at a high voltage, leaving minimal ‘headroom’ for PV).</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+        <Footnote>
+          <ParagraphStyleRange>
+            <CharacterStyleRange>
+              <Content><?ACE 4?></Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>	</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>Naomi Stringer, Anna Bruce and Iain MacGill, ‘Data driven exploration of voltage conditions in the Low Voltage network for sites with distributed solar PV’, paper presented at the </Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+              <Content>Asia Pacific Solar Research Conference</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>, Melbourne, Australia, 2017.</Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+        </Footnote>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> This has implications for exporting rooftop PV electricity to the national grid. The visibility afforded by voltage data readings across the network may enable scrutiny of network expenditure to ensure money is spent in a judicious manner;</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+        <Footnote>
+          <ParagraphStyleRange>
+            <CharacterStyleRange>
+              <Content><?ACE 4?></Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>	</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>See also the ‘network opportunities map’ project by UTS ISF: https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2</Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+        </Footnote>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> there may be cost-effective solutions to maintain grid stability without placing unnecessary restrictions on deployment of distributed PV.</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Access to such data is key to overcoming integration barriers and market asymmetries, and as such is an important companion to wider policies on a just energy transition that have received more widespread attention such as the Renewable Energy Target and carbon pricing schemes.</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+</Table>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Box 2: The importance of voltage data for integrating distributed renewables</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We believe the existing regulatory hierarchy of access rights to electricity usage data requires restructuring. As things stand, incumbent retailers automatically have full access to their customers’ data which they can use for commercial purposes beyond just ensuring accurate billing, such as targeted marketing. While recent regulatory changes give customers the right to access their electricity consumption data from retailers or NSPs, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>AEMC, ‘Final Rule Determination: National Electricity Amendment (Customer access to information about their energy consumption)’, 2014.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> householders must apply retrospectively for the data, while both the application process and the format of data supplied lack consistency and clarity. Although the regulation allows a customer to authorise a third party to access their data, as yet there is no consistent mechanism for obtaining multiple consents, nor for making bulk data requests, while these bulk requests are exempted from the time limits imposed on retailers and NSPs to provide data. This leaves researchers, along with community groups and other players needing data from multiple users, at the bottom of the pile. The creation of Consumer Data Rights will likely entrench this hierarchy, further entrenching a regulatory mindset of ‘individual household vs. corporations’, hobbling collectively forms of action from these other forms of actors.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A hierarchy based on the purpose of data usage could be designed to require customer opt-in to allow their retailer (or other parties) to access their data for targeted sales. Conversely, use of anonymised data for public-interest research or for non-profit, community-based engagement in the energy market could be opt-out for initiatives like Enova, contingent on strict standards of data-protection and governance schemes that include ongoing re-evaluation of the data usage. Customers should be empowered to easily give or withdraw consent to access their data for specific purposes, which may involve a role for a delegated authority (similar to the community representative committees in Nepal)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See https://medium.com/</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Cite">
+          <Content>@accountability/leadership-by-local-communities-in-nepal-paves-the-path-for-development-that-respects-rights-bdb906f43209</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> to respond to specific access requests on their behalf.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A good energy data regime cannot continue to play by the incumbent rules. Good policy-making and robust regulation depend on access to data and the development of appropriate models and methods for analysis that allow efficiency, competition and equity to be assessed. Outdated rules must be reformed so that data can be harnessed by individual consumers and those that act on their behalf, community energy groups and consumer-advocates.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Michel Callon and Fabian Muniesa, ‘Peripheral vision: Economic markets as calculative collective devices.’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Organization studies</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 26.8 (2005): 1229-1250.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It has been especially challenging for consumer advocacy groups, NGOs, and general public to effectively participate and engage in regulatory decision-making processes. Network operators’ submissions to regulatory process could be made available to consumer groups and researchers for greater scrutiny. To effectively engage with these groups, they should also provide access to appropriate analysis and modelling platforms. CEEM’s tariff analysis tool (Box 3) provides an example of a transparent and open-source modelling platform that can improve stakeholder engagement around electricity prices.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="0" BodyRowCount="2" ColumnCount="1">
+  <Column Name="0" SingleColumnWidth="498.92473118279565" />
+  <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+        <Content>Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>CEEM’s tariff analysis tool is an example of an open source model which is accessible by stakeholders like think tanks, community energy organisations, local councils and policy-makers.</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+        <Footnote>
+          <ParagraphStyleRange>
+            <CharacterStyleRange>
+              <Content><?ACE 4?></Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>	</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>Rob Passey, Navid Haghdadi, Anna Bruce &amp; Iain MacGill, ‘Designing more cost reflective electricity network tariffs with demand charges’, </Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+              <Content>Energy Policy</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content> 109 (2017): 642-649.</Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+        </Footnote>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Consumers’ ability to reduce their consumption using energy efficiency and solar is altering the distribution of revenue collection from consumers via tariffs, and has drawn attention to apparent cross-subsidies from traditional electricity-consuming customers to solar ‘prosumers’, while users of air-conditioning have also been identified as placing an unfair cost burden on other customers. Along with emerging costs of transforming the electricity network to a more distributed model, this has driven regulatory changes that now require network utilities to develop more cost-reflective tariffs. However, the proprietary energy models used by network providers and their private consultants are often complex, opaque and based on assumed variables, making it possible for the energy modellers to exploit uncertainties within a regulatory context biased towards recovering capital expenditure on electricity infrastructure.</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>To overcome this information asymmetry, CEEM’s tariff tool allows stakeholders to test different electricity network tariffs on different sets of customers and investigate the impact on users’ electricity bills, their cost-reflectivity, and distributional impacts using anonymised load data. Because it is open-source, the tool and results can be easily verified and can therefore facilitate transparency and more robust regulatory decisions.</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Unlike black-box and expensive proprietary energy models which are usually only available to powerful incumbent stakeholders, open source modelling platforms can be used, expanded, scrutinised, and verified by any interested stakeholders. This democratisation of tariff analysis is an example of how open source tools can empower more stakeholders, improve the operation of markets, regulation and policymaking.</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+</Table>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Regulators of energy retail licenses (AER), energy reliability (AEMO) and market competition and power (ACCC) have particularly important roles in maintaining the accountability of energy market players. and existing so-called markets in energy services have some fundamental problems at the retailer level: incumbent retailers have some unfair advantages selling energy devices and services to their customers because they have energy use data that is unavailable, or at least challenging to obtain, for other potential energy service providers.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Recommendations:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Retailers be required to obtain opt-in permission for targeted sales.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The expansion of tools to enhance market participation of individual consumers and community groups, created in the public interest.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Some communities of modellers be granted delegated authority to access fine-grain energy data: good energy data requires an appropriate interface between energy users, regulators and power providers.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Increased expert resources for regulators to enable them to access to usage and tariff data.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Support for open-source modelling and data transparency in regulatory decision-making to reduce reliance on opaque analysis from private consultants</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Data for the People: The Potential of Standards</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ethical protocols of informed consent for research serve to formalise relationships through a bureaucratic agency and assist universities in managing risks to research participants and to their own reputation. Rights to privacy, to withdraw from research and so forth, can act as valuable bulwarks against the abuse of the powers and privileges to access sensitive data.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But singular moments of ‘consent’ are not ideal for the dynamics of energy data research, nor are they suitable for the digital platforms upon which much of today’s interactions take place. Blurred boundaries between public-interest research and commercially-driven consultancy (exacerbated by privatisation of public institutions and increased corporatisation of universities) sharpen the need for consent conditional on the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>purpose</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> of proposed data usage. Data activist Paul-Olivier Dehaye has recently quipped that a lot of ‘data protection issues come from a narrow-minded business view of personal data as commodity. Much better is to embrace the European view, with a notion of personhood covering flows of personal data as well’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See https://twitter.com/podehaye/status/1030773658975981569</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This move from liberal privacy to communal personhood, he suggests is analogous to the shift from property rights to granting rights to rivers.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ongoing public dialogue over the trade-off between privacy concerns and the granularity and reliability of data for analysis is required in such a shift – especially where the appropriation of data for private gain has often occurred at the behest of government agencies. Privacy, granularity and reliability of data for analysis and decision-making are intimately related for the purposes of infrastructure planning. Usage data at varying temporal and spatial resolutions is valuable to researchers, consumers and networks. For example, electricity consumption data at specific points in the electricity network is essential to network operators and useful to new energy business models based on sharing or aggregating consumer load and generation, and also potentially to other market participants and researchers. Since individual household data cannot typically be extracted from such data, there is little privacy or commercial risk involved in releasing it. However, the same data identified by street address, while potentially even more useful for certain purposes, requires more careful handling.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Public debate over energy data privacy often focuses on an individual’s place of residence. This is often a result of imagining an individual household as a final fortress in an increasingly invasively connected world. As a result, energy researchers are hamstrung by highly anonymised data sets, for instance limiting geographical specificity to a postcode area. There are two primary challenges arising from this abstraction of data:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The first arises because the fabric of everyday life sustained through energy networks is vastly complicated. Electricity networks do not fit neatly into postcode-shaped areas. Aggregation of data points and the capacity to assess the impacts of decisions on the wider network is severely limited by the lack of granularity. For instance, the contribution of a certain customer demographics to peak demand on their local network infrastructure requires researchers to make clear connections between household and distribution network usage data. This connection is important because it forms the basis of significant supply, demand and network investment decisions.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The second arises because of the extremely rapid growth of distributed generation such as rooftop PV and batteries. These systems can have significant impacts on the security of the electricity system (i.e. the ability for the system to keep working without significant risk of power quality issues),</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Debra Lew, Mark Asano, Jens Boemer, Colton Ching, Ulrich Focken, Richard Hydzik, Mathias Lange and Amber Motley, ‘The Power of Small - The Effects of Distributed Energy Resources on System Reliability’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>IEEE Power &amp; Energy Magazine,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 15 (2017): 50-60.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> however their behaviours need to be understood in the context of their local network. Postcode level anonymisation makes this near impossible, whereas street location or even location on a specific section of the ‘poles and wires’ would be ideal.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Just as a more communal notion of personhood can foster better data practice outcomes, social scientists have argued that shifting the focus away from individual choice towards collective responsibility is key to effective climate action.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Elizabeth Shove, ‘Beyond the ABC: climate change policy and theories of social change.’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Environment and planning A</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 42.6 (2010): 1273-1285.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> During our research, we have observed that individual consumers do not act as rational agents without help from material devices that enable calculation: they need apps, meters, interfaces and other market tools to act as ‘rational actors’ in the context of competitive retail markets. Moreover, it is often only through co-ordinated activity – selling aggregated generation from multiple small PV systems, co-ordinating temporal shifting of their electricity use to periods of low demand or applying the output of a collectively owned generator to their aggregated load – that they can engage effectively with the market.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Accessing data requires careful consideration about the purpose and access rights granted in research. Household-level electricity usage data can yield rich and diverse insights for effective energy research for public good and bad. Consider the identification of illicit facilities and improved network planning, yet also opportunities for well-resourced burglars to identify unattended dwellings, or for targeted advertising campaigns based on identification of existing appliances through their usage footprints. Highlighted in the rollout of ‘smart meters’ or Advanced Metering Infrastructure across Victoria,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Lockstep Consulting, ‘Privacy Impact Assessment Report Advanced Metering Infrastructure (AMI)’, Dept of Primary Industries, 2011.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> similar challenges are also flagged by the CSIRO in its ongoing Energy Use Data Model project,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>CSIRO, ‘Energy Use Data Model (EUDM)’, 2015, https://research.csiro.au/distributed-systems-security/projects/energy-data-use-model/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> which seeks to collect an array of data across Australia for research and consultancy purposes.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>CSIRO ‘partners with small and large companies, government and industry in Australia and around the world’ https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Economic-modelling/Energy-Use-Data-Model</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Data misuse, targeted marketing or malicious attacks on the energy market participants requires vigilance and effectively resourced regulators.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>S.N. Islam, M. A. Mahmud and A.M.T. Oo, ‘Impact of optimal false data injection attacks on local energy trading in a residential microgrid.’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>ICT Express</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 4.1 (2018): 30-34, DOI: http://doi:10.1016/j.icte.2018.01.015</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> As researchers, we are mindful of the trust we solicit when we ask for data at a time when purposeful exploitation of personal data is a commonplace business model. If we cannot engender trust, we rightly risk losing access to appropriate data.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The rights and responsibilities of all energy data stakeholders need to be rebalanced to harness the power of energy data in the interests of energy users and society. Privacy is vital but should be considered in this wider context. Policies mandating social and ethical responsibilities integrated with public research and innovation,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Richard Owen, Phil Macnaghten and Jack Stilgoe, ‘Responsible research and innovation: From science in society to science for society, with society’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Science and public policy</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 39.6 (2012): 751-760.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> such as those in the EU Horizon 2020, offer one platform to address the challenge of maintaining trust. Researchers have a responsibility to maintain security and confidentiality, through de-identification of individual data in the context of ongoing dialogue and its potential commercial uses. A suitable consent-for-purpose mechanism would support sharing of anonymised data with other public-interest researchers and groups and undermine commercial exploitation of publicly-funded or personally-sourced data.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="0" BodyRowCount="2" ColumnCount="1">
+  <Column Name="0" SingleColumnWidth="498.75311720698255" />
+  <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+        <Content>Box 4: Making a Data Commons from Household Photovoltaic Solar Output</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> http://pvoutput.org</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>PVOutput is a free online service for sharing and comparing distributed photovoltaic solar generation unit output data across time. It provides both manual and automatic data uploading facilities for households to contribute the outputs from their photovoltaic system.</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>PVOutput began in 2010 as an open-access commons in response to the interest and enthusiasm of many households deploying PV to let others know of their system performance. It then, unintentionally but certainly fortuitously, came to fill the growing need for an aggregate measurement of the contribution of photovoltaic solar to the grid. The site has become a public resource that is used by a wide range of market participants, including those seeking to facilitate rule changes that recognise the value of distributed PV systems, and others seeking to improve network planning. Today there are over 1.7m households in Australia with photovoltaic solar and PVoutput.org has played a key role in helping researchers and other stakeholders understand the challenges and opportunities this presents.</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+</Table>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Box 4: Making a Data Commons from Household Photovoltaic Solar Output</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standards are sorely needed</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Research currently requires a pragmatic approach to making sense of data. Metadata is often incomplete or incorrect. Strings of numbers with no indication of the units of measurement (e.g. kWh, kW or kVA) have little value. Time stamps are particularly vexatious, as inconsistent treatment of daylight-saving periods, time zones and even time period ‘ending’ or ‘starting’ can all lead to misleading analysis outcomes. The detail on exactly what a data set contains must be documented (and kept current) and have a clear standard across the industry.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Australian Energy Market Operator has recently gone to great lengths to establish a data communication standard at the utility scale,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>AEMO, ‘Visibility of Distributed Energy Resources’, 2017.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> whilst requirements for a new register of distributed energy resource metadata is in the final stages of consultation.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>AEMC, ‘National Electricity Amendment (Register of distributed energy resources) Rule’, 2018.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="0" BodyRowCount="2" ColumnCount="1">
+  <Column Name="0" SingleColumnWidth="497.3753280839895" />
+  <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+        <Content>Box 5: The Green Button Initiative has empowered electricity consumers</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+        <Content>‘The Green Button initiative is an industry-led effort that responds to a 2012 White House call-to-action to provide utility customers with easy and secure access to their energy usage information in a consumer-friendly and computer-friendly format for electricity, natural gas, and water usage.’</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+        <Footnote>
+          <ParagraphStyleRange>
+            <CharacterStyleRange>
+              <Content><?ACE 4?></Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>	</Content>
+            </CharacterStyleRange>
+            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+              <Content>Green Button Alliance. ‘Green Button Data’, 2015, http://www.greenbuttondata.org/.</Content>
+            </CharacterStyleRange>
+          </ParagraphStyleRange>
+        </Footnote>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Inspired by the success of the </Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+        <Content>Blue Button</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> in providing access to health records, </Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+        <Content>Green Button</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> was an initiative of the US Chief Technology Officer that was taken up by utilities, network operators, technology suppliers and integrators, policy makers and regulators. </Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+        <Content>Green Button</Content>
+      </CharacterStyleRange>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> is a standardised API web service and a common data format for transmission of energy data.</Content>
+      </CharacterStyleRange>
+    </ParagraphStyleRange>
+  </Cell>
+</Table>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Box 5: The Green Button Initiative has empowered electricity consumers</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standardised reporting criteria and formats enable collective knowledge-sharing.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Matthias Björnmalm, Matthew Faria and Frank Caruso. ‘Increasing the Impact of Materials in and beyond Bio-Nano Science’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of the American Chemical Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 138.41 (2016): 13449-13456, DOI:10.1021/jacs.6b08673.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> By standardising energy data, consumers, researchers and industry will be able to build tools and perform analysis upon a stable platform, eliminating a wide range of common errors and miscalculations. As such, we recommend that, through collaboration between research groups, a standardised energy time-series data format be developed, with the following criteria as an initial basis for discussion:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Human-readability (e.g. standardised labelling, sensible time series)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cross-compatibility between common processing platforms (Excel, Matlab, Python, R)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standard use of Unicode file formats for internationalisation</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Development of open-source tools for standard conversions (e.g., JSON -&gt; CSV) and translations (e.g. labels English -&gt; Chinese)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standard labelling &amp; protocols for handling missing data</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Clear labelling of data types (e.g. Power, Energy, Real vs. Reactive)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mandatory fields (e.g. period length, time)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standardised time format (suggest addition of Unix and/or GMT timestamp for elimination of general ambiguity)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standardisation of time-ending data (vs. time-starting data)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standardisation of metadata, with common fields (e.g. Location and range, Country of origin, Postcode etc.)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standardised procedure for de-identification and anonymisation of datasets</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standard approach for data quality assessment</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standard platform to validate the meta-data</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Standardised data compression protocols for storage</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is also important to consider the current impact of inadequate data standards on the emerging market for distributed energy resources. A lack of clear data formats may represent a significant barrier to entry for some markets. In the Australian National Electricity Market, for example, metering data for billing is required to be collected and distributed in a standardised format (NEM12), as specified in detail by the Australian Energy Market Operator. This format is however effectively non-human-readable and could be classified as a type of low-level machine code. Interpretation of NEM12 data requires conversion to a different format before it can be interpreted in any meaningful way, yet there are no tools provided by the market operator to help the public interpret these files. This means that energy data in the NEM12 format is inherently opaque for the consumer; further, it means that developers of new energy systems (which may not have the expansive IT infrastructure of their retail competitors) must invest heavily in custom data processing software simply to be able to bill their customers. Anecdotal evidence has suggested that these overheads can cost solar developers significant sums in setup and metering costs, as well as lost revenues from inaccurate file conversion (and hence miscalculated bills).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From a market design perspective, if distributed energy resources are to be integrated into operational decision-making in restructured electricity markets, a stable, trusted and interrogable data format is required so more organisations can observe or participate in the market. Additionally, the emergence of real-time energy metering may require a rethink of how energy is sent and received between participants. In computing terms, these protocols are generally referred to as APIs (application programming interfaces) - broadly, languages and protocols that are used to send messages between smart meters, cloud infrastructure, market participants and consumers.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Data retrieval services have historically been designed by a mixture of hardware and software developers, as well as regulators and operators (such as AEMO in the Australian context), using diverse languages and designs, which may have different security, frequency and formatting characteristics. This means that enforcement of security, reliability and data quality is incredibly difficult across existing meters and platforms. All is not lost however, as the rollout of smart metering infrastructure is still in its infancy in many parts of Australia and the rest of the world. We believe that a regulator-enforced, set of clear standards for the transmission of energy data from energy meters to cloud infrastructure would enable adequate security and clarity as the proportion of internet-connected meters grows.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The impetus for such standards becomes clearer when we examine the coming wave of controllable, dispatchable energy resources such as batteries. Without a standardised language with which these devices can communicate, control of a large proportion of the electricity network may fall to a cloistered, privately controlled and relatively small subset of stakeholders, namely the manufacturers of popular distributed energy resource devices. It appears reasonable to ask that devices connected to a national electricity network be required to allow regulators or operators access to ensure stability of supply; such access would require the development of a set of standardised formats for these different stakeholders to share worthwhile data to enable new community enterprises to flourish and wrest power from the incumbents.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Recommendations:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Maintain appropriate privacy in the context of existing information and power asymmetries with a view to opening up a more communal notion of personhood upon which trustworthy data sharing may occur.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Learn from other successful delegated authorities in other countries: make consumers aware of benefits of good governance. For example, in Nepal there are representative committees at community level that can make decisions on behalf of others.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Some communities of modellers be granted delegated authority to access fine-grain energy data. Good energy data requires an appropriate interface between energy users, regulators and power providers.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We underscore:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The importance of creating a process for communities to access data and enable studies based on energy use data.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>That good data is embedded in good governance. Community energy projects need to build their authority to make decisions.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The need for ongoing dialogue about how and where data is used. Analysis can discover new valuable insights that may require consent to be re-evaluated - one form isn’t enough!</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Researchers have responsibility to act in the public interest when using public funds or public data and be mindful of data security and anonymity, and the importance of allowing broad access to their algorithms, data, assumptions and findings.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Conclusions</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The operators and regulators of an increasingly complex energy system have a duty to the public interest, which requires them to be transparent about their decision-making process. This means clearly stating their assumptions, allowing access to their data, and opening up their models for testing and scrutiny. Similarly, researchers and academics, often working with public money, must champion open modelling, share their data generously and communicate their findings broadly to break open the struggle between neoliberal rationality on one hand and individual privacy on the other.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Our recommendations may not seem radical. However, energy debates have been shaped by a range of political constraints: the opacity of market design decisions, slow speed of rule changes, an increasing political disconnect between voter opinion and administrative decision-making in electricity market design, and especially the polarised nature of policy debates about the suitable role for Australian institutions in addressing climate change mitigation obligations.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Political advocacy aimed at challenging these various constraints remains a profound challenge. Traditional political advocacy focused on building coalitions, writing letters, protesting and so forth remains vital to reforming energy politics, but it has also proved entirely insufficient. Political advocacy can be complemented with what Donald MacKenzie has termed ‘technopolitics’: an attention to details of policy designs that may be highly consequential to the efficacy or otherwise of political interventions such as climate change policies.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Donald MacKenzie, ‘Constructing Carbon Markets: Learning from Experiments in the Technopolitics of Emissions Trading Schemes’, in A. Lakoff (ed.), </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Disaster and the Politics of Intervention</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Columbia University Press, 2010, pp. 130-149.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Climate change debates demonstrate that simply sharing evidence is insufficient to swaying political opinion. A growing body of Science and Technology Studies literature shows, instead, that evidence-making is situated in peculiar contexts according to the issues considered and audience. Evidence is contextual,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Catherine Trundle, ‘Biopolitical endpoints: Diagnosing a deserving British nuclear test veteran.’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Social Science &amp; Medicine</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 73.6 (2011): 882-888.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and this is consequential to how distinctions between technology and politics are drawn, how and why coalitions around energy policies succeed or fail to affect political power structures. Our energy data manifesto should be read in this context – a call for a new energy society.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>References</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>AEMC. ‘Final Rule Determination: National Electricity Amendment (Customer access to information about their energy consumption)’, 2014.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>AEMC. ‘National Electricity Amendment (Register of distributed energy resources) Rule’, 2018.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>AEMO. Power System Data Communication Standard, 2018.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>AEMO. ‘Integrated System Plan’, 2018.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>AEMO. ‘Visibility of Distributed Energy Resources’, 2017.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Björnmalm, Mattias, Matthew Faria and Frank Caruso. ‘Increasing the Impact of</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Materials in and beyond Bio-Nano Science’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of the American Chemical Society</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>138.41 (2016): 13449-13456. DOI:10.1021/jacs.6b08673.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Callon, Michel and Fabian Muniesa. ‘Peripheral vision: Economic markets as calculative collective devices’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Organization studies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 26.8 (2005):1229-1250.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>CSIRO. ‘Energy Use Data Model (EUDM)’, 2015, https://research.csiro.au/distributed-systems-security/projects/energy-data-use-model/.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Green Button Alliance. ‘Green Button Data’, 2015, http://www.greenbuttondata.org/.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>International Energy Agency. ‘Digitization and Energy’, 2017 http://www.iea.org/publications/freepublications/publication/DigitalizationandEnergy3.pdf.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Islam, S. N., M. A. Mahmud and A.M.T. Oo. ‘Impact of optimal false data injection attacks on local energy trading in a residential microgrid.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>ICT Express</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 4.1 (2018): 30-34, DOI: http://doi:10.1016/j.icte.2018.01.015.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kuch, Declan and Bronwen Morgan. ‘Dissonant Justifications: an organisational perspective of support for Australian community energy’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>People Place and Policy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 9 (2015): 177-218.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lew, Debra, Mark Asano, Jens Boemer, Colton Ching, Ulrich Focken, Richard Hydzik, Mathias Lange and Amber Motley. ‘The Power of Small - The Effects of Distributed Energy Resources on System Reliability’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>IEEE Power &amp; Energy Magazine.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 15 (2017): 50-60.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lockstep Consulting. ‘Privacy Impact Assessment Report Advanced Metering Infrastructure (AMI)’, Dept of Primary Industries, 2011.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>MacGill, Iain, and Stephen Healy. ‘Is electricity industry reform the right answer to the wrong question? Lessons from Australian restructuring and climate policy.’, in Fereidoon P. Sioshansi (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Evolution of Global Electricity Markets</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge MA: Academic Press, 2013, pp. 615-644.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>MacGill, Iain, and Robert Smith. ‘Consumers or prosumers, customers or competitors?-Some Australian perspectives on possible energy users of the future.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Economics of Energy &amp; Environmental Policy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 6.1 (2017).</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>MacKenzie, Donald. ‘Constructing Carbon Markets: Learning from Experiments in the Technopolitics of Emissions Trading Schemes’, in A. Lakoff (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Disaster and the Politics of Intervention</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Columbia University Press, 2010, pp. 130-149.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Owen, Richard, Phil Macnaghten and Jack Stilgoe. ‘Responsible research and innovation: From science in society to science for society, with society’. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Science and public policy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 39.6 (2012): 751-760.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Passey, Rob, Navid Haghdadi, Anna Bruce and Iain MacGill. ‘Designing more cost reflective electricity network tariffs with demand charges’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Energy Policy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 109 (2017): 642-649.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Rhodes, T., K. Lancaster, M. Harris, M and C. Treloar. ‘Evidence-making controversies: the case of hepatitis C treatment and the promise of viral elimination.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Critical Public Health</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (2018): 1-14.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Scottish and Southern Electricity Networks (SSEN). ‘SSEN and Open Utility partner to trial revolutionary smart grid platform’, 2018,</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>http://news.ssen.co.uk/news/all-articles/2018/april/ssen-open-utility-smart-grid-platform/.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Shove, Elizabeth. ‘Beyond the ABC: climate change policy and theories of social change’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Environment and planning A</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 42.6 (2010): 1273-1285.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Simpson, G. ‘Network operators and the transition to decentralised electricity: An Australian socio-technical case study.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Energy Policy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 110 (2017): 422-433.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Stringer, Naomi, Anna Bruce and Iain MacGill. ‘Data driven exploration of voltage conditions in the Low Voltage network for sites with distributed solar PV’, paper presented at the </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Asia Pacific Solar Research Conference</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Melbourne, Australia, 2017.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Trundle, Catherine. ‘Biopolitical endpoints: Diagnosing a deserving British nuclear test veteran.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Social Science &amp; Medicine</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 73.6 (2011): 882-888.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wilkenfeld, George. ‘Cutting greenhouse emissions-what would we do if we really meant it?’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Australian Review of Public Affairs,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 2007, http://www.australianreview.net/digest/2007/08/wilkenfeld.html.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wilkenfeld, George and Peter Spearritt. ‘Electrifying Sydney’, Sydney: EnergyAustralia</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 2004.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+
+  </Story>
+  
+</Document>

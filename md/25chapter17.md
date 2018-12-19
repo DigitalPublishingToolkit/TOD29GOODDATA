@@ -91,6 +91,7 @@ But are they really a panacea that can provide meaningful safeguards, or
 an expensive Band-Aid that will be avoided, ignored, and brushed aside?
 
 ![](imgs/chapter17_Ritsema_image1.jpg)
+
 *Figure 1. Screenshot taken by the author on
 https://labs.strava.com/heatmaps on 2 February 2018. Shown is the
 Stadspark in Groningen, the Netherlands. The clearly visible small
@@ -145,6 +146,7 @@ split between those who "produce" the map, those who "edit" the map and
 those who "consume" the map'.[^17chapter17_17]
 
 ![](imgs/chapter17_Ritsema_image2.jpg)
+
 *Figure 2. Screenshot taken by the author on
 https://www.waze.com/livemap on 5 February 2018. Shown is part of the
 center of London, England. The three data sources are clearly visible:

@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 
 # 1. What is (in) Good Data?
-*Monique Mann, S. Kate Devitt, Angela Daly*
+*Monique Mann, S. Kate Devitt and Angela Daly*
 
 ## Introduction: Why Good Data?
 

@@ -16,12 +16,11 @@ In order to paint an alternative, more optimistic but still pragmatic picture of
 Keywords:   data, datafication, data collection, data practice, sovereignty, activism
 Rights: CC BY-NC 4.0
 ...
-#Colophon
 
 Theory on Demand #29 <br />
 **Good Data**
 
-Editors: Angela Daly, S. Kate Devitt, Monique Mann <br />
+Editors: Angela Daly, S. Kate Devitt and Monique Mann <br />
 Copy editor: Harley Williams <br />
 Editorial assistant: Kayleigh Murphy <br />
 

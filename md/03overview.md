@@ -16,10 +16,7 @@ In order to paint an alternative, more optimistic but still pragmatic picture of
 Keywords:   data, datafication, data collection, data practice, sovereignty, activism
 Rights: CC BY-NC 4.0
 ...
-
-#overview
-
-##BIOGRAPHIES
+#CONTENT
 
 **1: Introduction: What is (in) Good Data** <br />
 *Monique Mann, Kate Devitt and Angela Daly*
