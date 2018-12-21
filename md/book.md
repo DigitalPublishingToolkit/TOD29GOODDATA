@@ -1,6 +1,4 @@
 
-#GOOD DATA 
-
 Theory on Demand #29 <br />
 **Good Data**
 
@@ -32,13 +30,15 @@ This publication is made available through various print on demand
 services and freely downloadable from
 http://www.networkcultures.org/publications
 
-![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.jpg)
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.jpg)<br />
+
 #TABLE OF CONTENTS
 
 ##Biographies
-
 **1: Introduction: What is (in) Good Data** <br />
 *Monique Mann, Kate Devitt and Angela Daly*
+
+
 
 ##THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
 
@@ -13162,10 +13162,10 @@ any third parties'.[^13chapter13_71] I would go so far as to endorse a version o
 
 > 'Are you willing to change your business model in the interest of
 > protecting individual privacy?'
-> <br />-- Democratic Representative Anna Eshoo[^13chapter13_72]
+> <br />-- *Democratic Representative Anna Eshoo[^13chapter13_72]*
 ><br /><br />
 > 'Congresswoman, I'm not sure what that means.'
-> <br />--Mark Zuckerberg[^13chapter13_73]
+> <br />--*Mark Zuckerberg[^13chapter13_73]*
 
 Privacy in relation to social media data has received significant
 attention as of late.[^13chapter13_74] The Facebook and Cambridge Analytica
@@ -19026,7 +19026,6 @@ an expression of the general intellect arising from social practice, of
 the real life process.
 
 ## Red de Huerteros Medellín
-
 We will focus now on the work of an independent network of urban
 agriculture, the Medellín's Gardeners Network (Red de Huerteros Medellín
 or RHM for its initials in Spanish). First we will offer a brief
@@ -19669,11 +19668,11 @@ collected by sensors worn by users, embedded or concealed in the
 environment. In addition, IoT users are unaware of the following:
 
 i.  how and to what extent users' data is used or combined with other
-    data sets,
+    data sets;
 
-ii. who acts as 'responsible owners' of collected data,
+ii. who acts as 'responsible owners' of collected data;
 
-iii. when are users' data made available to external parties, or
+iii. when are users' data made available to external parties, or;
 
 iv. how users' data is ultimately managed over time and by whom.
 
