@@ -1056,13 +1056,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>It is in the facilitation of further understanding about the analysis process that we situate the plugin: as a </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>first step</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> on the road to what we term 'account-ability by design.' The design process springs forth from an ethnographic, processual, and systematic engagement with the tool. The reflexive practice we envision for scholars working with the tool considers and offers information about the tools we use and the steps we take to analyze our data. In other words, we attempt to make the interpretive practices of scholars open for scrutiny -- account-able -- as part of their critical positioning. The lack of such documentation, which we expand on later in this paper, is partly due to the structure of the program itself, and resides in the need for and current lack of its 'epistemological affordances'.</Content>
+    <Content>It is in the facilitation of further understanding about the analysis process that we situate the plugin: as a first step on the road to what we term 'account-ability by design.' The design process springs forth from an ethnographic, processual, and systematic engagement with the tool. The reflexive practice we envision for scholars working with the tool considers and offers information about the tools we use and the steps we take to analyze our data. In other words, we attempt to make the interpretive practices of scholars open for scrutiny -- account-able -- as part of their critical positioning. The lack of such documentation, which we expand on later in this paper, is partly due to the structure of the program itself, and resides in the need for and current lack of its 'epistemological affordances'.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>

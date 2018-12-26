@@ -124,7 +124,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Drawing on the concept of 'good enough data,'</Content>
+    <Content>Drawing on the concept of 'good enough data'</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -150,7 +150,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> which apply to citizen data collected via sensors this chapter looks critically at data in 'proactive data activism,' understood as a social practice that uses the data infrastructure politically and proactively to foster social change.</Content>
+    <Content>, which apply to citizen data collected via sensors this chapter looks critically at data in 'proactive data activism,' understood as a social practice that uses the data infrastructure politically and proactively to foster social change.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -448,20 +448,20 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 431.00000 -558.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 349.00000 -452.00000">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-431.00000 -558.00000" LeftDirection="-431.00000 -558.00000" RightDirection="-431.00000 -558.00000" />
-              <PathPointType Anchor="-431.00000 558.00000" LeftDirection="-431.00000 558.00000" RightDirection="-431.00000 558.00000" />
-              <PathPointType Anchor="431.00000 558.00000" LeftDirection="431.00000 558.00000" RightDirection="431.00000 558.00000" />
-              <PathPointType Anchor="431.00000 -558.00000" LeftDirection="431.00000 -558.00000" RightDirection="431.00000 -558.00000" />
+              <PathPointType Anchor="-349.00000 -452.00000" LeftDirection="-349.00000 -452.00000" RightDirection="-349.00000 -452.00000" />
+              <PathPointType Anchor="-349.00000 452.00000" LeftDirection="-349.00000 452.00000" RightDirection="-349.00000 452.00000" />
+              <PathPointType Anchor="349.00000 452.00000" LeftDirection="349.00000 452.00000" RightDirection="349.00000 452.00000" />
+              <PathPointType Anchor="349.00000 -452.00000" LeftDirection="349.00000 -452.00000" RightDirection="349.00000 -452.00000" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -431.00000 -558.00000">
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -349.00000 -452.00000">
         <Properties>
           <Profile type="string">
             $ID/Embedded
@@ -821,13 +821,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Syrian Archive provides a case of a class of phenomena; that is, activism that utilizes the data infrastructure for knowledge and action</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> The case study methodology is helpful when the boundaries between a phenomenon and its context are not apparent.</Content>
+    <Content> Syrian Archive provides a case of a class of phenomena; that is, activism that utilizes the data infrastructure for knowledge and action. The case study methodology is helpful when the boundaries between a phenomenon and its context are not apparent.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1387,7 +1381,7 @@
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph">
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
@@ -1403,11 +1397,8 @@
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In the process of </Content>
+    <Content> In the process of </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>learning</Content>
@@ -1631,16 +1622,10 @@
     <Content> because to do that, and it would have to establish first the philosophical question of the meaning </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>good,</Content>
+    <Content>good</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> over which there is no consensus</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Gabrys, Pritchard and Barrat do not fathom what </Content>
+    <Content>, over which there is no consensus. Gabrys, Pritchard and Barrat do not fathom what </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>good</Content>
@@ -2632,7 +2617,7 @@
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
@@ -3138,7 +3123,7 @@
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
@@ -3330,13 +3315,13 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Good enough data is really a moving target. Each data submission (...) can lead to new, unsupported data that needs to be analyzed and added to our raw input data validation and normalization stage. We also need to have a data QA stage that extracts statistics that let us inspect incoming data and adjust accordingly. Our definition of good data could be: It passes our initial raw input data validation filters; it's normalized to our system's internal requirements; it doesn't produce abnormalities in data QA </Content>
+    <Content>Good enough data is really a moving target. Each data submission (...) can lead to new, unsupported data that needs to be analyzed and added to our </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>(quality assurance)</Content>
+    <Content>raw</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> statistics, and it fits into each of the system's internal data structures.</Content>
+    <Content> input data validation and normalization stage. We also need to have a data QA stage that extracts statistics that let us inspect incoming data and adjust accordingly. Our definition of good data could be: It passes our initial raw input data validation filters; it's normalized to our system's internal requirements; it doesn't produce abnormalities in data QA (quality assurance) statistics, and it fits into each of the system's internal data structures.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />

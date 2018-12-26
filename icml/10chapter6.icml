@@ -14,11 +14,6 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -2051,43 +2046,34 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Figure 1: Learning fair representations with an adversary. In the text we use the example of </Content>
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 465.50000 -267.00000">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-465.50000 -267.00000" LeftDirection="-465.50000 -267.00000" RightDirection="-465.50000 -267.00000" />
+              <PathPointType Anchor="-465.50000 267.00000" LeftDirection="-465.50000 267.00000" RightDirection="-465.50000 267.00000" />
+              <PathPointType Anchor="465.50000 267.00000" LeftDirection="465.50000 267.00000" RightDirection="465.50000 267.00000" />
+              <PathPointType Anchor="465.50000 -267.00000" LeftDirection="465.50000 -267.00000" RightDirection="465.50000 -267.00000" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -465.50000 -267.00000">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>X</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>=criminal record, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Z</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>=the cleaned version of the criminal record, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>S</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>=race, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Y</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>=whether the person reoﬀended. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Subscript">
-    <Content>1</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Subscript">
-    <Content>2</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> are parameters of the learning algorithm.</Content>
+    <Content>Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2312,7 +2298,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>We introduce a parameter </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2324,7 +2310,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>). When </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2336,13 +2322,13 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>). When </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> approaches zero, the algorithm focuses more on making the original records and cleaned records similar. The algorithm does not provide any guidance as to how to select </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2397,39 +2383,6 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, which predicts race from the cleaned records. Four steps are repeated for each batch of examples from the training data:</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 465.50000 -267.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-465.50000 -267.00000" LeftDirection="-465.50000 -267.00000" RightDirection="-465.50000 -267.00000" />
-              <PathPointType Anchor="-465.50000 267.00000" LeftDirection="-465.50000 267.00000" RightDirection="-465.50000 267.00000" />
-              <PathPointType Anchor="465.50000 267.00000" LeftDirection="465.50000 267.00000" RightDirection="465.50000 267.00000" />
-              <PathPointType Anchor="465.50000 -267.00000" LeftDirection="465.50000 -267.00000" RightDirection="465.50000 -267.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -465.50000 -267.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter6_Broad_Image1.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Figure 1: Learning fair representations with an adversary. In the text we use the example of X=criminal record, Z=the cleaned version of the criminal record, S=race, Y=whether the person reoﬀended. 1 and 2 are parameters of the learning algorithm.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2747,7 +2700,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. The trade-oﬀ between these two objectives is governed by the parameter </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2843,13 +2796,7 @@
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
-    <Content>λ</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content> used in pre-processing on a logarithmic scale.</Content>
+    <Content>Figure 2: Results of applying pre-processing to the BOCSAR dataset, followed by logistic regression, to predict DV reoﬀences. Baselines using logistic regression without pre-processing are shown as dashed lines. The y-axes show several fairness and accuracy measures of interest on the test data. The x-axes show the parameter λ used in pre-processing on a logarithmic scale.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2863,7 +2810,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Our baseline experiments use the original data, including the Indigenous status variable. We also tested the pre-processing method described in Section 6.2.4 for several values of the parameter </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2934,7 +2881,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Removing the Indigenous status column in the data is a possible step towards remediating these issues. It would address the final concern around fair process. However, our results show that the first three concerns stand even without the presence of this column. The solid lines on the left-hand side of the plots, where </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2969,7 +2916,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Applying pre-processing with increasing values of </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2981,7 +2928,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>the predicted reoﬀence rate for non-reoﬀenders is more similar for Indigenous and non-Indigenous populations (for </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2993,7 +2940,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>the predicted reoﬀence rate for reoﬀenders is more similar for Indigenous and non-Indigenous populations (for </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -3005,7 +2952,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>the predicted reoﬀence rate overall is more similar for Indigenous and non-Indigenous populations (for </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -3037,13 +2984,13 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Overall predicted reoﬀence rates for non-reoﬀenders are higher compared to the baseline: 7.9% for </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> = 10 vs 7.6% for the baseline, a 10.2% increase. Overall predicted reoﬀence rates for reoﬀenders are lower compared to the baseline: 9.6% for </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -3055,13 +3002,13 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>In summary, our approach improved on several measures of fairness compared to Fitzgerald and Graham's study. The naive approach of learning from the original input data results in a prediction that indicates that the average risk associated with Indigenous individuals is more than twice that of their non-Indigenous counterparts, even among non-reoﬀenders - while for a value of </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> = 10 these risks are comparable. As discussed previously, this could not have been achieved simply by removing the Indigenous status column from the data. However, achieving comparable risks comes at the cost of overall predictive accuracy (AUC 0.71 to AUC 0.62). It is worth repeating that our approach does not prescribe a particular value of the trade-oﬀ parameter </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>λ</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">

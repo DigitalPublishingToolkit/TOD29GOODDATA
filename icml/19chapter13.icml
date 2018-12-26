@@ -59,6 +59,11 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph" Name="Italic &gt; Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -2488,7 +2493,10 @@
     <Content>'Are you willing to change your business model in the interest of protecting individual privacy?' </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>-- Democratic Representative Anna Eshoo</Content>
+    <Content>-- </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Democratic Representative Anna Eshoo</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -2497,7 +2505,7 @@
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
@@ -2520,7 +2528,10 @@
     <Content> 'Congresswoman, I'm not sure what that means.' </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>--Mark Zuckerberg</Content>
+    <Content>--</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Mark Zuckerberg</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -2529,7 +2540,7 @@
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
@@ -2633,13 +2644,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>What is 'privacy' in the context of social media research? If we follow Helen Nissenbaum's lead, concerns over privacy are not simply concerns about control over personal information. A 'right to privacy', reflects Nissenbaum, 'is neither a right to secrecy nor a right to control, but a right to the </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>appropriate</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> flow of personal information'.</Content>
+    <Content>What is 'privacy' in the context of social media research? If we follow Helen Nissenbaum's lead, concerns over privacy are not simply concerns about control over personal information. A 'right to privacy', reflects Nissenbaum, 'is neither a right to secrecy nor a right to control, but a right to the appropriate flow of personal information'.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>

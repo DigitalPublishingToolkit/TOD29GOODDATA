@@ -64,6 +64,18 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; beginsWith-3 &gt; lowerRoman" Name="NumList &gt; first &gt; beginsWith-3 &gt; lowerRoman" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+          <NumberingFormat type="string">i, ii, iii, iv...</NumberingFormat>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; lowerRoman" Name="NumList &gt; first &gt; lowerRoman" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+          <NumberingFormat type="string">i, ii, iii, iv...</NumberingFormat>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; lowerRoman &gt; Paragraph" Name="NumList &gt; first &gt; lowerRoman &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -137,10 +149,10 @@
     <Content>As we move into an era of big data, the mass collection, aggregation and processing of personal data through multiple connected devices signal many concerns. In particular, the uncontrolled collection, storage and use of individuals' data enabled by the Internet of Things (IoT) is unsettling in a world of more connectivity, networking and collaboration. The research question that can be asked is: </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>how can users better control the management of their personal data in an increasingly connected and digitised world</Content>
+    <Content>how can users better control the management of their personal data in an increasingly connected and digitised world?</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>? While this is a key question, we acknowledge that new technologies and their accompanying data collection practices provide multiple new services and promises to significantly ease and enrich our lives in many different ways. For example, the flick of a single switch can instantaneously set a variety of devices into operation and customise information fed back to users based on unique predetermined individual needs. However, the mass collection of personal data, unknown methods of storage of this data (e.g. in the cloud), and the analyses, aggregation and processing of big data sets using modern data mining techniques, are growing concerns. In short, there is a serious question about how intelligent IoT users are really allowed to be in the new world of 'smart computing' -- especially when it comes to their personal information. Specific concerns at the global level relate to privacy, data protection and cybersecurity.</Content>
+    <Content> While this is a key question, we acknowledge that new technologies and their accompanying data collection practices provide multiple new services and promises to significantly ease and enrich our lives in many different ways. For example, the flick of a single switch can instantaneously set a variety of devices into operation and customise information fed back to users based on unique predetermined individual needs. However, the mass collection of personal data, unknown methods of storage of this data (e.g. in the cloud), and the analyses, aggregation and processing of big data sets using modern data mining techniques, are growing concerns. In short, there is a serious question about how intelligent IoT users are really allowed to be in the new world of 'smart computing' -- especially when it comes to their personal information. Specific concerns at the global level relate to privacy, data protection and cybersecurity.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -364,19 +376,19 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; lowerRoman &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>how and to what extent users' data is used or combined with other data sets,</Content>
+    <Content>how and to what extent users' data is used or combined with other data sets;</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; lowerRoman &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>who acts as 'responsible owners' of collected data,</Content>
+    <Content>who acts as 'responsible owners' of collected data;</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; lowerRoman &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>when are users' data made available to external parties, or</Content>
+    <Content>when are users' data made available to external parties, or;</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1132,10 +1144,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As to legal standards, another participant expressed concern that these terms and conditions [of use] are subject to change without any notice</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>,</Content>
+    <Content>As to legal standards, another participant expressed concern that these terms and conditions [of use] are subject to change without any notice,</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1458,13 +1467,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>i</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>) </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; lowerRoman" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Dataflow A</Content>
   </CharacterStyleRange>
@@ -1485,9 +1488,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange NumberingStartAt="3" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-3 &gt; lowerRoman" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>iii) Dataflow C</Content>
+    <Content>Dataflow C</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> as set up by Chester: In this scenario, the IWA makes Chester aware of voluminous data flowing through one or more channels (e.g. connected to Chester's Wi-Fi network) to a third-party server overseas. Once again, the IWA will sense or track uncontrolled data movement. Hence the IWA should 'learn' of destinations of data and by knowing this and being aware of the setting of user controls the app will nudge Chester of any uncontrolled movement of data through specific communication channels. Chester might then formally act on this by consenting or reporting inadequate behaviour to an appropriate regulatory entity.</Content>

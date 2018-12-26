@@ -2074,20 +2074,20 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 657.50000 -446.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 460.00000 -312.00000">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-657.50000 -446.00000" LeftDirection="-657.50000 -446.00000" RightDirection="-657.50000 -446.00000" />
-              <PathPointType Anchor="-657.50000 446.00000" LeftDirection="-657.50000 446.00000" RightDirection="-657.50000 446.00000" />
-              <PathPointType Anchor="657.50000 446.00000" LeftDirection="657.50000 446.00000" RightDirection="657.50000 446.00000" />
-              <PathPointType Anchor="657.50000 -446.00000" LeftDirection="657.50000 -446.00000" RightDirection="657.50000 -446.00000" />
+              <PathPointType Anchor="-460.00000 -312.00000" LeftDirection="-460.00000 -312.00000" RightDirection="-460.00000 -312.00000" />
+              <PathPointType Anchor="-460.00000 312.00000" LeftDirection="-460.00000 312.00000" RightDirection="-460.00000 312.00000" />
+              <PathPointType Anchor="460.00000 312.00000" LeftDirection="460.00000 312.00000" RightDirection="460.00000 312.00000" />
+              <PathPointType Anchor="460.00000 -312.00000" LeftDirection="460.00000 -312.00000" RightDirection="460.00000 -312.00000" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -657.50000 -446.00000">
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -460.00000 -312.00000">
         <Properties>
           <Profile type="string">
             $ID/Embedded
