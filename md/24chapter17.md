@@ -88,9 +88,10 @@ Data Protection Impact Assessments (DPIAs), a tool that has received
 renewed interest as a result of the introduction of the GDPR, are
 introduced as a possible solution in the absence of strong legislation.
 But are they really a panacea that can provide meaningful safeguards, or
-an expensive Band-Aid that will be avoided, ignored, and brushed aside?
+an expensive Band-Aid that will be avoided, ignored, and brushed aside?<br />
 
-![](imgs/chapter17_Ritsema_image1.jpg)
+
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter17_Ritsema_image1.jpg)
 
 *Figure 1. Screenshot taken by the author on
 https://labs.strava.com/heatmaps on 2 February 2018. Shown is the
@@ -143,9 +144,10 @@ Citizens Programme --- in exchange, the local governments gain access to
 information on accidents and other traffic disruptions.[^17chapter17_16] As Gekker
 and Hind point out, this makes it 'not necessarily easy to make a clean
 split between those who "produce" the map, those who "edit" the map and
-those who "consume" the map'.[^17chapter17_17]
+those who "consume" the map'.[^17chapter17_17] <br />
 
-![](imgs/chapter17_Ritsema_image2.jpg)
+
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter17_Ritsema_image2.jpg)
 
 *Figure 2. Screenshot taken by the author on
 https://www.waze.com/livemap on 5 February 2018. Shown is part of the

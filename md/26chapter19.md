@@ -407,7 +407,7 @@ users and complying with any relevant legal obligations in the
 jurisdiction (or jurisdictions). Figure 1 also presents the three data
 flow scenarios A, B and C that are described in the next section.
 
-![](imgs/Chapter19_Bosua_image1.jpg)
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter19_Bosua_image1.jpg)
 *Figure 1: Conceptual Architectural Model of the Intelligent Warning app
 (IWA).*
 
@@ -462,7 +462,7 @@ feel from a usability perspective. The aim is to design an interactive
 user-friendly app that is fairly intuitive in terms of use and
 functionality.
 
-![](imgs/Chapter19_Bosua_image2.jpg)
+![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter19_Bosua_image2.jpg)
 *Figure 2: Excerpt of wireframe mock-up of the IWA prototype.*
 
 The initial landing page requires a secure user login taking the user to

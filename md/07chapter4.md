@@ -70,6 +70,7 @@ the target was a medical facility.[^04chapter4_11] Their report concludes that t
 perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
+
 ![Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
 2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.jpg)
 *Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,

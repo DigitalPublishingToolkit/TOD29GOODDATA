@@ -432,7 +432,7 @@ information that can be used to infer *S*. This cleaned data can be used
 as an input to any subsequent algorithm instead of the original input
 data. In the following section we will use the concrete example of race
 as the sensitive variable *S*, past criminal record as the input
-variable *X,* reoﬀence as the target variable *Y*, and a cleaned version
+variable *X*, reoﬀence as the target variable *Y*, and a cleaned version
 of past criminal record as *Z*. However, it is worth remembering that
 the approach works in general for other sets of variables.
 

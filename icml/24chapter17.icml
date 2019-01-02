@@ -281,26 +281,26 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 215.00000 -161.00000">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-215.00000 -161.00000" LeftDirection="-215.00000 -161.00000" RightDirection="-215.00000 -161.00000" />
+              <PathPointType Anchor="-215.00000 161.00000" LeftDirection="-215.00000 161.00000" RightDirection="-215.00000 161.00000" />
+              <PathPointType Anchor="215.00000 161.00000" LeftDirection="215.00000 161.00000" RightDirection="215.00000 161.00000" />
+              <PathPointType Anchor="215.00000 -161.00000" LeftDirection="215.00000 -161.00000" RightDirection="215.00000 -161.00000" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -215.00000 -161.00000">
         <Properties>
           <Profile type="string">
             $ID/Embedded
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="file:imgs/chapter17_Ritsema_image1.jpg" />
+        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter17_Ritsema_image1.jpg" />
       </Image>
     </Rectangle>
   </CharacterStyleRange>
@@ -573,30 +573,33 @@
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 215.00000 -163.50000">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-215.00000 -163.50000" LeftDirection="-215.00000 -163.50000" RightDirection="-215.00000 -163.50000" />
+              <PathPointType Anchor="-215.00000 163.50000" LeftDirection="-215.00000 163.50000" RightDirection="-215.00000 163.50000" />
+              <PathPointType Anchor="215.00000 163.50000" LeftDirection="215.00000 163.50000" RightDirection="215.00000 163.50000" />
+              <PathPointType Anchor="215.00000 -163.50000" LeftDirection="215.00000 -163.50000" RightDirection="215.00000 -163.50000" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -215.00000 -163.50000">
         <Properties>
           <Profile type="string">
             $ID/Embedded
           </Profile>
         </Properties>
-        <Link Self="ueb" LinkResourceURI="file:imgs/chapter17_Ritsema_image2.jpg" />
+        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter17_Ritsema_image2.jpg" />
       </Image>
     </Rectangle>
   </CharacterStyleRange>

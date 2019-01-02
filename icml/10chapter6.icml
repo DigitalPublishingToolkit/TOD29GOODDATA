@@ -2025,10 +2025,10 @@
     <Content>, past criminal record as the input variable </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>X,</Content>
+    <Content>X</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> reoﬀence as the target variable </Content>
+    <Content>, reoﬀence as the target variable </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Y</Content>

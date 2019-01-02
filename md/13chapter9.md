@@ -367,7 +367,7 @@ observables and therefore the output of the DL policy.[^09chapter9_41] Such outp
 in terms of welfare consequences then could be measured against
 regulatory principles.
 
-![image](imgs/Chapter9_Melashchenko_image1.jpg)
+![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter9_Melashchenko_image1.jpg)
 *Figure 1.*
 
 Depending on collection of variables, their types and interpretation it
