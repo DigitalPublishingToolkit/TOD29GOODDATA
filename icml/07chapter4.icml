@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/" Name="">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -447,33 +442,6 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 349.00000 -452.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-349.00000 -452.00000" LeftDirection="-349.00000 -452.00000" RightDirection="-349.00000 -452.00000" />
-              <PathPointType Anchor="-349.00000 452.00000" LeftDirection="-349.00000 452.00000" RightDirection="-349.00000 452.00000" />
-              <PathPointType Anchor="349.00000 452.00000" LeftDirection="349.00000 452.00000" RightDirection="349.00000 452.00000" />
-              <PathPointType Anchor="349.00000 -452.00000" LeftDirection="349.00000 -452.00000" RightDirection="349.00000 -452.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -349.00000 -452.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive, 2018).</Content>
   </CharacterStyleRange>
@@ -2484,33 +2452,6 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 842.00000 -598.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-842.00000 -598.00000" LeftDirection="-842.00000 -598.00000" RightDirection="-842.00000 -598.00000" />
-              <PathPointType Anchor="-842.00000 598.00000" LeftDirection="-842.00000 598.00000" RightDirection="-842.00000 598.00000" />
-              <PathPointType Anchor="842.00000 598.00000" LeftDirection="842.00000 598.00000" RightDirection="842.00000 598.00000" />
-              <PathPointType Anchor="842.00000 -598.00000" LeftDirection="842.00000 -598.00000" RightDirection="842.00000 -598.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -842.00000 -598.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 2: Syrian Archive digital evidence workflow.</Content>
   </CharacterStyleRange>
@@ -2580,33 +2521,6 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 530.00000 -512.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-530.00000 -512.00000" LeftDirection="-530.00000 -512.00000" RightDirection="-530.00000 -512.00000" />
-              <PathPointType Anchor="-530.00000 512.00000" LeftDirection="-530.00000 512.00000" RightDirection="-530.00000 512.00000" />
-              <PathPointType Anchor="530.00000 512.00000" LeftDirection="530.00000 512.00000" RightDirection="530.00000 512.00000" />
-              <PathPointType Anchor="530.00000 -512.00000" LeftDirection="530.00000 -512.00000" RightDirection="530.00000 -512.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -530.00000 -512.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 3: Map of visual evidence about attacks in Aleppo City (July - December 2016).</Content>
   </CharacterStyleRange>

@@ -959,30 +959,7 @@
   <Cell Name="0:10" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles.</Content>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-        <Footnote>
-          <ParagraphStyleRange>
-            <CharacterStyleRange>
-              <Content><?ACE 4?></Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>	</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>Maiam nayri Wingara and the Australian Indigenous Governance Institute, </Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-              <Content>Indigenous Data Sovereignty Summit and Indigenous Data Sovereignty Communique,</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content> Canberra, 2018, www.maiamnayriwingara.org</Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-        </Footnote>
+        <Content>Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles. [footnote, zie onder table ]</Content>
       </CharacterStyleRange>
     </ParagraphStyleRange>
   </Cell>
@@ -993,6 +970,32 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Table 1 - IDS principles in the Asia Pacific and North American States.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Maiam nayri Wingara and the Australian Indigenous Governance Institute, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Indigenous Data Sovereignty Summit and Indigenous Data Sovereignty Communique,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> Canberra, 2018, www.maiamnayriwingara.org</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />

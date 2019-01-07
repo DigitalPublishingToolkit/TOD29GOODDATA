@@ -326,27 +326,7 @@
   <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Energy data typically refers to information over time regarding the level of energy consumption, generation, quality,</Content>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-        <Footnote>
-          <ParagraphStyleRange>
-            <CharacterStyleRange>
-              <Content><?ACE 4?></Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>	</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>Information regarding power quality relates to technical characteristics of power delivered such as voltage. Power quality can determine how well equipment and household appliances function, and in extreme cases, poor power quality can cause damage to appliances.</Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-        </Footnote>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content> and price. When coupled with metadata (such as consumer location or demographics), this data can yield valuable insights for researchers, and policymakers in domains such as urban planning, demography, and sociology. We use the prefix ‘</Content>
+        <Content>Energy data typically refers to information over time regarding the level of energy consumption, generation, quality,[footnote 5] and price. When coupled with metadata (such as consumer location or demographics), this data can yield valuable insights for researchers, and policymakers in domains such as urban planning, demography, and sociology. We use the prefix ‘</Content>
       </CharacterStyleRange>
       <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
         <Content>public’</Content>
@@ -363,6 +343,23 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Box 1: What is ‘Public Energy Data’?</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Information regarding power quality relates to technical characteristics of power delivered such as voltage. Power quality can determine how well equipment and household appliances function, and in extreme cases, poor power quality can cause damage to appliances.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -658,79 +655,10 @@
   <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Understanding how networks are functioning at both the high voltage transmission and low voltage distribution ends is crucial to integrating renewable energy resources effectively and at a fair cost to society. For instance, as PV uptake continues, a technical upper voltage limit is reached at local transformers, at which point it is difficult for additional PV to connect to the network. The responsibility of Network Service Providers to maintain a stable electricity network can lead them to a cautious approach to integration of distributed renewables, and in some jurisdictions, this has resulted in NSPs drastically restricting deployment of residential PV.</Content>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-        <Footnote>
-          <ParagraphStyleRange>
-            <CharacterStyleRange>
-              <Content><?ACE 4?></Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>	</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>G. Simpson, ‘Network operators and the transition to decentralised electricity: An Australian socio-technical case study’, </Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-              <Content>Energy Policy</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content> 110 (2017): 422-433.</Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-        </Footnote>
+        <Content>Understanding how networks are functioning at both the high voltage transmission and low voltage distribution ends is crucial to integrating renewable energy resources effectively and at a fair cost to society. For instance, as PV uptake continues, a technical upper voltage limit is reached at local transformers, at which point it is difficult for additional PV to connect to the network. The responsibility of Network Service Providers to maintain a stable electricity network can lead them to a cautious approach to integration of distributed renewables, and in some jurisdictions, this has resulted in NSPs drastically restricting deployment of residential PV.[footnote 14] </Content>
       </CharacterStyleRange>
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content> However, recent data analysis – which used information captured from independent monitoring of household PV systems – shows that network voltages are generally high due to historic network decision making (distribution transformer set points were generally set at a high voltage, leaving minimal ‘headroom’ for PV).</Content>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-        <Footnote>
-          <ParagraphStyleRange>
-            <CharacterStyleRange>
-              <Content><?ACE 4?></Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>	</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>Naomi Stringer, Anna Bruce and Iain MacGill, ‘Data driven exploration of voltage conditions in the Low Voltage network for sites with distributed solar PV’, paper presented at the </Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-              <Content>Asia Pacific Solar Research Conference</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>, Melbourne, Australia, 2017.</Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-        </Footnote>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content> This has implications for exporting rooftop PV electricity to the national grid. The visibility afforded by voltage data readings across the network may enable scrutiny of network expenditure to ensure money is spent in a judicious manner;</Content>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-        <Footnote>
-          <ParagraphStyleRange>
-            <CharacterStyleRange>
-              <Content><?ACE 4?></Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>	</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>See also the ‘network opportunities map’ project by UTS ISF: https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2</Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-        </Footnote>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content> there may be cost-effective solutions to maintain grid stability without placing unnecessary restrictions on deployment of distributed PV.</Content>
+        <Content> However, recent data analysis – which used information captured from independent monitoring of household PV systems – shows that network voltages are generally high due to historic network decision making (distribution transformer set points were generally set at a high voltage, leaving minimal ‘headroom’ for PV).[footnote 15] This has implications for exporting rooftop PV electricity to the national grid. The visibility afforded by voltage data readings across the network may enable scrutiny of network expenditure to ensure money is spent in a judicious manner;[foornote 16] there may be cost-effective solutions to maintain grid stability without placing unnecessary restrictions on deployment of distributed PV.</Content>
       </CharacterStyleRange>
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Access to such data is key to overcoming integration barriers and market asymmetries, and as such is an important companion to wider policies on a just energy transition that have received more widespread attention such as the Renewable Energy Target and carbon pricing schemes.</Content>
@@ -744,6 +672,78 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Box 2: The importance of voltage data for integrating distributed renewables</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>G. Simpson, ‘Network operators and the transition to decentralised electricity: An Australian socio-technical case study’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Energy Policy</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 110 (2017): 422-433.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Naomi Stringer, Anna Bruce and Iain MacGill, ‘Data driven exploration of voltage conditions in the Low Voltage network for sites with distributed solar PV’, paper presented at the </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Asia Pacific Solar Research Conference</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Melbourne, Australia, 2017.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>See also the ‘network opportunities map’ project by UTS ISF: https://www.uts.edu.au/research-and-teaching/our-research/institute-sustainable-futures/our-research/energy-and-climate-2</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -849,30 +849,7 @@
   <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>CEEM’s tariff analysis tool is an example of an open source model which is accessible by stakeholders like think tanks, community energy organisations, local councils and policy-makers.</Content>
-      </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-        <Footnote>
-          <ParagraphStyleRange>
-            <CharacterStyleRange>
-              <Content><?ACE 4?></Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>	</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>Rob Passey, Navid Haghdadi, Anna Bruce &amp; Iain MacGill, ‘Designing more cost reflective electricity network tariffs with demand charges’, </Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-              <Content>Energy Policy</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content> 109 (2017): 642-649.</Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-        </Footnote>
+        <Content>CEEM’s tariff analysis tool is an example of an open source model which is accessible by stakeholders like think tanks, community energy organisations, local councils and policy-makers.[footnote 20] </Content>
       </CharacterStyleRange>
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Consumers’ ability to reduce their consumption using energy efficiency and solar is altering the distribution of revenue collection from consumers via tariffs, and has drawn attention to apparent cross-subsidies from traditional electricity-consuming customers to solar ‘prosumers’, while users of air-conditioning have also been identified as placing an unfair cost burden on other customers. Along with emerging costs of transforming the electricity network to a more distributed model, this has driven regulatory changes that now require network utilities to develop more cost-reflective tariffs. However, the proprietary energy models used by network providers and their private consultants are often complex, opaque and based on assumed variables, making it possible for the energy modellers to exploit uncertainties within a regulatory context biased towards recovering capital expenditure on electricity infrastructure.</Content>
@@ -892,6 +869,32 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Rob Passey, Navid Haghdadi, Anna Bruce &amp; Iain MacGill, ‘Designing more cost reflective electricity network tariffs with demand charges’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Energy Policy</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 109 (2017): 642-649.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1291,22 +1294,8 @@
       <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
         <Content>‘The Green Button initiative is an industry-led effort that responds to a 2012 White House call-to-action to provide utility customers with easy and secure access to their energy usage information in a consumer-friendly and computer-friendly format for electricity, natural gas, and water usage.’</Content>
       </CharacterStyleRange>
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-        <Footnote>
-          <ParagraphStyleRange>
-            <CharacterStyleRange>
-              <Content><?ACE 4?></Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-          <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>	</Content>
-            </CharacterStyleRange>
-            <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-              <Content>Green Button Alliance. ‘Green Button Data’, 2015, http://www.greenbuttondata.org/.</Content>
-            </CharacterStyleRange>
-          </ParagraphStyleRange>
-        </Footnote>
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content> [footnote 31] </Content>
       </CharacterStyleRange>
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Inspired by the success of the </Content>
@@ -1338,6 +1327,26 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Box 5: The Green Button Initiative has empowered electricity consumers</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Green Button Alliance. ‘Green Button Data’, 2015, http://www.greenbuttondata.org/.</Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
