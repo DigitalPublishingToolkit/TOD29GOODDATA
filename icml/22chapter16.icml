@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/" Name="">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -1396,153 +1391,18 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 919.50000 -561.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-919.50000 -561.00000" LeftDirection="-919.50000 -561.00000" RightDirection="-919.50000 -561.00000" />
-              <PathPointType Anchor="-919.50000 561.00000" LeftDirection="-919.50000 561.00000" RightDirection="-919.50000 561.00000" />
-              <PathPointType Anchor="919.50000 561.00000" LeftDirection="919.50000 561.00000" RightDirection="919.50000 561.00000" />
-              <PathPointType Anchor="919.50000 -561.00000" LeftDirection="919.50000 -561.00000" RightDirection="919.50000 -561.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -919.50000 -561.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image1.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 920.50000 -561.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-920.50000 -561.00000" LeftDirection="-920.50000 -561.00000" RightDirection="-920.50000 -561.00000" />
-              <PathPointType Anchor="-920.50000 561.00000" LeftDirection="-920.50000 561.00000" RightDirection="-920.50000 561.00000" />
-              <PathPointType Anchor="920.50000 561.00000" LeftDirection="920.50000 561.00000" RightDirection="920.50000 561.00000" />
-              <PathPointType Anchor="920.50000 -561.00000" LeftDirection="920.50000 -561.00000" RightDirection="920.50000 -561.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -920.50000 -561.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter16_Wieringa_image2.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figures 1 and 2: Gephi's 'Overview' and 'Data Laboratory' tabs after opening the Les Miserables dataset.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 178.20000 -110.76000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-178.20000 -110.76000" LeftDirection="-178.20000 -110.76000" RightDirection="-178.20000 -110.76000" />
-              <PathPointType Anchor="-178.20000 110.76000" LeftDirection="-178.20000 110.76000" RightDirection="-178.20000 110.76000" />
-              <PathPointType Anchor="178.20000 110.76000" LeftDirection="178.20000 110.76000" RightDirection="178.20000 110.76000" />
-              <PathPointType Anchor="178.20000 -110.76000" LeftDirection="178.20000 -110.76000" RightDirection="178.20000 -110.76000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -178.20000 -110.76000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image3.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 3: The 'raw' Les Miserables sample.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 345.36000 -210.72000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-345.36000 -210.72000" LeftDirection="-345.36000 -210.72000" RightDirection="-345.36000 -210.72000" />
-              <PathPointType Anchor="-345.36000 210.72000" LeftDirection="-345.36000 210.72000" RightDirection="-345.36000 210.72000" />
-              <PathPointType Anchor="345.36000 210.72000" LeftDirection="345.36000 210.72000" RightDirection="345.36000 210.72000" />
-              <PathPointType Anchor="345.36000 -210.72000" LeftDirection="345.36000 -210.72000" RightDirection="345.36000 -210.72000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -345.36000 -210.72000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image4.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 1007.50000 -614.50000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-1007.50000 -614.50000" LeftDirection="-1007.50000 -614.50000" RightDirection="-1007.50000 -614.50000" />
-              <PathPointType Anchor="-1007.50000 614.50000" LeftDirection="-1007.50000 614.50000" RightDirection="-1007.50000 614.50000" />
-              <PathPointType Anchor="1007.50000 614.50000" LeftDirection="1007.50000 614.50000" RightDirection="1007.50000 614.50000" />
-              <PathPointType Anchor="1007.50000 -614.50000" LeftDirection="1007.50000 -614.50000" RightDirection="1007.50000 -614.50000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -1007.50000 -614.50000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image5.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figures 4 and 5: ForceAtlas 2's default settings applied to the same 'Les Miserables' exercise sample, and after adjusting 'Tuning' and 'Behavior Alternative' settings such as the scaling (from 10 to 50) and the gravity (from 1.0 to 0.5).</Content>
   </CharacterStyleRange>
@@ -2257,33 +2117,6 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 430.00000 -328.50000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-430.00000 -328.50000" LeftDirection="-430.00000 -328.50000" RightDirection="-430.00000 -328.50000" />
-              <PathPointType Anchor="-430.00000 328.50000" LeftDirection="-430.00000 328.50000" RightDirection="-430.00000 328.50000" />
-              <PathPointType Anchor="430.00000 328.50000" LeftDirection="430.00000 328.50000" RightDirection="430.00000 328.50000" />
-              <PathPointType Anchor="430.00000 -328.50000" LeftDirection="430.00000 -328.50000" RightDirection="430.00000 -328.50000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -430.00000 -328.50000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image6.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 6. Example of settings.txt file</Content>
   </CharacterStyleRange>

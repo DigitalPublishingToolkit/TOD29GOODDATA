@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/" Name="">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -809,33 +804,6 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 512.00000 -596.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-512.00000 -596.00000" LeftDirection="-512.00000 -596.00000" RightDirection="-512.00000 -596.00000" />
-              <PathPointType Anchor="-512.00000 596.00000" LeftDirection="-512.00000 596.00000" RightDirection="-512.00000 596.00000" />
-              <PathPointType Anchor="512.00000 596.00000" LeftDirection="512.00000 596.00000" RightDirection="512.00000 596.00000" />
-              <PathPointType Anchor="512.00000 -596.00000" LeftDirection="512.00000 -596.00000" RightDirection="512.00000 -596.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -512.00000 -596.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter10_GrayLam_image1.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 1: Detail of Open Data Census submission form showing types of data availability</Content>
   </CharacterStyleRange>
@@ -929,33 +897,6 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 485.00000 -268.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-485.00000 -268.00000" LeftDirection="-485.00000 -268.00000" RightDirection="-485.00000 -268.00000" />
-              <PathPointType Anchor="-485.00000 268.00000" LeftDirection="-485.00000 268.00000" RightDirection="-485.00000 268.00000" />
-              <PathPointType Anchor="485.00000 268.00000" LeftDirection="485.00000 268.00000" RightDirection="485.00000 268.00000" />
-              <PathPointType Anchor="485.00000 -268.00000" LeftDirection="485.00000 -268.00000" RightDirection="485.00000 -268.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -485.00000 -268.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter10_GrayLam_image2.gif" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 2: Map showing preliminary results of the 2012 Open Government Data Census.</Content>
   </CharacterStyleRange>
@@ -1240,66 +1181,12 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 375.00000 -383.50000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-375.00000 -383.50000" LeftDirection="-375.00000 -383.50000" RightDirection="-375.00000 -383.50000" />
-              <PathPointType Anchor="-375.00000 383.50000" LeftDirection="-375.00000 383.50000" RightDirection="-375.00000 383.50000" />
-              <PathPointType Anchor="375.00000 383.50000" LeftDirection="375.00000 383.50000" RightDirection="375.00000 383.50000" />
-              <PathPointType Anchor="375.00000 -383.50000" LeftDirection="375.00000 -383.50000" RightDirection="375.00000 -383.50000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -375.00000 -383.50000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter10_GrayLam_image3.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 3: Table showing weightings for Open Data Index 2013.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 364.00000 -299.00000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-364.00000 -299.00000" LeftDirection="-364.00000 -299.00000" RightDirection="-364.00000 -299.00000" />
-              <PathPointType Anchor="-364.00000 299.00000" LeftDirection="-364.00000 299.00000" RightDirection="-364.00000 299.00000" />
-              <PathPointType Anchor="364.00000 299.00000" LeftDirection="364.00000 299.00000" RightDirection="364.00000 299.00000" />
-              <PathPointType Anchor="364.00000 -299.00000" LeftDirection="364.00000 -299.00000" RightDirection="364.00000 -299.00000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -364.00000 -299.00000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter10_GrayLam_image4.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 4: Review process for contributors and editors, Open Data Index 2013.</Content>
   </CharacterStyleRange>
@@ -1506,33 +1393,6 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 240.00000 -339.50000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-240.00000 -339.50000" LeftDirection="-240.00000 -339.50000" RightDirection="-240.00000 -339.50000" />
-              <PathPointType Anchor="-240.00000 339.50000" LeftDirection="-240.00000 339.50000" RightDirection="-240.00000 339.50000" />
-              <PathPointType Anchor="240.00000 339.50000" LeftDirection="240.00000 339.50000" RightDirection="240.00000 339.50000" />
-              <PathPointType Anchor="240.00000 -339.50000" LeftDirection="240.00000 -339.50000" RightDirection="240.00000 -339.50000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -240.00000 -339.50000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter10_GrayLam_image5.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 5: Graphic to illustrate results of Open Data Index 2014.</Content>
   </CharacterStyleRange>
@@ -1673,33 +1533,6 @@
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 542.00000 -191.50000">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-542.00000 -191.50000" LeftDirection="-542.00000 -191.50000" RightDirection="-542.00000 -191.50000" />
-              <PathPointType Anchor="-542.00000 191.50000" LeftDirection="-542.00000 191.50000" RightDirection="-542.00000 191.50000" />
-              <PathPointType Anchor="542.00000 191.50000" LeftDirection="542.00000 191.50000" RightDirection="542.00000 191.50000" />
-              <PathPointType Anchor="542.00000 -191.50000" LeftDirection="542.00000 -191.50000" RightDirection="542.00000 -191.50000" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -542.00000 -191.50000">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter10_GrayLam_image6.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Figure 6: &quot;Crowdsourced survey&quot; to inform choice of datasets included in 2015 Global Open Data Index.</Content>
   </CharacterStyleRange>

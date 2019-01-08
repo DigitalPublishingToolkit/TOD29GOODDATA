@@ -328,16 +328,13 @@ the most connections. Subsequently, it is possible to color and
 'partition' these nodes based on the communities inferred by the
 algorithm (see Figure 1).[^16chapter16_45]
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image1.jpg)
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter16_Wieringa_image2.jpg)
+
 *Figures 1 and 2: Gephi's 'Overview' and 'Data Laboratory' tabs after
 opening the Les Miserables dataset.*
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image3.jpg)
 *Figure 3: The 'raw' Les Miserables sample.*
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image4.jpg)
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image5.jpg)
+
 *Figures 4 and 5: ForceAtlas 2's default settings applied to the same
 'Les Miserables' exercise sample, and after adjusting 'Tuning' and
 'Behavior Alternative' settings such as the scaling (from 10 to 50) and
@@ -517,7 +514,7 @@ limited functionality in logging this particular aspect, it still
 greatly speeds up the logging which would otherwise be done manually.
 
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/chapter16_Wieringa_image6.jpg)
+
 *Figure 6. Example of settings.txt file*
 
 Aside from the settings file, the plugin also automatically saves the
