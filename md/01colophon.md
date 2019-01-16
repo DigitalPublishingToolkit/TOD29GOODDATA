@@ -16,7 +16,7 @@ In order to paint an alternative, more optimistic but still pragmatic picture of
 Keywords:   data, datafication, data collection, data practice, sovereignty, activism
 Rights: CC BY-NC 4.0
 ...
-
+#Colophon <br />
 Theory on Demand #29 <br />
 **Good Data**
 
