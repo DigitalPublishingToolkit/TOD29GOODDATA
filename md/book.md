@@ -32,651 +32,88 @@ http://www.networkcultures.org/publications
 
 ![](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/inclogo.jpg)<br />
 
-#TABLE OF CONTENTS
 
-##Biographies
-**1: Introduction: What is (in) Good Data** <br />
-*Monique Mann, Kate Devitt and Angela Daly*
+
+#CONTENTS
+
+
+<a href="ch003.xhtml"> **1: Introduction: What is (in) Good Data** </a>    <br />
+Monique Mann, Kate Devitt and Angela Daly
 
 
 
 ##THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
 
-**2: Good Data Practices for Indigenous Data Sovereignty and Governance** <br />
-*Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie Carroll Rainie and Jennifer Walker*
+<a href="ch005.xhtml">**2: Good Data Practices for Indigenous Data Sovereignty and Governance** </a> <br />
+Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie Carroll Rainie and Jennifer Walker
 
-**3: The Good Data Manifesto** <br />
-*Claire Trenham and Adam Steer*
+<a href="ch006.xhtml">**3: The Good Data Manifesto** </a><br />
+Claire Trenham and Adam Steer
 
-**4: The Good, the Bad and the Beauty of ‘Good Enough Data’** <br />
-*Miren Gutiérrez*
+<a href="ch007.xhtml">**4: The Good, the Bad and the Beauty of ‘Good Enough Data’**</a> <br />
+Miren Gutiérrez
 
-**5: An Energy Data Manifesto** <br />
-*Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts, Iain MacGill, Anna Bruce and Rob Passey*
+<a href="ch008.xhtml">**5: An Energy Data Manifesto**</a><br />
+Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts, Iain MacGill, Anna Bruce and Rob Passey
 
 ##THEME 2: GOOD DATA AND JUSTICE 
 
-**6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study** <br /> 
-*Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong*
+<a href="ch010.xhtml">**6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study** </a><br /> 
+Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong
 
-**7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: the ByLock Case** <br /> 
-*A. Sefa Ozalp*
+<a href="ch011.xhtml">**7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: the ByLock Case** </a><br /> 
+A. Sefa Ozalp
 
-**8: Not as Good as Gold? Genomics, Data and Dignity**<br /> 
-*Bruce Baer Arnold and Wendy Elizabeth Bonython*
+<a href="ch012.xhtml">**8: Not as Good as Gold? Genomics, Data and Dignity** </a><br /> 
+Bruce Baer Arnold and Wendy Elizabeth Bonython
 
-**9: Data Localization: Policymaking or Gambling?**<br /> 
-*Nikita Melashchenko*
+<a href="ch013.xhtml">**9: Data Localization: Policymaking or Gambling?**</a><br /> 
+Nikita Melashchenko
 
 ##THEME 3: GOOD DATA AS OPEN AND SHARED DATA
 
-**10: Making Data Public? The Open Data Index as Participatory Device**<br /> 
-*Jonathan Gray and Danny Lämmerhirt*
+<a href="ch015.xhtml">**10: Making Data Public? The Open Data Index as Participatory Device**</a><br /> 
+Jonathan Gray and Danny Lämmerhirt
 
-**11: Data Journalism and the Ethics of Open Source**<br />
-*Colin Porlezza*
+<a href="ch016.xhtml">**11: Data Journalism and the Ethics of Open Source**</a><br />
+Colin Porlezza
 
-**12: Governance of Communal Data Sharing**<br />
-*Chih-Hsing Ho and Tyng-Ruey Chuang*
+<a href="ch017.xhtml">**12: Governance of Communal Data Sharing**</a><br />
+Chih-Hsing Ho and Tyng-Ruey Chuang
 
 ##THEME 4: GOOD DATA ACTIVISM AND RESEARCH 
 
-**13: Provocations for Social Media Research: Toward Good Data Ethics**<br />
-*Andrea Zeffiro*
+<a href="ch019.xhtml">**13: Provocations for Social Media Research: Toward Good Data Ethics**</a><br />
+Andrea Zeffiro
 
-**14: Data for the Social Good: Toward a Data-Activist Research Agenda**<br />
-*Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti Wissenbach and Stefania Milan* 
+<a href="ch020.xhtml">**14: Data for the Social Good: Toward a Data-Activist Research Agenda**</a><br />
+Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti Wissenbach and Stefania Milan
 
-**15: Good Data is Critical Data: An Appeal for Critical Digital Studies**<br /> 
-*Chiara Poletti and Daniel Gray*
+<a href="ch021.xhtml">**15: Good Data is Critical Data: An Appeal for Critical Digital Studies**</a><br /> 
+Chiara Poletti and Daniel Gray
 
-**16: The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**<br />*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss*
+<a href="ch022.xhtml">**16: The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**</a><br />Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss
 
 ##THEME 5: GOOD DATA AND SMART CITIES AND HOMES 
 
-**17: Algorithmic Mapmaking in ‘Smart Cities’: Data Protection Impact Assessments as a means of Protection for Groups**<br />
-*Gerard Jan Ritsema van Eck*
+<a href="ch024.xhtml">**17: Algorithmic Mapmaking in ‘Smart Cities’: Data Protection Impact Assessments as a means of Protection for Groups**</a><br />
+Gerard Jan Ritsema van Eck
 
-**18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia**<br />
-*Juan-Carlos Valencia and Paula Restrepo*
+<a href="ch025.xhtml">**18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia**</a><br />
+Juan-Carlos Valencia and Paula Restrepo
 
-**19: Intelligent Warning Systems: ‘Technological Nudges’ to Enhance User Control of IoT Data Collection, Storage and Use**<br /> 
-*Rachelle Bosua, Karin Clark, Megan Richardson and Jeb Webb*
+<a href="ch026.xhtml">**19: Intelligent Warning Systems: ‘Technological Nudges’ to Enhance User Control of IoT Data Collection, Storage and Use**</a><br /> 
+Rachelle Bosua, Karin Clark, Megan Richardson and Jeb Webb
 
-**20: Domesticating Data: Socio-Legal Perspectives on Smart Homes and Good Data Design**<br />
-*Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart*
+<a href="ch027.xhtml">**20: Domesticating Data: Socio-Legal Perspectives on Smart Homes and Good Data Design**</a><br />
+Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart
 
-
-#BIOGRAPHIES
-
-**Bruce Baer Arnold** is an Assistant Professor at Canberra Law School
-(University of Canberra). Dr Arnold's doctoral dissertation explored the
-nature of legal identity, including the information state, autonomy and
-population-scale data-mining. He has served on OECD health informatics
-and data protection working parties, alongside Vice-Chairmanship of the
-Australian Privacy Foundation, the Australia's preeminent civil society
-body concerned with data protection. His work on new technology law and
-privacy has appeared in leading journals and collections. He is a
-contributor to Australia's authoritative privacy/confidentiality
-practitioner resource. Dr Arnold's current research focus is on
-regulatory incapacity regarding medical products and data.
-
-**Wendy Elizabeth Bonython** is an Adjunct Associate Professor at
-Canberra Law School (University of Canberra). Dr Bonython has graduate
-qualifications in molecular genetics and law, with a background in
-health research, public administration and policy development. She
-serves on government and professional committees, in addition to
-providing invited expert testimony to a range of legislative and law
-reform inquiries. Dr Bonython's work has appeared in leading Australian
-and overseas law journals, including studies of the interaction between
-tort law and practitioner regulation, tort theory and law's
-understanding of property in bodies and intangibles. Her research
-encompasses professional and public understandings of risk, harm and
-innovation.
-
-**Rachelle Bosua** is Assistant Professor in the Business Process
-Management & IS Dept of the Management Science and Technology Faculty at
-the Open University of The Netherlands. She is also an Honorary Senior
-Fellow in the Department of Computing and Information Systems (CIS) at
-the University of Melbourne. She is co-author of the book *Knowledge
-Management in organizations: a critical introduction* (Oxford University
-Press 2018). Her research focuses on data and information privacy that
-relates to human behavior and the use of information and communication
-technologies.
-
-**Ellen Broad** is Head of Technical Delivery, Consumer Data Standards
-at CSIRO\'s Data61. Previous roles include Head of Policy for the Open
-Data Institute (ODI), an international non-profit founded by Sir Tim
-Berners-Lee and Sir Nigel Shadbolt, and adviser to senior UK government
-minister Elisabeth Truss on data, both in the UK. She has also held
-roles as Manager of Digital Policy and Projects for the International
-Federation of Library Associations and Institutions (Netherlands) and
-Executive Officer for the Australian Digital Alliance. Ellen has written
-and spoken about AI, open data and data sharing issues in the New
-Scientist, the Guardian and a range of technology publications, and is
-the author of *MADE BY HUMANS: The AI Condition* published by Melbourne
-University Publishing (MUP) in August 2018.
-
-**Anna Bruce** is a Senior Lecturer in the School of Photovoltaic and
-Renewable Energy Engineering at UNSW and Research Coordinator
-(Engineering) at the Centre for Energy and Environmental Markets. Her
-research focuses on energy transitions, including renewable and
-distributed energy system and energy market modelling. Current research
-projects include Energy Data for Smart Decision Making through the
-Australian Government's Smart Cities and Suburbs Program, and Integrated
-Smart Home Energy Management Technologies through the CRC-P program. She
-participates as an Australian expert in the IEA's Photovoltaic Power
-Systems and Demand Side Management technology collaboration programs.
-
-**Stephanie Carroll Rainie** (Ahtna Athabascan), MPH, DrPH, is Assistant
-Professor, Public Health Policy and Management at the Community,
-Environment and Policy Department, Mel and Enid Zuckerman College of
-Public Health; Assistant Research Professor, Udall Center for Studies in
-Public Policy (UC); Associate Director and Manager -- Tribal Health
-Program for the Native Nations Institute (http://nni.arizona.edu/) in
-the UC; and Assistant Director for the Center for Indigenous
-Environmental Health Research(http://ciehr.arizona.edu/), MEZCOPH at
-the University of Arizona (UA). Stephanie's research explores the links
-between governance, health care, the environment, and community
-wellness. Stephanie is the co-founder of the United States Indigenous
-Data Sovereignty Network and the International Indigenous Data
-Sovereignty Interest Group at the Research Data Alliance.  
-
-**Donna Cormack **(Kāti Mamoe, Kai Tahu) is a Senior Lecturer and
-researcher with joint positions at Te Kupenga Hauora Māori, University
-of Auckland and Te Rōpū Rangahau Hauora a Eru Pōmare, Univeristy of
-Otago. Donna has had a long-standing interest in data issues,
-particularly as they relate to measuring and monitoring Māori health and
-ethnic health inequities. She is a member of the Te Mana Raraunga Māori
-Data Sovereignty Network. 
-
-**Karin Clark** is a Senior Fellow (Melbourne Law Masters) at the
-University of Melbourne. Previously, she was Special Counsel with the
-Melbourne office of the Allens law firm and practised in the firm's
-Communications, Media and Technology Practice Group specialising in
-advising on compliance with privacy laws.
-
-**Tyng-Ruey Chuang** is an Associate Research Fellow at the Institute of
-Information Science, Academia Sinica (Taipei, Taiwan) with a joint
-appointment at both the Research Center for Information Technology
-Innovation and the Research Center for Humanities and Social Sciences.
-He was trained as a computer scientist (PhD, NYU 1993) and has been
-working with ecologists, historians and legal scholars to make better
-use of research data. He serves on the Executive Committee of CODATA
-(The Committee on Data for Science and Technology) at the International
-Science Council. He is also a member of CODATA\'s International Data
-Policy Committee.
-
-**Angela Daly** is a critical socio-legal scholar of the regulation of
-new technologies. She is currently based in the Chinese University of
-Hong Kong Faculty of Law and holds adjunct positions at Queensland
-University of Technology Faculty of Law (Australia) and the Tilburg
-Institute of Law, Technology and Society (Netherlands). She is the
-author of *Private Power, Online Information Flows and EU Law: Mind the
-Gap* (Hart 2016) and *Socio-Legal Aspects of the 3D Printing Revolution*
-(Palgrave Macmillan 2016).
-
-**S Kate Devitt** is a philosopher and cognitive scientist working as a
-social and ethical robotics researcher for the Australian Defence
-Science and Technology Group. She is an Adjunct Fellow in the
-Co-Innovation Group, School of Information Technology and Electrical
-Engineering, University of Queensland. Her research includes: the ethics
-of data, barriers to the adoption of technologies, the trustworthiness
-of autonomous systems and philosophically designed tools for
-evidence-based, collective decision making.
-
-**Martin Flintham** is an Assistant Professor of Computer Science at the
-University of Nottingham, where he is a member of the Mixed Reality Lab
-and Horizon Digital Economy Research Institute. His research focus on
-deploying and studying interactive experiences and disruptive technology
-probes, including domains such as the Internet of Things, ubiquitous
-computing, mixed reality and games. He has led successful 'in the wild'
-collaborations with the creative industries, leading to several
-highly-cited publications at ACM CHI, and winning the Prix Ars
-Electronica and two BAFTA nominations.
-
-**Murray Goulden** is an Assistant Professor of Sociology at the
-University of Nottingham, and current holder of a Nottingham Research
-Fellowship. Through the Fellowship he is exploring the sociological
-implications of Internet of Things technologies for domestic life. His
-most recent work addresses the political economy of the 'smart home',
-and the implications of IoT-generated 'interpersonal data' for intimate
-social groups. He has worked extensively on research applying novel
-digital technologies to real world settings, with a focus on networking,
-digital data, and smart energy, their role in reconfiguring associated
-social practices, and the implications for policy making and design.
-
-**Timothy Graham** is Postdoctoral Fellow in Sociology and Computer
-Science at the Australian National University. His research combines
-computational methods with social theory to describe, explain, and
-predict the dynamics of social systems. He is currently a Chief
-Investigator of an ARC Discovery Project that utilises large-scale
-hyperlink network analysis and web experiments to comparatively assess
-the government web presence of 10 high-tech countries. He develops open
-source software tools for the analysis of socially-generated data, and
-has published in journals such as Information, Communication & Society,
-Information Polity, Big Data & Society, and Critical Social Policy.
-
-**Daniel Gray** (\@DanielGray00) is a PhD researcher based at Cardiff
-University, United Kingdom. His undergraduate and postgraduate studies
-have focused on critical discursive approaches to social media. At the
-time of writing this takes the form of an analysis of neoliberal and
-misogynistic discourse on Twitter, blending big data and computational
-methods with critical, qualitative research. His research interests are
-focused on Marxist and radical approaches to digital sociology,
-particularly political, ethical and methodological issues on social
-media. More generally, his interests also include the intersections of
-radical left politics and Christianity, and teaching in university.
-
-**Jonathan Gray** is Lecturer in Critical Infrastructure Studies at the
-Department of Digital Humanities, King's College London, where he is
-currently writing a book on data worlds. He is also Cofounder of the
-Public Data Lab; and Research Associate at the Digital Methods
-Initiative (University of Amsterdam) and the médialab (Sciences Po,
-Paris). More about his work can be found at jonathangray.org and he
-tweets at \@jwyg.
-
-**Miren Gutiérrez** (\@gutierrezmiren) holds a PhD in Communication
-Studies. She is the Director of the postgraduate program 'Analysis,
-Research and Data Communication' and lectures on Communication at the
-University of Deusto and is a guest lecturer at the University of
-Navarra. She is also an Associate Researcher at the Overseas Development
-Institute (ODI) in London and DATACTIVE at the University of Amsterdam.
-Her interest is data activism or how people and organizations use data
-infrastructure, in combination with other technologies, for social
-change, equality and environmental conservation. She is also the author
-of the book *Data activism and social change (*Palgrave Macmillan 2018).
-
-**Chih-hsing Ho** is Assistant Research Fellow at Academia Sinica,
-Taiwan. Her research focuses on the nexus of law and medicine in
-general, with particular attention to the governance of genomics and
-newly emerging technologies, such as big data, biobanks and artificial
-intelligence (AI). She is currently a Co-PI in law for a health cloud
-project in Taiwan and is responsible for designing an adequate
-regulatory framework for the secondary use of health data and data
-linkage. She holds a PhD in law from the London School of Economics
-(LSE), a LLM from Columbia Law School, and a JSM from Stanford
-University. 
-
-**Becky Kazansky** is a PhD candidate with the DATACTIVE project at the
-University of Amsterdam. She has a joint affiliation with the Media
-Studies and Political Science departments, additionally serving on the
-ethics committee of the Informatics Institute. Her research focuses on
-resistance to surveillance amidst datafication, looking specifically at
-practices that try to predict and preempt surveillance. Alongside her
-academic research, she has worked for a decade with different human
-rights and social justice organisations on technology issues.
-
-**Declan Kuch** is a Research Fellow in the School of Humanities and
-Languages at UNSW. His research is motivated by problems of reconciling
-public values, technoscience and democracy in an era characterized by
-profound environmental constraints. His research spans climate change,
-energy policy and the social dimensions of the life sciences, and his
-primary role is as a co-leader of the Social Dimensions stream of the
-ARC Centre of Excellence in Convergent Bio-Nano Science and Technology.
-He is the author of *The Rise and Fall of Carbon Emissions Trading*
-(Palgrave Climate Energy and Environment Series 2015).
-
-**Tahu Kukutai** (Ngāti Tīpa, Ngāti Kinohaku, Te Aupōuri) is Professor
-of Demography at the National Institute of Demographic and Economic
-Analysis, University of Waikato. Tahu specialises in Māori and
-Indigenous demographic research and has written extensively on issues of
-Māori population change, Māori identity and official statistics. Tahu is
-a founding member of the Māori Data Sovereignty Network Te Mana Raraunga
-and co-editor (with John Taylor) *of Indigenous Data Sovereignty: Toward
-an Agenda* (ANU Press 2016). She was previously a journalist. 
-
-**Danny Lämmerhirt** is researcher and research coordinator at Open
-Knowledge International. His work focuses on the sociology of
-quantification, metrics and policy, data ethnography, and the data
-commons. Among other activities, he leads the methodology around the
-Global Open Data Index and co-chairs the measurement and accountability
-working group at the Open Data Charter. Working at the intersection
-between practice and theory, he explores the 'social life of metrics'
-and how metrics intervene and reshape organisational cultures and vice
-versa.  He shares his work on Twitter \@danlammerhirt.
-
-**Vanessa Lee** (Yupungathi and Meriam people, Cape York and the Torres
-Strait), is a social epidemiologist and senior academic within the
-discipline of Behavioural and Social Sciences in the Faculty of Health
-Sciences at University of Sydney. Vanessa's overarching focus addresses
-the social issues of the burden of disease to break the cycle of
-inequality that potentially lead to suicide in First Nations
-communities, and to strengthen the health and wellness of Aboriginal and
-Torres Strait Islander cultural identity, particularly for women. She is
-a founding member of the Indigenous Data Sovereignty group in Australia
-- Maiam nayri Wingara. 
-
-**Raymond Lovett **(Wongaibon/Ngiyampaa) is an Associate Professor and
-leader of the Aboriginal and Torres Strait Islander health program at
-the National Centre for Epidemiology and Population Health, Research
-School of Population Health, the Australian National University. Ray is
-a social epidemiologist with extensive experience in health services
-research, public health policy development and health program
-evaluation. He is a founding member of the Indigenous Data Sovereignty
-group in Australia (Maiam nayri Wingara) and is a member of
-the International Indigenous Data Sovereignty Interest group at the
-Research Data Alliance. 
-
-**Iain MacGill** is an Associate Professor in the School of Electrical
-Engineering and Telecommunications at the University of New South Wales,
-and Joint Director (Engineering) for the University's Centre for Energy
-and Environmental Markets (CEEM). Iain's teaching and research interests
-include electricity industry restructuring and the Australian National
-Electricity Market, sustainable energy generation technologies,
-renewable and distributed energy integration, energy efficiency and
-demand-side participation, and broader energy and climate policy
-opportunities and challenges.  
-
-**Daniel McNamara** is a PhD candidate in the Research School of
-Computer Science at the Australian National University. He is affiliated
-with the Machine Learning Research Group at CSIRO Data61. Daniel\'s
-research interests include fair machine learning and representation
-learning. He was a visiting student researcher during 2016-17 at the
-Carnegie Mellon University Machine Learning Department, supported by a
-Fulbright Postgraduate Scholarship. His work experience includes roles
-as a campaign data specialist at the Australian Labor Party, as a
-management consultant at the Nous Group, and as an intern at Microsoft
-and Google.
-
-**Monique Mann** is the Vice Chancellor's Research Fellow in Technology
-and Regulation at the Faculty of Law, Queensland University of
-Technology. Dr Mann is advancing a program of socio-legal research on
-the intersecting topics of algorithmic justice, police technology,
-surveillance, and transnational online policing.
-
-**Luke Marshall** is a PhD student in the School of Photovoltaics and
-Renewable Energy Engineering and Centre for Energy and Environmental
-Markets in the University of New South Wales. His research centres on
-the intersection between energy market rules, and the integration of
-solar resources into the electricity grid. He loves to code (including
-projects such as http://energyopensource.org/) and also to surf.
-
-**Nikita Melashchenko** is a PhD Candidate at Victoria University of
-Wellington. He focuses on intellectual property and regulatory theory in
-application to the knowledge economy. His dissertation examines data
-localization policies under the WTO law. Nikita is a Fulbright alumnus
-and earned degrees from Vanderbilt University (LLM) and SPbU (LLB &
-LLM). Before joining the academy he practiced in the field of law and
-technology.
-
-**Stefania Milan** (stefaniamilan.net) is Associate Professor of New
-Media at the University of Amsterdam. Her work explores the intersection
-of digital technology, governance and activism, with emphasis on
-critical data practices and autonomous infrastructure. Stefania is the
-Principal Investigator of the DATACTIVE project, funded with a Starting
-Grant of the European Research Council (639379) and exploring the
-evolution of citizenship and participation vis-à-vis datafication and
-surveillance (data-activism.net), and of the spin-off ALEX project (ERC
-Proof of Concept 825974). She is the author of *Social Movements and
-Their Technologies: Wiring Social Change* (Palgrave Macmillan 2013/2016)
-and co-author of *Media/Society* (Sage 2011).
-
-**Cheng Soon Ong** is a principal research scientist at the Machine
-Learning Research Group, Data61, CSIRO(http://data61.csiro.au/). He is
-also an Adjunct Associate Professor at the Australian National
-University. His PhD in Computer Science was completed at the Australian
-National University in 2005. He was a postdoc at the Max Planck
-Institute of Biological Cybernetics and the Fredrich Miescher Laboratory
-in Tübingen, Germany. From 2008 to 2011, he was a lecturer in the
-Department of Computer Science at ETH Zurich, and in 2012 and 2013 he
-worked in the Diagnostic Genomics Team at NICTA in Melbourne. Since
-2014, Cheng Soon is researching ways to enable scientific discovery by
-extending statistical machine learning methods with the Machine Learning
-Research Group in Data61, CSIRO in Canberra. Prior to his PhD, he
-researched and built search engine and Bahasa Malaysia technologies at
-Mimos Berhad, Malaysia. He obtained his B.E. (Information Systems) and
-B.Sc. (Computer Science) from the University of Sydney, Australia.
-
-**Sefa Ozalp** is a research assistant and a PhD student at the Social
-Data Science Lab, Cardiff University. His main research interests are
-computational sociology and computational criminology, particularly
-focusing on dissemination of multiple typologies of cyberhate and
-xenophobia on social media platforms. He is also interested in
-regulation of digital platforms and abuse of personal (meta)data by
-oppressive regimes, focusing particularly on Turkey.
-
-**Rob Passey** is a Senior Research Associate at the Centre for Energy
-and Environmental Markets (CEEM), and Postdoctoral Fellow at the School
-of Photovoltaic and Renewable Energy Engineering (SPREE), both at UNSW
-Sydney. He is also a Senior Consultant with ITP Renewables, and Policy
-Analyst and Treasurer at the Australian PV Institute. He focuses on
-policy research and analysis, particularly renewable energy, distributed
-energy resources, energy efficiency and carbon pricing.  He has
-published widely on market-like policies to reduce greenhouse emissions,
-the uptake of low emission technologies and energy efficiency, as well
-as distributed generation and its integration into electricity networks,
-including smart grids.
-
-**Chiara Poletti** (\@ccpollon) is an ESRC funded PhD researcher in the
-School of Social Sciences at Cardiff University. Her research interests
-cover digital rights, digital labour, cybersecurity, digital
-methodologies and ethics of research on big data. In the last years, she
-has been working on Internet governance, social media platforms and big
-data. Her PhD project focuses on the discursive and socio-economic
-aspects of social media platforms\' content regulation. Previously, she
-studied the public discourse on social media platforms in the aftermath
-of terrorist attacks. She is one of the co-founders and chair of the
-Digital Stuff Post Graduate research group in Cardiff University
-(https://digitalstuffcardiff.com).
-
-**Colin Porlezza** is Senior Lecturer in Journalism with the Department
-of Journalism at City, University of London. He is also a Visiting
-Professor at the Institute of Media and Journalism at the Università
-della Svizzera italiana. His research focuses on data journalism, media
-accountability and transparency, as well as innovation in digital
-journalism. His research so far has resulted in more than 30
-peer-reviewed publications. He is a Board Member of the Swiss
-Association of Communication and Media Research (SACM) and a founding
-member of the European Journalism Observatory. He has featured on the
-the Swiss Public Service Broadcaster SRG SSR, Poynter, the Neue Zürcher
-Zeitung and other news outlets.
-
-**Dominic Price** is a researcher at the Horizon Digital Economy
-Research Institute at the University of Nottingham. His research focuses
-on the software engineering aspect of Human-Computer Interaction and the
-development of platforms that bridge the gap between system level
-computing and human interfaces. He has most recently been involved in
-work in the areas of crowd-sourcing and social-networking.
-
-**Paula Restrepo** is an Associate Professor at the Department of Social
-Communication, Faculty of Communication, Universidad de Antioquia,
-Medellín, Colombia. She has a degree in Anthropology and a Masters in
-Philosophy from Universidad de Antioquia, and a PhD in Philosophy from
-the Basque Country University. She is a member of the Research Group
-'Grupo de investigación Comunicación Periodismo y Sociedad' at Facultad
-de Comunicaciones, Universidad de Antioquia UdeA, Calle 70 No. 52-21,
-Medellín, Colombia. This chapter is a product of the Project "Prácticas
-comunicativas de la agricultura urbana en Medellín" (cod. 2016-12689)
-approved by Convocatoria Programática 2016, from the Universidad de
-Antioquia.
-
-**Megan Richardson** is a Professor of Law, Co-Director of the Centre
-for Media and Communications Law, and Director of the Intellectual
-Property Research Institute of Australia at the University of Melbourne.
-Recent books include *The Right to Privacy: Origins and Influence of a
-Nineteenth-Century Idea* (Cambridge University Press 2017), and she is
-currently writing an *Advanced Introduction to Privacy Law* (Edward
-Elgar, forthcoming 2020).
-
-**Gerard Jan Ritsema** **van Eck** is a PhD researcher at the Security,
-Technology, and *e*-Privacy (ST*e*P) research group at the University of
-Groningen. His research focuses on participatory surveillance and
-privacy issues in public spaces. In particular, he is interested in how
-new and rapidly evolving technologies, such as smartphones and
-predictive analytics, enable states and large corporations to enrol
-citizens as data gatherers. His work combines insights from sociology
-and surveillance studies with work on European (Union) data protection
-law to generate new insights on the changing nature of urban public
-spaces.
-
-**Mike Roberts** is a Research Associate at the Centre for Energy and
-Environmental Markets (CEEM) and in the School of Photovoltaic and
-Renewable Energy Engineering (SPREE) at UNSW Sydney. His research
-interests include technical and policy aspects of integration of
-distributed renewable generation, storage and demand management,
-co-operative approaches to energy planning, including embedded networks,
-micro grids and community renewable energy, and solar potential
-assessment. Mike's doctoral thesis explored opportunities for
-photovoltaics and storage in multi-occupancy residential buildings.
-
-**Adam Steer** is a serial multi-disciplinarian, whose career has ranged
-from neurophysiology laboratories to web site management to professional
-bicycle repair to Antarctic logistics, sea ice field research and most
-recently working on massive high resolution geospatial data management.
-The intersection of technology and human evolution is a key driver in
-Adam's outlook on science and data and life - looking at when we cast
-human problems as engineering problems, and how we can become better
-humans in order to build a better future. He runs the consultancy
-Spatialised (http://spatialised.net).
-
-**Naomi Stringer** is undertaking a PhD in the School of Photovoltaics
-and Renewable Energy Engineering and Centre for Energy and Environmental
-Markets in the University of New South Wales. Her research is driven by
-a fascination with the opportunities and challenges afforded by
-distributed energy resources (namely rooftop PV and home battery
-systems) and research interests include the technical, social and
-regulatory aspects of distributed energy integration. Her current work
-examines the behaviour of rooftop solar PV systems during major
-electricity system disturbances. Undertaken in collaboration with the
-Australian Energy Market Operator and solar monitoring company, Solar
-Analytics, her work is heavily data driven.
-
-**Guillén Torres** joined DATACTIVE as a PhD candidate to develop a
-project on how data mediates the interaction between organised citizens
-and the state. His main areas of interest are transparency, resistance
-and the anthropology of the state. He also serves as an advisor to the
-Mexican NGO ControlYourGovernment. He has a background in Urban Studies
-and Sociology and is a recidivist Actor-Network Theory enthusiast.
-
-**Claire Trenham** has research and data experience spanning a range of
-physical sciences, including radio astronomy, ocean waves, and climate
-models, as well as substantial experience more broadly managing large
-scale 'nationally significant' research data collections at the
-Australian National Computational Infrastructure. Claire currently works
-for CSIRO's Climate Science Centre in the Sea level rise, waves and
-coastal extremes team alongside the regional climate team. Claire is
-heavily involved in climate modelling, data processing, data preparation
-and software to enhance science capabilities, as well as supervising
-student volunteers in historical data digitisation. Claire has a passion
-for making maths and science fun, relevant and accessible.
-
-**Lachlan Urquhart** is a Lecturer in Technology Law at the University
-of Edinburgh. He is also a visiting researcher at the Horizon Digital
-Economy Research Institute, where he was a Research Fellow in
-Information Technology Law from 2016-2018. He is a multidisciplinary
-researcher, having degrees in both law and computer science, with an
-LL.B, (Hons) from University of Edinburgh, an LL.M in IT & Telecoms Law
-(Distinction) from University of Strathclyde and & a Ph.D in Human
-Computer Interaction from University of Nottingham. He works at the
-boundaries of information technology law (mainly privacy & information
-security), HCI, and computer ethics. His research mainly considers
-the technical, legal, social, and ethical implications of living with
-ambient interactive computing.
-
-**Juan Carlos Valencia** is an Associate Professor of Communication at
-Universidad Javeriana in Bogotá, Colombia. He holds a degree in
-Electronics Engineering and a Masters in Communication from Universidad
-Javeriana, and a PhD from the Department of Music, Media and Cultural
-Studies at Macquarie University (Australia). He is a member of the
-Research Group 'Comunicación, medios y cultura' at Universidad
-Javeriana.
-
-**Karin van Es** is an Assistant Professor at Utrecht University and
-coordinator of the Datafied Society research platform. Her current
-research interests revolve around tool criticism and public values in
-the digital age. Karin is author of the book *The Future of Live*
-(Polity Press 2016), co-editor of the volume *The Datafied Society* (AUP
-2017) and the issue 'Big Data Histories' (2018) for TMG-Journal for
-Media History. She has published in outlets such as Television & New
-Media, Media, Culture & Society, M/C Journal and First Monday. Her
-publications cover critical data studies, social media, and the concept
-liveness.
-
-**Daniela van Geenen** is a Lecturer and researcher in data journalistic
-practice and data visualization at the University of Applied Sciences
-Utrecht and an affiliated researcher at the Datafied Society research
-platform. Her work tackles the question of the scholarly conduct that
-the work with digital methods demands, challenged by the need to design
-accountable software tools. She wrote her MA thesis on tool criticism
-investigating the case of Gephi. Daniela published on the role of social
-and technical actors on social media platforms, and their meaning for
-social and political practices such as public debate and cultural
-consumption.
-
-**Jelmer van Nuss** is a developer at the Digital Humanities Lab at
-Utrecht University and a computing science master's student at Utrecht
-University. He specializes in artificial intelligence with a particular
-interest in data science. His work at the Digital Humanities Lab
-consists of supporting humanities researchers by providing software and
-tools for their research.
-
-**Lonneke van der Velden** is a postdoctoral researcher with DATACTIVE
-and a Senior Lecturer at the Department of Media Studies at the
-University of Amsterdam. Her work deals with surveillance and data
-activism, with a special focus on Open Source Intelligence. She is part
-of the editorial board of Krisis: Journal for contemporary philosophy in
-the Netherlands and is on the Board of Directors of the Dutch digital
-rights organisation Bits of Freedom.
-
-**Jennifer Walker** (Haudenosaunee), PhD, is a Canada Research Chair in
-Indigenous Health and Assistant Professor, School of Rural and Northern
-Health, Laurentian University. She is the Indigenous Lead at the
-Institute for Clinical Evaluative Sciences in Ontario, Canada. Jennifer
-works to support and advance the governance and use of population health
-data by Indigenous nations to address community health and wellbeing.
-Her program of research integrates Indigenous perspectives on
-multi-morbidity and culturally safe care for Indigenous older adults.
-Jennifer is a member of the Indigenous Data Sovereignty Interest group
-at the Research Data Alliance.  
-
-**Jeb Webb** is a research fellow at Australia's Oceania Cyber Security
-Centre, which works in partnership with the University of Oxford's
-Global Cyber Security Capacity Centre to conduct maturity reviews for
-countries in the Oceania region. He received a Bachelor of Arts in
-Political Science from the University of California at Berkeley, a
-Master of Arts in Intelligence Studies from American Military
-University, and a PhD from the University of Melbourne\'s School of
-Engineering (Department of Computing and Information Systems).
-
-**Maranke Wieringa** is a PhD candidate at Utrecht University and has a
-background in Cultural Studies and Media Studies, with a specialization
-in software and data. Her dissertation investigates algorithmic
-accountability in Dutch municipalities, and, following from this
-insight, Maranke develops a toolkit to empower municipal data
-professionals to give testimony of the (decisions around the) algorithm.
-At Utrecht University, Maranke is part of the Datafied Society research
-platform, and teaches various courses on (scholarly) data analysis. Her
-academic interests lie at the intersection of software and data (e.g.
-tool criticism, algorithm studies).
-
-**Kersti Wissenbach** (kerstiwissenbach.com) is a researcher and senior
-consultant working on the crossroads of communication, governance,
-responsible data, and civic tech. She is specialised in participatory
-methods and has worked with activist groups, NGOs, and government
-institutions in over 15 countries. Since 2011 Kersti runs her own
-consulting firm providing strategy and policy advice and facilitating
-co-creation processes. Kersti lectures in the Communication for
-Development Master of Malmö University. She is a researcher with the
-DATACTIVE project where she merges social movement and communication for
-social change scholarship for her study of power dynamics within
-transnational civic tech activism.
-
-**Sharon Young** has recently submitted her PhD thesis to the University
-of New South Wales, investigating the influence of tariffs on the
-impacts of decentralised energy resources on the Australian electricity
-industry and is currently working with the Centre for Energy and
-Environmental Markets (CEEM).
-
-**Andrea Zeffiro** is an Assistant Professor in the Department of
-Communication Studies and Multimedia, and Academic Director for the
-Lewis & Ruth Sherman Centre for Digital Scholarship at McMaster
-University.
+###<a href="ch028.xhtml">BIOGRAPHIES</a>
 
 
 
 # 1. What is (in) Good Data?
-*Monique Mann, S. Kate Devitt and Angela Daly*
+######Monique Mann, S. Kate Devitt and Angela Daly
 
 ## 1. Introduction: Why Good Data?
 
@@ -968,7 +405,7 @@ security, providing a concrete real world example of the oppressive
 potential of bad data practices, and while questioning what we can learn
 for Good Data. In doing so, Ozalp outlines how digital communication
 technologies and strong information security are essential to support
-what he terms a 'good democracy' -- including protection for the rights
+what he terms a 'good democracy' - including protection for the rights
 such as freedom of expression, political thought, religion, association
 and privacy. Accordingly, it is argued that counter-surveillance
 practices, online anonymity and encryption tools are integral to a good
@@ -1129,7 +566,7 @@ examine the co-production of knowledge and the specific work of the
 DATACTIVE team and their direct involvement as activists with the
 communities that they study. Their main contribution is the proposal of
 an 'engaged' approach and epistemology to research that aims to
-contribute to activist causes -- that is, doing research 'with' rather
+contribute to activist causes - that is, doing research 'with' rather
 than 'about'. They outline an approach to ethical data activist research
 as a process rather than a checklist and as inspired by Association of
 Internet Researchers (AoIR) ethical codes and feminist ethics of care.
@@ -1144,7 +581,7 @@ They commence their examination by drawing attention to global
 informational capitalism and the asymmetric and extractive exploitation
 of data by companies such as Google, Facebook, Amazon etc, while
 advocating for reflection on the production system where data are
-created and collected and sold -- and the tensions between ethical
+created and collected and sold - and the tensions between ethical
 research and capitalist research (such as, for example, as revealed by
 the Facebook-Cambridge Analytica scandal). Poletti and Gray highlight
 the challenges to critical researchers in producing valid and ethical
@@ -1308,7 +745,7 @@ received and included in this book, and we also acknowledge that our
 choice of language also may have excluded contributions. For Good Data
 going forward, a more global approach needs to be taken to the issue,
 rather than just (re)centreing perspectives from the Global North, as
-already noted -- and critiqued - by Arora.[^01chapter1_16] In order to see more
+already noted - and critiqued - by Arora.[^01chapter1_16] In order to see more
 Global South perspectives on Good Data, and many other topics, Global
 North(-in-South) scholars such as ourselves need to take more steps to
 be inclusive and facilitate such perspectives, for instance by providing
@@ -1413,7 +850,7 @@ letting governments and companies build a Bad Data future for us.
 Arora, Payal. 'The Bottom of the Data Pyramid: Big Data and the Global
 South', *International Journal of Communication* 10 (2016): 1681-1699.
 
-*BFU presents: "Don't be Evil" -- Data Activism and Digital Rights.*
+*BFU presents: "Don't be Evil" - Data Activism and Digital Rights.*
 Public Panel Discussion by Brisbane Free University, West End, Brisbane,
 8 November 2017,
 https://brisbanefreeuniversity.org/2017/11/06/bfu-presents-dont-be-evil-data-activism-and-digital-rights/.
@@ -1455,7 +892,7 @@ Borderless World,* New York: Oxford University Press, 2006.
 
 Hilderbrandt, Mireille. 'Extraterritorial jurisdiction to enforce in
 cyberspace: Bodin, Schmitt, Grotius in cyberspace', *University of
-Toronto Law Journal* 63 (2013), 196--224.
+Toronto Law Journal* 63 (2013), 196-224.
 
 Koops, Bert-Jaap. 'The trouble with European data protection law',
 *International Data Privacy Law*, 4.4 (2014): 250-261.
@@ -1489,7 +926,7 @@ shifting', *Global Crime* 9.2 (2018): 107-124.
 
 Matzner, Tobias. 'Why privacy is not enough privacy in the context of
 "ubiquitous computing" and "big data"', *Journal of Information,
-Communication and Ethics in Society*, 12.2 (2014): 93--106.
+Communication and Ethics in Society*, 12.2 (2014): 93-106.
 
 Milan, Stefania and Emiliano Treré. 'Big Data from the South: The
 beginning of a conversation we must have', *DATACTVE Blog*, 16 October
@@ -1540,7 +977,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 
 [^01chapter1_4]: Ibid.
 
-[^01chapter1_5]: *BFU presents: "Don't be Evil" -- Data Activism and Digital
+[^01chapter1_5]: *BFU presents: "Don't be Evil" - Data Activism and Digital
     Rights.* Public Panel Discussion by Brisbane Free University, West
     End, Brisbane, 8 November 2017,
 
@@ -1585,7 +1022,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
     Illusions of a Borderless World,* New York: Oxford University Press,
     2006; Mireille Hilderbrandt, 'Extraterritorial jurisdiction to
     enforce in cyberspace: Bodin, Schmitt, Grotius in cyberspace',
-    *University of Toronto Law Journal* 63 (2013), 196--224; Murray Lee,
+    *University of Toronto Law Journal* 63 (2013), 196-224; Murray Lee,
     'Crime and the Cyber Periphery: Criminological Theory Beyond Time
     and Space', in Kerry Carrington, Russell Hogg, John Scott and Maximo
     Sozzo (eds), *The Palgrave Handbook of Criminology and the Global
@@ -1603,7 +1040,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 
 [^01chapter1_16]: Payal Arora, 'The Bottom of the Data Pyramid: Big Data and the
     Global South', *International Journal of Communication*, 10 (2016):
-    1681--1699.
+    1681-1699.
 
 [^01chapter1_17]: See: Roger Brownsword, Eloise Scotford, and Karen Yeung (eds),
     *The Oxford Handbook of Law Regulation and Technology*, Oxford:
@@ -1620,7 +1057,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 [^01chapter1_20]: See: Tobias Matzner, 'Why privacy is not enough privacy in the
     context of "ubiquitous computing" and "big data"', *Journal of
     Information, Communication and Ethics in Society* 12.2 (2014):
-    93--106.
+    93-106.
 
 [^01chapter1_21]: See: Mike Montiero, 'Ethics can't be a Side Hustle', *Dear Design
     Student*, 19 March 2017,
@@ -1636,11 +1073,9 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 
 #THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
 # 2: Good Data Practices for Indigenous Data Sovereignty and Governance<br />
-*Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie
-Carroll Rainie and Jennifer Walker*
+######Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie Carroll Rainie and Jennifer Walker
 
-**Abstract**
-
+## Introduction
 Indigenous Data Sovereignty (IDS) and Indigenous Data Governance (IDG)
 are terms increasingly being used across community, research, policy and
 in practice. The IDS movement has emerged in response to poor data
@@ -1650,7 +1085,6 @@ concerning the definitions of IDS and IDG; provide an overview of the
 historical context in which IDS has emerged; and provide examples of IDS
 and IDG across the spectrum of community, policy and practice.
 
-## Introduction
 
 For Indigenous peoples, historical encounters with statistics have been
 fraught, and none more so than when involving official data produced as
@@ -1866,8 +1300,8 @@ developed principles specific to their IDS context.
 | ***Canada (First Nations) - OCAP®***                                                                                                                                                                                                                                                                                                                                                                                             |
 | **O**wnership of data<br /> **C**ontrol - First Nations hold on how the data are collected, used and disclosed,<br />**A**ccess - whereby First Nations have access to any data about them<br /> **P**ossession - whereby all First Nations data fall within First Nations jurisdiction                                                                                                                                                                       |
 | ***Australia - Maiam nayri Wingara***                                                                                                                                                                                                                                                                                                                                                                                            |
-| Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles.[^02chapter2_26]                                                                                                                                                                                                                                                                                                                      |
-*Table 1 - IDS principles in the Asia Pacific and North American States.*
+| Maiam nayri Wingara is the most recent of the IDS groups and has recently developed their principles. [footnote, zie onder table ]                                                                                                                                                                                                                                                                                                                   |
+*Table 1 - IDS principles in the Asia Pacific and North American States.* [^02chapter2_26]  
 
 ## Indigenous Data Sovereignty and Governance in practice
 
@@ -2012,7 +1446,7 @@ Torres Strait Islander Studies, 2012.
 AIATSIS. *National Indigenous Research Conference,* 2017.
 
 AIHW. 'National Advisory Group on Aboriginal and Torres Strait Islander
-Health Information and Data: Strategic Plan 2010--2015', Canberra, 2011.
+Health Information and Data: Strategic Plan 2010-2015', Canberra, 2011.
 
 Australian Human Rights Commission. 'Australia and the Universal
 Declaration on Human Rights'.
@@ -2023,7 +1457,7 @@ https://policies.anu.edu.au/ppl/document/ANUP_003603.
 Coleman, C., B. Elias, V. Lee, J. Smylie, J. Waldon, F.S. Hodge, and I.
 Ring. 'International Group for Indigenous Health Measurement:
 Recommendations for best practice for estimation of Indigenous
-mortality'. *Statistical Journal of the IAOS* 32 (2016) 729--73, DOI:
+mortality'. *Statistical Journal of the IAOS* 32 (2016) 729-73, DOI:
 10.3233/SJI-161023.
 
 Drabiak-Syed, Katherine. 'Lessons from Havasupai Tribe V. Arizona State
@@ -2074,7 +1508,7 @@ Snipp, C Matthew. 'What Does Data Sovereignty Imply: What Does It Look
 Like?' in Tahu Kukutai and John Taylor (eds) *Indigenous Data
 Sovereignty: Towards an Agenda*, Canberra: ANU Press*,* 2016, pp. 39-56.
 
-Te Mana Raraunga. 'Te Mana Raraunga --- Māori Data Sovereignty Network
+Te Mana Raraunga. 'Te Mana Raraunga - Māori Data Sovereignty Network
 Charter', https://www.temanararaunga.maori.nz/tutohinga/.
 
 The First Nations Information Governance Centre. 'Ownership, Control,
@@ -2124,12 +1558,12 @@ Indigenous Peoples', 2008.
 [^02chapter2_9]: 'Indian Act (R.S.C. C. I-5),' (1985).
 
 [^02chapter2_10]: AIHW, 'National Advisory Group on Aboriginal and Torres Strait
-    Islander Health Information and Data: Strategic Plan 2010--2015',
+    Islander Health Information and Data: Strategic Plan 2010-2015',
     Canberra, 2011; C. Coleman, B. Elias, V. Lee, J. Smylie, J. Waldon,
     F.S. Hodge, and I. Ring, 'International Group for Indigenous Health
     Measurement: Recommendations for best practice for estimation of
     Indigenous mortality'. *Statistical Journal of the IAOS* 32 (2016):
-    729--738, 729, DOI: 10.3233/SJI-161023
+    729-738, 729, DOI: 10.3233/SJI-161023
 
 [^02chapter2_11]: Productivity Commission, 'Data Availability and Use: Overview & Recommendations', Canberra, 2017.
 
@@ -2149,7 +1583,7 @@ Indigenous Peoples', 2008.
     Information Governance', Ottawa: The First Nations Information
     Governance Centre, 2014.
 
-[^02chapter2_15]: Te Mana Raraunga, 'Te Mana Raraunga --- Māori Data Sovereignty
+[^02chapter2_15]: Te Mana Raraunga, 'Te Mana Raraunga - Māori Data Sovereignty
     Network Charter', https://www.temanararaunga.maori.nz/tutohinga/.
 
 [^02chapter2_16]: AIATSIS, *National Indigenous Research Conference* 2017.
@@ -2226,10 +1660,9 @@ Indigenous Peoples', 2008.
 
 
 # 3: The Good Data Manifesto<br />
-*Claire Trenham and Adam Steer*
+######Claire Trenham and Adam Steer
 
-**Abstract**
-
+## Introduction
 The Good Data Manifesto sketches out a set of principles which can be
 used to guide data collection, storage, and re-use. In an increasingly
 data-rich world, we have long failed to fully consider many implications
@@ -2248,7 +1681,6 @@ managers consider more fully how they go about their task, and to help
 data users critically consider the applicability of datasets to their
 need.
 
-## Introduction
 
 Data exist everywhere. In a growing technological society, humans are
 increasingly recording, cataloguing and exploiting observations of the
@@ -2508,7 +1940,7 @@ at a later time. But if a static object can be reliably identified,
 measurements of that object should return consistent results.
 
 The question of reproducibility is difficult in non-controlled,
-time-dependent data collection -- a feature of many social media or
+time-dependent data collection - a feature of many social media or
 personal geolocation platforms. In these scenarios, reliability may be
 cast as capacity to understand the conditions and algorithms which led
 to the data being collected/created.
@@ -2553,7 +1985,7 @@ data (data which are generally immutable, e.g. observations of
 temperature). Where data may be edited, or version-controlled, software
 licenses may be more appropriate (e.g. https://choosealicense.com). The
 terms of software licenses are better designed for the case where the
-licensed collection may evolve over time -- and may be more permissive
+licensed collection may evolve over time - and may be more permissive
 of contributions. Licensing is the collective decision of the data
 producers, owners, and custodians, who should become familiar with the
 various licenses available.
@@ -2678,7 +2110,7 @@ exists.
 Humans have successfully asserted that their personal data be
 'forgotten',[^03chapter3_26] arguing that the right to privacy over-rides
 historical record. In these cases, electronic records of history are
-revised -- not necessarily removed -- with aggregate or non-personal
+revised - not necessarily removed - with aggregate or non-personal
 data and information potentially retained for historical purposes.
 
 #### 3.4.1 Personal Data should be Opt-in
@@ -2748,8 +2180,8 @@ enable people to trust each other.*[^03chapter3_32]
 
 Good data are a social asset, a platform upon which trust and
 cooperation can be built, enabling a 'social license to operate'. This
-may occur between scientists -- for example field scientists collecting
-measurements and providing them to systems modellers; or anyone -- for
+may occur between scientists - for example field scientists collecting
+measurements and providing them to systems modellers; or anyone - for
 example, trusting a restaurant address is correct, or a weather forecast
 is mostly accurate.
 
@@ -2809,9 +2241,9 @@ d)  The Australian Electoral Commission (AEC),[^03chapter3_36] and state-based
 ## Collected Thoughts on 'Good Data'
 
 Posing a question[^03chapter3_37] about what make 'good data' resulted in the
-themes 'consistency' -- agreement about what to call things between data
+themes 'consistency' - agreement about what to call things between data
 providers, 'accessibility' with regard to cost and licensing, and
-'provenance' -- knowing where data come from. In a largely geospatial
+'provenance' - knowing where data come from. In a largely geospatial
 cohort, ethical aspects were not widely discussed. One person we spoke
 to likened 'good data' to edge pieces of a jigsaw puzzle. Every piece of
 data is like part of the puzzle that is how the world works (and some
@@ -2819,8 +2251,8 @@ are poorly formed!), but good data are the pieces that allow you to
 constrain the others.
 
 In the context of developing countries,[^03chapter3_38] another contributor noted
-considerations including faith in the data collectors -- data not
-hearsay; how money sponsoring data collection is spent -- bias that
+considerations including faith in the data collectors - data not
+hearsay; how money sponsoring data collection is spent - bias that
 might result in donor organisations being seen to do good things; is
 government intimidation a concern? Consistency within data records can
 be problematic, and survey responses can vary as those interviewed may
@@ -2940,7 +2372,7 @@ and provision of Research Software', *Zenodo*, 16 March 2018, DOI:
 10.5281/zenodo.1172988.
 
 Keßler, C. and G. McKenzie. 'A geoprivacy manifesto', *Transactions in
-GIS*, 22 (2018) :3--19, DOI: 10.1111/tgis.12305.
+GIS*, 22 (2018) :3-19, DOI: 10.1111/tgis.12305.
 
 Kidd, J. 'Wollemi Pines: Secret plantation in Blue Mountains to ensure
 species' survival', *ABC News,* 21 September 2014, http://www.abc.net.au/news/2014-09-21/secret-bid-to-save-prehistoric-wollemi-pines/5758542.
@@ -2969,7 +2401,7 @@ of the Australian Information Commissioner*, https://www.oaic.gov.au/privacy-law
 the Australian Information Commissioner, 2017,* https://www.oaic.gov.au/annualreport2016-17, p.80.
 
 \_\_\_\_\_. 'Notifiable Data Breaches Quarterly Statistics Report: 1
-April -- 30 June 2018', *Australian Government Office of the Australian
+April - 30 June 2018', *Australian Government Office of the Australian
 Information Commissioner,* 2018, https://www.oaic.gov.au/resources/privacy-law/privacy-act/notifiable-data-breaches-scheme/quarterly-statistics/notifiable-data-breaches-quarterly-statistics-report-1-april-30-june-2018.pdf.
 
 \_\_\_\_\_. 'Health Information and medical research', *Australian
@@ -3092,7 +2524,7 @@ Collection*, 2017, DOI: 10.4225/08/5a12348f8567b.
     minister says', *The Guardian*, 2017,
     https://www.theguardian.com/australia-news/2017/jul/04/federal-police-asked-to-investigate-darkweb-sale-of-medicare-data;
     OAIC, 'Notifiable Data Breaches Quarterly Statistics Report: 1 April
-    -- 30 June 2018', 2018,
+    - 30 June 2018', 2018,
     https://www.oaic.gov.au/resources/privacy-law/privacy-act/notifiable-data-breaches-scheme/quarterly-statistics/notifiable-data-breaches-quarterly-statistics-report-1-april-30-june-2018.pdf.
 
 [^03chapter3_17]: European Commission, '2018 reform of EU data protection rules',
@@ -3201,10 +2633,9 @@ Collection*, 2017, DOI: 10.4225/08/5a12348f8567b.
 
 
 # 4: The Good, the Bad and the Beauty of 'Good Enough Data'<br />
-*Miren Gutiérrez*
+######Miren Gutiérrez
 
-**Abstract**
-
+## Introduction
 Drawing on the concept of 'good enough data'[^04chapter4_1], which apply to citizen
 data collected via sensors this chapter looks critically at data in
 'proactive data activism,' understood as a social practice that uses the
@@ -3215,15 +2646,14 @@ data' beyond citizen sensing and the environment. This analysis derives
 from a taxonomy of activists based on how they go about obtaining
 data.[^04chapter4_3] It offers too an unsentimental view on the failures and
 contradictions of data activism regarding the collection, analysis and
-communication of data.[^04chapter4_4] The chapter employs the Syrian Archive --an
+communication of data.[^04chapter4_4] The chapter employs the Syrian Archive - an
 organization that curates and documents data related to the Syrian
-conflict for activism--- as a pivotal case to look at the new standards
+conflict for activism - as a pivotal case to look at the new standards
 applied to data gathering and verification in data activism from the
 South, as well as their challenges, so data become 'good enough' to
 produce reliable evidence for social change. Data were obtained too
 thorough in-depth interviews, fieldwork and empirical observation.
 
-## Introduction
 
 On 25 and 30 March 2017, the town of al-Lataminah, in northern Syria,
 suffered two chemical attacks possibly committed by Syrian government
@@ -3234,8 +2664,8 @@ and each other in varying groupings.[^04chapter4_6] International organizations
 have blamed the Syrian government, and its ally, Russia, opponent rebel
 groups and the coalition led by the United States of human rights
 violations,[^04chapter4_7] including attacks with chemical weapons against
-civilians. The main forces implicated in the Syrian conflict --that is,
-Iran, Russia, Syria and the United States--- are parties to the Weapons
+civilians. The main forces implicated in the Syrian conflict - that is,
+Iran, Russia, Syria and the United States - are parties to the Weapons
 Convention, which entered into force in 1997, prohibiting the
 production, possession and use of chemical weapons, and should comply
 with its obligations.[^04chapter4_8] However, since 2013, there have been some
@@ -3252,8 +2682,8 @@ the target was a medical facility.[^04chapter4_11] Their report concludes that t
 perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
-![Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
-2018).](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image1.jpg)
+
+![](imgs/Chapter4_Gutierrez_Image1.jpg)
 *Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
 2018).*
 
@@ -3300,9 +2730,9 @@ of public data). These data have been harvested through platforms which
 were not set up by the activists themselves but by social media service
 providers (i.e. a form of crowdsourced data). Other data activists
 specialize in using just one of these methods.[^04chapter4_21] For example, the
-deployers of 'Ayuda Ecuador' --an application of the Ushahidi platform
+deployers of 'Ayuda Ecuador' - an application of the Ushahidi platform
 launched to gather data on the crisis unleashed by the earthquake in
-2016 in Ecuador--- established the means to collect data submitted via
+2016 in Ecuador - established the means to collect data submitted via
 mobile technology, emails and websites, using the third type of data
 extraction method. Although crowdsourcing citizen data is its main data
 mining method, Ushahidi also resorts to data scraping from websites and
@@ -3351,8 +2781,8 @@ apparent.[^04chapter4_27] This organization has been chosen based on the fact th
 background conditions are relevant to the inspection of data practices
 in activism.
 
-Five interviewees --chosen for their in-depth knowledge data practices
-and protocols in activism and beyond--- were questioned about their data
+Five interviewees - chosen for their in-depth knowledge data practices
+and protocols in activism and beyond - were questioned about their data
 mining and curation methodologies. Although the questions vary in line
 with their expertise, the questionnaires sent to these practitioners
 include open questions such as: 'How can you aspire to data robustness
@@ -3365,7 +2795,7 @@ digital humanitarianism. Interviewee 2 has designed smart grids that
 channel data for real-time decision-making in water management.
 Interviewees 3 and 4 have an exhaustive knowledge of Syrian Archive. In
 charge of an index that ranks countries by their frailty, Interviewee 5
---not a data activist--- has been included here for contrast, as in the
+- not a data activist - has been included here for contrast, as in the
 case of Interviewee 2. Although their data methods and approaches vary,
 their tenets do not differ so much.
 
@@ -3429,8 +2859,8 @@ Errors and biases can be introduced accidentally in data processes. An
 artificial intelligence (AI) algorithm learned to associate women with
 kitchen images because more women appear photographed in kitchens on the
 web.[^04chapter4_46] In the process of *learning*, the algorithm then multiplied
-the bias present in the initial dataset, amplifying --not simply
-replicating--- the biased association between kitchens and women.[^04chapter4_47]
+the bias present in the initial dataset, amplifying - not simply
+replicating - the biased association between kitchens and women.[^04chapter4_47]
 This study by the University of Virginia is among several others that
 recently show that artificial intelligence systems can incorporate, and
 even multiply, biases if their design or the data on which they are
@@ -3473,8 +2903,8 @@ compared data analysis with punk music in 2012 because 'anyone can do
 it'.[^04chapter4_57] Unfortunately, this is not the case. Not only are data not
 available to anyone, but, as Innerarity points out ,[^04chapter4_58] the tools to
 make them useful are not available to anyone either. However, the
-barriers to access both data and their infrastructure --understood as
-the software, hardware and processes necessary to render them useful---
+barriers to access both data and their infrastructure - understood as
+the software, hardware and processes necessary to render them useful -
 have been falling in recent years.[^04chapter4_59] Activists of all stripes are
 using data, in combination with the geoweb, satellite technology,
 sensing devices and information and communication technologies (ICTs),
@@ -3508,7 +2938,7 @@ enough to generate new types of data and data practices, and impactful
 bottom-up narratives. The same way that alternative journalism argues
 that different forms of knowledge may be generated, representing
 'multiple versions of reality from those of the mass media',[^04chapter4_66] good
-enough data -- as an alternative to conventional big data - can produce
+enough data - as an alternative to conventional big data - can produce
 trustworthy analysis and visualizations which shed light on complex
 issues and are the basis for action. The examples of Syrian Archive,
 Forensic Architecture, WeRobotics, InfoAmazonia and Ushahidi show that,
@@ -3624,7 +3054,7 @@ killings', 'arbitrary arrest and unlawful detention' and
 classified by the kind of weapon utilized, the location or the kind of
 violation or abuse. Figure 2 summarizes the process.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image2.jpg)
+![](imgs/Chapter4_Gutierrez_Image2.jpg)
 *Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*
 
 Based on the examination of footage, the research of the Aleppo bombings
@@ -3639,7 +3069,7 @@ most of the airstrikes are carried out by Russian aircraft.[^04chapter4_90] Figu
 interactive chart available online allows users to access the videos
 that sustain it.
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter4_Gutierrez_Image3.jpg)
+![](imgs/Chapter4_Gutierrez_Image3.jpg)
 *Figure 3: Map of visual evidence about attacks in Aleppo City (July -
 December 2016).[^04chapter4_91]*
 
@@ -3695,7 +3125,7 @@ maps, stories and solutions.[^04chapter4_100] The purpose of filling gaps sugges
 that there is a particular amount of information needed to tell a human
 rights story accurately, and that activism can help secure this
 information. That is why good enough data implies to the right amount of
-data --not necessarily big--- that activists needs to produce.
+data - not necessarily big - that activists needs to produce.
 
 Third, as the Aleppo investigation suggests, the result of the analysis
 of the video footage was useful to generate new 'forms of evidence',
@@ -3940,11 +3370,11 @@ https://www.amnesty.org/en/latest/news/2016/01/child-labour-behind-smart-phone-a
 https://www.amnesty.org/en/documents/mde24/8367/2018/en/.
 
 Axinn, William G., Dirgha Ghimire and Nathalie E. Williams. 'Collecting Survey Data
-during Armed Conflict', *J Off Stat* 28.2 (2012): 153--171.
+during Armed Conflict', *J Off Stat* 28.2 (2012): 153-171.
 
 Balsiger, Philip, and Alexandre Lambelet. 'Participant Observation', in Donatella
 della Porta (ed.), M*ethodological Practices in Social Movement
-Research*, Oxford: Oxford University Press, 2014, pp. 144--72.
+Research*, Oxford: Oxford University Press, 2014, pp. 144-72.
 
 Banchik, Anna, et al. 'Chemical Strikes on Al-Lataminah'. *Berkeley Human Rights
 Investigation Lab*, 25, 30 March 2017,
@@ -3980,7 +3410,7 @@ http://www.ted.com/talks/kenneth\_cukier\_big\_data\_is\_better\_data?language=e
 
 Dijck, Jose van. 'Datafication, Dataism and Dataveillance: Big Data between
 Scientific Paradigm and Ideology'. *Surveillance & Society* 12.2 (2014):
-197--208.
+197-208.
 
 Downing, John D. H. (ed.). *Encyclopedia of Social Movement Media*, Thousand Oaks: SAGE, 2011.
 
@@ -3996,7 +3426,7 @@ Gabrys, Jennifer, and Helen Pritchard. 2015. 'Next-Generation Environmental
 Sensing: Moving beyond Regulatory Benchmarks for Citizen-Gathered Data',
 in AJ Berre, S Schade, and J Piera (eds), *Proceedings of the Workshop
 'Environmental Infrastructures and Platforms 2015*, Barcelona, pp.
-57--65, http://ecsa.citizen-science.net/sites/default/
+57-65, http://ecsa.citizen-science.net/sites/default/
 files/envip-2015-draft-binder.pdf.
 
 Gabrys, Jennifer, Helen Pritchard, and Benjamin Barratt. 'This Is the Other Aspect of "just" Good Enough Data that Citizen Data Could Provide Ways of Realising Environmental and
@@ -4014,8 +3444,8 @@ https://www.wired.com/2014/10/snowdens-first-emails-to-poitras/.
 
 Gutierrez,Miren. *Data Activism and Social Change*, London: Palgrave Macmillan,
 2018.'Maputopias: Cartographies of Knowledge, Communication and
-Action in the Big Data Society -- The Cases of Ushahidi and
-InfoAmazonia'. *GeoJournal* (2018): 1--20, https://doi.org/https://doi.org/10.1007/s10708-018-9853-8.
+Action in the Big Data Society - The Cases of Ushahidi and
+InfoAmazonia'. *GeoJournal* (2018): 1-20, https://doi.org/https://doi.org/10.1007/s10708-018-9853-8.
 
 \_\_\_\_\_.'The Public Sphere in Light of Data Activism'. *Krisis* (2018).
 
@@ -4039,7 +3469,7 @@ International Telecommunication Union. 'Measuring the Information Society Report
 
 Kitchin, Rob, and Tracey P. Lauriault. 'Small Data, Data Infrastructures and Big
 Data', *GeoJournal*, The Programmable City Working Paper 1, 80.4 (2014):
-463--75.
+463-75.
 
 Knight, Ben. 'Syrian Archive Finds "Overwhelming" Russian Atrocities in Aleppo'. *DW*, 28 March 2017,
 http://www.dw.com/en/syrian-archive-finds-overwhelming-russian-atrocities-in-aleppo/a-38169808.
@@ -4056,7 +3486,7 @@ Ottawa: Carleton University,
 https://curve.carleton.ca/system/files/etd/7eb756c8-3ceb-4929-8220-3b20cf3242cb/etd\_pdf/79f3425e913cc42aba9aa2b9094a9a53/lauriault-datainfrastructuresandgeographicalimaginations.pdf.
 
 Leonelli, Sabina. 'What Counts as Scientific Data? A Relational Framework',
-*Philosophy of Science* 82.5 (2015): 810--21.
+*Philosophy of Science* 82.5 (2015): 810-21.
 
 Lynch, Colum. 'Soviet-Era Bomb Used in Syria Chemical Weapon Attack, Claims Rights Group'.
 *Foreign Policy*, 5 January 2017,
@@ -4094,7 +3524,7 @@ Organisation for the Prohibition of Chemical Weapons. 'Chemical Weapons Conventi
 https://www.opcw.org/sites/default/files/documents/CWC/CWC\_en.pdf.
 
 Palmer, Lindsay. 'Ushahidi at the Google Interface: Critiquing the "geospatial
-Visualization of Testimony"', *Continuum* 28.3 (2014): 342--56, DOI:
+Visualization of Testimony"', *Continuum* 28.3 (2014): 342-56, DOI:
 https://doi.org/10.1080/10304312.2014.893989.
 
 Poell, Thomas, Helen Kennedy, and Jose van Dijck. 'Special Theme: Data & Agency', *Big Data &
@@ -4152,7 +3582,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 2017, pp. 2979-2989.
 
 [^04chapter4_1]: Jennifer Gabrys, Helen Pritchard, and Benjamin Barratt. 'This Is
-    the Other Aspect of "just" Good Enough Data --that Citizen Data
+    the Other Aspect of "just" Good Enough Data -that Citizen Data
     Could Provide Ways of Realising Environmental and Social Justice',
     *Big Data & Society* 1.14 (2016): 14.
 
@@ -4169,7 +3599,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
     http://bigdatasoc.blogspot.com.es/2015/08/data-flows-and-water-woes-interview.html;
     Lindsay Palmer, 'Ushahidi at the Google Interface: Critiquing the
     "geospatial Visualization of Testimony"', *Continuum* 28.3 (2014):
-    342--56; Wayan Vota, 'Dead Ushahidi: A Stark Reminder for
+    342-56; Wayan Vota, 'Dead Ushahidi: A Stark Reminder for
     Sustainability Planning in ICT4D', *ICT Works*, 9 July 2012,
     http://www.ictworks.org/2012/07/09/dead-ushahidi-stark-reminder-sustainability-planning-ict4d/.
 
@@ -4244,7 +3674,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_28]: Philip Balsiger, and Alexandre Lambelet, 'Participant
     Observation', in Donatella della Porta (ed.), M*ethodological
     Practices in Social Movement Research*, Oxford: Oxford University
-    Press, 2014, pp. 144--72; Russell H. Bernard, *Research Methods in
+    Press, 2014, pp. 144-72; Russell H. Bernard, *Research Methods in
     Anthropology: Qualitative and Quantitative Approaches*, fourth
     edition, Maryland: AltaMira Press, 2006; D. Cohen and B. Crabtree,
     'Qualitative Research Guidelines Project', The Robert Wood Johnson
@@ -4261,7 +3691,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_31]: Jose van Dijck, 'Datafication, Dataism and Dataveillance: Big
     Data between Scientific Paradigm and Ideology', *Surveillance &
-    Society* 12.2 (2014): 197--208.
+    Society* 12.2 (2014): 197-208.
 
 [^04chapter4_32]: International Telecommunication Union, 'Measuring the Information
     Society Report', *Geneva: International Telecommunication Union
@@ -4313,7 +3743,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_46]: Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and
     Vicente Chang, 'Men Also Like Shopping: Reducing Gender Bias
     Amplification Using Corpus-Level Constraints', *Association for
-    Computational Linguistics* (2017): 2979--2989, DOI:
+    Computational Linguistics* (2017): 2979-2989, DOI:
     https://doi.org/10.18653/v1/D17-1323.
 
 [^04chapter4_47]: Ibid.
@@ -4387,8 +3817,8 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_67]: Gutierrez, *Data Activism and Social Change*; Miren Gutierrez,
     'Maputopias: Cartographies of Knowledge, Communication and Action in
-    the Big Data Society -- The Cases of Ushahidi and InfoAmazonia'.
-    *GeoJournal*, (2018): 1--20, DOI:
+    the Big Data Society - The Cases of Ushahidi and InfoAmazonia'.
+    *GeoJournal*, (2018): 1-20, DOI:
     https://doi.org/https://doi.org/10.1007/s10708-018-9853-8; Miren
     Gutierrez, 'The Public Sphere in Light of Data Activism', *Krisis*
     (2018).
@@ -4410,7 +3840,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_72]: See: Gutierrez, *Data Activism and Social Change*; Hogan and
     Roberts, 'Data Flows and Water Woes'; Lindsay Palmer, 'Ushahidi at
     the Google Interface: Critiquing the "geospatial Visualization of
-    Testimony"', *Continuum* 28.3 (2014): 342--56, DOI:
+    Testimony"', *Continuum* 28.3 (2014): 342-56, DOI:
     https://doi.org/10.1080/10304312.2014.893989.
 
 [^04chapter4_73]: Gutierrez, *Data Activism and Social Change*.
@@ -4422,7 +3852,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_76]: Office of the UN High Commissioner for Human Rights, 'Warring
     Parties Continued to Target Civilians for Abuses over Last Seven
-    Months -- UN Commission', *United Nations,* 14 March 2017,
+    Months - UN Commission', *United Nations,* 14 March 2017,
     http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21370&LangID=E.
 
 [^04chapter4_77]: Ibid.
@@ -4514,11 +3944,9 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 # 5: An Energy Data Manifesto
 
-*Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts,
-Iain MacGill, Anna Bruce and Rob Passey*
+######Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts, Iain MacGill, Anna Bruce and Rob Passey
 
-**Abstract**
-
+## Introduction
 This collaborative manifesto, co-written by a social scientist and
 engineers, situates the demands for data about energy use and planning
 by regulators, consumers and policy-makers in an historical and
@@ -4539,7 +3967,7 @@ of a strategic ‘technopolitics’ – the technical details of market design
 – to both effective action on climate change and robust, sustainable
 energy systems. 
 
-## Introduction
+
 
 A spectre is haunting Australia – the spectre of an energy transition.
 All the powers of the old energy sector have entered an unholy alliance
@@ -4619,9 +4047,9 @@ There was far less focus on the role of public energy data (Box 1) to
 facilitate effective engagement at the distribution network and retail
 market level.
 
-| **Box 1: What is ‘Public Energy Data’?**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Box 1: What is ‘Public Energy Data’?**[^05chapter5_5]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Energy data typically refers to information over time regarding the level of energy consumption, generation, quality,[^05chapter5_5] and price. When coupled with metadata (such as consumer location or demographics), this data can yield valuable insights for researchers, and policymakers in domains such as urban planning, demography, and sociology. We use the prefix ‘*public’* to refer to energy data which is freely and publicly available. This can be contrasted to proprietary data held by privately owned retailers or within government departments. Public refers to both the state of accessibility and the process of making otherwise enclosed data freely available. |
+| Energy data typically refers to information over time regarding the level of energy consumption, generation, quality,[footnote 5]  and price. When coupled with metadata (such as consumer location or demographics), this data can yield valuable insights for researchers, and policymakers in domains such as urban planning, demography, and sociology. We use the prefix ‘*public’* to refer to energy data which is freely and publicly available. This can be contrasted to proprietary data held by privately owned retailers or within government departments. Public refers to both the state of accessibility and the process of making otherwise enclosed data freely available. 
 *Box 1: What is ‘Public Energy Data’?*
 
 Market design decisions in the 1990s mean that key parameters of the
@@ -4792,10 +4220,10 @@ technical conditions in the depths of the network (e.g. Box 2) may lead
 to more efficient and fair investment and operational outcomes.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Box 2: The importance of voltage data for integrating distributed renewables **
+  **Box 2: The importance of voltage data for integrating distributed renewables **[^05chapter5_14] [^05chapter5_15] [^05chapter5_16]
   
-  Understanding how networks are functioning at both the high voltage transmission and low voltage distribution ends is crucial to integrating renewable energy resources effectively and at a fair cost to society. For instance, as PV uptake continues, a technical upper voltage limit is reached at local transformers, at which point it is difficult for additional PV to connect to the network. The responsibility of Network Service Providers to maintain a stable electricity network can lead them to a cautious approach to integration of distributed renewables, and in some jurisdictions, this has resulted in NSPs drastically restricting deployment of residential PV.[^05chapter5_14]<br /><br />
-  However, recent data analysis – which used information captured from independent monitoring of household PV systems – shows that network voltages are generally high due to historic network decision making (distribution transformer set points were generally set at a high voltage, leaving minimal ‘headroom’ for PV).[^05chapter5_15] This has implications for exporting rooftop PV electricity to the national grid. The visibility afforded by voltage data readings across the network may enable scrutiny of network expenditure to ensure money is spent in a judicious manner;[^05chapter5_16] there may be cost-effective solutions to maintain grid stability without placing unnecessary restrictions on deployment of distributed PV.<br /><br />Access to such data is key to overcoming integration barriers and market asymmetries, and as such is an important companion to wider policies on a just energy transition that have received more widespread attention such as the Renewable Energy Target and carbon pricing schemes.
+  Understanding how networks are functioning at both the high voltage transmission and low voltage distribution ends is crucial to integrating renewable energy resources effectively and at a fair cost to society. For instance, as PV uptake continues, a technical upper voltage limit is reached at local transformers, at which point it is difficult for additional PV to connect to the network. The responsibility of Network Service Providers to maintain a stable electricity network can lead them to a cautious approach to integration of distributed renewables, and in some jurisdictions, this has resulted in NSPs drastically restricting deployment of residential PV.[footnote 14] <br /><br />
+  However, recent data analysis – which used information captured from independent monitoring of household PV systems – shows that network voltages are generally high due to historic network decision making (distribution transformer set points were generally set at a high voltage, leaving minimal ‘headroom’ for PV).[footnote 15] This has implications for exporting rooftop PV electricity to the national grid. The visibility afforded by voltage data readings across the network may enable scrutiny of network expenditure to ensure money is spent in a judicious manner;[foornote 16] there may be cost-effective solutions to maintain grid stability without placing unnecessary restrictions on deployment of distributed PV.<br /><br />Access to such data is key to overcoming integration barriers and market asymmetries, and as such is an important companion to wider policies on a just energy transition that have received more widespread attention such as the Renewable Energy Target and carbon pricing schemes.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Box 2: The importance of voltage data for integrating distributed renewables*
@@ -4851,9 +4279,9 @@ and open-source modelling platform that can improve stakeholder
 engagement around electricity prices.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool**
+  **Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool**[^05chapter5_20]
   
-  CEEM’s tariff analysis tool is an example of an open source model which is accessible by stakeholders like think tanks, community energy organisations, local councils and policy-makers.[^05chapter5_20]<br /><br />Consumers’ ability to reduce their consumption using energy efficiency and solar is altering the distribution of revenue collection from consumers via tariffs, and has drawn attention to apparent cross-subsidies from traditional electricity-consuming customers to solar ‘prosumers’, while users of air-conditioning have also been identified as placing an unfair cost burden on other customers. Along with emerging costs of transforming the electricity network to a more distributed model, this has driven regulatory changes that now require network utilities to develop more cost-reflective tariffs. However, the proprietary energy models used by network providers and their private consultants are often complex, opaque and based on assumed variables, making it possible for the energy modellers to exploit uncertainties within a regulatory context biased towards recovering capital expenditure on electricity infrastructure.<br /><br />To overcome this information asymmetry, CEEM’s tariff tool allows stakeholders to test different electricity network tariffs on different sets of customers and investigate the impact on users’ electricity bills, their cost-reflectivity, and distributional impacts using anonymised load data. Because it is open-source, the tool and results can be easily verified and can therefore facilitate transparency and more robust regulatory decisions.<br /><br />Unlike black-box and expensive proprietary energy models which are usually only available to powerful incumbent stakeholders, open source modelling platforms can be used, expanded, scrutinised, and verified by any interested stakeholders. This democratisation of tariff analysis is an example of how open source tools can empower more stakeholders, improve the operation of markets, regulation and policymaking.
+  CEEM’s tariff analysis tool is an example of an open source model which is accessible by stakeholders like think tanks, community energy organisations, local councils and policy-makers.[footnote 20] <br /><br />Consumers’ ability to reduce their consumption using energy efficiency and solar is altering the distribution of revenue collection from consumers via tariffs, and has drawn attention to apparent cross-subsidies from traditional electricity-consuming customers to solar ‘prosumers’, while users of air-conditioning have also been identified as placing an unfair cost burden on other customers. Along with emerging costs of transforming the electricity network to a more distributed model, this has driven regulatory changes that now require network utilities to develop more cost-reflective tariffs. However, the proprietary energy models used by network providers and their private consultants are often complex, opaque and based on assumed variables, making it possible for the energy modellers to exploit uncertainties within a regulatory context biased towards recovering capital expenditure on electricity infrastructure.<br /><br />To overcome this information asymmetry, CEEM’s tariff tool allows stakeholders to test different electricity network tariffs on different sets of customers and investigate the impact on users’ electricity bills, their cost-reflectivity, and distributional impacts using anonymised load data. Because it is open-source, the tool and results can be easily verified and can therefore facilitate transparency and more robust regulatory decisions.<br /><br />Unlike black-box and expensive proprietary energy models which are usually only available to powerful incumbent stakeholders, open source modelling platforms can be used, expanded, scrutinised, and verified by any interested stakeholders. This democratisation of tariff analysis is an example of how open source tools can empower more stakeholders, improve the operation of markets, regulation and policymaking.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Box 3: Opening the black boxes: CEEM’s Tariff Analysis Tool*
 
@@ -5007,6 +4435,7 @@ personally-sourced data.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Box 4: Making a Data Commons from Household Photovoltaic Solar Output*
 
+
 ### Standards are sorely needed
 
 Research currently requires a pragmatic approach to making sense of
@@ -5024,9 +4453,9 @@ whilst requirements for a new register of distributed energy resource
 metadata is in the final stages of consultation.[^05chapter5_30]
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Box 5: The Green Button Initiative has empowered electricity consumers**
+  **Box 5: The Green Button Initiative has empowered electricity consumers**[^05chapter5_31]
   
-  *‘The Green Button initiative is an industry-led effort that responds to a 2012 White House call-to-action to provide utility customers with easy and secure access to their energy usage information in a consumer-friendly and computer-friendly format for electricity, natural gas, and water usage.’*[^05chapter5_31]<br /><br />Inspired by the success of the *Blue Button* in providing access to health records, *Green Button* was an initiative of the US Chief Technology Officer that was taken up by utilities, network operators, technology suppliers and integrators, policy makers and regulators. *Green Button* is a standardised API web service and a common data format for transmission of energy data.
+  *‘The Green Button initiative is an industry-led effort that responds to a 2012 White House call-to-action to provide utility customers with easy and secure access to their energy usage information in a consumer-friendly and computer-friendly format for electricity, natural gas, and water usage.’* [footnote 31] <br /><br />Inspired by the success of the *Blue Button* in providing access to health records, *Green Button* was an initiative of the US Chief Technology Officer that was taken up by utilities, network operators, technology suppliers and integrators, policy makers and regulators. *Green Button* is a standardised API web service and a common data format for transmission of energy data.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Box 5: The Green Button Initiative has empowered electricity consumers*
 
@@ -5436,7 +4865,7 @@ EnergyAustralia*,* 2004.
 
 
 #6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study
-*Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong*
+######Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong
 
 ##Introduction
 
@@ -5455,9 +4884,9 @@ These days, a range of commercial and government providers are
 developing software that embed actuarial methods in code, using machine
 learning methods on large bodies of data and marketed under the umbrella
 of 'artificial intelligence' (AI).[^06chapter6_3] While the eﬀects of using these
-kinds of probabilistic methods in criminal justice contexts -- such as
+kinds of probabilistic methods in criminal justice contexts - such as
 higher incarceration rates among certain racial groups and distorted
-future predictions --- have been critiqued by legal and social science
+future predictions - have been critiqued by legal and social science
 scholars for several years,[^06chapter6_4] they have only recently become issues
 for the computer scientists and engineers developing these software
 solutions.
@@ -5544,7 +4973,7 @@ Actuarial methods and probability theory have been employed to help
 humans make decisions in a criminal justice context for many years.[^06chapter6_21]
 It is only recently that they have been embedded in software.[^06chapter6_22] While
 these longstanding methods could be said to be 'algorithmic' in
-nature,[^06chapter6_23] taking a rule-based approach to predictions -- for the
+nature,[^06chapter6_23] taking a rule-based approach to predictions - for the
 purposes of this chapter we use the term 'algorithmic risk assessment'
 to refer to the more recent automated, software-driven systems. An
 example is the Public Safety Assessment,[^06chapter6_24] which is used in the US
@@ -5561,10 +4990,10 @@ work), which render trade-oﬀs explicit in decision-making and allow them
 to be managed.
 
 However, investigations of existing algorithmic risk assessment systems
-have demonstrated that these systems can -- by choice -- also be
+have demonstrated that these systems can - by choice - also be
 shrouded in secrecy, unnecessarily complex and reinforce existing
-bias.[^06chapter6_29] It has been shown that COMPAS -- which used over a hundred
-variables for predictions -- performs no better than a logistic
+bias.[^06chapter6_29] It has been shown that COMPAS - which used over a hundred
+variables for predictions - performs no better than a logistic
 regression classifier using age and total number of previous
 convictions.[^06chapter6_30] A controversial recent example of a risk assessment
 system in the Australian context is the Suspect Targeting Management
@@ -5622,8 +5051,8 @@ to low 0.7 range.[^06chapter6_38]
 
 Fitzgerald and Graham applied statistical methods to existing
 administrative data on NSW oﬀenders who had committed domestic violence,
-to examine the kinds of factors -- for example, socioeconomic status,
-history of past oﬀences, Indigenous or non-Indigenous status -- which
+to examine the kinds of factors - for example, socioeconomic status,
+history of past oﬀences, Indigenous or non-Indigenous status - which
 were predictive of future domestic violence oﬀences.[^06chapter6_39] They used
 logistic regression to examine the future risk of violent DV oﬀending
 among a cohort of individuals convicted of any DV oﬀence (regardless of
@@ -5676,15 +5105,15 @@ to be taken in how such fairness is defined and achieved.
 ## 6.2 Designing Fair Algorithmic Risk Assessments
 
 The impact of an algorithmic risk assessment is determined by both its
-design and the context in which it is used. This context -- which
-includes human judgment, policy settings and broader social trends --
+design and the context in which it is used. This context - which
+includes human judgment, policy settings and broader social trends -
 will remain an important determinant of outcomes in the justice system
 and elsewhere. No algorithm can rectify all of the past and present
 structural disadvantage faced by a particular social group. However,
 algorithmic risk assessments influence human decisions, which in turn
 determine the extent to which structural disadvantage is entrenched.
 Hence, algorithm design can play a part in making an overall system
-fairer -- or indeed in reinforcing the unfairness of a system.
+fairer - or indeed in reinforcing the unfairness of a system.
 Considerable research is underway to incorporate fairness into the
 design of algorithmic systems. This approach requires clear definitions
 of fairness, and modifications to algorithm design to accommodate these
@@ -5695,7 +5124,7 @@ definitions.
 While defining fairness is a topic as old as human society, the advent
 of algorithmic predictions has necessitated the quantification of these
 definitions. We must be precise about what we mean if we are to embed
-fairness in computer code -- a definition that seems simplistic or
+fairness in computer code - a definition that seems simplistic or
 reductionist is still preferable to none at all. Therefore we
 necessarily consider a narrow subset of the possible meanings of
 'fairness'. Quantitative definitions often describe fairness as avoiding
@@ -5728,8 +5157,8 @@ the risk of excluding participants from non-quantitative backgrounds in
 debates about fairness.[^06chapter6_46]
 
 An important design choice is selecting a subset of the population to
-which these definitions are applied. We then ask for fair predictions --
-according to whichever definition we choose -- only within this subset,
+which these definitions are applied. We then ask for fair predictions -
+according to whichever definition we choose - only within this subset,
 and permit diﬀerences in predictions between subsets. For example, in
 the recidivism context we might consider all individuals, or only those
 who reoﬀended, or only those who did not reoﬀend. If the subset consists
@@ -5849,7 +5278,7 @@ information that can be used to infer *S*. This cleaned data can be used
 as an input to any subsequent algorithm instead of the original input
 data. In the following section we will use the concrete example of race
 as the sensitive variable *S*, past criminal record as the input
-variable *X,* reoﬀence as the target variable *Y*, and a cleaned version
+variable *X*, reoﬀence as the target variable *Y*, and a cleaned version
 of past criminal record as *Z*. However, it is worth remembering that
 the approach works in general for other sets of variables.
 
@@ -5889,7 +5318,7 @@ records similar. The algorithm does not provide any guidance as to how
 to select *λ*. Rather, this depends on a decision about the relative
 importance assigned to fairness and accuracy in the design of the
 algorithmic risk assessment. Such a decision is a social, political and
-regulatory one -- the algorithm simply provides an implementation for
+regulatory one - the algorithm simply provides an implementation for
 whatever decision is made.
 
 The learning steps of the algorithm are summarized in Figure 1.[^06chapter6_70] The
@@ -5972,8 +5401,8 @@ Graham.
 Our baseline experiments use the original data, including the Indigenous
 status variable. We also tested the pre-processing method described in
 Section 6.2.4 for several values of the parameter *λ*. We predicted
-recidivism from the data -- the original data in the baseline
-experiments and the pre-processed data in the other experiments -- using
+recidivism from the data - the original data in the baseline
+experiments and the pre-processed data in the other experiments - using
 logistic regression as in Fitzgerald and Graham's study, which predicts
 the probability of reoﬀence for each individual. We applied the
 definitions of fairness and accuracy presented in Section 6.2.2, as
@@ -6079,8 +5508,8 @@ explicit fairness criterion into algorithm design, individuals from one
 racial group may be marked higher risk than another, even when
 considering only reoﬀenders or only non-reoﬀenders. This is still true
 when race is simply dropped from the input data: blindness is not
-enough. Incorporating a fairness criterion -- such as via data
-pre-processing -- yields more equal predicted reoﬀence rates for
+enough. Incorporating a fairness criterion - such as via data
+pre-processing - yields more equal predicted reoﬀence rates for
 diﬀerent racial groups: among reoﬀenders, among non-reoﬀenders and
 overall.
 
@@ -6090,7 +5519,7 @@ defendants who in the baseline scenario were considered higher risk than
 non-Indigenous defendants, both among reoﬀenders and among
 non-reoﬀenders, this pre-processing makes the system fairer. The
 flipside is that non-Indigenous non-reoﬀenders are judged to be more
-risky. And all reoﬀenders -- particularly Indigenous reoﬀenders -- are
+risky. And all reoﬀenders - particularly Indigenous reoﬀenders - are
 judged to be less risky, which is not in the interests of potential
 victims.
 
@@ -6099,19 +5528,19 @@ part of human decision-making in the criminal justice system. The
 advantage of our approach is making this trade-oﬀ explicit and precisely
 controllable through a model parameter, which may be set according to
 whatever weighting is deemed appropriate by society. The approach we
-propose -- involving an explicit trade-oﬀ between certain quantitative
-definitions of accuracy and fairness -- also applies to other contexts
+propose - involving an explicit trade-oﬀ between certain quantitative
+definitions of accuracy and fairness - also applies to other contexts
 where prediction algorithms are used to support decisions about
 individuals such as the provision of credit or insurance, and to other
 demographic groups besides racial groups.
 
 There is a second trade-oﬀ involved here: between explicit and implicit
 explanations for decisions. Transparency allows individuals to better
-understand the social systems -- including the criminal justice system
--- that make decisions about their lives. However, when the rationale
+understand the social systems - including the criminal justice system
+- that make decisions about their lives. However, when the rationale
 for these decisions is laid bare, they may be less palatable than when
-they are opaque. Algorithms -- with their stark rules implemented in
-code -- have the eﬀect of illuminating the myriad forms of inclusion and
+they are opaque. Algorithms - with their stark rules implemented in
+code - have the eﬀect of illuminating the myriad forms of inclusion and
 exclusion that invisibly form our social fabric. Perhaps the more
 profound trade-oﬀ is determining to what extent we are willing to shine
 that light.
@@ -6671,10 +6100,9 @@ Statistical Society: Series A (Statistics in Societ*y) 180.3 (2017).
 
 # 7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: The ByLock Case
 
-*A. Sefa Ozalp*
+######A. Sefa Ozalp
 
-**Abstract**
-
+## Introduction
 This chapter presents a critical case study of unlawful metadata access
 and retroactive criminalization of encryption to persecute perceived
 dissidents by focusing on ByLock prosecutions in Turkey. Although ByLock
@@ -6696,7 +6124,7 @@ chapter contends that lessons learned from the ByLock case illustrate
 how critical 'Good Data' principles and the integrity of encrypted and
 secure communication channels are for democracies.
 
-## Introduction
+
 
 Digital communication technologies (DCTs) have altered the way we
 generate, share and receive information. For the most part, DCTs have
@@ -6869,7 +6297,7 @@ non-crime related grounds.
 To understand the true risks of metadata retention, it is beneficial to
 look at cases where authoritarian regimes exploit communications
 metadata to target political enemies and to facilitate oppression of
-dissidents -- this is the focus of my analysis. In most cases,
+dissidents - this is the focus of my analysis. In most cases,
 oppression faced by dissidents is a perennial process. Historical
 oppression of Kurds by the Turkish state and successive governments from
 different political backgrounds is a prime example of the continual
@@ -6992,7 +6420,7 @@ presidential pleas for spying on family members and friends who are
 suspected to be Gulenists and reporting them to authorities.[^07chapter7_57]
 Drawing on moral panic theory, we can see that the coup attempt has
 acted as a trigger event and the GM have been effectively declared the
-folk devils --'a category of people who, presumably, engage in evil
+folk devils -'a category of people who, presumably, engage in evil
 practices and are blamed for menacing a society's culture, way of life,
 and central values' in the aftermath.[^07chapter7_58] AKP government took advantage
 of public *concern* in the aftermath of the coup attempt aimed to
@@ -7095,7 +6523,7 @@ servers) are deliberately manipulated by MIT which '﻿points out the
 great likelihood that MIT and other Turkish authorities manipulated the
 Bylock database and fabricated false Bylock records'.[^07chapter7_78]
 
-![image](/Users/barbaradubbeldam/Documents/GitHub/TOD29GOODDATA/md/imgs/Chapter7_Ozelp_Image1.jpg)
+![](imgs/Chapter7_Ozelp_Image1.jpg)
 *Figure* *1: Screenshots from MIT report, allegedly from ByLock
 database. Total numbers of rows returned by the SQL queries (7 and 10
 respectively) do not match total numbers of rows shown at the bottom of
@@ -7256,11 +6684,11 @@ http://www.amnestyusa.org/sites/default/files/encryption\_-\_a\_matter\_of\_huma
 Turkey', 2017, https://www.amnesty.org/download/Documents/EUR4462722017ENGLISH.PDF.
 
 Austin, Lisa M. 'Lawful Illegality: What Snowden Has Taught Us About the Legal
-Infrastructure of the Surveillance State.' *SSRN* (2014): 1--25, DOI:
+Infrastructure of the Surveillance State.' *SSRN* (2014): 1-25, DOI:
 https://doi.org/10.2139/ssrn.2524653.
 
 Buono, Isabella, and Aaron Taylor. 'Mass Surveillance in the CJEU: Forming a European Consensus', *The
-Cambridge Law Journal* 76.2 (2017): 250--53, DOI:
+Cambridge Law Journal* 76.2 (2017): 250-53, DOI:
 https://doi.org/doi:10.1017/S0008197317000526.
 
 Clegg, William, and Simon Baker. 'Opinion on the Legality of the Actions of the Turkish State in
@@ -7286,7 +6714,7 @@ Society* 3.2 (2016), DOI:
 https://doi.org/10.1177/2053951716679678.
 
 Dumovich, Liza. 'Pious Creativity: Negotiating Hizmet in South America after July 2016',
-*Politics, Religion and Ideology* 19.1 (2018): 81--94, DOI:
+*Politics, Religion and Ideology* 19.1 (2018): 81-94, DOI:
 https://doi.org/10.1080/21567689.2018.1453267.
 
 Emre Celik. 'Fethullah Gülen: 'I Call For An International Investigation Into The Failed Putsch
@@ -7297,13 +6725,13 @@ EN.DELFI. 'Lithuania Didn't Provide Turkey with ByLock User Data - Lithuania -
 m.En.Delfi.Lt,' 2017,
 http://m.en.delfi.lt/lithuania/article.php?id=76099973.
 
-European Union. 'Charter of Fundamental Rights of the European Union,' 2012, 391--407,
+European Union. 'Charter of Fundamental Rights of the European Union,' 2012, 391-407,
 DOI: https://doi.org/10.1108/03090550310770974.
 
 Europol. 'IOCTA 2016: Internet Organised Crime Threat Assessment', The Hague, 2016, DOI:
 https://doi.org/10.2813/275589.
 
-Ferdinand, Peter. 'The Internet, Democracy and Democratization', *Democratization* 7.1 (2000): 1--17,
+Ferdinand, Peter. 'The Internet, Democracy and Democratization', *Democratization* 7.1 (2000): 1-17,
 DOI: https://doi.org/10.1080/13510340008403642.
 
 Fox-IT. 'Expert Witness Report on ByLock Investigation.' Delft, 2017,
@@ -7313,13 +6741,13 @@ Freedom House. 'Freedom on the Net 2017 Report,' 2017,
 https://freedomhouse.org/sites/default/files/FOTN
 2017_Turkey.pdf.
 
-Gokce, Yasir. 'The Bylock Fallacy: An In-Depth Analysis of the Bylock Investigations in Turkey', *Digital Investigation* (March, 2018): 1--11, DOI: https://doi.org/10.1016/j.diin.2018.06.002.
+Gokce, Yasir. 'The Bylock Fallacy: An In-Depth Analysis of the Bylock Investigations in Turkey', *Digital Investigation* (March, 2018): 1-11, DOI: https://doi.org/10.1016/j.diin.2018.06.002.
 
 Goode, Erich, and Nachman Ben-Yehuda. *Moral Panics The Social Construction of
 Deviance*, second edition, Chichester: Wiley-Blackwell, 2009.
 
 Gourlay, William. 'Oppression, Solidarity, Resistance: The Forging of Kurdish
-Identity in Turkey', *Ethnopolitics* 17.2 (2018): 130--46, DOI:
+Identity in Turkey', *Ethnopolitics* 17.2 (2018): 130-46, DOI:
 https://doi.org/10.1080/17449057.2017.1339425.
 
 Greenwald, G, and R Gallagher. 'Snowden Documents Reveal Covert Surveillance and Pressure
@@ -7364,7 +6792,7 @@ Marc Pierini. 'Turkey's Gift From God' *Carnegie Europe*, 2017,
 http://carnegieeurope.eu/strategiceurope/?fa=67826.
 
 Michaelsen, Marcus.'Exit and Voice in a Digital Age: Iran's Exiled Activists and the
-Authoritarian State', *Globalizations* 15.2 (2018): 248--64, DOI:
+Authoritarian State', *Globalizations* 15.2 (2018): 248-64, DOI:
 https://doi.org/10.1080/14747731.2016.1263078.
 
 Milanovic, M. 'ECtHR Judgment in Big Brother Watch v. UK.' EJIL:Talk!, 2018,
@@ -7376,11 +6804,11 @@ https://doi.org/10.17645/mac.v3i2.297.
 
 Nieminen, Hannu. 'Digital Divide and beyond: What Do We Know of Information and Communications
 Technology's Long-Term Social Effects? Some Uncomfortable Questions',
-*European Journal of Communication* 31.1 (2016): 19--32, DOI:
+*European Journal of Communication* 31.1 (2016): 19-32, DOI:
 https://doi.org/10.1177/0267323115614198.
 
 Nugraha, Ignatius Yordan. 'Human Rights Derogation during Coup Situations', *International Journal
-of Human Rights* 22.2 (2018): 194--206, DOI:
+of Human Rights* 22.2 (2018): 194-206, DOI:
 https://doi.org/10.1080/13642987.2017.1359551.
 
 Önderoglu, Erol. 'Turkey: State of Emergency State of Arbitrary', *Reporters Without Borders*
@@ -7840,12 +7268,11 @@ General Comment No. 29.' *Annual Review of Population Law* 44470.29
 
 # 8: Not as Good as Gold? Genomics, Data and Dignity
 
-*Bruce Baer Arnold and Wendy Elizabeth Bonython*
+######Bruce Baer Arnold and Wendy Elizabeth Bonython
 
-**Abstract**
-
+## Introduction
 Genomics enables us to read individuals and populations as abstractions
--- repositories of genetic data rather than persons. Through that lens
+- repositories of genetic data rather than persons. Through that lens
 it is tempting to regard 'good data' as a matter of what is big
 (comprehensive) and better (more accurate), rather than considering
 whether it is beneficial to or respectful of its human contributors. As
@@ -7866,10 +7293,10 @@ If the genome is 'the book of life' we must ensure that 'good' data is
 available to all and is understood rather than monopolized, mishandled
 or misread.
 
-## Introduction
 
-The genomics revolution -- opening, understanding and manipulating 'the
-book of life' -- results in fruitful questions about 'good data',
+
+The genomics revolution - opening, understanding and manipulating 'the
+book of life' - results in fruitful questions about 'good data',
 dignity, ethics and law.[^08chapter8_1]
 
 They are fruitful because they require engagement with issues that
@@ -7899,8 +7326,8 @@ respected, or commodities that can be mined by the artificial persons
 that we characterize as corporations and governments, creations that
 exist to foster our flourishing?[^08chapter8_9]
 
-This chapter accordingly considers 'good data' -- and good data practice
--- through a lens of genomics. The chapter initially discusses genomics
+This chapter accordingly considers 'good data' - and good data practice
+- through a lens of genomics. The chapter initially discusses genomics
 as a way of seeing that enables us to read individuals and populations
 as abstractions: repositories of genetic data (and hence potential
 susceptibilities, disorders and even behavioural traits) rather than
@@ -7969,9 +7396,9 @@ diverse government agencies and private sector proxies.[^08chapter8_21]
 
 A rich scholarly literature over the past forty years has identified
 privacy and other dignitarian concerns regarding the identification of
-citizens and non-citizens -- the latter being potentially especially
+citizens and non-citizens - the latter being potentially especially
 vulnerable as people situated outside the law that protects their
-citizen peers -- as data subjects. Those subjects are entities that are
+citizen peers - as data subjects. Those subjects are entities that are
 administered as and because they are manifestations of specific
 attributes rather than as individuals who are more than a social
 security number, a tax file number, an affirmative action tag or an
@@ -8042,7 +7469,7 @@ endorsing population-scale genomic initiatives alongside private
 ventures such as 23andMe that are marketed as recreational
 genomics.[^08chapter8_32] Such activity is complemented by public and private
 sector plans, notably in the United Kingdom and Israel, to share
-population-scale health records -- for example data about everyone who
+population-scale health records - for example data about everyone who
 has attended a hospital or general practitioner in England under the
 National Health Service. Recent studies have also identified health data
 and health institutions as key targets for cyberattack.[^08chapter8_33]
@@ -8067,7 +7494,7 @@ necessarily addressed through promises regarding de-identification to
 make data good.[^08chapter8_40] The effectiveness of de-identification mechanisms
 remains contentious, [^08chapter8_41] given the scope for associating
 individual/familial genomic data with other identifiers in the public
-and private realms -- a manifestation of the 'big data' explored
+and private realms - a manifestation of the 'big data' explored
 elsewhere in this book. The disputes require thought about incentives
 for innovation and about regulatory incapacity in a global economy where
 data may be readily harvested in one jurisdiction, analyzed in another
@@ -8111,8 +7538,8 @@ precedes understanding and wisdom'.[^08chapter8_45] In considering what genomic
 dignity, we might accordingly conceptualize data as a tool, rather than
 an outcome. On that basis goodness might be assessed through reference
 to how the tool is devised and used rather than merely whether the
-products of its use -- the understanding, diagnostics, therapies and
-revenue -- are beneficent.
+products of its use - the understanding, diagnostics, therapies and
+revenue - are beneficent.
 
 If we look beyond the 'data is good' rhetoric noted above we might for
 example recognize that some data collection is egregiously wrong,
@@ -8152,7 +7579,7 @@ researchers of data about the resilience of the human body under extreme
 stress, with the expectation that the resultant knowledge would enable
 life-saving practices. The collection involved researchers placing
 concentration camp inmates in freezing water, in high pressure chambers,
-or depriving them of air. Those data objects -- people -- were not
+or depriving them of air. Those data objects - people - were not
 provided with painkillers. They were not in a position to consent, and
 were denied dignity.[^08chapter8_47] Many died during the data collection. The data
 collected during what we now characterize in law as a crime against
@@ -8241,9 +7668,9 @@ characteristics of close and distant relatives. If we conceptualize a
 person as a genomic file, an embodiment of genomic data, we can see that
 participants in recreational genomics are unilaterally offering service
 providers data about other people rather than just about themselves.
-Some people with concerns about potential genetic discrimination -- the
+Some people with concerns about potential genetic discrimination - the
 genomic redlining by insurers, employers and others that has featured in
-legal literature over the past twenty years -- may choose not to
+legal literature over the past twenty years - may choose not to
 participate in recreational genomics and be disquieted that others are
 tacitly co-opting them through undisclosed provision of swabs.[^08chapter8_57] The
 authors of this chapter have highlighted concerns about a 'right not to
@@ -8327,7 +7754,7 @@ solution to those conundrums lies outside patent law.
 ## Genomics and Data in a Good Society
 
 Infolibertarian John Perry Barlow envisaged that in the imminent age of
-data -- bits and bytes -- the state would wither because neither
+data - bits and bytes - the state would wither because neither
 relevant nor effective, with what he construed as the individualistic
 values underlying the US Constitution becoming universal. [^08chapter8_64]
 Regulation, seen as innately restrictive of creativity and thus of
@@ -8339,8 +7766,8 @@ the irrelevant state evaporating like a mothball.[^08chapter8_65] A succinct
 response was provided by Bart Kosko: 'we'll have governments as long as
 we have atoms to protect'.[^08chapter8_66] The past two decades have shown that the
 lions are reluctant to lie down with the lambs. National borders (and
-national interests) remain powerful. The law of man -- as distinct from
-Barlow and Lessig's law of code -- continues to shape both investment
+national interests) remain powerful. The law of man - as distinct from
+Barlow and Lessig's law of code - continues to shape both investment
 and consumption.[^08chapter8_67] In thinking about good data we need to think about
 the good society, one that John Rawls would consider to be fair,[^08chapter8_68]
 and that Martha Nussbaum would endorse as fostering the capabilities of
@@ -8377,7 +7804,7 @@ Such action would recognise genomic patents, such as those gained by
 Myriad, but cap the prices charged for products embodying those patents
 and attributable to genomic data. That restriction can be deemed as
 legitimate both in terms of rationales for intellectual property
-protection -- patents are not an end in themselves -- and because much
+protection - patents are not an end in themselves - and because much
 genomic research is founded on discovery in the public domain by public
 institutions or funded by public agencies.
 
@@ -8435,7 +7862,7 @@ good, with Kant for example addressing Aristotle's questions about 'the
 good' by exhorting us not to treat people as a means to an end,
 abstractions without dignity that can be sacrificed for personal,
 institutional or political needs. In an era where investors, governments
-and researchers are awed by 'big data' -- the bigger the better -- it is
+and researchers are awed by 'big data' - the bigger the better - it is
 useful to recall statements such as Stalin's 'the death of one person is
 a tragedy, the death of a million is a mere statistic' and the
 fetishization of bigness in Mao's China where the demise of millions was
@@ -8468,8 +7895,8 @@ research. Agency may also be construed in terms of action by public
 sector entities, a matter of formal authority to intervene in markets,
 of expertise to both understand and articulate questions about genomic
 data, and a culture in which regulators are willing to intervene. That
-intervention -- what might be characterized as a reintroduction of state
--- should provide legitimacy for the state (a social good) and foster
+intervention - what might be characterized as a reintroduction of state
+- should provide legitimacy for the state (a social good) and foster
 understanding by individuals about how we collectively and individually
 manage the genome. An ultimate function of the state is enabling
 discourse about what is good.
@@ -8477,11 +7904,11 @@ discourse about what is good.
 ## References 
 
 Alpert, Sheri. 'Protecting medical privacy: Challenges in the age of
-genetic information', *Journal of Social Issues* 59 (2003): 301--322.
+genetic information', *Journal of Social Issues* 59 (2003): 301-322.
 
 Andrews, Lori and Jordan Paradise. 'Gene patents: The need for bioethics
 scrutiny and legal change', *Yale Journal of Health Policy Law & Ethics*
-5 (2005): 403--412.
+5 (2005): 403-412.
 
 Annas, George and Michael Grodin (eds). *The Nazi Doctors and the
 Nuremberg Code: Human Rights in Human Experimentation,* Oxford: Oxford
@@ -8490,34 +7917,34 @@ University Press, 1992.
 Arnold, Bruce Baer and Wendy Elizabeth Bonython. 'Australian reforms
 enabling disclosure of genetic information to genetic relatives by
 health practitioners', *Journal of Law and Medicine* 21.4 (2014):
-810--812.
+810-812.
 
 Arnold, Bruce Baer and Wendy Bonython. 'Should we stripmine your
-eHealth data', *Health Voices* 15 (2014): 18--19.
+eHealth data', *Health Voices* 15 (2014): 18-19.
 
 Arnold, Bruce Baer and Wendy Bonython. 'Sharing the Book of Life:
 Privacy, the new genomics and health sector managers', *Privacy Law
-Bulletin* 12 (2015): 9--14.
+Bulletin* 12 (2015): 9-14.
 
 Atlas, Michel C. 'Ethics and Access to Teaching Materials in the Medical
 Library: The Case of the Pernkopf Atlas', *Bulletin of the Medical
-Library Association* 89.1 (2001): 51--58.
+Library Association* 89.1 (2001): 51-58.
 
 Barlow, John Perry. 'The Economy of Ideas: A Framework for Patents and Copyrights in the Digital Age (Everything You Know about Intellectual Property is
 Wrong)', *Wired* 2.3 (March 1994): 1-13.
 
 Barlow, John Perry. 'A Declaration of the Independence of Cyberspace',
 in Peter Ludlow (ed.), *Crypto Anarchy, Cyberstates, and Pirate
-Utopias,* Cambridge MA: MIT Press, 2001: 27--30.
+Utopias,* Cambridge MA: MIT Press, 2001: 27-30.
 
 Benjamin, Ruha. 'A lab of their own: Genomic sovereignty as postcolonial
-science policy', *Policy and Society* 28 (2009): 341--355.
+science policy', *Policy and Society* 28 (2009): 341-355.
 
 Berman, Marshall. *All That Is Solid Melts Into Air: The Experience of
 Modernity,* London: Verso, 2001.
 
 Beyleveld, Deryck and Roger Brownsword. 'Human dignity, human rights,
-and human genetics', *Modern Law Review* 61 (1998): 661--680.
+and human genetics', *Modern Law Review* 61 (1998): 661-680.
 
 Birch, Kean. 'The neoliberal underpinnings of the bioeconomy: the
 ideological discourses and practices of economic competitiveness',
@@ -8704,7 +8131,7 @@ Cheshire Henbury, 2007: 89--103.
 
 Kutz, Gregory. 'Direct to consumer Genetic Tests: Misleading Test
 Results Are Further Complicated by Deceptive Marketing and Other
-Questionable Practices---Testimony. Before the Subcommittee on Oversight
+Questionable Practices - Testimony. Before the Subcommittee on Oversight
 and Investigations, Committee on Energy and Commerce, House of
 Representatives', United States Government Accountability Office, 2010.
 
@@ -9162,7 +8589,7 @@ population biobanks and direct-to-consumer genetic testing companies',
 
 [^08chapter8_59]: Gregory Kutz, 'Direct to consumer Genetic Tests: Misleading Test
     Results Are Further Complicated by Deceptive Marketing and Other
-    Questionable Practices---Testimony. Before the Subcommittee on
+    Questionable Practices - Testimony. Before the Subcommittee on
     Oversight and Investigations, Committee on Energy and Commerce,
     House of Representatives', United States Government Accountability
     Office, 2010; Rachel Kalf, Rachel Bakker, and Cecile Janssens,
@@ -9252,14 +8679,13 @@ population biobanks and direct-to-consumer genetic testing companies',
 
 # 9: Data Localization: Policymaking or Gambling?
 
-*Nikita Melashchenko[^09chapter9_1]*
+######Nikita Melashchenko[^09chapter9_1]
 
 > 'Sir, the possibility of successfully navigating an asteroid field is
 > approximately 3,720 to 1.'<br />
 > *C-3PO, Star Wars: The Empire Strikes Back*
 
-**Abstract**
-
+## Introduction
 The benefits of the information society come at the price of increasing
 data dependency. This creates tensions between economic, privacy, and
 public security interests. While data fuels the digital economy and
@@ -9273,7 +8699,7 @@ drawing on the nature of information and its lifecycles. The chapter
 concludes with a mapping tool for data localization policies and moves
 towards the analytical framework for data regulation.
 
-## Introduction
+
 
 Data has a location and its regulation matters. Whether data constitutes
 paper records collecting dust on a shelf, or electronic records embedded
@@ -9290,7 +8716,7 @@ Nonetheless, depending on the regulatory model, physical infrastructure
 might affect social welfare in one way or another. This is evident in
 the emerging fight for allocation and redistribution of data among
 storage facilities in various jurisdictions. One of the tools states use
-in this struggle is data localization (DL) -- the reason why LinkedIn
+in this struggle is data localization (DL) - the reason why LinkedIn
 stopped operating in Russia, Apple is opening data centers in China and
 moving encryption keys onshore, and Microsoft wallowed in disputes with
 the US Government.[^09chapter9_3]
@@ -9324,7 +8750,7 @@ World Trade Organization (WTO). Against this background, it examines the
 role of information management cycles (IMCs) and regulatory principles
 in data regulation. This allows the final analysis that maps DL policies
 and provides insights into how DL features such as storage location and
-technological implementation could affect the output of DL policy --
+technological implementation could affect the output of DL policy -
 providing the key analytical framework for crafting data regulations
 that avoid negative consequences. While mapping is not a new theory, it
 is the analytical framework that should initiate the transition from DL
@@ -9481,7 +8907,7 @@ provide guidance.
 
 Rapid datafication consisting of data computerization and reevaluation
 has sparked the discussion of data power and its connection to social
-justice.[^09chapter9_33] This gave rise to the idea of data justice -- an ethical
+justice.[^09chapter9_33] This gave rise to the idea of data justice - an ethical
 guide for information society and the basis of data regulation. Data
 justice being a fairly new phenomenon is the subject of research within
 various fields of study.[^09chapter9_34] The notion of data justice reflects on
@@ -9515,8 +8941,8 @@ policy goals by countless means. At the same time, such means should be
 analyzed as whole since one small detail could determine the output of
 the system. For instance, would a measure fully depriving individuals of
 their autonomy to guard data serve the purpose of privacy protection?
-How does a DL system technically incapable of enforcing a law -- or
-prone to over-enforcement -- contribute to serving data justice and
+How does a DL system technically incapable of enforcing a law - or
+prone to over-enforcement - contribute to serving data justice and
 account for necessity? Mapping DL practices should help answer these
 questions.
 
@@ -9599,7 +9025,8 @@ observables and therefore the output of the DL policy.[^09chapter9_41] Such outp
 in terms of welfare consequences then could be measured against
 regulatory principles.
 
-![image](imgs/Chapter9_Melashchenko_image1.jpg)
+
+![](imgs/Chapter9_Melashchenko_image1.jpg)
 *Figure 1.*
 
 Depending on collection of variables, their types and interpretation it
@@ -10297,10 +9724,9 @@ WTO Agreement: Marrakesh Agreement Establishing the World Trade Organization, Ap
 
 # 10: Making Data Public? The Open Data Index as Participatory Device
 
-*Jonathan Gray and Danny Lämmerhirt*
+######Jonathan Gray and Danny Lämmerhirt
 
-**Abstract**
-
+## Introduction
 The Open Data Index is a 'civil society audit' which strives to shape
 the availability and openness of public sector data from around the
 world. In this chapter we examine the social life of this project,
@@ -10321,7 +9747,7 @@ where participation is both configured and contested, and where
 practices of valuation and enumeration are both conventionalised and
 brought into question.
 
-## Introduction
+
 
 How can various publics participate in shaping what data is created,
 collected and distributed by states? How might public participation
@@ -10386,7 +9812,7 @@ institutions,[^10chapter10_8] it can also be considered in terms of recent work 
 data politics, including 'stactivism'[^10chapter10_9] and 'data activism'.[^10chapter10_10] The
 Open Data Index can be envisaged not only as a way to measure
 accessibility but also as a particular kind of intervention around
-official regimes of quantification and datafication -- including around
+official regimes of quantification and datafication - including around
 the horizons of intelligibility, the formation of collectives and the
 varieties of transnational coordination that they give rise to.[^10chapter10_11]
 
@@ -10459,9 +9885,9 @@ governments could reasonably be expected to collect':
 
 3. National Map (Low resolution: 1:250,000 or better)
 
-4. Government Budget (high level -- spending by sector)
+4. Government Budget (high level - spending by sector)
 
-5. Government Budget (detailed -- transactional level data)
+5. Government Budget (detailed - transactional level data)
 
 6. Legislation (laws and statutes)
 
@@ -10505,15 +9931,15 @@ manage input and resolve issues, and how the project was situated in
 relation to the strategic and organisational prerogatives of its host
 NGO, its collaborators, funders, states, IGOs, and other actors. Some of
 these issues were raised in a blog post by open data advocate David
-Eaves highlighting the potential risk that 'British biases -- with its
-highly centralized national government -- have strongly shaped the
+Eaves highlighting the potential risk that 'British biases - with its
+highly centralized national government - have strongly shaped the
 census':
 
 > Thus, while the census evaluates countries some of the data sets being
-> counted are not controlled by national governments. For example --
+> counted are not controlled by national governments. For example -
 > will national governments Canada or the United States get counted for
 > public transport data if any of their cities release transit data?
-> Indeed, transit data -- while demonstrably useful -- strikes me as an
+> Indeed, transit data - while demonstrably useful - strikes me as an
 > odd duck choice since it is almost always not managed by national
 > governments. The same can be said for company/corporate registers, in
 > which the most important data sets are managed by sub-national
@@ -10618,7 +10044,7 @@ The mailing lists and communications activities around the index also
 surfaced frictions in the process of creating a single score and ranking
 for the openness of data in countries and cities around the world.
 Submissions included comments and queries about pricing, licensing and
-the availability of data -- such as concerns that the norms of the index
+the availability of data - such as concerns that the norms of the index
 were in tension with administrative and governance arrangements of
 countries being scored. A researcher contributing to the Canadian
 assessment suggested 'the methodology does not work well for federations
@@ -10747,7 +10173,7 @@ advance their issue work by means of specialised research and policy
 teams, the Open Data Index has been designed to organise public
 involvement around the assessment of public data. It might thus be
 considered in terms of its capacities to enable not only *analysis*, but
-also *interactivity* using digital technologies -- as well as
+also *interactivity* using digital technologies - as well as
 structuring participation in particular ways which are not without
 tension.[^10chapter10_39] Through this discussion of the development and social life
 of the Open Data Index, we suggest how it may be viewed as a
@@ -10771,21 +10197,21 @@ December 2015, https://data.blog.gov.uk/2015/12/15/open-data-the-race-to-the-top
 
 Dawes, Sharon S., Lyudmila Vidiasova and Olga Parkhimovich. 'Planning
 and designing open government data programs: An ecosystem approach',
-*Government Information Quarterly* 33 (2016): 15--27.
+*Government Information Quarterly* 33 (2016): 15-27.
 
 Eaves, David. 'How To Evaluate The State Of Open Data', *Techpresident*,
 8 May 2012, http://techpresident.com/news/wegov/22161/how-evaluate-state-open-data.
 
 Espeland, Wendy N., and Mitchell L. Stevens. 'Commensuration as a Social
-Process', *Annual Review of Sociology* 24 (1998): 313--343.
+Process', *Annual Review of Sociology* 24 (1998): 313-343.
 
 Espeland, Wendy N., and Michael Sauder. 'Rankings and Reactivity: How
 Public Measures Recreate Social Worlds', *American Journal of Sociology*
-113 (2007): 1--40.
+113 (2007): 1-40.
 
 Fish, Adam, Christopher M. Kelty, Luis F.R. Murillo, Lilly Nguyen, and
 Aaron Panofsky. 'Birds of the Internet'. *Journal of Cultural Economy* 4
-(2011): 157--187.
+(2011): 157-187.
 
 Gray, Jonathan. 'Towards a Genealogy of Open Data', *European Consortium
 for Political Research General Conference*, Glasgow, 3-6 September 2014,
@@ -10803,13 +10229,13 @@ Software: The Cultural Significance of Free Software and the Internet*,
 Durham NC: Duke University Press, 2008.
 
 Latour, Bruno. 'Why Has Critique Run out of Steam? From Matters of Fact
-to Matters of Concern', *Critical Inquiry* 30 (2004): 225--248.
+to Matters of Concern', *Critical Inquiry* 30 (2004): 225-248.
 
 \_\_\_\_\_. *An Inquiry into Modes of Existence: An Anthropology of the
 Moderns*, trans C. Porter, Cambridge MA: Harvard University Press, 2013.
 
 Law, John, and Evelyn Ruppert. 'The Social Life of Methods: Devices',
-*Journal of Cultural Economy* 6 (2013): 229--240.
+*Journal of Cultural Economy* 6 (2013): 229-240.
 
 Le Dantec, Christopher A., and Carl DiSalvo. 'Infrastructuring and the
 formation of publics in participatory design', *Social Studies of
@@ -10824,13 +10250,13 @@ Research*, Cambridge: Polity Press, 2017.
 
 Milan, Stefania and Lonneke van der Velden. 'The Alternative
 Epistemologies of Data Activism', *Digital Culture & Society* 2 (2016):
-57--74.
+57-74.
 
 Montiel, Oscar. 'Our Country Sample and What It Tells Us About Our
 Contributors', *Open Knowledge International blog*, 3 May 2017,
 https://blog.okfn.org/2017/05/03/our-country-sample-and-what-it-tells-about-our-contributors/.
 
-Open Knowledge International. 'Government data still not open enough --
+Open Knowledge International. 'Government data still not open enough -
 new survey on eve of London summit', *Open Knowledge International
 blog*, 28 October 2013,
 https://blog.okfn.org/2013/10/28/government-data-still-not-open-enough/.
@@ -10843,7 +10269,7 @@ Pauwels, Pieter-Jan. 'Results of Wiki Survey and final steps', 12
 September 2014,
 http://openbelgium.be/2014/09/results-of-wiki-survey-and-final-steps/.
 
-Pollock, Rufus. 'The Open Data Census -- Tracking the State of Open Data
+Pollock, Rufus. 'The Open Data Census - Tracking the State of Open Data
 Around the World', *Open Knowledge International blog*, 20 February
 2013,
 https://blog.okfn.org/2013/02/20/open-data-census-tracking-the-state-of-open-data-around-the-world/.
@@ -10877,7 +10303,7 @@ Accountability, Ethics and the Academy*, London: Routledge, 2000.
 
 Thorsby, Jeffrey, Genie, N.L. Stowers, Kristen Wolslegel and Ellie
 Tumbuan. 'Understanding the content and features of open data portals in
-American cities', *Government Information Quarterly* 34 (2017): 53--61.
+American cities', *Government Information Quarterly* 34 (2017): 53-61.
 
 Tkacz, Nathaniel. *Wikipedia and the Politics of Openness*, Chicago:
 University Of Chicago Press, 2014.
@@ -10888,11 +10314,11 @@ https://www.transparency.org/news/feature/corruption_perceptions_index_2017.
 
 Verran, Helen. 'Number as an inventive frontier in knowing and working
 Australia's water resources', *Anthropological Theory* 10 (2010):
-171--178.
+171-178.
 
 \_\_\_\_\_. 'Enumerated Entities in Public Policy and Governance', in
 Ernest Davis and Philip J. Davis (eds), *Mathematics, Substance and
-Surmise,* New York: Springer, 2015, pp. 365--379.
+Surmise,* New York: Springer, 2015, pp. 365-379.
 
 Villum, Christian. 'The Open Data Census Challenge on Open Data Day
 2013', *Open Knowledge International blog,* 5 March 2013,
@@ -10913,17 +10339,17 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_4]: Wendy N. Espeland and Michael Sauder, 'Rankings and Reactivity:
     How Public Measures Recreate Social Worlds', *American Journal of
-    Sociology*, 113 (2007): 1--40. Richard Rottenburg, Sally E. Merry,
+    Sociology*, 113 (2007): 1-40. Richard Rottenburg, Sally E. Merry,
     Sung-Joon Park, and Johanna Mugler (eds.), *The World of Indicators:
     The Making of Governmental Knowledge through Quantification*,
     Cambridge: Cambridge University Press, 2015.
 
 [^10chapter10_5]: Helen Verran, 'Number as an inventive frontier in knowing and
     working Australia's water resources', *Anthropological Theory*, 10
-    (2010): 171--178; Helen Verran, 'Enumerated Entities in Public
+    (2010): 171-178; Helen Verran, 'Enumerated Entities in Public
     Policy and Governance', in Ernest Davis and Philip J. Davis (eds),
     *Mathematics, Substance and Surmise,* New York: Springer, 2015, pp.
-    365--379.
+    365-379.
 
 [^10chapter10_6]: Transparency International, 'Corruption Perceptions Index',
     *Transparency International blog*, 21 February 2018,
@@ -10935,11 +10361,11 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_8]: Sharon S. Dawes, Lyudmila Vidiasova and Olga Parkhimovich,
     'Planning and designing open government data programs: An ecosystem
-    approach', *Government Information Quarterly* 33 (2016): 15--27;
+    approach', *Government Information Quarterly* 33 (2016): 15-27;
     Jeffrey Thorsby, Genie N.L. Stowers, Kristen Wolslegel, and Ellie
     Tumbuan, 'Understanding the content and features of open data
     portals in American cities', *Government Information Quarterly* 34
-    (2017): 53--61.
+    (2017): 53-61.
 
 [^10chapter10_9]: Isabelle Bruno*,* Emmanuel Didier and Tommaso Vitale
     'Statactivism: Forms of Action Between Disclosure and Affirmation',
@@ -10947,16 +10373,16 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_10]: Stefania Milan and Lonneke van der Velden, 'The Alternative
     Epistemologies of Data Activism', *Digital Culture & Society* 2
-    (2016): 57--74.
+    (2016): 57-74.
 
 [^10chapter10_11]: Jonathan Gray, 'Three Aspects of Data Worlds', *Krisis: Journal
     for Contemporary Philosophy* (2018).
 
 [^10chapter10_12]: John Law and Evelyn Ruppert, 'The Social Life of Methods:
-    Devices', *Journal of Cultural Economy* 6 (2013): 229--240.
+    Devices', *Journal of Cultural Economy* 6 (2013): 229-240.
 
 [^10chapter10_13]: Bruno Latour, 'Why Has Critique Run out of Steam? From Matters of
-    Fact to Matters of Concern', *Critical Inquiry* 30 (2004): 225--248.
+    Fact to Matters of Concern', *Critical Inquiry* 30 (2004): 225-248.
 
 [^10chapter10_14]: Nathaniel Tkacz, *Wikipedia and the Politics of Openness*,
     Chicago: University Of Chicago Press, 2014.
@@ -10972,18 +10398,18 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_17]: Adam Fish, Christopher M. Kelty, Luis F.R. Murillo, Lilly Nguyen,
     and Aaron Panofsky, 'Birds of the Internet', *Journal of Cultural
-    Economy* 4 (2011): 157--187. [ ]{.underline}
+    Economy* 4 (2011): 157-187. [ ]{.underline}
 
 [^10chapter10_18]: David Eaves, 'How To Evaluate The State Of Open Data',
     *Techpresident*, 8 May 2012,
     http://techpresident.com/news/wegov/22161/how-evaluate-state-open-data.
 
 [^10chapter10_19]: Open Knowledge International, 'Government data still not open
-    enough -- new survey on eve of London summit', *Open Knowledge
+    enough - new survey on eve of London summit', *Open Knowledge
     International blog*, 28 October 2013,
     https://blog.okfn.org/2013/10/28/government-data-still-not-open-enough/.
 
-[^10chapter10_20]: Rufus Pollock, 'The Open Data Census -- Tracking the State of
+[^10chapter10_20]: Rufus Pollock, 'The Open Data Census - Tracking the State of
     Open Data Around the World', *Open Knowledge International blog*, 20
     February 2013, 
     https://blog.okfn.org/2013/02/20/open-data-census-tracking-the-state-of-open-data-around-the-world/.
@@ -11011,10 +10437,10 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_28]: Helen Verran, 'Number as an inventive frontier in knowing and
     working Australia's water resources'. *Anthropological Theory* 10
-    (2010): 171--178. Helen Verran, 'Enumerated Entities in Public
+    (2010): 171-178. Helen Verran, 'Enumerated Entities in Public
     Policy and Governance', in Ernest Davis and Philip J. Davis (eds),
     *Mathematics, Substance and Surmise,* New York: Springer, 2015, pp.
-    365--379.
+    365-379.
 
 [^10chapter10_29]: Rufus Pollock, 'Announcing the Local Open Data Census', *Open
     Knowledge International blog,* 4 February 2014,
@@ -11067,9 +10493,9 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 # 11: Data Journalism and the Ethics of Open Source
 
-*Colin Porlezza*
+######Colin Porlezza
 
-**Abstract**
+## Introduction
 
 Data journalism has enjoyed an increasing amount of attention and
 success both in media practice and in journalism research. Unlike
@@ -11083,18 +10509,17 @@ routines and what kind of best practices are in place in order to
 minimize the ethical challenges they are confronted with while
 accessing, analyzing and publishing data. The proposed chapter offers
 therefore a structured insight into whether and how data journalists
-implement the four normative principles -- transparency, participation,
-tinkering, and iteration -- that the concept of open source implies. The
+implement the four normative principles - transparency, participation,
+tinkering, and iteration - that the concept of open source implies. The
 chapter also highlights and discusses key ethical standards such as
 sharing source-codes or granting third parties with complete access to
 raw datasets.
 
-## Introduction
 
 According to Mayer-Schönberger and Cukier,[^11chapter11_1] the growing use of data
 provokes 'a revolution that will transform how we live, work and think'.
 The datafication of society - the attempt to transform everything into a
-specific data format in order to be quantified[^11chapter11_2] -- is a fundamental
+specific data format in order to be quantified[^11chapter11_2] - is a fundamental
 process because it supersedes both in scope and style the ways in which
 reality is seen and constructed. This new data abundance is not only
 reflected in the reliance on data as a secular belief,[^11chapter11_3] but also in
@@ -11108,7 +10533,7 @@ of study to observe datafication processes within society: first,
 because journalism observes datafication in society and brings the
 related issues into the public sphere. Second, because journalism
 increasingly embraces data-driven instruments connected to these
-processes -- data and algorithms -- to observe and shed light on the
+processes - data and algorithms - to observe and shed light on the
 datafication in the wider society. These changes in journalism practice
 lead to new forms of data journalism that offer new opportunities such
 as combing through data from public administrations,[^11chapter11_5] or uncovering
@@ -11129,8 +10554,8 @@ This chapter analyzes therefore the question to what extent data
 journalists reflect the ethical notions of the open source culture in
 their everyday work routines. By applying Lewis and Usher's four
 normative values ​​that are necessary to implement the principles of
-open source in the journalistic field -- transparency, participation,
-tinkering, and iteration -- the chapter studies whether Swiss and
+open source in the journalistic field - transparency, participation,
+tinkering, and iteration - the chapter studies whether Swiss and
 Italian data journalists are adhering to the notion of open source and,
 in addition, what kind of ethical quandaries they are facing.[^11chapter11_8]
 
@@ -11165,8 +10590,8 @@ consumers, but also as active producers of information.[^11chapter11_13] This ch
 in perception contributed to the development of a new journalistic
 paradigm that transcends the idea that all aspects of news work are
 limited to professional journalists only. Especially the emerging
-practice of crowdsourcing -- an open call for users to participate in
-certain online activities, for instance in collecting information -- was
+practice of crowdsourcing - an open call for users to participate in
+certain online activities, for instance in collecting information - was
 one of the main drivers of participatory forms of journalism.[^11chapter11_14]
 
 These changes in journalism, as Lewis pointed out, triggered the
@@ -11179,8 +10604,8 @@ communicating not only to, but also with, one another. In doing so, they
 all are participating in the ongoing processes of creating a news
 website and building a multifaceted community'.[^11chapter11_16] Yet, professional
 journalism remained resistant to change for a very long time, and
-participatory journalism -- understood as a shared news production
-process between professionals and amateurs -- remained an exception
+participatory journalism - understood as a shared news production
+process between professionals and amateurs - remained an exception
 rather than the rule. Williams et al. showed that newsrooms tend to
 co-opt participatory practices to suit traditional routines and
 ideals.[^11chapter11_17] In other cases, journalists tended to see users simply as
@@ -11200,10 +10625,10 @@ understanding of openness in terms of sharing collected data, being
 transparent about their use, and being actively interactive with users
 and other journalists.[^11chapter11_21]
 
-This slow change in the adaptation of a culture of openness -- to see
+This slow change in the adaptation of a culture of openness - to see
 users as peers rather than as an amorphous and anonymous group of
 consumers or to understand other journalists as colleagues within a
-network rather than as competitors -- was in part due to the rise of new
+network rather than as competitors - was in part due to the rise of new
 technologies such as social media and their affordances and culture
 based on participation. One of the most famous social media journalists,
 Andy Carvin, once described his own work as 'an open-source newsroom
@@ -11234,7 +10659,7 @@ However, the field of data journalism evolved unevenly both across and
 within different media systems, given that news organizations may not be
 willing or able to offer the necessary resources in terms of time and
 money either to sustain a specialized team or to develop a sufficient
-data literacy among their employed journalists -- also due to
+data literacy among their employed journalists - also due to
 traditional norms and practices still dominating the newsrooms.[^11chapter11_24]
 This means that the openness of data journalism not only depends on the
 individual dispositions of journalists, but also on organizational
@@ -11297,7 +10722,7 @@ zone',[^11chapter11_34] where the crossing of professional boundaries occurs not
 only more often, but it gets also increasingly accepted. The increasing
 collaborative setting of journalism reflects, at the same time, the fact
 that open journalism as well as data journalism are both the consequence
--- and the cause -- of the enlargement of the journalistic field. Deuze
+- and the cause - of the enlargement of the journalistic field. Deuze
 and Witschge pointed out that 'journalism takes place in increasingly
 networked settings, in formal as well as informal contexts, involving a
 wide range of actors and actants in various instances of both paid and
@@ -11425,7 +10850,7 @@ trained on how to handle such data and how to protect it from hacking or
 surveillance. The same applies to privacy issues that occur in the case
 of leaks. The protection of anonymity and of sources cannot always be
 guaranteed because most data journalists in both countries have never
-been 'educated' in matters of data protection -- even if the situation
+been 'educated' in matters of data protection - even if the situation
 is slowly changing, also due to the discoveries in the wake of the
 Snowden revelations:
 
@@ -11436,7 +10861,7 @@ more trust in journalists and to offer more data.' (I-J3).
 
 Open source can thus become a serious concern in journalism as well.
 Particularly nowadays, where journalism is seen as a 'dynamic set of
-practices and expectations -- a profession in a permanent process of
+practices and expectations - a profession in a permanent process of
 becoming', both organizations and individuals need to develop a
 normative framework that lives up to the standards of a networked,
 'liquid' and flexible journalism.
@@ -11472,7 +10897,7 @@ collaborators of the agencies are not exclusively journalists: often
 they include hackers, programmers, visualization experts and
 statisticians as well. Crossing organizational boundaries is a normal
 procedure, something legacy news media in Switzerland are still
-struggling with because -- even informal -- collaborations are often not
+struggling with because - even informal - collaborations are often not
 tolerated.
 
 ### The Ethics of Tinkering
@@ -11508,7 +10933,7 @@ innovative ideas: first to go beyond a culture of resistance, and second
 to avoid an innovation gap that might occur more rapidly for established
 news organizations that might even detain a quasi-monopolistic status.
 Particularly journalism startups with their focus on entrepreneurial
-thinking are more used to reflections on how to do things differently --
+thinking are more used to reflections on how to do things differently -
 a rather difficult task in newsrooms of established news media with
 their strong focus on daily news production. Italian data journalism
 startups and agencies are thus at the forefront when it comes to
@@ -11540,7 +10965,7 @@ terms of *entrepreneurial thinking,* particularly among data journalists
 working in larger news organizations. The main issue with an
 entrepreneurial approach, particularly within traditional news
 organizations is the fact that informal collaborations and networks
-often transcend the boundaries of news organizations -- diminishing the
+often transcend the boundaries of news organizations - diminishing the
 organizational and managerial control of news work. Nevertheless, both
 the more networked approach of Italian agencies as well as the
 traditional institutional approach can be successful, as news
@@ -11559,10 +10984,10 @@ handling sensitive information. These educational shortcomings entail
 ethical issues with regard to data and source protection.
 
 The findings show that the emergence of data journalism within the
-institutionalized field of journalism -- although some organizational
-backfiring -- fosters the normative framework of open source. Taking
-into account the increasing datafication of journalism -- and of society
-at large -- it is likely to remain here to stay. The concept of open
+institutionalized field of journalism - although some organizational
+backfiring - fosters the normative framework of open source. Taking
+into account the increasing datafication of journalism - and of society
+at large - it is likely to remain here to stay. The concept of open
 source offers to journalism, as it gets more networked, the opportunity
 to adopt specific values in a news ecosystem that relies more and more
 on a participatory digital media culture. In any case, open source has
@@ -11603,7 +11028,7 @@ responding to crisis by reporting with a crowd', *Computer Supported
 Cooperative Work* 23.4 (2014): 445-481.
 
 Deuze, Mark and Tamara Witschge. 'Beyond journalism: Theorizing the
-transformation of journalism', *Journalism* 19 (2018): 165--181.
+transformation of journalism', *Journalism* 19 (2018): 165-181.
 
 Gillmor, Dan. *We the Media: Grassroots Journalism by the People, for
 the People*, Sebastopol CA: O\'Reilly Media, 2004.
@@ -11611,7 +11036,7 @@ the People*, Sebastopol CA: O\'Reilly Media, 2004.
 Hermida, Alfred. 'Social journalism: exploring how social media is
 shaping journalism', in Eugenia Siapera & Andreas Veglis (eds), *The
 Handbook of Global Online Journalism*, Oxford: Wiley-Blackwell, 2012,
-pp. 309--328.
+pp. 309-328.
 
 Hermida, Alfred and Lynn Young, 'Finding the data unicorn. A hierarchy
 of hybridity in data and computational journalism', *Digital Journalism*
@@ -11638,7 +11063,7 @@ Mayer-Schönberger, Victor and Kenneth Cukier. *Big Data: A Revolution
 That Will Transform How We Live, Work and Think,* London: Murray, 2013.
 
 Phillips, Angela. 'Transparency and the new ethics of journalism',
-*Journalism Practice* 4.3 (2010): 373--382.
+*Journalism Practice* 4.3 (2010): 373-382.
 
 Porlezza, Colin. 'Dall\'open journalism all'open government? Il ruolo
 del data journalism nella trasparenza e nella partecipazione', *Problemi
@@ -11676,7 +11101,7 @@ Epistemology'. *Sociology Compass* (2016): online first.
 
 Turner, Fred. 'Where the counterculture met the new economy: the WELL
 and the origins of virtual community', *Technology and Culture* 46.3
-(2005): 485--512.
+(2005): 485-512.
 
 Uricchio, William. 'Data, Culture and the Ambivalence of Algorithms', in
 Mirko Tobias Schäfer and Karin van Es (eds), *The Datafied Society*,
@@ -11695,7 +11120,7 @@ between scientific paradigm and ideology', *Surveillance & Society* 12.2
 
 Williams, Andy, Claire Wardle and Karin Wahl-Jorgensen, '"Have they got
 news for us?" Audience revolution or business as usual at the BBC?'
-*Journalism Practice*, 5.1 (2011): 85--99.
+*Journalism Practice*, 5.1 (2011): 85-99.
 
 [^11chapter11_1]: Victor Mayer-Schönberger and Kenneth Cukier, *Big Data: A
     Revolution That Will Transform How We Live, Work and Think.* London:
@@ -11758,12 +11183,12 @@ news for us?" Audience revolution or business as usual at the BBC?'
 
 [^11chapter11_17]: Andy Williams, Claire Wardle and Karin Wahl-Jorgensen, '"Have
     they got news for us?" Audience revolution or business as usual at
-    the BBC?' *Journalism Practice*, 5.1 (2011): 85--99.
+    the BBC?' *Journalism Practice*, 5.1 (2011): 85-99.
 
 [^11chapter11_18]: Alfred Hermida, 'Social journalism: exploring how social media is
     shaping journalism', in Eugenia Siapera and Andreas Veglis (eds),
     *The Handbook of Global Online Journalism*, Oxford: Wiley-Blackwell,
-    2012, pp. 309--328.
+    2012, pp. 309-328.
 
 [^11chapter11_19]: Seth C. Lewis, 'The tension between professional control and open
     participation', *Information, Communication & Society* 15.6 (2012):
@@ -11828,7 +11253,7 @@ news for us?" Audience revolution or business as usual at the BBC?'
     Society* 35.5 (2013): 602-619.
 
 [^11chapter11_37]: Angela Phillips, 'Transparency and the new ethics of journalism',
-    *Journalism Practice* 4.3 (2010): 373--382.
+    *Journalism Practice* 4.3 (2010): 373-382.
 
 [^11chapter11_38]: Jane Singer, 'Norms and the Network: Journalistic Ethics in a
     Shared Media Space', in Christopher Meyers (ed.), *Journalism
@@ -11859,10 +11284,9 @@ news for us?" Audience revolution or business as usual at the BBC?'
 
 # 12: Governance of Communal Data Sharing
 
-*Chih-hsing Ho [^12chapter12_†] and Tyng-Ruey Chuangt[^12chapter12_††]*
+######Chih-hsing Ho [^12chapter12_†] and Tyng-Ruey Chuangt[^12chapter12_††]
 
-**Abstract**
-
+## Introduction
 The rapid development of the data economy calls for innovative research
 into its social and ethical impacts. When enormous opportunities emerge
 along with making use of vast amounts of data, challenges are generated
@@ -11881,7 +11305,7 @@ established. We will then develop frameworks for the governance of
 communal data sharing by combining common pool resource management and a
 socio-legal perspective on the commons.
 
-## Introduction
+
 
 Today we see many states as well as *private* initiatives to promote
 a *data*-driven industrial revolution across the globe. Data, said to be
@@ -11889,7 +11313,7 @@ like oil a century ago, has been cast as a new type of resource fuelling
 an emerging, lucrative digital-era industry.[^12chapter12_2] However, the wealth
 derived from this digital revolution is not being evenly distributed.
 According to a study by the Economist, all five of the most valuable
-listed companies in the world --- Apple, Alphabet (Google's parent
+listed companies in the world - Apple, Alphabet (Google's parent
 company), Amazon, Facebook and Microsoft are tech titans.[^12chapter12_3] Digital
 wealth is being monopolized and concentrated in very few hands. Such
 dominance has led to such side effects as unfair competition,
@@ -11910,8 +11334,8 @@ talk about 'community', we use this term in a non-conventional way. We
 try not to see community as a fixed group or a predefined collective
 identity. Rather, it refers to a set of ongoing engagement and practices
 of group making.[^12chapter12_5] In other words, it is this dynamic process of
-community making --- acts of mutual support, negotiation and
-experimentation, as David Bollier has argued --- that are needed to
+community making - acts of mutual support, negotiation and
+experimentation, as David Bollier has argued - that are needed to
 build innovative systems to manage shared resources.[^12chapter12_6] Along with
 these curiosities, we consider several examples, such as user data
 cooperatives[^12chapter12_7] and collaborative data projects,[^12chapter12_8] to further explore
@@ -11985,7 +11409,7 @@ data controllers have fulfilled their duties and the promises made prior
 to data collection.
 
 What challenges this conventional model of data governance is that the
-three actors -- data subjects, data controllers, and data users -- do
+three actors - data subjects, data controllers, and data users - do
 not share common views and interests on how they wish the data to be
 shared and reused. In practice, a common approach is for data
 controllers to anonymize personal data before the data to be released,
@@ -12261,7 +11685,7 @@ not willing to share their personal information. For those suspecting
 that they were exposed to similar hazards, they may be more willing to
 communicate with one another. Secure multiple-party computation methods
 can be developed to allow people to check whether they have a similar
-travel history -- countries visited in last six months, for example, but
+travel history - countries visited in last six months, for example, but
 without revealing where they went exactly. Open-audit e-voting methods
 will then allow these people to aggregate and share information without
 revealing their identities ('write in' one\'s major medical conditions
@@ -12561,10 +11985,9 @@ Taiwan. 8 Dec 2016, http://odw.tw/2016/.
 
 
 #13: Provocations for Social Media Research: Toward Good Data Ethics
-*Andrea Zeffiro*
+######Andrea Zeffiro
 
-**Abstract**
-
+##Introduction
 As academics continue to collect, scrape, integrate and analyse social
 media data, technical knowledge to acquire, analyse, secure and
 disseminate data is needed, but so too is a refined understanding of
@@ -12583,7 +12006,7 @@ distinct set of traits and ethical challenges. This chapter outlines
 provocations for ethical decision making and provides prompts for
 researchers to engage with throughout the life-cycle of research.
 
-##Introduction
+
 
 This chapter sets forth considerations for social media research by
 identifying provocations for how academic research methods, practices,
@@ -12921,7 +12344,7 @@ research ethics documents that refer to digital data collection do so in
 terms of 'internet research' and redirect to the requirements of the
 TCPS 2. Increasingly more common in Canada are research data management
 (RDM) plans that outline protocols for data management and stewardship.
-In June 2016, the three federal research funding agencies -- the
+In June 2016, the three federal research funding agencies - the
 Canadian Institutes of Health Research (CIHR), the Natural Sciences and
 Engineering Research Council of Canada (NSERC), and the Social Sciences
 and Humanities Research Council of Canada (SSHRC) - released a
@@ -13162,10 +12585,10 @@ any third parties'.[^13chapter13_71] I would go so far as to endorse a version o
 
 > 'Are you willing to change your business model in the interest of
 > protecting individual privacy?'
-> <br />-- *Democratic Representative Anna Eshoo[^13chapter13_72]*
+> <br />- *Democratic Representative Anna Eshoo[^13chapter13_72]*
 ><br /><br />
 > 'Congresswoman, I'm not sure what that means.'
-> <br />--*Mark Zuckerberg[^13chapter13_73]*
+> <br />-*Mark Zuckerberg[^13chapter13_73]*
 
 Privacy in relation to social media data has received significant
 attention as of late.[^13chapter13_74] The Facebook and Cambridge Analytica
@@ -13469,7 +12892,7 @@ news-feeds.
 
 boyd danah and Kate Crawford. 'Critical Questions for Big Data:
 Provocations for a Cultural, Technological and Scholarly Phenomenon',
-*Information, Communication & Society* 15.5 (2012): 662--679.
+*Information, Communication & Society* 15.5 (2012): 662-679.
 
 boyd danah. 'Where do we find ethics?' *Points*, 5 April 2016, https://
 points.datasociety.net/where-do-we-find-ethics-d0b9e8a7f4e6.
@@ -13516,14 +12939,14 @@ Politicians Target You', *The New York Times*, 11 April 2018, https://www.nytime
 
 Crawford, Kate, Kate Miltner and Mary L. Gray. 'Critiquing Big Data:
 Politics, Ethics, Epistemology', *International Journal of
-Communication* 8 (2014): 1663--1672.
+Communication* 8 (2014): 1663-1672.
 
 Dalton, Craig, and Jim Thatcher. 'What Does a Critical Data Studies Look
 Like, and Why Do We Care? Seven Points for a Critical Approach to "Big
 Data"', *Society & Space Open Site*, (2014), http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/.
 
 Dalton Craig, Linnet Taylor and Jim Thatcher. 'Critical Data Studies: A
-Dialog on Data and Space', *Big Data & Society* 3.1 (2014): 1--9.
+Dialog on Data and Space', *Big Data & Society* 3.1 (2014): 1-9.
 
 Das, Sauvik and Adam Kramer. 'Self-censorship on Facebook', *Proceedings
 of the Seventh International AAAI Conference on Weblogs and Social
@@ -13598,7 +13021,7 @@ the Name of Ethics', *Qualitative Sociology* *27*.4 (2004): 391-414.
 Hauge Michelle V., Mark D. Stevenson, Kim D. Rossmo and Steven Le
 Comber. 'Tagging Banksy: Using Geographic Profiling to Investigate a
 Modern Art Mystery', *Journal of Spatial Science,* 61.1 (2016):
-185--190.
+185-190.
 
 Hearn, Alex. 'Google will Stop Scanning Content of Personal Emails',
 *The Guardian*, 26 June 2017,
@@ -13632,7 +13055,7 @@ http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474112.
 
 Kramer, Adam, Jamie Guillory and Jeffrey Hancock. 'Experimental Evidence
 of Massive- Scale Emotional Contagion Through Social Networks',
-*Proceedings National Academy of Science,* 111.24 (2014): 8788--8790.
+*Proceedings National Academy of Science,* 111.24 (2014): 8788-8790.
 
 Leathern, Rob. 'A New Level of Transparency for Ads and Pages',
 *Facebook Newsroom*, 28 June 2018, https://newsroom.fb.com/news/2018/06/transparency-for-ads-and-pages/.
@@ -13646,7 +13069,7 @@ Activating Situated Knowledges and a Feminist Ethics of Care in Social
 Media Research', *Social Media + Society*, April 2018, http://journals.sagepub.com/doi/full/10.1177/2056305118768297.
 
 Markham, Annette. 'Ethic as Method, Method as Ethic'*, Journal of
-Information Ethics* 15.2 (2006): 37--54.
+Information Ethics* 15.2 (2006): 37-54.
 
 \_\_\_\_\_, and Elizabeth Buchanan. *Ethical Decision-Making and
 Internet Research 2.0:* *Recommendations* *From* t*he* *AoIR* *Ethics*
@@ -13685,7 +13108,7 @@ facebooks-secret-mood-manipulation-experiment/373648/.
 
 Michael, Mike and Deborah Lupton. 'Toward a Manifesto for the \'Public
 Understanding of Big Data', *Public Understanding of Science* 25.1
-(2015): 104--116.
+(2015): 104-116.
 
 Napoli, Philip, and Robyn Caplan. 'Why Media Companies Insist They\'re
 Not Media Companies, Why They're Wrong, and Why it Matters', *First
@@ -13693,13 +13116,13 @@ Monday* 22.5 (2017).
 
 Neff, Gina, Anissa Tanweer, Brittany Fiore-Gartland and Laura Osburn.
 'Critique and Contribute: A Practice-Based Framework for Improving
-Critical Data Studies and Data Science', *Big Data* 5.2 (2017): 85--97.
+Critical Data Studies and Data Science', *Big Data* 5.2 (2017): 85-97.
 
 Nissenbaum, Helen. *Privacy in Context: Technology, Policy and the
 Integrity of Social Life*, Palo Alto: Stanford University Press, 2009.
 
 \_\_\_\_\_. 'A Contextual Approach to Privacy Online', *Daedalus, 140.*4
-(2011): 32--48.\
+(2011): 32-48.\
 Noble, Safiya Umoja. *Algorithms of Oppression: How Search Engines
 Reinforce Racism*, New York: NYU Press, 2018.
 
@@ -14392,12 +13815,11 @@ Zwitter, Andrej. 'Big Data Ethics', *Big Data & Society* (July 2014), https://jo
 
 
 # 14: Data for the Social Good: Toward a Data-Activist Research Agenda
-*Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti
-Wissenbach and Stefania Milan[^14chapter14_1]*
+######Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti Wissenbach and Stefania Milan[^14chapter14_1]
 
 ##Introduction
 
-'Big data' is a hyped buzzword---or rather, it has been for a while,
+'Big data' is a hyped buzzword - or rather, it has been for a while,
 before being supplanted by 'newer' acclaimed concepts such as artificial
 intelligence. The popularity of the term says something about the
 widespread fascination with the seemingly infinite possibilities of
@@ -14417,7 +13839,7 @@ data collection and represent the new frontier of citizens' engagement
 with information and technological innovation.
 
 In this chapter we survey diverse experiences and methodologies of what
-we call 'data-activist research'---an approach to research that combines
+we call 'data-activist research' - an approach to research that combines
 embeddedness in the social world with the research methods typical of
 academia and the innovative repertoires of data activists. We argue that
 such approach to knowledge production fosters community building and
@@ -14615,7 +14037,7 @@ agency has engaged in a variety of projects spanning from the analysis
 of deadly drone attacks in Syria, to the disappearance of 43 Mexican
 students, to the ecocide in Indonesia.[^14chapter14_27] The data sources that
 Forensic Architecture relies upon to fuel its investigation are of
-varied nature---from satellite images, to publicly available data and
+varied nature - from satellite images, to publicly available data and
 media produced by the communities involved in the events under scrutiny.
 
 The 'Left to Die Boat', a project by *Forensic Oceanography,* is a good
@@ -14634,7 +14056,7 @@ the crime of non-assistance at sea.[^14chapter14_28]
 
 *Forensic Oceanography* shows how it is possible to use as research
 input monitoring technologies, including those typically used by police
-forces, with the goal of bringing about a 'disobedient gaze'---a
+forces, with the goal of bringing about a 'disobedient gaze' - a
 perspective that challenges the dominant narrative. As Pezzani and
 Heller explain it, this disobedient gaze performs a reversal of the
 surveilling action, turning its sight to the act of policing
@@ -14642,7 +14064,7 @@ itself.[^14chapter14_29] Through this inversion, *Forensic Oceanography* brings 
 light events and issues that the surveilling system prefers to hide. It
 also shows how monitoring technologies can be used to hold accountable
 the very agents who set them in place to exert power. Thus, this
-project---as well as the rest of *Forensic Architecture*'s work---makes
+project - as well as the rest of *Forensic Architecture*'s work - makes
 evident how the availability of data can foster the creation of new
 mechanisms of participation that take advantage of technologies designed
 for other purposes. In this sense, *Forensic Oceanography* is a great
@@ -14708,8 +14130,8 @@ and practices. Keeping the software tools open allows other activists to
 replicate the work of the organization.
 
 In conclusion, the activities of the *Syrian Archive* stress that, even
-if one purses an urgent goal through activism---such as collecting data
-about human rights violations before it disappears or gets censored---it
+if one purses an urgent goal through activism - such as collecting data
+about human rights violations before it disappears or gets censored - it
 is still of paramount importance to pay attention to the consequences of
 data gathering, processing and sharing facilitated by digital
 technology. Furthermore, the project shows how it is possible to build
@@ -14754,8 +14176,8 @@ exemplifies the crucial role of human interaction and
 relationship-building around technological innovation if this is to
 become relevant for local communities. The platform's reliance on the
 local context and its specificities underscores also the importance of
-making use of the already existing infrastructure---encompassing both
-technology and human relations---and building on the previous experience
+making use of the already existing infrastructure - encompassing both
+technology and human relations - and building on the previous experience
 of local activists. In sum, data-activist research requires paying
 attention not only to infrastructure practices, but also to local
 contexts and human dynamics.
@@ -14781,21 +14203,21 @@ can prove cumbersome for manual analysis, hence automating the search
 for keywords makes the task of investigating the discursive evolution in
 internet governance processes more manageable. However, the toolkit
 brings up some concerns because it facilitates research techniques in
-the realm of 'big data' analysis---a set of techniques which the
+the realm of 'big data' analysis - a set of techniques which the
 DATACTIVE project investigates with a critical eye. Partaking in the
 development and use of this tool presents an interesting opportunity for
 us to reflect on our research ethics, the 'why' of our research, and our
 connection with the issues at stake.
 
 Take for example the distinct understandings and expectations of privacy
-in different community-contexts---a question which is relevant to most
+in different community-contexts - a question which is relevant to most
 data-activist research projects given their reliance on publicly
 available data. During DATACTIVE's internal discussions we have raised
 concerns about the expectations of privacy that can be found in
 different online contexts, and asked how these expectations are affected
 when the data can be more easily collected and analyzed by third
-parties---as *BigBang* makes possible. ICANN is a community which
-conducts much of its work 'in the open'---a fundamental requisite of its
+parties - as *BigBang* makes possible. ICANN is a community which
+conducts much of its work 'in the open' - a fundamental requisite of its
 multi-stakeholder nature. Because of the open nature of the data the
 organization produces, DATACTIVE felt it was ethically sound to use it
 after producing a list of conditions guiding its acceptable use. These
@@ -14852,7 +14274,7 @@ before, a collaborative, dialogue-based data-activist research
 methodology that fosters the process of community building and knowledge
 sharing has to depart from a joint reflection on what knowledge and its
 production mean, and what building a 'we' entails. However, no process
-by itself has the ability to erase power asymmetries --imbalances can
+by itself has the ability to erase power asymmetries - imbalances can
 very well occur within activist communities themselves along lines of
 race, class, gender, expertise, etc. Therefore, processes of collective
 research design and analysis need to take into account the power
@@ -14912,7 +14334,7 @@ affected populations, and other minority groups.
 
 Researchers should disclose the aims of their projects and communicate
 the 'why' of the research to those involved in any research
-activities---whether an interview, ethnographic participant observation
+activities - whether an interview, ethnographic participant observation
 or a joint policy advocacy project. Researchers should be clear that
 theirs is not a 'view from nowhere', but a situated perspective.[^14chapter14_54]
 Issues of class, race, and locality of the researchers should be
@@ -14940,7 +14362,7 @@ research is to obtain the consent of research subjects. Yet in projects
 using 'big data', this can be difficult. Data-activist researchers
 should thus put adequate attention to strategizing how they will
 anonymize any data they use on online communities and consider if it is
-ethical to collect it in the first place---and they should be up to date
+ethical to collect it in the first place - and they should be up to date
 with respect to data protection regulations which might prohibit its
 collection.
 
@@ -14982,8 +14404,8 @@ In this chapter we have dealt with a number of methodological and
 ethical questions that need to be addressed while using and producing
 data to fuel political projects in the interest of society at large.
 With the help of four examples, we discussed several aspects from the
-field of data activism that researchers---particularly those aiming to
-work with (data) activists---could incorporate in their own work. We
+field of data activism that researchers - particularly those aiming to
+work with (data) activists - could incorporate in their own work. We
 have taken a brief look over matters of (disobedient) data research,
 collaboration and empowerment, and data ethics. These examples have
 helped us to build a series of recommendations for researchers in light
@@ -15008,7 +14430,7 @@ Communication and Culture* 8.1 (2011), 154‐177.
 Birkbak, Andreas, Morten Krogh Petersen, Torben Elgaard Jensen, and
 Philosophy Documentation Center. 'Critical Proximity as a Methodological
 Move in Techno Anthropology', *Techné: Research in Philosophy and
-Technology* 19.2 (2015): 266--90.
+Technology* 19.2 (2015): 266-90.
 
 Bowker, G, and SL Star. *Sorting Things Out: Classification and Its
 Consequences*. Cambridge MA: MIT Press, 1999.
@@ -15019,7 +14441,7 @@ conflitto. The Open Journal of Sociopolitical Studies* 7 (2014),
 198-220.
 
 Chesters, Graeme. 'Social Movements and the Ethics of Knowledge
-Production', *Social Movement Studies* 11.2 (1 April, 2012): 145--60.
+Production', *Social Movement Studies* 11.2 (1 April, 2012): 145-60.
 
 Dagron, Alfonso Gumucio, and Thomas Tufte (eds). *Communication for
 Social Change Anthology: Historical and Contemporary Readings*, South
@@ -15034,7 +14456,7 @@ University of Amsterdam, November 2017.
 Della Porta, Donatella, and Elena Pavan. 'Repertoires of Knowledge
 Practices: Social Movements in Times of Crisis', *Qualitative Research
 in Organizations and Management: An International Journal* 12.4 (2017):
-297--314.
+297-314.
 
 Michel Foucault. *The Will to Knowledge: The History of Sexuality:* 1,
 London: Penguin Books, 1998 \[1976\].
@@ -15043,11 +14465,11 @@ Freire, Paulo. *Pedagogy of the Oppressed*, New York: Herder and Herder,
 1968.
 
 Haggerty, Kevin D., and Richard V. Ericson. 'The Surveillant
-Assemblage', *The British Journal of Sociology,* 51.4 (2000): 605--22.
+Assemblage', *The British Journal of Sociology,* 51.4 (2000): 605-22.
 
 Haraway, Donna. 'Situated Knowledges: The Science Question in Feminism
 and the Privilege of Partial Perspective', *Feminist Studies* 14.3
-(1988): 575--99.
+(1988): 575-99.
 
 Heller, Charles, Lorenzo Pezzani, and Maurice Stierl. 'Disobedient
 Sensing and Border Struggles at the Maritime Frontier of Europe',
@@ -15061,12 +14483,12 @@ Change*, Bristol: Policy Press, 2015.
 
 Knorr-Cetina, Karin, and Werner Reichmann. 'Epistemic Cultures', in
 *International Encyclopedia of the Social & Behavioral Sciences* (Second
-Edition), Oxford: Elsevier, 873--80,
+Edition), Oxford: Elsevier, 873-80,
 http://www.sciencedirect.com/science/article/pii/B9780080970868104544.
 
 Kubitschko, Sebastian. 'Acting on Media Technologies and
 Infrastructures: Expanding the Media as Practice Approach', *Media,
-Culture & Society* 40.4 (May 2018): 629--35.
+Culture & Society* 40.4 (May 2018): 629-35.
 
 Lovink, Geert and Ned Rossiter. *Organization after Social Media*,
 Colchester: Minor Compositions, 2018.
@@ -15081,7 +14503,7 @@ Research? The Emerging Ethics Divide', *Big Data & Society* 3.1 (2016).
 Milan, Chiara, and Stefania Milan. 'Involving Communities as Skilled
 Learners: The STRAP Framework,' in Norbert Wildermuth and Teke Ngomba
 (eds), *Methodological Reflections on Researching Communication and
-Social Change*, Cham: Springer, 2016, 9--28.
+Social Change*, Cham: Springer, 2016, 9-28.
 
 Milan, Stefania. 'Between Datafication and Encryption: Media Activism in
 Times of Big Data', Annenberg School of Communication: University of
@@ -15092,46 +14514,46 @@ Goubin Yang and Viktor Pickard (eds), *Media Activism in the Digital
 Age*, Oxford: Routledge, 2017.
 
 ---------. 'The Ethics of Social Movement Research', in *Methodological
-Practices in Social Movement Research*, 446--64. Oxford: Oxford
+Practices in Social Movement Research*, 446-64. Oxford: Oxford
 University Press, 2014.
 
----------. 'Toward an Epistemology of Engaged Research', *International
-Journal of Communication* 4 (2010): 856--58.
+-------. 'Toward an Epistemology of Engaged Research', *International
+Journal of Communication* 4 (2010): 856-58.
 
 Milan, Stefania, and Miren Gutiérrez. 'Technopolitics in the Age of Big
 Data', in F. Sierra Caballero & T. Gravante (eds.), *Networks, Movements
 & Technopolitics in Latin America: Critical Analysis and Current
-Challenges,* London: Palgrave MacMillan, 2017, pp. 95--109.
+Challenges,* London: Palgrave MacMillan, 2017, pp. 95-109.
 
 Milan, Stefania and Niels ten Oever. 'Coding and encoding rights in
 internet infrastructure', *Internet Policy Review*, *6*.1 (2017).
 
 Milan, Stefania, and Lonneke van der Velden. 'The Alternative
 Epistemologies of Data Activism', *Digital Culture & Society,* 2.2
-(2016): 57--74.
+(2016): 57-74.
 
 Pezzani, Lorenzo, and Charles Heller. 'A Disobedient Gaze: Strategic
 Interventions in the Knowledge(s) of Maritime Borders', *Postcolonial
-Studies* 16.3 (September 2013): 289--98.
+Studies* 16.3 (September 2013): 289-98.
 
 Ryan, Charlotte, V., Salas-Wright, M. Anastario and G. Camara. 'Making
 Research Matter\... Matter to Whom', *International Journal of
-Communication* 4 (2010): 845--55.
+Communication* 4 (2010): 845-55.
 
 Ryan, C. and K. Jeffreys. 'The Practice of Collaborative Theorizing',
 Unpublished manuscript (2008).
 
 Tactical Technology Collective and Becky Kazansky. 'FCJ-195 Privacy,
 Responsibility, and Human Rights Activism', *The Fibreculture Journal*
-26 (2015): 190--208.
+26 (2015): 190-208.
 
 Taylor, Linnet, and Dennis Broeders. 'In the Name of Development: Power,
 Profit and the Datafication of the Global South', *Geoforum* 64 (2015):
-229--37.
+229-37.
 
 Velden, Lonneke van der. 'Leaky Apps and Data Shots: Technologies of
 Leakage and Insertion in NSA Surveillance', *Surveillance & Society*
-13.2 (2015): 182--96.
+13.2 (2015): 182-96.
 
 Wildermuth, Norbert, and Teke Ngomba (eds). *Methodological Reflections
 on Researching Communication and Social Change*, Cham: Springer, 2016.
@@ -15143,7 +14565,7 @@ ethics\_of\_using\_online\_data.
 
 Zimmer, Michael. '"But the Data Is Already Public": On the Ethics of
 Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
-313--25.
+313-25.
 
 [^14chapter14_1]: ^∗^ This project has received funding from the European Research
     Council (ERC) under the European Union's Horizon2020 research and
@@ -15205,7 +14627,7 @@ Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
     communicate scientific accomplishments'. See Karin Knorr-Cetina and
     Werner Reichmann, 'Epistemic Cultures' in *International
     Encyclopedia of the Social & Behavioral Sciences*, second edition,
-    Oxford: Elsevier, 2015 pp. 873--80. The concept highlights the
+    Oxford: Elsevier, 2015 pp. 873-80. The concept highlights the
     diversity in scientific practices. Here we use it to discuss the
     diversity in knowledge making in the context of datafication.
 
@@ -15222,7 +14644,7 @@ Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
     Age of Big Data\', in Francisco Sierra Caballero and Tommasso
     Gravante (eds), *Networks, Movements & Technopolitics in Latin
     America: Critical Analysis and Current Challenges,* London: Palgrave
-    Macmillan, 2017, pp. 95--109.
+    Macmillan, 2017, pp. 95-109.
 
 [^14chapter14_18]: This argument was made earlier in a series of articles published
     in the Feature 'Making Communication Matter' of *the International
@@ -15247,7 +14669,7 @@ Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
     Chiara Milan and Stefania Milan, 'Involving Communities as Skilled
     Learners: The STRAP Framework', in Norbert Wildermuth and Teke
     Ngomba (eds), *Methodological Reflections on Researching
-    Communication and Social Change*, Cham: Springer, 2016, 9--28.
+    Communication and Social Change*, Cham: Springer, 2016, 9-28.
 
 [^14chapter14_25]: Cf. C. Ryan, V. Salas-Wright, M. Anastario & G. Camara, 'Making
     Research Matter\... Matter to Whom?'.
@@ -15398,10 +14820,9 @@ Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
 
 
 # 15: Good Data is Critical Data: An Appeal for Critical Digital Studies
-*Chiara Poletti and Daniel Gray*
+######Chiara Poletti and Daniel Gray
 
-**Abstract**
-
+## Introduction
 In social science, approaches that call themselves critical tend to be
 concerned with advancing some kind of emancipatory political cause,
 often drawing in some way on Marxian perspectives. In Fairclough's
@@ -15417,7 +14838,7 @@ to this field, and how they relate to ethical standards and good data,
 arguing that they demand new ideas in terms of what research we do, and
 how we do it.
 
-## Introduction
+
 
 Data produced by people in their online interactions and transactions
 has become a vital tool and commodity in digital capitalism, and is
@@ -16039,7 +15460,7 @@ at the Centro per la Riforma dello Stato, Roma, 7 November 2017, https://www.din
 
 \_\_\_\_\_. 'Digital Labor Studies Go Global: Toward a Digital
 Decolonial Turn', *International Journal of Communication,* 11 (2017):
-3934--3954.
+3934-3954.
 
 \_\_\_\_\_. 'Four Theses on Digital Mass Surveillance and the
 Negotiation Of Privacy'. 8th Annual Privacy Law Scholar Congress,
@@ -16104,7 +15525,7 @@ Shears and J Thatcher (eds), *Geoweb and Big Data,* Lincoln: University
 of Nebraska Press, 2014.
 
 Kitchin, Rob. 'Big Data, new epistemologies and paradigm shifts'. *Big
-Data & Society,* (April--June 2014): 1--12.
+Data & Society,* (April-June 2014): 1-12.
 
 Klastrup, Lisbeth. 'Death, Affect and the Ethical Challenges of Outing a
 Griefsquatter', in Michael Zimmer and Katharina Kinder-Kurlanda (eds),
@@ -16123,18 +15544,18 @@ Ingierd. *Internet Research Ethics*, Oslo: Cappelen Damm Akademisk,
 
 Mahrt, Merja and Michael Scharkow, 'The value of big data in digital
 media research', *Journal of Broadcasting & Electronic Media*, 57.1
-(2013): 20--33, DOI: doi:10.1080/08838151.2012.761700.
+(2013): 20-33, DOI: doi:10.1080/08838151.2012.761700.
 
 Marres, Noortjie and Carolin Gerlitz. 'Interface methods: renegotiating
 relations between digital social research', *The Sociological Review,*
-64 (2016): 21--46, DOI: 10.1111/1467-954X.12314.
+64 (2016): 21-46, DOI: 10.1111/1467-954X.12314.
 
 Metcalf, Jacob, and Kate Crawford. 'Where are human subjects in big data
 research? The emerging ethics divide', *Big Data & Society*, 3.1 (2016):
-1--14, DOI: doi:10.1177/2053951716650211.
+1-14, DOI: doi:10.1177/2053951716650211.
 
 Nissenbaum, Helen. Privacy as contextual integrity. *Washington Law
-Review* (2004): 79, 119--157.
+Review* (2004): 79, 119-157.
 
 O\'Neil, Cathy. *Weapons of Math Destruction.* New York: Crown
 Publishers, 2016.
@@ -16144,16 +15565,16 @@ Money and Information*, Cambridge: Harvard University Press, 2015.
 
 Puschmann, Cornelius and Jean Burgess. 'Big Data, Big Questions,
 Metaphors of Big Data', *International Journal of Communication*, 8
-(2014): 1690--1709. DOI: 1932-- 8036/20140005.
+(2014): 1690-1709. DOI: 1932-- 8036/20140005.
 
 Rogers, Richard. *Digital Methods*. Cambridge MA: MIT Press, 2015.
 
 Ruppert, Evelyn, John Law and Mike Savage, 'Reassembling Social Science
 Methods: The Challenge of Digital Devices' *Theory, Culture & Society*
-30.4 (2013): 22--46.
+30.4 (2013): 22-46.
 
 Savage, Mike and Roger Burrows, 'The Coming Crisis of Empirical
-Sociology', *Sociology* 41.5 (2007): 885--899, DOI:
+Sociology', *Sociology* 41.5 (2007): 885-899, DOI:
 10.1177/0038038507080443.
 
 Seko, Yukari and Stephen P. Lewis. '"We Tend to Err on the Side of
@@ -16169,7 +15590,7 @@ Helene Ingierd. *Internet Research Ethics*, Oslo: Cappelen Damm
 Akademisk, 2015.
 
 Steen-Johnsen, Kari and Bernard Enjolras, 'Social research and Big Data
--- the tension between opportunities and realities', in Hallvard
+- the tension between opportunities and realities', in Hallvard
 Fossheim and Helene Ingierd, *Internet Research Ethics*, Oslo: Cappelen
 Damm Akademisk, 2015.
 
@@ -16195,12 +15616,12 @@ Society*, 4.2 (2018).
 
 [^15chapter15_4]: Antonio Casilli, Digital Labor Studies Go Global: Toward a Digital
     Decolonial Turn, *International Journal of Communication* 11 (2017):
-    3934--3954; Karen Gregory, *The Future of Work*, Public Services
+    3934-3954; Karen Gregory, *The Future of Work*, Public Services
     International Congress, Geneva, Switzerland (2018)
     http://congress.world-psi.org/karen-gregory-talks-about-the-negatives-and-positives-of-computer-platform-capitalism/
 
 [^15chapter15_5]: Mike Savage and Roger Burrows, 'The Coming Crisis of Empirical
-    Sociology', *Sociology,* 41.5 (2007): 885--899, DOI:
+    Sociology', *Sociology,* 41.5 (2007): 885-899, DOI:
     10.1177/0038038507080443; danah boyd and Kate Crawford, 'Critical
     Questions for Big Data: Provocations for a Cultural, Technological,
     and Scholarly Phenomenon', *Information, Communication, & Society*
@@ -16213,7 +15634,7 @@ Society*, 4.2 (2018).
     the 8th International AAAI Conference on Weblogs and Social Media,*
     2014; Noortjie Marres and Carolin Gerlitz, 'Interface methods:
     renegotiating relations between digital social research', *The
-    Sociological Review* 64 (2016): 21--46, DOI: 10.1111/1467-954X.12314
+    Sociological Review* 64 (2016): 21-46, DOI: 10.1111/1467-954X.12314
 
 [^15chapter15_6]: Richard Rogers, *Digital Methods*, Cambridge MA: MIT Press, 2015.
 
@@ -16223,7 +15644,7 @@ Society*, 4.2 (2018).
     *Culture Machine,* 12 (2011)
     http://www.culturemachine.net/index.php/cm/article/view/440/470; Rob
     Kitchin, 'Big Data, new epistemologies and paradigm shifts', *Big
-    Data & Society (*April--June 2014): 1--12.
+    Data & Society (*April-June 2014): 1-12.
 
 [^15chapter15_8]: Craig Dalton and Jim Thatcher, 'What does a critical data studies
     look like, and why do we care? Seven points for a critical approach
@@ -16236,10 +15657,10 @@ Society*, 4.2 (2018).
     662-679; Rob Kitchin, *Big Data, new epistemologies and paradigm
     shifts;* Cornelius Puschmann and Jean Burgess, 'Big Data, Big
     Questions, Metaphors of Big Data', *International Journal of
-    Communication,* 8 (2014): 1690--1709, DOI: 1932-- 8036/20140005*;*
+    Communication,* 8 (2014): 1690-1709, DOI: 1932-- 8036/20140005*;*
     Merja Mahrt and Michael Scharkow, 'The value of big data in digital
     media research', *Journal of Broadcasting & Electronic Media*, 57.1
-    (2013): 20--33, DOI:10.1080/08838151.2012.761700
+    (2013): 20-33, DOI:10.1080/08838151.2012.761700
 
 [^15chapter15_10]: Rob Kitchin and Tracey P. Lauriault, 'Towards critical data
     studies: Charting and unpacking data assemblages and their work', in
@@ -16250,7 +15671,7 @@ Society*, 4.2 (2018).
 
 [^15chapter15_11]: Evelyn Ruppert, John Law and Mike Savage, 'Reassembling Social
     Science Methods: The Challenge of Digital Devices', *Theory, Culture
-    & Society,* 30.4 (2013): 22--46; Karen Gregory, *The Labor of
+    & Society,* 30.4 (2013): 22-46; Karen Gregory, *The Labor of
     Digital Scholarship,* talk given at the University of Edinburgh
     (2017), audio and slides available:
     https://ed.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41552549-5650-4cdf-bf62-05999534c270
@@ -16280,7 +15701,7 @@ Society*, 4.2 (2018).
     Society*, 4.2 (2018).
 
 [^15chapter15_21]: Helen Nissenbaum, 'Privacy as contextual integrity', *Washington
-    Law Review* (2004): 79, 119--157.
+    Law Review* (2004): 79, 119-157.
 
 [^15chapter15_22]: Lisbeth Klastrup, 'Death, Affect and the Ethical Challenges of
     Outing a Griefsquatter', in Michael Zimmer and Katharina
@@ -16323,7 +15744,7 @@ Society*, 4.2 (2018).
 
 [^15chapter15_33]: Jacob Metcalf & Kate Crawford, 'Where are human subjects in big
     data research? The emerging ethics divide'. *Big Data & Society*,
-    3.1 (2016): 1--14, DOI: doi:10.1177/2053951716650211
+    3.1 (2016): 1-14, DOI: doi:10.1177/2053951716650211
 
 [^15chapter15_34]: Ibid.
 
@@ -16353,7 +15774,7 @@ Society*, 4.2 (2018).
 [^15chapter15_41]: Ibid, p.896.
 
 [^15chapter15_42]: Kari Steen-Johnsen and Bernard Enjolras, 'Social research and Big
-    Data -- the tension between
+    Data - the tension between
 
     opportunities and realities', in Hallvard Fossheim and Helene
     Ingierd. *Internet Research Ethics*, Oslo: Cappelen Damm Akademisk,
@@ -16428,7 +15849,7 @@ Society*, 4.2 (2018).
 [^15chapter15_63]: Ibid.
 
 [^15chapter15_64]: Rob Kitchin, 'Big Data, new epistemologies and paradigm shifts',
-    *Big Data & Society* (April--June 2014): 1--12; Rob Kitchin and
+    *Big Data & Society* (April-June 2014): 1-12; Rob Kitchin and
     Tracey P. Lauriault, 'Towards critical data studies: Charting and
     unpacking data assemblages and their work', in J Eckert, A Shears
     and J Thatcher (eds) *Geoweb and Big Data,* Lincoln: University of
@@ -16464,11 +15885,9 @@ Society*, 4.2 (2018).
 
 # 16: The Fieldnotes Plugin: Making Network Visualization in Gephi Accountable
 
-*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van
-Nuss*
+######Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss
 
-**Abstract**
-
+## Introduction
 The network visualizations humanities scholars and social scientists
 employ to communicate research findings are often imbued with a sense of
 objectivity. The impression is that these visualizations show facts
@@ -16483,8 +15902,8 @@ whilst the steps taken and parameters of the algorithms used to get to
 the particular visualization go undocumented.
 
 Tackling the software tool's 'epistemological affordances,' we elaborate
-on how the 'interpretative acts' of practitioners -- knowingly and
-unknowingly -- privilege certain viewpoints and perpetuate particular
+on how the 'interpretative acts' of practitioners - knowingly and
+unknowingly - privilege certain viewpoints and perpetuate particular
 power relations. We consider how these can be made accountable in a
 pragmatic way through an application that supports those working with
 Gephi in taking procedural 'fieldnotes,' which enables scholarly
@@ -16497,7 +15916,7 @@ being accountable in a scholarly context entails. We place the
 development of this plugin in an emerging practice of 'account-ability
 by design'.
 
-## Introduction
+
 
 Data visualizations are increasingly used for sense-making and
 communication in scholarly research.[^16chapter16_1] Network visualizations, among
@@ -16643,15 +16062,15 @@ approach of social network analysis.[^16chapter16_26] We focus particularly on t
 mobilization of situated knowledge in Gephi's usage and the way in which
 the plugin can enhance reflection on this.
 
-As a tool that produces visual outcomes -- in the shape of a network
-graph -- Gephi is a perfect showcase to pose the question of the
+As a tool that produces visual outcomes - in the shape of a network
+graph - Gephi is a perfect showcase to pose the question of the
 reflexivity of (algorithmic) knowledge instruments, or what becomes
 visible in comparison to the parts of the epistemic process that stay
 invisible. Reflexivity as an inherent quality of the epistemic process
 implies that we need an opportunity to *account for* all decisive (human
 and non-human) actions performed in this process. Accountability here is
 understood as accepting responsibility for one's actions, and thereby
-being -- potentially -- liable.[^16chapter16_27] It differs from transparency which
+being - potentially - liable.[^16chapter16_27] It differs from transparency which
 concerns disclosing information and privileges seeing over
 understanding.[^16chapter16_28] Our concern, however, is not per se on one's
 liability, but on one's *account-ability*, which refers to, on the one
@@ -16680,8 +16099,8 @@ forth from an ethnographic, processual, and systematic engagement with
 the tool. The reflexive practice we envision for scholars working with
 the tool considers and offers information about the tools we use and the
 steps we take to analyze our data. In other words, we attempt to make
-the interpretive practices of scholars open for scrutiny -- account-able
--- as part of their critical positioning. The lack of such
+the interpretive practices of scholars open for scrutiny - account-able
+- as part of their critical positioning. The lack of such
 documentation, which we expand on later in this paper, is partly due to
 the structure of the program itself, and resides in the need for and
 current lack of its 'epistemological affordances'.[^16chapter16_33] The term is
@@ -16772,16 +16191,16 @@ the most connections. Subsequently, it is possible to color and
 'partition' these nodes based on the communities inferred by the
 algorithm (see Figure 1).[^16chapter16_45]
 
-![image](imgs/chapter16_Wieringa_image1.jpg)
-![image](imgs/Chapter16_Wieringa_image2.jpg)
+![](imgs/chapter16_Wieringa_image1.jpg)
+![](imgs/Chapter16_Wieringa_image2.jpg)
 *Figures 1 and 2: Gephi's 'Overview' and 'Data Laboratory' tabs after
 opening the Les Miserables dataset.*
 
-![image](imgs/chapter16_Wieringa_image3.jpg)
+![](imgs/Chapter16_Wieringa_image3.jpg)
 *Figure 3: The 'raw' Les Miserables sample.*
 
-![image](imgs/chapter16_Wieringa_image4.jpg)
-![image](imgs/chapter16_Wieringa_image5.jpg)
+![](imgs/chapter16_Wieringa_image4.jpg)
+![](imgs/chapter16_Wieringa_image5.jpg)
 *Figures 4 and 5: ForceAtlas 2's default settings applied to the same
 'Les Miserables' exercise sample, and after adjusting 'Tuning' and
 'Behavior Alternative' settings such as the scaling (from 10 to 50) and
@@ -16829,7 +16248,7 @@ interpretative acts performed by the researcher(s).
 About documenting the Gephi work process in academic publications, Axel
 Bruns writes:
 
-> \[T\]he various visualization algorithms offered by the well--known,
+> \[T\]he various visualization algorithms offered by the well-known,
 > open source network analysis software Gephi, for example, are
 > generally described in some detail in software guides and related
 > literature, but relatively few of the scholarly publications which
@@ -16946,7 +16365,7 @@ It can automatically log the following:
 
 The log of the working process can be exported as a settings file (see
 for example the figure below). In this file, the particular parameters
-of each step are logged -- not only the steps taken. For instance, if
+of each step are logged - not only the steps taken. For instance, if
 one uses a particular filter, besides the type of filter all properties
 associated with that filter are saved. The settings are exported as a
 .txt file and can therefore be opened in a wide variety of text editors
@@ -16961,7 +16380,7 @@ limited functionality in logging this particular aspect, it still
 greatly speeds up the logging which would otherwise be done manually.
 
 
-![image](imgs/chapter16_Wieringa_image6.jpg)
+![](imgs/chapter16_Wieringa_image6.jpg)
 *Figure 6. Example of settings.txt file*
 
 Aside from the settings file, the plugin also automatically saves the
@@ -16981,9 +16400,9 @@ believe the plugin to be a pragmatic solution to.
 
 Several scholars have highlighted the need for a better understanding of
 the tools we use, and therefore, the algorithms we work with.[^16chapter16_59] While
-we acknowledge the importance of such intimate tool understanding -- for
+we acknowledge the importance of such intimate tool understanding - for
 instance, in the case of statistical measures such as PageRank or
-algorithms like ForceAtlas 2 -- our plugin does not facilitate better
+algorithms like ForceAtlas 2 - our plugin does not facilitate better
 understanding of the algorithms themselves. The plugin limits itself to
 offering information on what parameters were used to influence their
 workings. Thus, it does not help to open the black box of the applied -
@@ -17107,11 +16526,11 @@ Akrich, Madeleine and Bruno Latour. 'A Summary of a Convenient
 Vocabulary for the Semiotics of Human and Nonhuman Assemblies', in Wiebe
 E. Bijker and John Law (eds), *Shaping Technology / Building Society:
 Studies in Sociotechnical Change*, Cambridge MA/London: MIT Press, 1992,
-pp. 259--64.
+pp. 259-64.
 
 Ananny, Mike and Kate Crawford. 'Seeing without Knowing: Limitations of
 the Transparency Ideal and Its Application to Algorithmic
-Accountability'. *New Media and Society,* 20.3 (2018): 973--89.
+Accountability'. *New Media and Society,* 20.3 (2018): 973-89.
 
 Bastian, Mathieu, Sebastien Heymann and Mathieu Jacomy. 'Gephi: An Open
 Source Software for Exploring and Manipulating Networks', *Proceedings
@@ -17120,7 +16539,7 @@ http://www.aaai.org/ocs/index.php/ICWSM/09/paper/download/154/1009.
 
 Blondel, Vincent D., Jean-Loup Guillaume, Renaud Lambiotte and Etienne
 Lefebvre. 'Fast Unfolding of Communities in Large Networks', *Journal of
-Statistical Mechanics: Theory and Experiment,* 10 (2008): 1--12.
+Statistical Mechanics: Theory and Experiment,* 10 (2008): 1-12.
 
 Bruns, Axel. 'Faster than the Speed of Print: Reconciling 'Big Data'
 Social Media Analysis and Academic Scholarship', *First Monday* 18.10
@@ -17132,7 +16551,7 @@ and Politics of Ethnography*, Berkeley: University of California Press,
 
 Correa, Carlos D and Kwan-Liu Ma. 'Visualizing Social Networks', in
 Charu C. Aggarwal (ed.), *Social Network Data Analytics*, New York:
-Springer, 2011, pp. 307--26.
+Springer, 2011, pp. 307-26.
 
 Curinga, Matthew. 'Critical analysis of interactive media with software
 affordances', *First Monday* 19.9 (2014).
@@ -17190,7 +16609,7 @@ Houghton Mifflin, 1979.
 
 Haraway, Donna J. 'Situated Knowledges: The Science Question in Feminism
 and the Privilege of Partial Perspective', *Feminist Studies* 14.3
-(1988): 575--99.
+(1988): 575-99.
 
 Heymann, Sebastien. 'GSoC: Legend Module', *Gephi Blog*, 2012,
 https://gephi.wordpress.com/2012/09/24/gsoc-legend-module/comment-page-1/.
@@ -17204,14 +16623,14 @@ Hutchby, Ian. 'Technologies, Texts and Affordances', *Sociology* 35.2
 Jacomy, Mathieu, Tommaso Venturini, Sebastien Heymann and Mathieu
 Bastian. 'ForceAtlas2, a Continuous Graph Layout Algorithm for Handy
 Network Visualization Designed for the Gephi Software', *PLoS ONE* 9.6
-(2014): 1--12.
+(2014): 1-12.
 
 Kariv, Adam. 'Letting Data Speak for Itself', *Medium*, 2017,
 https://medium.com/\@adam.kariv/letting-data-speak-for-itself-80f1625a8ad1.
 
 Kennedy, Helen, Rosemary Lucy Hill, Giorgia Aiello, and William Allen.
 'The Work That Visualisation Conventions Do', *Information Communication
-and Society* 19.6 (2016): 715--35.
+and Society* 19.6 (2016): 715-35.
 
 Knuth, Donald E. *The Stanford GraphBase: A Platform for Combinatorial
 Computing*, New York: ACM Press, 1993.
@@ -17230,17 +16649,17 @@ Manovich, Lev. *Software Takes Command,* New York, London: Bloomsbury,
 
 Neyland, Daniel. 'Bearing Account-Able Witness to the Ethical
 Algorithmic System', *Science, Technology, & Human Values* 41.1 (2016):
-50--76.
+50-76.
 
 Nissenbaum, Helen. 'Computing and Accountability', *Communications of
-the ACM* 37.1 (1994): 72--80.
+the ACM* 37.1 (1994): 72-80.
 
 Norman, Donald. *The Design of Everyday Things*, New York: Doubleday,
 1990.
 
 Page, Lawrence, Sergey Brin, Rajeev Motwani and Terry Winograd. 'The
 PageRank Citation Ranking: Bringing Order to the Web', *World Wide Web
-Internet And Web Information Systems* 54.1999--66 (1998): 1--17.
+Internet And Web Information Systems* 54.1999-66 (1998): 1-17.
 
 Paßmann, Johannes. 'Forschungsmedien erforschen. Über Praxis mit der
 Mapping- Software Gephi', in *Navigationen. Vom Feld zum Labor und
@@ -17248,7 +16667,7 @@ zurück* 1 (2013): 113-129.
 
 Rieder, Bernhard, and Theo Röhle. 'Digital Methods: Five Challenges', in
 David Berry (ed.), *Understanding Digital Humanities*, Cham: Springer,
-2012, pp. 67--84.
+2012, pp. 67-84.
 
 Rieder, Bernhard, and Theo Röhle. 'Digital Methods: From Challenges to
 Bildung' in Mirko Tobias Schäfer and Karin Van Es (eds), *The Datafied
@@ -17257,7 +16676,7 @@ Press, 2017, pp. 109-24.
 
 Rogers, Richard. 'Foundations of Digital Methods', in Mirko Tobias
 Schäfer and Karin Van Es (eds), *The Datafied Society: Studying Culture
-through Data*, Amsterdam: Amsterdam University Press, 2017, pp. 75--94.
+through Data*, Amsterdam: Amsterdam University Press, 2017, pp. 75-94.
 
 Sanjek, Roger (ed.). *Fieldnotes: The Makings of Anthropology*, Ithaca:
 Cornell University Press, 1990.
@@ -17279,7 +16698,7 @@ the Morality of Things.* Chicago/London: University of Chicago Press,
 
 \_\_\_\_\_. 'Resistance Is Futile: Toward a Non-Modern Democratization
 of Technology', *Techné: Research in Philosophy and Technology* 17.1
-(2013): 72--92.
+(2013): 72-92.
 
 [^16chapter16_1]: Stephen Few, 'Data Visualization for Human Perception', in
     Interaction Design Foundation (ed.), *The Encyclopedia of
@@ -17289,7 +16708,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
 
 [^16chapter16_2]: See e.g. Carlos D. Correa and Kwan-Liu Ma, 'Visualizing Social
     Networks', in Charu C. Aggarwal (ed.), *Social Network Data
-    Analytics*, New York: Springer, 2011, pp. 307--26; Navid Dianati,
+    Analytics*, New York: Springer, 2011, pp. 307-26; Navid Dianati,
     'Unwinding the Hairball Graph: Pruning Algorithms for Weighted
     Complex Networks', *Physical Review* 93.1 (2016); Hans-Jörg Schulz,
     and Christophe Hurter, 'Grooming the Hairball - How to Tidy up
@@ -17304,11 +16723,11 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     https://medium.com/\@adam.kariv/letting-data-speak-for-itself-80f1625a8ad1.;
     Helen Kennedy, Rosemary Lucy Hill, Giorgia Aiello, and William
     Allen, 'The Work That Visualisation Conventions Do', *Information
-    Communication and Society* 19.6 (2016): 715--35; Karin Van Es, Nico
+    Communication and Society* 19.6 (2016): 715-35; Karin Van Es, Nico
     Lopez and Thomas Boeschoten, 'Towards a Reflexive Data Analysis' in
     Mirko Tobias Schäfer and Karin Van Es, *The Datafied Society:
     Studying Culture through Data*, Amsterdam: Amsterdam University
-    Press, 2017, pp. 171--82.
+    Press, 2017, pp. 171-82.
 
 [^16chapter16_5]: Mathieu Bastian, Sebastien Heymann and Mathieu Jacomy, 'Gephi: An
     Open Source Software for Exploring and Manipulating Networks' in
@@ -17350,11 +16769,11 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     'Digital Methods: From Challenges to Bildung', in Mirko Tobias
     Schäfer and Karin van Es (eds), *The Datafied Society: Studying
     Culture through Data*, Amsterdam: Amsterdam University Press, 2017,
-    pp. 109--24.
+    pp. 109-24.
 
 [^16chapter16_12]: Bernhard Rieder and Theo Röhle, 'Digital Methods: Five
     Challenges', in David Berry (ed.), *Understanding Digital
-    Humanities*, Cham: Springer, 2012, pp. 67--84, p. 80.
+    Humanities*, Cham: Springer, 2012, pp. 67-84, p. 80.
 
 [^16chapter16_13]: Michael Lynch, 'Against Reflexivity as an Academic Virtue and
     Source of Privileged Knowledge', *Theory, Culture & Society* 17.3
@@ -17367,7 +16786,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     Vocabulary for the Semiotics of Human and Nonhuman Assemblies', in
     Wiebe E. Bijker and John Law (eds), *Shaping Technology / Building
     Society: Studies in Sociotechnical Change*, Cambridge MA/London: MIT
-    Press, 1992, pp. 259--64.
+    Press, 1992, pp. 259-64.
 
 [^16chapter16_16]: Adrian Mackenzie, *Cutting Code.* New York: Peter Lang, 2006, p.
     10.
@@ -17405,12 +16824,12 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     pp. 111, 117-9.
 
 [^16chapter16_27]: Helen Nissenbaum, 'Computing and Accountability', *Communications
-    of the ACM* 37.1 (1994): 72--80.
+    of the ACM* 37.1 (1994): 72-80.
 
 [^16chapter16_28]: Mike Ananny and Kate Crawford, 'Seeing without Knowing:
     Limitations of the Transparency Ideal and Its Application to
     Algorithmic Accountability', *New Media and Society* 20.3 (2018):
-    973--89
+    973-89
 
 [^16chapter16_29]: Daniel Neyland, 'Bearing Account-Able Witness to the Ethical
     Algorithmic System', *Science, Technology, & Human Values* 41.1
@@ -17473,7 +16892,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     'Modularity Class' see: Vincent D Blondel, Jean-Loup Guillaume,
     Renaud Lambiotte and Etienne Lefebvre, 'Fast Unfolding of
     Communities in Large Networks', *Journal of Statistical Mechanics:
-    Theory and Experiment,*10 (2008): 1--12.
+    Theory and Experiment,*10 (2008): 1-12.
 
 [^16chapter16_46]: The Quick Start Guide tutorial links to such a version of the
     data sample.
@@ -17504,7 +16923,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     on the nature of query notation, see Richard Rogers, 'Foundations of
     Digital Methods', in Mirko Tobias Schäfer and Karin Van Es (eds),
     *The Datafied Society: Studying Culture through Data*, Amsterdam:
-    Amsterdam University Press, 2017, pp. 75--94, p. 83.
+    Amsterdam University Press, 2017, pp. 75-94, p. 83.
 
 [^16chapter16_53]: Bastian, et al, 'Gephi: An Open Source Software for Exploring and
     Manipulating Networks'.
@@ -17559,10 +16978,9 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
 
 
 # 17: Algorithmic Mapmaking in 'Smart Cities': Data Protection Impact Assessments as a means of Protection for Groups
-*Gerard Jan Ritsema van Eck*
+######Gerard Jan Ritsema van Eck
 
-**Abstract**
-
+## Introduction
 Maps are powerful communication tools, and mapmaking used to be a
 privileged affair. In recent times, this has changed as 'smart cities'
 have been outfitted with video, audio, and other kinds of 'Internet of
@@ -17593,7 +17011,7 @@ protection for groups negatively impacted by mapmaking software through
 DPIAs thus seems nigh on impossible in lieu of substantial legislative
 change.
 
-## Introduction
+
 
 In late 2017, Strava revealed its 'global heatmap' which shows popular
 running and cycling routes around the world. Although first reported as
@@ -17628,11 +17046,12 @@ Data Protection Impact Assessments (DPIAs), a tool that has received
 renewed interest as a result of the introduction of the GDPR, are
 introduced as a possible solution in the absence of strong legislation.
 But are they really a panacea that can provide meaningful safeguards, or
-an expensive Band-Aid that will be avoided, ignored, and brushed aside?
+an expensive Band-Aid that will be avoided, ignored, and brushed aside?<br />
+
+
 
 ![](imgs/chapter17_Ritsema_image1.jpg)
-
-*Figure 1. Screenshot taken by the author on
+<br />*Figure 1. Screenshot taken by the author on
 https://labs.strava.com/heatmaps on 2 February 2018. Shown is the
 Stadspark in Groningen, the Netherlands. The clearly visible small
 semi-circle in the bottom is a 400-meter running track whereas the
@@ -17679,15 +17098,17 @@ instance road closures that users are encouraged to add using a gamified
 system of badges and achievements. Furthermore, in various cities such
 as Rio de Janeiro, New York City, and Ghent, Waze receives data on
 upcoming road closures from local governments through its Connected
-Citizens Programme --- in exchange, the local governments gain access to
+Citizens Programme - in exchange, the local governments gain access to
 information on accidents and other traffic disruptions.[^17chapter17_16] As Gekker
 and Hind point out, this makes it 'not necessarily easy to make a clean
 split between those who "produce" the map, those who "edit" the map and
-those who "consume" the map'.[^17chapter17_17]
+those who "consume" the map'.[^17chapter17_17] <br />
+
+
+
 
 ![](imgs/chapter17_Ritsema_image2.jpg)
-
-*Figure 2. Screenshot taken by the author on
+<br />*Figure 2. Screenshot taken by the author on
 https://www.waze.com/livemap on 5 February 2018. Shown is part of the
 center of London, England. The three data sources are clearly visible:
 the coloration of the streets is based on scraped movement data, the
@@ -17771,8 +17192,8 @@ individual data protection law.[^17chapter17_35] It seems questionable whether t
 consent to use their personal data for research purposes. And what about
 their rights to receive access to the data kept on them, in order to see
 if it is correct,[^17chapter17_36] or whether so-called 'special categories' of data
-such as their ethnicity or sexual orientation --- easily guessed by
-observing e.g. the entrance to an LGBT nightclub --- have been
+such as their ethnicity or sexual orientation - easily guessed by
+observing e.g. the entrance to an LGBT nightclub - have been
 processed?[^17chapter17_37] Both questions are, from a legal perspective, moot
 because the Living Lab and Strava anonymize all data before analysis.
 The latter even gives users an opt-out to making their anonymized data
@@ -17922,8 +17343,8 @@ beforehand,[^17chapter17_72] and by the affected data subject itself. Consent is
 only valid if, inter alia, it meets the connected requirements that it
 is informed, granular, and specific.[^17chapter17_73] By integrating these
 requirements into DPIAs, groups are given a way to meaningfully
-co-produce the crowdsourced maps and the GIS software --- and thus their
-living environments --- at a stage when some of the processing
+co-produce the crowdsourced maps and the GIS software - and thus their
+living environments - at a stage when some of the processing
 operations are still unknown.[^17chapter17_74]
 
 The inclusion of as many views as possible is essential for this
@@ -17966,9 +17387,9 @@ which are in the public interest, and is active in the field of the
 protection of data subjects\' rights and freedoms with regard to the
 protection of their personal data'[^17chapter17_81] to represent them when lodging a
 complaint with a DPA,[^17chapter17_82] or when seeking a judicial remedy against a
-DPA, data controller, or processer.[^17chapter17_83] This list could be expanded ---
+DPA, data controller, or processer.[^17chapter17_83] This list could be expanded -
 either informally by data controllers currently executing a DPIA, or
-eventually by the European legislator --- to include the representation
+eventually by the European legislator - to include the representation
 of data subjects during DPIAs in the sense of Article 35(9) of the GDPR.
 
 ## Limitations
@@ -18058,8 +17479,8 @@ initiatives it seems that they could easily be circumvented, their
 effect would be limited at best, that the proper representation of
 groups is nigh impossible, and that their long-term impact is uncertain
 in the face of self-learning algorithms. Still, companies interested in
-retaining consumer trust --- and gaining a competitive advantage when
-dealing with responsible customers and partners --- would be
+retaining consumer trust - and gaining a competitive advantage when
+dealing with responsible customers and partners - would be
 well-advised to make the investment. This goes doubly so for
 governmental bodies and institutions: DPIAs form an opportunity to use
 group rights to put the performative power of maps in the hands of those
@@ -18069,9 +17490,9 @@ performed, and they should include as many views as possible; Public
 space should belong to the public, not to companies writing mapping
 software.
 
-It is up to the EU legislator --- and in the meantime: the European Data
+It is up to the EU legislator - and in the meantime: the European Data
 Protection Board, formerly known as the Article 29 Working Party, whose
-importance 'for the EU data protection cannot be overstated'[^17chapter17_91] --- to
+importance 'for the EU data protection cannot be overstated'[^17chapter17_91] - to
 ensure that group data protection rights can be properly incorporated
 within the European Data Protection framework. This is the only way to
 ensure that the uncomfortable Band-Aid proposed in this chapter becomes
@@ -18092,13 +17513,13 @@ provided valuable feedback and inspiration.
 
 Amoore, Louise. 'Data Derivatives: On the Emergence of a Security Risk
 Calculus for Our Times', *Theory, Culture & Society* 28.6 (November
-2011): 24--43, DOI: 10.1177/0263276411417430.
+2011): 24-43, DOI: 10.1177/0263276411417430.
 
 Anderson, Benedict R. *Imagined Communities: Reflections on the Origin
 and Spread of Nationalism*, 2nd ed. London; New York: Verso, 2006.
 
 Arnstein, Sherry R. 'A Ladder of Citizen Participation', *Journal of the
-American Institute of Planners* 35.4 (July 1969): 216--24, DOI:
+American Institute of Planners* 35.4 (July 1969): 216-24, DOI:
 10.1080/01944366908977225.
 
 Article 29 Data Protection Working Party. 'Guidelines on Consent under
@@ -18127,7 +17548,7 @@ Approach to Multiculturalism*, Law and Philosophy Library \#75.
 Dordrecht: Springer, 2006.
 
 Clarke, Roger. 'Privacy Impact Assessment: Its Origins and Development',
-*Computer Law & Security Review* 25.2 (January 2009): 123--35, DOI:
+*Computer Law & Security Review* 25.2 (January 2009): 123-35, DOI:
 10.1016/j.clsr.2009.02.002.
 
 Commission Nationale de l'Informatique et des Libertés. 'Privacy Impact
@@ -18140,10 +17561,10 @@ https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-
 'Connected Citizen's Programme', Waze, https://www.waze.com/ccp.
 
 Crampton, Jeremy W. 'Bordering on Bosnia', *GeoJournal* 39.4 (1996):
-353--61.
+353-61.
 
 ---------. 'Maps as Social Constructions: Power, Communication, and
-Visualization', *Progress in Human Geography* 25.2 (2001): 235--52.
+Visualization', *Progress in Human Geography* 25.2 (2001): 235-52.
 
 De Lange, Michiel, and Martijn De Waal. 'Owning the City: New Media and
 Citizen Engagement in Urban Design', *First Monday* 18.11 (27 November
@@ -18151,11 +17572,11 @@ Citizen Engagement in Urban Design', *First Monday* 18.11 (27 November
 
 Edwards, Lilian. 'Privacy, Security and Data Protection in Smart Cities:
 A Critical EU Law Perspective', *European Data Protection Law Review*
-2.1 (2016): 28--58, DOI: 10.21552/EDPL/2016/1/6.
+2.1 (2016): 28-58, DOI: 10.21552/EDPL/2016/1/6.
 
 Edwards, Lilian, and Michael Veale. 'Enslaving the Algorithm: From a
 "Right to an Explanation" to a "Right to Better Decisions"?', *IEEE
-Security & Privacy* 16.3 (May 2018): 46--54, DOI:
+Security & Privacy* 16.3 (May 2018): 46-54, DOI:
 10.1109/MSP.2018.2701152.
 
 'Eindhoven Living Lab', European Network of Living Labs, http://www.openlivinglabs.eu/livinglab/eindhoven-living-lab.
@@ -18170,15 +17591,15 @@ Gekker, Alex, and Sam Hind. '"Outsmarting Traffic, Together": Driving as
 Social Navigation', in Clancy Wilmott, Chris Perkins, Sybille Lammes,
 Sam Hind, Alex Gekker, Emma Fraser, and Daniel Evans *(eds.) Playful
 Mapping in the Digital Age*, Theory on Demand \#21. Amsterdam: Institute
-of Network Cultures, 2016, pp. 78--92.
+of Network Cultures, 2016, pp. 78-92.
 
 Gellert, Raphaël. 'The Article 29 Working Party's Provisional Guidelines
 on Data Protection Impact Assessment', *European Data Protection Law
-Review* 3.2 (2017): 212--17, DOI: 10.21552/edpl/2017/2/11.
+Review* 3.2 (2017): 212-17, DOI: 10.21552/edpl/2017/2/11.
 
 Goodman, Bryce. 'Discrimination, Data Sanitisation and Auditing in the
 European Union's General Data Protection Regulation', *European Data
-Protection Law Review* 2.4 (2016): 493--506, DOI:
+Protection Law Review* 2.4 (2016): 493-506, DOI:
 10.21552/EDPL/2016/4/8.
 
 Götzmann, Nora, Tulika Bansal, Elin Wrzoncki, Cathrine Poulsen-Hansen,
@@ -18195,7 +17616,7 @@ York, NY: The Architectural League of New York, 2007.
 
 Gstrein, Oskar Josef, and Gerard Jan Ritsema van Eck. 'Mobile Devices as
 Stigmatizing Security Sensors: The GDPR and a Future of Crowdsourced
-"Broken Windows"', *International Data Privacy Law* 8.1 (2018): 69--85,
+"Broken Windows"', *International Data Privacy Law* 8.1 (2018): 69-85,
 DOI: 10.1093/idpl/ipx024.
 
 Harding, Alan, and Talja Blokland-Potters. *Urban Theory: A Critical
@@ -18208,21 +17629,21 @@ US Army Bases', *The Guardian*, 28 January 2018, https://www.theguardian.com/wor
 Hert, Paul de, and Vagelis Papakonstantinou. 'The New General Data
 Protection Regulation: Still a Sound System for the Protection of
 Individuals?', *Computer Law & Security Review* 32.2 (April 2016):
-179--94, DOI: 10.1016/j.clsr.2016.02.006.
+179-94, DOI: 10.1016/j.clsr.2016.02.006.
 
 Information Commissioner's office. 'Sample DPIA Template', 2018, https://ico.org.uk/media/for-organisations/documents/2258857/dpia-template-v1.docx.
 
 Joh, Elizabeth E. 'Policing by Numbers: Big Data and the Fourth
-Amendment', *Washington Law Review* 89.1 (2014): 35--68.
+Amendment', *Washington Law Review* 89.1 (2014): 35-68.
 
 ---------. 'The New Surveillance Discretion: Automated Suspicion, Big
-Data, and Policing', *Harvard Law & Policy Review* 10.1 (2016): 15--42.
+Data, and Policing', *Harvard Law & Policy Review* 10.1 (2016): 15-42.
 
 Jones, Peter. 'Group Rights', Stanford Encyclopedia of Philosophy, 29
 March 2016, http://plato.stanford.edu/archives/sum2016/entries/rights-group/.
 
 ---------. 'Human Rights, Group Rights, and Peoples' Rights', *Human
-Rights Quarterly* 21.2 (1999): 80--107.
+Rights Quarterly* 21.2 (1999): 80-107.
 
 Jovanović, Miodrag A. *Collective Rights: A Legal Theory*, Cambridge:
 New York: Cambridge University Press, 2012.
@@ -18239,13 +17660,13 @@ towards a More Robust Protection of Individuals'. d.pia.lab, 2017, https://cris.
 
 Lefebvre, Henri. 'Right to the City', in Eleonore Kofman and Elizabeth
 Lebas (eds.), *Writings on Cities*, Cambridge MA: Blackwell, 1996
-(1968), pp 61--181.
+(1968), pp 61-181.
 
 ---------. *The Production of Space*, trans Donald Nicholson-Smith,
 Malden MA: Blackwell, 1991 (1974).
 
 Leslie, Camilo Arturo. 'Territoriality, Map-Mindedness, and the Politics
-of Place', *Theory and Society* 45.2 (April 2016): 169--201, DOI:
+of Place', *Theory and Society* 45.2 (April 2016): 169-201, DOI:
 10.1007/s11186-016-9268-9.
 
 Lyon, David (ed.). *Surveillance as Social Sorting: Privacy, Risk, and
@@ -18253,38 +17674,38 @@ Digital Discrimination*. London/New York: Routledge, 2003.
 
 Mantelero, Alessandro. 'AI and Big Data: A Blueprint for a Human Rights,
 Social and Ethical Impact Assessment', *Computer Law & Security Review*
-34.4 (August 2018): 754--72, DOI: 10.1016/j.clsr.2018.05.017.
+34.4 (August 2018): 754-72, DOI: 10.1016/j.clsr.2018.05.017.
 
 ---------. 'From Group Privacy to Collective Privacy: Towards a New
 Dimension of Privacy and Data Protection in the Big Data Era', in Linnet
 Taylor, Luciano Floridi and Bart van der Sloot *(eds.), Group Privacy:
 New Challenges of Data Technologies*, Philosophical Studies Series
-\#126. Berlin: Springer, 2017, pp. 139--58, DOI: https://doi.org/10.1007/978-3-319-46608-8_8.
+\#126. Berlin: Springer, 2017, pp. 139-58, DOI: https://doi.org/10.1007/978-3-319-46608-8_8.
 
 ---------. 'Personal Data for Decisional Purposes in the Age of
 Analytics: From an Individual to a Collective Dimension of Data
 Protection', *Computer Law & Security Review* 32.2 (April 2016):
-238--55, DOI: 10.1016/j.clsr.2016.01.014.
+238-55, DOI: 10.1016/j.clsr.2016.01.014.
 
 Miller, David. 'Group Rights, Human Rights and Citizenship', *European
-Journal of Philosophy* 10.2 (August 2002): 178--95, DOI:
+Journal of Philosophy* 10.2 (August 2002): 178-95, DOI:
 10.1111/1468-0378.00155.
 
 Mittelstadt, Brent. 'From Individual to Group Privacy in Big Data
-Analytics', *Philosophy & Technology* 30.4 (December 2017): 475--94,
+Analytics', *Philosophy & Technology* 30.4 (December 2017): 475-94,
 DOI: 10.1007/s13347-017-0253-7.
 
 Narayanan, Arvind, Joanna Huey and Edward W. Felten, 'A Precautionary
 Approach to Big Data Privacy', in Serge Gutwirth, Ronald Leenes, and
 Paul De Hert (eds), *Data Protection on the Move*, Issues in Privacy and
 Data Protection \#24, Dordrecht: Springer Netherlands, 2016, pp.
-357--85, DOI: 10.1007/978-94-017-7376-8\_13.
+357-85, DOI: 10.1007/978-94-017-7376-8\_13.
 
 OpenStreetMap Foundation. 'About', https://www.openstreetmap.org/about.
 
 Pak, Burak, Alvin Chua, and Andrew Vande Moere. 'FixMyStreet Brussels:
 Socio-Demographic Inequality in Crowdsourced Civic Participation',
-*Journal of Urban Technology* (10 April 2017), 1--23, DOI:
+*Journal of Urban Technology* (10 April 2017), 1-23, DOI:
 10.1080/10630732.2016.1270047.
 
 Pasquale, Frank. *The Black Box Society: The Secret Algorithms That
@@ -18298,21 +17719,21 @@ Robb, Drew. 'The Global Heatmap, Now 6x Hotter', *Medium*, 1 November
 2017, https://medium.com/strava-engineering/the-global-heatmap-now-6x-hotter-23fc01d301de.
 
 Selbst, Andrew D. 'Disparate Impact in Big Data Policing', *Georgia Law
-Review* 52.1 (2018): 109--95.
+Review* 52.1 (2018): 109-95.
 
 Skorupinski, Barbara, and Konrad Ott. 'Technology Assessment and Ethics:
 Determining a Relationship in Theory and Practice', *Poiesis & Praxis*
-1.2 (1 August 2002): 95--122, DOI: 10.1007/s102020100010.
+1.2 (1 August 2002): 95-122, DOI: 10.1007/s102020100010.
 
 Sloot, Bart van der. 'Do Groups Have a Right to Protect Their Group
 Interest in Privacy and Should They? Peeling the Onion of Rights and
 Interests Protected under Article 8 ECHR', in Linnet Taylor, Luciano
 Floridi, and Bart van der Sloot (eds), *Group Privacy: New Challenges of
 Data Technologies.* Philosophical Studies Series \#126. Berlin:
-Springer, 2017, pp. 197--224, DOI: 10.1007/978-3-319-46608-8\_9.
+Springer, 2017, pp. 197-224, DOI: 10.1007/978-3-319-46608-8\_9.
 
 Smith, Gavin J. D. 'Surveillance, Data and Embodiment: On the Work of
-Being Watched', *Body & Society* 22.2 (2016): 108--39, DOI:
+Being Watched', *Body & Society* 22.2 (2016): 108-39, DOI:
 10.1177/1357034X15623622.
 
 'Strava: A Global Heatmap of Athletic Activity', *The Guardian*, 2
@@ -18329,30 +17750,30 @@ Intersentia, 2009, https://dspace.library.uu.nl/bitstream/handle/1874/36620/walk
 Williams, Matthew L., Pete Burnap, and Luke Sloan. 'Crime Sensing with
 Big Data: The Affordances and Limitations of Using Open Source
 Communications to Estimate Crime Patterns', *British Journal of
-Criminology* (31 March 2016): 320--340, DOI: 10.1093/bjc/azw031.
+Criminology* (31 March 2016): 320-340, DOI: 10.1093/bjc/azw031.
 
 Winston, Ali. 'Palantir Has Secretly Been Using New Orleans to Test Its
 Predictive Policing Technology', *The Verge*, 27 February 2018, https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd.
 
 Wright, David, and Michael Friedewald. 'Integrating Privacy and Ethical
 Impact Assessments', *Science and Public Policy* 40.6 (1 December 2013):
-755--66, DOI: 10.1093/scipol/sct083.
+755-66, DOI: 10.1093/scipol/sct083.
 
 Wright, David, and Paul de Hert (eds). *Privacy Impact Assessment*, Law,
 Governance and Technology Series 6. Dordrecht: Springer, 2012.
 
 Wright, David, and Emilio Mordini. 'Privacy and Ethical Impact
 Assessment', in David Wright and Paul De Hert (eds), *Privacy Impact
-Assessment*, Dordrecht: Springer Netherlands, 2012, pp. 397--418, DOI:
+Assessment*, Dordrecht: Springer Netherlands, 2012, pp. 397-418, DOI:
 10.1007/978-94-007-2543-0\_19.
 
 Yeal, Tamir. 'Against Collective Rights', in Christian Joppke and Steven
 Lukes (eds), *Multicultural Questions*, Oxford: Oxford University Press,
-1999, pp. 150--80.
+1999, pp. 150-80.
 
 Yordanov, Atanas. 'Nature and Ideal Steps of the Data Protection Impact
 Assessment under the General Data Protection Regulation', *European Data
-Protection Law Review* 3.4 (2017): 486--95, DOI:
+Protection Law Review* 3.4 (2017): 486-95, DOI:
 10.21552/edpl/2017/4/10.
 
 [^17chapter17_1]: ^\*^ Security, Technology, and *e*-Privacy (ST*e*P) research
@@ -18389,7 +17810,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     Origin and Spread of Nationalism*, 2nd edition, London/New York:
     Verso, 2006, from p. 175. For a contrasting example of the same
     phenomenon, see Jeremy W. Crampton, 'Bordering on Bosnia',
-    *GeoJournal* 39.4 (1996): 353--61.
+    *GeoJournal* 39.4 (1996): 353-61.
 
 [^17chapter17_9]: Camilo Arturo Leslie, 'Territoriality, Map-Mindedness, and the
     Politics of Place', *Theory and Society* 45.2 (April 2016):
@@ -18408,7 +17829,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     context, see Oskar Josef Gstrein and Gerard Jan Ritsema van Eck,
     'Mobile Devices as Stigmatizing Security Sensors: The GDPR and a
     Future of Crowdsourced "Broken Windows"', *International Data
-    Privacy Law* 8.1 (2018): 70--74, DOI: 10.1093/idpl/ipx024.
+    Privacy Law* 8.1 (2018): 70-74, DOI: 10.1093/idpl/ipx024.
 
 [^17chapter17_13]: OpenStreetMap Foundation, 'About',
     https://www.openstreetmap.org/about.
@@ -18446,7 +17867,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
 
 [^17chapter17_22]: Louise Amoore, 'Data Derivatives: On the Emergence of a Security
     Risk Calculus for Our Times', *Theory, Culture & Society* 28.6
-    (November 2011): pp. 24--43, DOI: 10.1177/0263276411417430.
+    (November 2011): pp. 24-43, DOI: 10.1177/0263276411417430.
 
 [^17chapter17_23]: Ali Winston, 'Palantir Has Secretly Been Using New Orleans to
     Test Its Predictive Policing Technology', *The Verge*, 27 February
@@ -18476,7 +17897,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
 
 [^17chapter17_28]: Elizabeth E. Joh, 'The New Surveillance Discretion: Automated
     Suspicion, Big Data, and Policing', *Harvard Law & Policy Review*
-    10.1 (2016): 31--32; Note in this context that Andrew D. Selbst
+    10.1 (2016): 31-32; Note in this context that Andrew D. Selbst
     recently proposed an impact assessment framework specifically for
     predictive policing solutions, see 'Disparate Impact in Big Data
     Policing', *Georgia Law Review* 52.1 (2018).
@@ -18486,7 +17907,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     Participation', *Journal of Urban Technology*, 10 April 2017, DOI:
     10.1080/10630732.2016.1270047; Monica M. Brannon, 'Datafied and
     Divided: Techno-Dimensions of Inequality in American Cities', *City
-    & Community* 16.1 (March 2017): 20--24, DOI: 10.1111/cico.12220.
+    & Community* 16.1 (March 2017): 20-24, DOI: 10.1111/cico.12220.
 
 [^17chapter17_30]: Selbst, 'Disparate Impact in Big Data Policing', 133; Elizabeth
     E. Joh, 'Policing by Numbers: Big Data and the Fourth Amendment',
@@ -18510,7 +17931,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     juncto art 22(4).
 
 [^17chapter17_34]: Mittelstadt, 'From Individual to Group Privacy in Big Data
-    Analytics', 487--88; Alessandro Mantelero, 'AI and Big Data: A
+    Analytics', 487-88; Alessandro Mantelero, 'AI and Big Data: A
     Blueprint for a Human Rights, Social and Ethical Impact Assessment',
     *Computer Law & Security Review* 34.4 (August 2018): 764, doi:
     10.1016/j.clsr.2018.05.017.
@@ -18541,7 +17962,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     Rights and Interests Protected under Article 8 ECHR', in Linnet
     Taylor, Luciano Floridi, and Bart van der Sloot (eds), *Group
     Privacy: New Challenges of Data Technologies,* Philosophical Studies
-    Series 126. Berlin: Springer, 2017, pp. 197--224, DOI:
+    Series 126. Berlin: Springer, 2017, pp. 197-224, DOI:
     10.1007/978-3-319-46608-8\_9; Lilian Edwards and Michael Veale,
     'Enslaving the Algorithm: From a "Right to an Explanation" to a
     "Right to Better Decisions"?', *IEEE Security & Privacy* 16.3 (May
@@ -18552,11 +17973,11 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     overview that would do justice to this debate, but the interested
     reader may, for both pro and contra perspectives, refer to inter
     alia Peter Jones, 'Human Rights, Group Rights, and Peoples' Rights',
-    *Human Rights Quarterly* 21.2 (1999): 80--107; Miodrag A. Jovanović,
+    *Human Rights Quarterly* 21.2 (1999): 80-107; Miodrag A. Jovanović,
     *Collective Rights: A Legal Theory,* Cambridge ; New York: Cambridge
     University Press, 2012; Tamir Yeal, 'Against Collective Rights', in
     Christian Joppke and Steven Lukes (eds), *Multicultural Questions*,
-    Oxford: Oxford University Press, 1999, pp. 150--80; David Miller,
+    Oxford: Oxford University Press, 1999, pp. 150-80; David Miller,
     'Group Rights, Human Rights and Citizenship', *European Journal of
     Philosophy* 10.2 (August 2002), DOI: 10.1111/1468-0378.00155; Neus
     Torbisco Casals (ed.), *Group Rights as Human Rights: A Liberal
@@ -18604,7 +18025,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
 
 [^17chapter17_54]: ibid., 31. Note that the Article 29 Working Party has been
     renamed the European Data Protection Board (EDPB) when the GDPR came
-    into force. GDPR, art 68--76.
+    into force. GDPR, art 68-76.
 
 [^17chapter17_55]: Article 29 Data Protection Working Party, 'Guidelines on DPIA',
     annex 1.
@@ -18644,7 +18065,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     December 2013), DOI: 10.1093/scipol/sct083; David Wright and Emilio
     Mordini, 'Privacy and Ethical Impact Assessment', in David Wright
     and Paul De Hert (eds), *Privacy Impact Assessment,* Dordrecht:
-    Springer Netherlands, 2012, pp. 397--418, DOI:
+    Springer Netherlands, 2012, pp. 397-418, DOI:
     10.1007/978-94-007-2543-0\_19; Barbara Skorupinski and Konrad Ott,
     'Technology Assessment and Ethics: Determining a Relationship in
     Theory and Practice', *Poiesis & Praxis* 1.2 (1 August 2002), DOI:
@@ -18696,7 +18117,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     below.
 
 [^17chapter17_73]: Article 29 Data Protection Working Party, 'Guidelines on Consent
-    under Regulation 2016/679', 29 November 2017, pp. 11--15,
+    under Regulation 2016/679', 29 November 2017, pp. 11-15,
     http://ec.europa.eu/newsroom/document.cfm?doc\_id=48849.
 
 [^17chapter17_74]: Article 29 Data Protection Working Party, 'Guidelines on DPIA',
@@ -18770,9 +18191,9 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
 
 
 # 18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia
-*Juan-Carlos Valencia and Paula Restrepo*
+######Juan-Carlos Valencia and Paula Restrepo
 
-**Abstract**
+
 
 This chapter comes out of two research projects carried out in Colombia,
 South America. One of them, finished in 2017, was called *City of Data*.
@@ -19327,7 +18748,7 @@ Indígenas*, Medellín: Ediciones Poder Negro, 2016, pp. 91-108.
 
 Esteva, Gustavo. 'Development', in Wolfgang Sachs (ed.), *The
 Development Dictionary: A Guide to Knowledge as Power*, London: Zed
-Books, 1992, pp. 1\--23.
+Books, 1992, pp. 1\-23.
 
 Fernandez-Anez, Victoria, José Miguel Fernández-Güell and Rudolf
 Giffinger. 'Smart City implementation and discourses: An integrated
@@ -19358,7 +18779,7 @@ Koont, Sinan. *Sustainable urban agriculture in Cuba*, Heidelberg:
 Springer, 2011.
 
 Lash, Scott. 'Power after hegemony: Cultural studies in mutation',
-*Theory, Culture & Society* 24.3 (May 2007): 55--78.
+*Theory, Culture & Society* 24.3 (May 2007): 55-78.
 
 McQuillan, Daniel. 'Counter Mapping the Smart City', *Livingmaps Review*
 2 (2017): 1-7.
@@ -19432,7 +18853,7 @@ conocimiento común y abierto en Ecuador*, Quito: FLOK Society, 2015.
     Lincoln: University of Nebraska Press, 2014.
 
 [^18chapter18_12]: Scott Lash, 'Power after hegemony: Cultural studies in mutation',
-    *Theory, Culture & Society* 24.3 (May 2007): 55--78.
+    *Theory, Culture & Society* 24.3 (May 2007): 55-78.
 
 [^18chapter18_13]: Daniel McQuillan, 'Counter Mapping the Smart City', *Livingmaps
     Review,* 2 (2017): 1-7.
@@ -19461,7 +18882,7 @@ conocimiento común y abierto en Ecuador*, Quito: FLOK Society, 2015.
 
 [^18chapter18_20]: Stefania Milan and Lonneke van der Velden, 'The Alternative
     Epistemologies of Data Activism', *Digital Culture & Society,* 2.2
-    (2016): 57--74.
+    (2016): 57-74.
 
 [^18chapter18_21]: Paolo Neirotti et al, 'Current trends in Smart City Initiatives:
     Some Stylised Facts', *Cities* 38 (June, 2014): 8.
@@ -19538,16 +18959,14 @@ conocimiento común y abierto en Ecuador*, Quito: FLOK Society, 2015.
 
 [^18chapter18_41]: Stefania Milan and Lonneke van der Velden, 'The Alternative
     Epistemologies of Data Activism', *Digital Culture & Society*, 2
-    (2016): 57--74.
+    (2016): 57-74.
 
 
 
 # 19: Intelligent Warning Systems: 'Technological Nudges' to Enhance User Control of IoT Data Collection, Storage and Use
-*Rachelle Bosua, Karin Clark, Megan Richardson and Jeb
-Webb*
+######Rachelle Bosua, Karin Clark, Megan Richardson and Jeb Webb
 
-**Abstract**
-
+## Introduction
 The modern digital world of networking and connectivity enabled by the
 Internet of Things (IoT) has the paradoxical result of introducing a new
 era of 'smart computing' while reducing the intelligent control that
@@ -19569,7 +18988,7 @@ illustrating scenarios of the latter together with corrective user
 actions, and conclude with a discussion of further steps of the design
 of this app.
 
-## Introduction
+
 
 As we move into an era of big data, the mass collection, aggregation and
 processing of personal data through multiple connected devices signal
@@ -19589,7 +19008,7 @@ collection of personal data, unknown methods of storage of this data
 (e.g. in the cloud), and the analyses, aggregation and processing of big
 data sets using modern data mining techniques, are growing concerns. In
 short, there is a serious question about how intelligent IoT users are
-really allowed to be in the new world of 'smart computing' -- especially
+really allowed to be in the new world of 'smart computing' - especially
 when it comes to their personal information. Specific concerns at the
 global level relate to privacy, data protection and cybersecurity.[^19chapter19_5]
 In this chapter we respond to our initial research question by
@@ -19639,7 +19058,7 @@ big data collection and processing using Information and Communications
 Technologies (ICTs).
 
 Of course, another way to regulate for data protection is through more
-intelligent design of technologies themselves -- and this is something
+intelligent design of technologies themselves - and this is something
 that the GDPR also encourages.[^19chapter19_11] A difficulty is that modern ICTs and
 applications (or 'apps') i) currently tend to present complex processes
 simplistically through heuristic interfaces that hide most of this
@@ -19716,7 +19135,7 @@ decision as to whether or not they want to divulge personal information'
 in the circumstances.[^19chapter19_18] This problem is exacerbated in the
 interconnected world of the IoT. Prior studies indicate that users often
 unknowingly and even mindlessly 'consent' to data collection and use
-practices of online apps in exchange for services -- and in fact this
+practices of online apps in exchange for services - and in fact this
 may well be encouraged by the apps themselves. Anecdotes from our
 empirical research confirm this aspect and also indicate that the
 inclusion of value-sensitive design frameworks in internet applications
@@ -19735,7 +19154,7 @@ This app gives users more personalised control over the collection,
 storage and use of their individually collected IoT and social media. It
 deploys the idea of 'nudges' to alert users of changes in their known
 data collection and usage patterns allowing them to make decisions how
-they will respond and take further preventative steps[^19chapter19_20] -- in the
+they will respond and take further preventative steps[^19chapter19_20] - in the
 same way that technological nudges employed in other contexts serve as
 'soft reminders' that prompt users to take courses of action consistent
 with self-interest. For example, reinforcement for smokers trying to
@@ -19813,7 +19232,7 @@ over their information as one commented about his personal data: '*once
 you have given \[your\] data out you are out of control and there is no
 way that you know where it is'*,[^19chapter19_24] with another confirming: '*as an
 end user I want to know what my information is being used for, who is
-using it, for what -- I want that sort of control of my information -- I
+using it, for what - I want that sort of control of my information - I
 want to be able to say I want that information deleted'*,[^19chapter19_25] and '*I
 just want to have my own control \[over my privacy\]'.*[^19chapter19_26] Another
 participant stated '*from the perspective of a user you don't actually
@@ -19848,16 +19267,16 @@ you as* *a user do not understand*' and essentially they are '*"click,
 click, click" regimes'* that allowed '*little scope for negotiation or
 individual variance'*.[^19chapter19_34] As one of the participants summarised the
 situation, the current '*regime*' is a result of *'\...the design of the
-\[typical modern\] user interface and having been trained as a user --
-that is the user experience* -- *'....to click-click and don't worry
+\[typical modern\] user interface and having been trained as a user -
+that is the user experience* - *'....to click-click and don't worry
 about the rest of it*' the result is that '*there is no actual conscious
 thought in the \[software design\] process*'.[^19chapter19_35]
 
 As to legal standards, another participant expressed concern that these
 terms and conditions \[of use\] are subject to change without any
 notice,[^19chapter19_36] while another participant indicated another issue with
-consent forms -- '...*the difference is that US law is very different to
-Australian law with respect to fair and reasonable use -- so you have
+consent forms - '...*the difference is that US law is very different to
+Australian law with respect to fair and reasonable use - so you have
 this problem with terms and conditions which may be enforceable under a
 different law'*.[^19chapter19_37] Another participant expressed his concern about
 the storage of the data, stating there is also this danger of terms and
@@ -19883,7 +19302,7 @@ doin*g'.[^19chapter19_41] One theme that came up a few times is user naivety wit
 one participant mentioning that the privacy problem is '*a social
 issue'* stating that '*there is not such thing as absolute security...
 we need to do better as developers in educating users in what the
-downside of these technologies are -- so it's not enough to wait until
+downside of these technologies are - so it's not enough to wait until
 there is a security incident before mitigating*'[^19chapter19_42] and '*have the
 user know what s/he wants to give out'* educating users to '*be aware
 that they \[external organisations\] are using your data... you kind of
@@ -20136,10 +19555,10 @@ Wang, Yang, Pedro G Leon, Alessandro Acquisti, Lorrie Cranor, Alain I
 Forget and Norman Sadeh, 'A Field Trial of Privacy Nudges for Facebook'
 *CHI*, Toronto Canada, 26 April-1 May 2014.
 
-Weber, Rolf H., 'Internet of Things -- Need for a New Legal
+Weber, Rolf H., 'Internet of Things - Need for a New Legal
 Environment?', *Computer Law & Security Review* 25 (2009): 522.
 
-\_\_\_\_\_. 'Internet of Things -- New Security and Privacy Challenge',
+\_\_\_\_\_. 'Internet of Things - New Security and Privacy Challenge',
 *Computer Law & Security Review* 26 (2010): 23.
 
 Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
@@ -20170,7 +19589,7 @@ Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
     *Proceedings of the 7th International Conference on Body Area
     Networks*, ICST (Institute for Computer Sciences, Social-Informatics
     and Telecommunications Engineering), 2012: 256-262; Rolf H Weber,
-    'Internet of Things -- New Security and Privacy Challenge',
+    'Internet of Things - New Security and Privacy Challenge',
     *Computer Law & Security Review 26* (2010): 23-30; Megan Richardson,
     Rachelle Bosua, Karin Clark, and Jeb Webb with Atif Ahmad and Sean
     Maynard, 'Privacy and the Internet of Things', *Media, Law & Arts
@@ -20182,14 +19601,14 @@ Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
     this essay we use the generic label 'data privacy' to cover privacy
     and data protection.
 
-[^19chapter19_6]: Weber, Internet of Things -- New Security and Privacy Challenge'.
+[^19chapter19_6]: Weber, Internet of Things - New Security and Privacy Challenge'.
 
 [^19chapter19_7]: Ibrahim AT Hashem, Ibrar Yaqoob, Nor Badrul Anuar, Salimeh
     Mokhtar, Abdullah Gani and Samee Ullah Khan, 'The Rise of 'Big Data'
     on Cloud Computing: Review and Open Research Issues Information
     Systems', *Information Systems* 47 (2014): 98-115.
 
-[^19chapter19_8]: See Rolf H Weber, 'Internet of Things -- Need for a New Legal
+[^19chapter19_8]: See Rolf H Weber, 'Internet of Things - Need for a New Legal
     Environment?' *Computer Law & Security Review* 25 (2009): 522-527;
     Richardson, Bosua, Clark and Webb, 'Privacy and the Internet of
     Things'; Richardson, Bosua, Clark and Webb, 'Towards Responsive
@@ -20308,10 +19727,9 @@ Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
 
 
 # 20: *Domesticating Data*: Socio-Legal Perspectives on Smart Homes and Good Data Design
-*Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart*
+######Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart
 
-**Abstract**
-
+## Introduction
 In this chapter, we focus on the so-called 'smart home' as an archetypal
 group space into which the Internet of Things is spreading. As most
 homes are shared spaces we focus on what 'good data' might look like in
@@ -20328,7 +19746,7 @@ implications for the specific but complex challenges that designers and
 occupants of the modern smart home face in trying to engage in good data
 practices.
 
-## Introduction
+
 
 In 2012, a New York Times story on the most banal of subjects - store
 card data - went viral. An American man, it was claimed, had discovered
@@ -20970,7 +20388,7 @@ those ears are monetising what they hear, whether that be Amazon selling
 transcripts of our conversations with Alexa,[^20chapter20_33] or Roomba selling the
 floor plans of our homes[^20chapter20_34]. Here though our focus has been on the
 dangers of interpersonal data. We would argue that data is agnostic,
-that it is neither good nor bad -- but rather that the Internet of
+that it is neither good nor bad - but rather that the Internet of
 Things enables vastly powerful tools that can reason about data created
 by 'the user' but also complicated by, as we have seen, data about
 others. Activities in the home are inextricably linked with the
@@ -20989,7 +20407,7 @@ Information privacy law traditionally stops at the front-door of the
 home. It is not clear whether data protection law provides redress for
 the actual harms faced by the occupants of the modern smart home, or
 whether it is too far removed from the practical challenges faced by
-users -- however in the interim compliance mechanisms like privacy by
+users - however in the interim compliance mechanisms like privacy by
 design[^20chapter20_35] are bringing it in by the backdoor. If technology embeds
 regulatory norms,[^20chapter20_36] these can structure relationships in the home.
 Even if done with the best of intentions, these are external
@@ -21004,7 +20422,7 @@ young people in negative ways, and neglect developmental differences of
 different users.
 
 Our conclusion, then, is to suggest that for the Internet of Things and
-the smart home to be considered as 'good' -- or rather, harmless -- in
+the smart home to be considered as 'good' - or rather, harmless - in
 their use of data, they must be grounded in an interdisciplinary
 conversation about the tensions at the intersection of human-computer
 interaction, or increasingly human-data interaction,[^20chapter20_38] the social
@@ -21017,7 +20435,7 @@ designers of technologies of the future smart home:
     front-door should look like.
 
 -   They must involve their users in a legitimate conversation about the
-    value of their data -- not just engaging in privacy by design, but
+    value of their data - not just engaging in privacy by design, but
     affording *informed* *and visible* transactions around data that can
     be integrated into the socially negotiated work of the home.
 
@@ -21125,7 +20543,7 @@ EU European Court of Justice - C101/01; *Rynes*, 2014
 Goulden, Murray, Peter Tolmie, Richard Mortier, Tom Lodge, Anna-Kaisa
 Pietilainen and Renata Teixeira. 'Living with Interpersonal Data:
 Observability and Accountability in the Age of Pervasive ICT', *New
-Media & Society* 20.4 (2018): 1580--99.
+Media & Society* 20.4 (2018): 1580-99.
 
 Ihde, Don. *Technology and the Lifeworld: From Garden to Earth*,
 Bloomington IN: Indiana University Press, 1990.
@@ -21154,14 +20572,14 @@ the Legal Card', *Proceedings of ACM SIGCHI* *2015*: 457-466.
 
 Manning, Jimmie and Danielle M. Stern. 'Heteronormative Bodies, Queer
 Futures: Toward a Theory of Interpersonal Panopticism', *Information,
-Communication & Society* 21.2 (1 February 2018): 208--23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
+Communication & Society* 21.2 (1 February 2018): 208-23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
 
 Marwick, Alice. 'The Public Domain: Surveillance in Everyday Life',
 *Surveillance & Society* 9 (2012).
 
 Marwick, A.E. and danah boyd, 'Networked privacy: How teenagers
 negotiate context in social media', *New Media & Society* 16.7 (2014):
-1051--1067, DOI: https://doi.org/10.1177/1461444814543995.
+1051-1067, DOI: https://doi.org/10.1177/1461444814543995.
 
 Morgan, David. *Family Connections: An Introduction to Family Studies*,
 Cambridge: Polity Press 1996.
@@ -21200,7 +20618,7 @@ families-or-specific-people-within-households/.
 
 Taylor, Linnet, Luciano Floridi, Bart van der Sloot, *Group Privacy: New
 Challenges of Data Technologies*, Philosophical Studies Series \#126.
-Berlin: Springer, 2017, pp. 197--224, DOI: 10.1007/978-3-319-46608-8\_9.
+Berlin: Springer, 2017, pp. 197-224, DOI: 10.1007/978-3-319-46608-8\_9.
 
 Thomson, Iain. 'Firmware update blunder bricks hundreds of home
 'smart' locks, *The Register*, 11 September 2017,
@@ -21216,7 +20634,7 @@ Accountability in the Internet of Things', *International Journal of Law
 and Technology* (forthcoming, 2018).
 
 Urquhart, Lachlan and Tom Rodden, 'New directions in information
-technology law: learning from human--computer interaction',
+technology law: learning from human-computer interaction',
 *International Review of Law, Computers & Technology* 31.2
 (2017):150-169, DOI: 10.1080/13600869.2017.1298501.
 
@@ -21230,7 +20648,7 @@ http://dx.doi.org/10.1145/329124.329126.
 [^20chapter20_1]: Murray Goulden, Peter Tolmie, Richard Mortier, Tom Lodge,
     Anna-Kaisa Pietilainen and Renata Teixeira, 'Living with
     Interpersonal Data: Observability and Accountability in the Age of
-    Pervasive ICT', *New Media & Society* 20.4 (2018): 1580--99.
+    Pervasive ICT', *New Media & Society* 20.4 (2018): 1580-99.
 
 [^20chapter20_2]: Jamie Orme, 'Samaritans pulls 'suicide watch' Radar app over
     privacy concerns', *The Guardian*, 7 November 2014,
@@ -21279,7 +20697,7 @@ http://dx.doi.org/10.1145/329124.329126.
 
 [^20chapter20_13]: A.E. Marwick and danah boyd, 'Networked privacy: How teenagers
     negotiate context in social media', *New Media & Society* 16.7
-    (2014): 1051--1067; Peter Tolmie & Andy Crabtree, 'The practical
+    (2014): 1051-1067; Peter Tolmie & Andy Crabtree, 'The practical
     politics of sharing personal data', *Personal Ubiquitous Computing*
     22 (2018): 293, DOI: https://doi.org/10.1007/s00779-017-1071-8.
 
@@ -21288,7 +20706,7 @@ http://dx.doi.org/10.1145/329124.329126.
 
 [^20chapter20_15]: Linnet Taylor, Luciano Floridi and Bart van der Sloot, *Group
     Privacy: New Challenges of Data Technologies*, Philosophical Studies
-    Series \#126. Berlin: Springer, 2017, pp. 197--224, DOI:
+    Series \#126. Berlin: Springer, 2017, pp. 197-224, DOI:
     10.1007/978-3-319-46608-8\_9.
 
 [^20chapter20_16]: Article 8, European Convention on Human Rights; United Nations
@@ -21311,7 +20729,7 @@ http://dx.doi.org/10.1145/329124.329126.
     Doing Accountability in the Internet of Things'*, International
     Journal of Law and Technology* (forthcoming, 2018); Lachlan Urquhart
     and Tom Rodden, 'New directions in information technology law:
-    learning from human--computer interaction', *International Review of
+    learning from human-computer interaction', *International Review of
     Law, Computers & Technology*, 31:2 (2017): 150-169, DOI:
     10.1080/13600869.2017.1298501.
 
@@ -21341,7 +20759,7 @@ http://dx.doi.org/10.1145/329124.329126.
 [^20chapter20_29]: Jimmie Manning and Danielle M. Stern, 'Heteronormative Bodies,
     Queer Futures: Toward a Theory of Interpersonal Panopticism',
     *Information, Communication & Society* 21.2 (1 February 2018):
-    208--23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
+    208-23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
 
 [^20chapter20_30]: The inspiration for this element of the scenario comes from the
     news in 2017 that a remotely-issued firmware update bricked several
@@ -21379,4 +20797,571 @@ http://dx.doi.org/10.1145/329124.329126.
 
 [^20chapter20_39]: Don Ihde, *Technology and the Lifeworld: From Garden to Earth*,
     Bloomington IN: Indiana University Press, 1990.
+
+
+#BIOGRAPHIES
+
+**Bruce Baer Arnold** is an Assistant Professor at Canberra Law School
+(University of Canberra). Dr Arnold's doctoral dissertation explored the
+nature of legal identity, including the information state, autonomy and
+population-scale data-mining. He has served on OECD health informatics
+and data protection working parties, alongside Vice-Chairmanship of the
+Australian Privacy Foundation, the Australia's preeminent civil society
+body concerned with data protection. His work on new technology law and
+privacy has appeared in leading journals and collections. He is a
+contributor to Australia's authoritative privacy/confidentiality
+practitioner resource. Dr Arnold's current research focus is on
+regulatory incapacity regarding medical products and data.
+
+**Wendy Elizabeth Bonython** is an Adjunct Associate Professor at
+Canberra Law School (University of Canberra). Dr Bonython has graduate
+qualifications in molecular genetics and law, with a background in
+health research, public administration and policy development. She
+serves on government and professional committees, in addition to
+providing invited expert testimony to a range of legislative and law
+reform inquiries. Dr Bonython's work has appeared in leading Australian
+and overseas law journals, including studies of the interaction between
+tort law and practitioner regulation, tort theory and law's
+understanding of property in bodies and intangibles. Her research
+encompasses professional and public understandings of risk, harm and
+innovation.
+
+**Rachelle Bosua** is Assistant Professor in the Business Process
+Management & IS Dept of the Management Science and Technology Faculty at
+the Open University of The Netherlands. She is also an Honorary Senior
+Fellow in the Department of Computing and Information Systems (CIS) at
+the University of Melbourne. She is co-author of the book *Knowledge
+Management in organizations: a critical introduction* (Oxford University
+Press 2018). Her research focuses on data and information privacy that
+relates to human behavior and the use of information and communication
+technologies.
+
+**Ellen Broad** is Head of Technical Delivery, Consumer Data Standards
+at CSIRO\'s Data61. Previous roles include Head of Policy for the Open
+Data Institute (ODI), an international non-profit founded by Sir Tim
+Berners-Lee and Sir Nigel Shadbolt, and adviser to senior UK government
+minister Elisabeth Truss on data, both in the UK. She has also held
+roles as Manager of Digital Policy and Projects for the International
+Federation of Library Associations and Institutions (Netherlands) and
+Executive Officer for the Australian Digital Alliance. Ellen has written
+and spoken about AI, open data and data sharing issues in the New
+Scientist, the Guardian and a range of technology publications, and is
+the author of *MADE BY HUMANS: The AI Condition* published by Melbourne
+University Publishing (MUP) in August 2018.
+
+**Anna Bruce** is a Senior Lecturer in the School of Photovoltaic and
+Renewable Energy Engineering at UNSW and Research Coordinator
+(Engineering) at the Centre for Energy and Environmental Markets. Her
+research focuses on energy transitions, including renewable and
+distributed energy system and energy market modelling. Current research
+projects include Energy Data for Smart Decision Making through the
+Australian Government's Smart Cities and Suburbs Program, and Integrated
+Smart Home Energy Management Technologies through the CRC-P program. She
+participates as an Australian expert in the IEA's Photovoltaic Power
+Systems and Demand Side Management technology collaboration programs.
+
+**Stephanie Carroll Rainie** (Ahtna Athabascan), MPH, DrPH, is Assistant
+Professor, Public Health Policy and Management at the Community,
+Environment and Policy Department, Mel and Enid Zuckerman College of
+Public Health; Assistant Research Professor, Udall Center for Studies in
+Public Policy (UC); Associate Director and Manager -- Tribal Health
+Program for the Native Nations Institute (http://nni.arizona.edu/) in
+the UC; and Assistant Director for the Center for Indigenous
+Environmental Health Research(http://ciehr.arizona.edu/), MEZCOPH at
+the University of Arizona (UA). Stephanie's research explores the links
+between governance, health care, the environment, and community
+wellness. Stephanie is the co-founder of the United States Indigenous
+Data Sovereignty Network and the International Indigenous Data
+Sovereignty Interest Group at the Research Data Alliance.  
+
+**Donna Cormack **(Kāti Mamoe, Kai Tahu) is a Senior Lecturer and
+researcher with joint positions at Te Kupenga Hauora Māori, University
+of Auckland and Te Rōpū Rangahau Hauora a Eru Pōmare, Univeristy of
+Otago. Donna has had a long-standing interest in data issues,
+particularly as they relate to measuring and monitoring Māori health and
+ethnic health inequities. She is a member of the Te Mana Raraunga Māori
+Data Sovereignty Network. 
+
+**Karin Clark** is a Senior Fellow (Melbourne Law Masters) at the
+University of Melbourne. Previously, she was Special Counsel with the
+Melbourne office of the Allens law firm and practised in the firm's
+Communications, Media and Technology Practice Group specialising in
+advising on compliance with privacy laws.
+
+**Tyng-Ruey Chuang** is an Associate Research Fellow at the Institute of
+Information Science, Academia Sinica (Taipei, Taiwan) with a joint
+appointment at both the Research Center for Information Technology
+Innovation and the Research Center for Humanities and Social Sciences.
+He was trained as a computer scientist (PhD, NYU 1993) and has been
+working with ecologists, historians and legal scholars to make better
+use of research data. He serves on the Executive Committee of CODATA
+(The Committee on Data for Science and Technology) at the International
+Science Council. He is also a member of CODATA\'s International Data
+Policy Committee.
+
+**Angela Daly** is a critical socio-legal scholar of the regulation of
+new technologies. She is currently based in the Chinese University of
+Hong Kong Faculty of Law and holds adjunct positions at Queensland
+University of Technology Faculty of Law (Australia) and the Tilburg
+Institute of Law, Technology and Society (Netherlands). She is the
+author of *Private Power, Online Information Flows and EU Law: Mind the
+Gap* (Hart 2016) and *Socio-Legal Aspects of the 3D Printing Revolution*
+(Palgrave Macmillan 2016).
+
+**S Kate Devitt** is a philosopher and cognitive scientist working as a
+social and ethical robotics researcher for the Australian Defence
+Science and Technology Group. She is an Adjunct Fellow in the
+Co-Innovation Group, School of Information Technology and Electrical
+Engineering, University of Queensland. Her research includes: the ethics
+of data, barriers to the adoption of technologies, the trustworthiness
+of autonomous systems and philosophically designed tools for
+evidence-based, collective decision making.
+
+**Martin Flintham** is an Assistant Professor of Computer Science at the
+University of Nottingham, where he is a member of the Mixed Reality Lab
+and Horizon Digital Economy Research Institute. His research focus on
+deploying and studying interactive experiences and disruptive technology
+probes, including domains such as the Internet of Things, ubiquitous
+computing, mixed reality and games. He has led successful 'in the wild'
+collaborations with the creative industries, leading to several
+highly-cited publications at ACM CHI, and winning the Prix Ars
+Electronica and two BAFTA nominations.
+
+**Murray Goulden** is an Assistant Professor of Sociology at the
+University of Nottingham, and current holder of a Nottingham Research
+Fellowship. Through the Fellowship he is exploring the sociological
+implications of Internet of Things technologies for domestic life. His
+most recent work addresses the political economy of the 'smart home',
+and the implications of IoT-generated 'interpersonal data' for intimate
+social groups. He has worked extensively on research applying novel
+digital technologies to real world settings, with a focus on networking,
+digital data, and smart energy, their role in reconfiguring associated
+social practices, and the implications for policy making and design.
+
+**Timothy Graham** is Postdoctoral Fellow in Sociology and Computer
+Science at the Australian National University. His research combines
+computational methods with social theory to describe, explain, and
+predict the dynamics of social systems. He is currently a Chief
+Investigator of an ARC Discovery Project that utilises large-scale
+hyperlink network analysis and web experiments to comparatively assess
+the government web presence of 10 high-tech countries. He develops open
+source software tools for the analysis of socially-generated data, and
+has published in journals such as Information, Communication & Society,
+Information Polity, Big Data & Society, and Critical Social Policy.
+
+**Daniel Gray** (\@DanielGray00) is a PhD researcher based at Cardiff
+University, United Kingdom. His undergraduate and postgraduate studies
+have focused on critical discursive approaches to social media. At the
+time of writing this takes the form of an analysis of neoliberal and
+misogynistic discourse on Twitter, blending big data and computational
+methods with critical, qualitative research. His research interests are
+focused on Marxist and radical approaches to digital sociology,
+particularly political, ethical and methodological issues on social
+media. More generally, his interests also include the intersections of
+radical left politics and Christianity, and teaching in university.
+
+**Jonathan Gray** is Lecturer in Critical Infrastructure Studies at the
+Department of Digital Humanities, King's College London, where he is
+currently writing a book on data worlds. He is also Cofounder of the
+Public Data Lab; and Research Associate at the Digital Methods
+Initiative (University of Amsterdam) and the médialab (Sciences Po,
+Paris). More about his work can be found at jonathangray.org and he
+tweets at \@jwyg.
+
+**Miren Gutiérrez** (\@gutierrezmiren) holds a PhD in Communication
+Studies. She is the Director of the postgraduate program 'Analysis,
+Research and Data Communication' and lectures on Communication at the
+University of Deusto and is a guest lecturer at the University of
+Navarra. She is also an Associate Researcher at the Overseas Development
+Institute (ODI) in London and DATACTIVE at the University of Amsterdam.
+Her interest is data activism or how people and organizations use data
+infrastructure, in combination with other technologies, for social
+change, equality and environmental conservation. She is also the author
+of the book *Data activism and social change (*Palgrave Macmillan 2018).
+
+**Chih-hsing Ho** is Assistant Research Fellow at Academia Sinica,
+Taiwan. Her research focuses on the nexus of law and medicine in
+general, with particular attention to the governance of genomics and
+newly emerging technologies, such as big data, biobanks and artificial
+intelligence (AI). She is currently a Co-PI in law for a health cloud
+project in Taiwan and is responsible for designing an adequate
+regulatory framework for the secondary use of health data and data
+linkage. She holds a PhD in law from the London School of Economics
+(LSE), a LLM from Columbia Law School, and a JSM from Stanford
+University. 
+
+**Becky Kazansky** is a PhD candidate with the DATACTIVE project at the
+University of Amsterdam. She has a joint affiliation with the Media
+Studies and Political Science departments, additionally serving on the
+ethics committee of the Informatics Institute. Her research focuses on
+resistance to surveillance amidst datafication, looking specifically at
+practices that try to predict and preempt surveillance. Alongside her
+academic research, she has worked for a decade with different human
+rights and social justice organisations on technology issues.
+
+**Declan Kuch** is a Research Fellow in the School of Humanities and
+Languages at UNSW. His research is motivated by problems of reconciling
+public values, technoscience and democracy in an era characterized by
+profound environmental constraints. His research spans climate change,
+energy policy and the social dimensions of the life sciences, and his
+primary role is as a co-leader of the Social Dimensions stream of the
+ARC Centre of Excellence in Convergent Bio-Nano Science and Technology.
+He is the author of *The Rise and Fall of Carbon Emissions Trading*
+(Palgrave Climate Energy and Environment Series 2015).
+
+**Tahu Kukutai** (Ngāti Tīpa, Ngāti Kinohaku, Te Aupōuri) is Professor
+of Demography at the National Institute of Demographic and Economic
+Analysis, University of Waikato. Tahu specialises in Māori and
+Indigenous demographic research and has written extensively on issues of
+Māori population change, Māori identity and official statistics. Tahu is
+a founding member of the Māori Data Sovereignty Network Te Mana Raraunga
+and co-editor (with John Taylor) *of Indigenous Data Sovereignty: Toward
+an Agenda* (ANU Press 2016). She was previously a journalist. 
+
+**Danny Lämmerhirt** is researcher and research coordinator at Open
+Knowledge International. His work focuses on the sociology of
+quantification, metrics and policy, data ethnography, and the data
+commons. Among other activities, he leads the methodology around the
+Global Open Data Index and co-chairs the measurement and accountability
+working group at the Open Data Charter. Working at the intersection
+between practice and theory, he explores the 'social life of metrics'
+and how metrics intervene and reshape organisational cultures and vice
+versa.  He shares his work on Twitter \@danlammerhirt.
+
+**Vanessa Lee** (Yupungathi and Meriam people, Cape York and the Torres
+Strait), is a social epidemiologist and senior academic within the
+discipline of Behavioural and Social Sciences in the Faculty of Health
+Sciences at University of Sydney. Vanessa's overarching focus addresses
+the social issues of the burden of disease to break the cycle of
+inequality that potentially lead to suicide in First Nations
+communities, and to strengthen the health and wellness of Aboriginal and
+Torres Strait Islander cultural identity, particularly for women. She is
+a founding member of the Indigenous Data Sovereignty group in Australia
+- Maiam nayri Wingara. 
+
+**Raymond Lovett **(Wongaibon/Ngiyampaa) is an Associate Professor and
+leader of the Aboriginal and Torres Strait Islander health program at
+the National Centre for Epidemiology and Population Health, Research
+School of Population Health, the Australian National University. Ray is
+a social epidemiologist with extensive experience in health services
+research, public health policy development and health program
+evaluation. He is a founding member of the Indigenous Data Sovereignty
+group in Australia (Maiam nayri Wingara) and is a member of
+the International Indigenous Data Sovereignty Interest group at the
+Research Data Alliance. 
+
+**Iain MacGill** is an Associate Professor in the School of Electrical
+Engineering and Telecommunications at the University of New South Wales,
+and Joint Director (Engineering) for the University's Centre for Energy
+and Environmental Markets (CEEM). Iain's teaching and research interests
+include electricity industry restructuring and the Australian National
+Electricity Market, sustainable energy generation technologies,
+renewable and distributed energy integration, energy efficiency and
+demand-side participation, and broader energy and climate policy
+opportunities and challenges.  
+
+**Daniel McNamara** is a PhD candidate in the Research School of
+Computer Science at the Australian National University. He is affiliated
+with the Machine Learning Research Group at CSIRO Data61. Daniel\'s
+research interests include fair machine learning and representation
+learning. He was a visiting student researcher during 2016-17 at the
+Carnegie Mellon University Machine Learning Department, supported by a
+Fulbright Postgraduate Scholarship. His work experience includes roles
+as a campaign data specialist at the Australian Labor Party, as a
+management consultant at the Nous Group, and as an intern at Microsoft
+and Google.
+
+**Monique Mann** is the Vice Chancellor's Research Fellow in Technology
+and Regulation at the Faculty of Law, Queensland University of
+Technology. Dr Mann is advancing a program of socio-legal research on
+the intersecting topics of algorithmic justice, police technology,
+surveillance, and transnational online policing.
+
+**Luke Marshall** is a PhD student in the School of Photovoltaics and
+Renewable Energy Engineering and Centre for Energy and Environmental
+Markets in the University of New South Wales. His research centres on
+the intersection between energy market rules, and the integration of
+solar resources into the electricity grid. He loves to code (including
+projects such as http://energyopensource.org/) and also to surf.
+
+**Nikita Melashchenko** is a PhD Candidate at Victoria University of
+Wellington. He focuses on intellectual property and regulatory theory in
+application to the knowledge economy. His dissertation examines data
+localization policies under the WTO law. Nikita is a Fulbright alumnus
+and earned degrees from Vanderbilt University (LLM) and SPbU (LLB &
+LLM). Before joining the academy he practiced in the field of law and
+technology.
+
+**Stefania Milan** (stefaniamilan.net) is Associate Professor of New
+Media at the University of Amsterdam. Her work explores the intersection
+of digital technology, governance and activism, with emphasis on
+critical data practices and autonomous infrastructure. Stefania is the
+Principal Investigator of the DATACTIVE project, funded with a Starting
+Grant of the European Research Council (639379) and exploring the
+evolution of citizenship and participation vis-à-vis datafication and
+surveillance (data-activism.net), and of the spin-off ALEX project (ERC
+Proof of Concept 825974). She is the author of *Social Movements and
+Their Technologies: Wiring Social Change* (Palgrave Macmillan 2013/2016)
+and co-author of *Media/Society* (Sage 2011).
+
+**Cheng Soon Ong** is a principal research scientist at the Machine
+Learning Research Group, Data61, CSIRO(http://data61.csiro.au/). He is
+also an Adjunct Associate Professor at the Australian National
+University. His PhD in Computer Science was completed at the Australian
+National University in 2005. He was a postdoc at the Max Planck
+Institute of Biological Cybernetics and the Fredrich Miescher Laboratory
+in Tübingen, Germany. From 2008 to 2011, he was a lecturer in the
+Department of Computer Science at ETH Zurich, and in 2012 and 2013 he
+worked in the Diagnostic Genomics Team at NICTA in Melbourne. Since
+2014, Cheng Soon is researching ways to enable scientific discovery by
+extending statistical machine learning methods with the Machine Learning
+Research Group in Data61, CSIRO in Canberra. Prior to his PhD, he
+researched and built search engine and Bahasa Malaysia technologies at
+Mimos Berhad, Malaysia. He obtained his B.E. (Information Systems) and
+B.Sc. (Computer Science) from the University of Sydney, Australia.
+
+**Sefa Ozalp** is a research assistant and a PhD student at the Social
+Data Science Lab, Cardiff University. His main research interests are
+computational sociology and computational criminology, particularly
+focusing on dissemination of multiple typologies of cyberhate and
+xenophobia on social media platforms. He is also interested in
+regulation of digital platforms and abuse of personal (meta)data by
+oppressive regimes, focusing particularly on Turkey.
+
+**Rob Passey** is a Senior Research Associate at the Centre for Energy
+and Environmental Markets (CEEM), and Postdoctoral Fellow at the School
+of Photovoltaic and Renewable Energy Engineering (SPREE), both at UNSW
+Sydney. He is also a Senior Consultant with ITP Renewables, and Policy
+Analyst and Treasurer at the Australian PV Institute. He focuses on
+policy research and analysis, particularly renewable energy, distributed
+energy resources, energy efficiency and carbon pricing.  He has
+published widely on market-like policies to reduce greenhouse emissions,
+the uptake of low emission technologies and energy efficiency, as well
+as distributed generation and its integration into electricity networks,
+including smart grids.
+
+**Chiara Poletti** (\@ccpollon) is an ESRC funded PhD researcher in the
+School of Social Sciences at Cardiff University. Her research interests
+cover digital rights, digital labour, cybersecurity, digital
+methodologies and ethics of research on big data. In the last years, she
+has been working on Internet governance, social media platforms and big
+data. Her PhD project focuses on the discursive and socio-economic
+aspects of social media platforms\' content regulation. Previously, she
+studied the public discourse on social media platforms in the aftermath
+of terrorist attacks. She is one of the co-founders and chair of the
+Digital Stuff Post Graduate research group in Cardiff University
+(https://digitalstuffcardiff.com).
+
+**Colin Porlezza** is Senior Lecturer in Journalism with the Department
+of Journalism at City, University of London. He is also a Visiting
+Professor at the Institute of Media and Journalism at the Università
+della Svizzera italiana. His research focuses on data journalism, media
+accountability and transparency, as well as innovation in digital
+journalism. His research so far has resulted in more than 30
+peer-reviewed publications. He is a Board Member of the Swiss
+Association of Communication and Media Research (SACM) and a founding
+member of the European Journalism Observatory. He has featured on the
+the Swiss Public Service Broadcaster SRG SSR, Poynter, the Neue Zürcher
+Zeitung and other news outlets.
+
+**Dominic Price** is a researcher at the Horizon Digital Economy
+Research Institute at the University of Nottingham. His research focuses
+on the software engineering aspect of Human-Computer Interaction and the
+development of platforms that bridge the gap between system level
+computing and human interfaces. He has most recently been involved in
+work in the areas of crowd-sourcing and social-networking.
+
+**Paula Restrepo** is an Associate Professor at the Department of Social
+Communication, Faculty of Communication, Universidad de Antioquia,
+Medellín, Colombia. She has a degree in Anthropology and a Masters in
+Philosophy from Universidad de Antioquia, and a PhD in Philosophy from
+the Basque Country University. She is a member of the Research Group
+'Grupo de investigación Comunicación Periodismo y Sociedad' at Facultad
+de Comunicaciones, Universidad de Antioquia UdeA, Calle 70 No. 52-21,
+Medellín, Colombia. This chapter is a product of the Project "Prácticas
+comunicativas de la agricultura urbana en Medellín" (cod. 2016-12689)
+approved by Convocatoria Programática 2016, from the Universidad de
+Antioquia.
+
+**Megan Richardson** is a Professor of Law, Co-Director of the Centre
+for Media and Communications Law, and Director of the Intellectual
+Property Research Institute of Australia at the University of Melbourne.
+Recent books include *The Right to Privacy: Origins and Influence of a
+Nineteenth-Century Idea* (Cambridge University Press 2017), and she is
+currently writing an *Advanced Introduction to Privacy Law* (Edward
+Elgar, forthcoming 2020).
+
+**Gerard Jan Ritsema** **van Eck** is a PhD researcher at the Security,
+Technology, and *e*-Privacy (ST*e*P) research group at the University of
+Groningen. His research focuses on participatory surveillance and
+privacy issues in public spaces. In particular, he is interested in how
+new and rapidly evolving technologies, such as smartphones and
+predictive analytics, enable states and large corporations to enrol
+citizens as data gatherers. His work combines insights from sociology
+and surveillance studies with work on European (Union) data protection
+law to generate new insights on the changing nature of urban public
+spaces.
+
+**Mike Roberts** is a Research Associate at the Centre for Energy and
+Environmental Markets (CEEM) and in the School of Photovoltaic and
+Renewable Energy Engineering (SPREE) at UNSW Sydney. His research
+interests include technical and policy aspects of integration of
+distributed renewable generation, storage and demand management,
+co-operative approaches to energy planning, including embedded networks,
+micro grids and community renewable energy, and solar potential
+assessment. Mike's doctoral thesis explored opportunities for
+photovoltaics and storage in multi-occupancy residential buildings.
+
+**Adam Steer** is a serial multi-disciplinarian, whose career has ranged
+from neurophysiology laboratories to web site management to professional
+bicycle repair to Antarctic logistics, sea ice field research and most
+recently working on massive high resolution geospatial data management.
+The intersection of technology and human evolution is a key driver in
+Adam's outlook on science and data and life - looking at when we cast
+human problems as engineering problems, and how we can become better
+humans in order to build a better future. He runs the consultancy
+Spatialised (http://spatialised.net).
+
+**Naomi Stringer** is undertaking a PhD in the School of Photovoltaics
+and Renewable Energy Engineering and Centre for Energy and Environmental
+Markets in the University of New South Wales. Her research is driven by
+a fascination with the opportunities and challenges afforded by
+distributed energy resources (namely rooftop PV and home battery
+systems) and research interests include the technical, social and
+regulatory aspects of distributed energy integration. Her current work
+examines the behaviour of rooftop solar PV systems during major
+electricity system disturbances. Undertaken in collaboration with the
+Australian Energy Market Operator and solar monitoring company, Solar
+Analytics, her work is heavily data driven.
+
+**Guillén Torres** joined DATACTIVE as a PhD candidate to develop a
+project on how data mediates the interaction between organised citizens
+and the state. His main areas of interest are transparency, resistance
+and the anthropology of the state. He also serves as an advisor to the
+Mexican NGO ControlYourGovernment. He has a background in Urban Studies
+and Sociology and is a recidivist Actor-Network Theory enthusiast.
+
+**Claire Trenham** has research and data experience spanning a range of
+physical sciences, including radio astronomy, ocean waves, and climate
+models, as well as substantial experience more broadly managing large
+scale 'nationally significant' research data collections at the
+Australian National Computational Infrastructure. Claire currently works
+for CSIRO's Climate Science Centre in the Sea level rise, waves and
+coastal extremes team alongside the regional climate team. Claire is
+heavily involved in climate modelling, data processing, data preparation
+and software to enhance science capabilities, as well as supervising
+student volunteers in historical data digitisation. Claire has a passion
+for making maths and science fun, relevant and accessible.
+
+**Lachlan Urquhart** is a Lecturer in Technology Law at the University
+of Edinburgh. He is also a visiting researcher at the Horizon Digital
+Economy Research Institute, where he was a Research Fellow in
+Information Technology Law from 2016-2018. He is a multidisciplinary
+researcher, having degrees in both law and computer science, with an
+LL.B, (Hons) from University of Edinburgh, an LL.M in IT & Telecoms Law
+(Distinction) from University of Strathclyde and & a Ph.D in Human
+Computer Interaction from University of Nottingham. He works at the
+boundaries of information technology law (mainly privacy & information
+security), HCI, and computer ethics. His research mainly considers
+the technical, legal, social, and ethical implications of living with
+ambient interactive computing.
+
+**Juan Carlos Valencia** is an Associate Professor of Communication at
+Universidad Javeriana in Bogotá, Colombia. He holds a degree in
+Electronics Engineering and a Masters in Communication from Universidad
+Javeriana, and a PhD from the Department of Music, Media and Cultural
+Studies at Macquarie University (Australia). He is a member of the
+Research Group 'Comunicación, medios y cultura' at Universidad
+Javeriana.
+
+**Karin van Es** is an Assistant Professor at Utrecht University and
+coordinator of the Datafied Society research platform. Her current
+research interests revolve around tool criticism and public values in
+the digital age. Karin is author of the book *The Future of Live*
+(Polity Press 2016), co-editor of the volume *The Datafied Society* (AUP
+2017) and the issue 'Big Data Histories' (2018) for TMG-Journal for
+Media History. She has published in outlets such as Television & New
+Media, Media, Culture & Society, M/C Journal and First Monday. Her
+publications cover critical data studies, social media, and the concept
+liveness.
+
+**Daniela van Geenen** is a Lecturer and researcher in data journalistic
+practice and data visualization at the University of Applied Sciences
+Utrecht and an affiliated researcher at the Datafied Society research
+platform. Her work tackles the question of the scholarly conduct that
+the work with digital methods demands, challenged by the need to design
+accountable software tools. She wrote her MA thesis on tool criticism
+investigating the case of Gephi. Daniela published on the role of social
+and technical actors on social media platforms, and their meaning for
+social and political practices such as public debate and cultural
+consumption.
+
+**Jelmer van Nuss** is a developer at the Digital Humanities Lab at
+Utrecht University and a computing science master's student at Utrecht
+University. He specializes in artificial intelligence with a particular
+interest in data science. His work at the Digital Humanities Lab
+consists of supporting humanities researchers by providing software and
+tools for their research.
+
+**Lonneke van der Velden** is a postdoctoral researcher with DATACTIVE
+and a Senior Lecturer at the Department of Media Studies at the
+University of Amsterdam. Her work deals with surveillance and data
+activism, with a special focus on Open Source Intelligence. She is part
+of the editorial board of Krisis: Journal for contemporary philosophy in
+the Netherlands and is on the Board of Directors of the Dutch digital
+rights organisation Bits of Freedom.
+
+**Jennifer Walker** (Haudenosaunee), PhD, is a Canada Research Chair in
+Indigenous Health and Assistant Professor, School of Rural and Northern
+Health, Laurentian University. She is the Indigenous Lead at the
+Institute for Clinical Evaluative Sciences in Ontario, Canada. Jennifer
+works to support and advance the governance and use of population health
+data by Indigenous nations to address community health and wellbeing.
+Her program of research integrates Indigenous perspectives on
+multi-morbidity and culturally safe care for Indigenous older adults.
+Jennifer is a member of the Indigenous Data Sovereignty Interest group
+at the Research Data Alliance.  
+
+**Jeb Webb** is a research fellow at Australia's Oceania Cyber Security
+Centre, which works in partnership with the University of Oxford's
+Global Cyber Security Capacity Centre to conduct maturity reviews for
+countries in the Oceania region. He received a Bachelor of Arts in
+Political Science from the University of California at Berkeley, a
+Master of Arts in Intelligence Studies from American Military
+University, and a PhD from the University of Melbourne\'s School of
+Engineering (Department of Computing and Information Systems).
+
+**Maranke Wieringa** is a PhD candidate at Utrecht University and has a
+background in Cultural Studies and Media Studies, with a specialization
+in software and data. Her dissertation investigates algorithmic
+accountability in Dutch municipalities, and, following from this
+insight, Maranke develops a toolkit to empower municipal data
+professionals to give testimony of the (decisions around the) algorithm.
+At Utrecht University, Maranke is part of the Datafied Society research
+platform, and teaches various courses on (scholarly) data analysis. Her
+academic interests lie at the intersection of software and data (e.g.
+tool criticism, algorithm studies).
+
+**Kersti Wissenbach** (kerstiwissenbach.com) is a researcher and senior
+consultant working on the crossroads of communication, governance,
+responsible data, and civic tech. She is specialised in participatory
+methods and has worked with activist groups, NGOs, and government
+institutions in over 15 countries. Since 2011 Kersti runs her own
+consulting firm providing strategy and policy advice and facilitating
+co-creation processes. Kersti lectures in the Communication for
+Development Master of Malmö University. She is a researcher with the
+DATACTIVE project where she merges social movement and communication for
+social change scholarship for her study of power dynamics within
+transnational civic tech activism.
+
+**Sharon Young** has recently submitted her PhD thesis to the University
+of New South Wales, investigating the influence of tariffs on the
+impacts of decentralised energy resources on the Australian electricity
+industry and is currently working with the Centre for Energy and
+Environmental Markets (CEEM).
+
+**Andrea Zeffiro** is an Assistant Professor in the Department of
+Communication Studies and Multimedia, and Academic Director for the
+Lewis & Ruth Sherman Centre for Digital Scholarship at McMaster
+University.
 

@@ -92,7 +92,7 @@ an expensive Band-Aid that will be avoided, ignored, and brushed aside?<br />
 
 
 ![](imgs/chapter17_Ritsema_image1.jpg)
-*Figure 1. Screenshot taken by the author on
+<br />*Figure 1. Screenshot taken by the author on
 https://labs.strava.com/heatmaps on 2 February 2018. Shown is the
 Stadspark in Groningen, the Netherlands. The clearly visible small
 semi-circle in the bottom is a 400-meter running track whereas the
@@ -149,7 +149,7 @@ those who "consume" the map'.[^17chapter17_17] <br />
 
 
 ![](imgs/chapter17_Ritsema_image2.jpg)
-*Figure 2. Screenshot taken by the author on
+<br />*Figure 2. Screenshot taken by the author on
 https://www.waze.com/livemap on 5 February 2018. Shown is part of the
 center of London, England. The three data sources are clearly visible:
 the coloration of the streets is based on scraped movement data, the

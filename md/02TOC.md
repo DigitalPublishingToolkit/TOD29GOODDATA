@@ -20,75 +20,75 @@ Rights: CC BY-NC 4.0
 #CONTENTS
 
 
-<a href="03chapter1.md"> **1: Introduction: What is (in) Good Data** </a>   <br />
+<a href="ch003.xhtml"> **1: Introduction: What is (in) Good Data** </a>    <br />
 Monique Mann, Kate Devitt and Angela Daly
 
 
 
 ##THEME 1: GOOD DATA MANIFESTOS AND PRACTICES
 
-<a href="05chapter2.md">**2: Good Data Practices for Indigenous Data Sovereignty and Governance** </a> <br />
+<a href="ch005.xhtml">**2: Good Data Practices for Indigenous Data Sovereignty and Governance** </a> <br />
 Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie Carroll Rainie and Jennifer Walker
 
-<a href="06chapter3.md">**3: The Good Data Manifesto** </a><br />
+<a href="ch006.xhtml">**3: The Good Data Manifesto** </a><br />
 Claire Trenham and Adam Steer
 
-<a href="07chapter4.md">**4: The Good, the Bad and the Beauty of ‘Good Enough Data’** </a><br />
+<a href="ch007.xhtml">**4: The Good, the Bad and the Beauty of ‘Good Enough Data’**</a> <br />
 Miren Gutiérrez
 
-<a href="08chapter5.md">**5: An Energy Data Manifesto**</a> <br />
+<a href="ch008.xhtml">**5: An Energy Data Manifesto**</a><br />
 Declan Kuch, Naomi Stringer, Luke Marshall, Sharon Young, Mike Roberts, Iain MacGill, Anna Bruce and Rob Passey
 
 ##THEME 2: GOOD DATA AND JUSTICE 
 
-<a href="10chapter6.md">**6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study** </a> <br /> 
+<a href="ch010.xhtml">**6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study** </a><br /> 
 Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong
 
-<a href="11chapter7.md">**7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: the ByLock Case** </a><br /> 
+<a href="ch011.xhtml">**7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: the ByLock Case** </a><br /> 
 A. Sefa Ozalp
 
-<a href="12chapter8.md">**8: Not as Good as Gold? Genomics, Data and Dignity**</a><br /> 
+<a href="ch012.xhtml">**8: Not as Good as Gold? Genomics, Data and Dignity** </a><br /> 
 Bruce Baer Arnold and Wendy Elizabeth Bonython
 
-<a href="13chapter9.md">**9: Data Localization: Policymaking or Gambling?**</a><br /> 
+<a href="ch013.xhtml">**9: Data Localization: Policymaking or Gambling?**</a><br /> 
 Nikita Melashchenko
 
 ##THEME 3: GOOD DATA AS OPEN AND SHARED DATA
 
-<a href="15chapter10.md">**10: Making Data Public? The Open Data Index as Participatory Device**</a><br /> 
+<a href="ch015.xhtml">**10: Making Data Public? The Open Data Index as Participatory Device**</a><br /> 
 Jonathan Gray and Danny Lämmerhirt
 
-<a href="16chapter11.md">**11: Data Journalism and the Ethics of Open Source**</a><br />
+<a href="ch016.xhtml">**11: Data Journalism and the Ethics of Open Source**</a><br />
 Colin Porlezza
 
-<a href="17chapter12.md">**12: Governance of Communal Data Sharing**</a><br />
+<a href="ch017.xhtml">**12: Governance of Communal Data Sharing**</a><br />
 Chih-Hsing Ho and Tyng-Ruey Chuang
 
 ##THEME 4: GOOD DATA ACTIVISM AND RESEARCH 
 
-<a href="19chapter13.md">**13: Provocations for Social Media Research: Toward Good Data Ethics**</a><br />
+<a href="ch019.xhtml">**13: Provocations for Social Media Research: Toward Good Data Ethics**</a><br />
 Andrea Zeffiro
 
-<a href="20chapter14.md">**14: Data for the Social Good: Toward a Data-Activist Research Agenda**</a><br />
+<a href="ch020.xhtml">**14: Data for the Social Good: Toward a Data-Activist Research Agenda**</a><br />
 Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti Wissenbach and Stefania Milan
 
-<a href="21chapter15.md">**15: Good Data is Critical Data: An Appeal for Critical Digital Studies**</a><br /> 
+<a href="ch021.xhtml">**15: Good Data is Critical Data: An Appeal for Critical Digital Studies**</a><br /> 
 Chiara Poletti and Daniel Gray
 
-<a href="22chapter16.md">**16: The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**</a><br />Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss
+<a href="ch022.xhtml">**16: The Fieldnotes Plugin: Making Network Visualisation in Gephi Accountable**</a><br />Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss
 
 ##THEME 5: GOOD DATA AND SMART CITIES AND HOMES 
 
-<a href="24chapter17.md">**17: Algorithmic Mapmaking in ‘Smart Cities’: Data Protection Impact Assessments as a means of Protection for Groups**</a><br />
+<a href="ch024.xhtml">**17: Algorithmic Mapmaking in ‘Smart Cities’: Data Protection Impact Assessments as a means of Protection for Groups**</a><br />
 Gerard Jan Ritsema van Eck
 
-<a href="25chapter18.md">**18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia**</a><br />
+<a href="ch025.xhtml">**18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia**</a><br />
 Juan-Carlos Valencia and Paula Restrepo
 
-<a href="26chapter19.md">**19: Intelligent Warning Systems: ‘Technological Nudges’ to Enhance User Control of IoT Data Collection, Storage and Use**</a><br /> 
+<a href="ch026.xhtml">**19: Intelligent Warning Systems: ‘Technological Nudges’ to Enhance User Control of IoT Data Collection, Storage and Use**</a><br /> 
 Rachelle Bosua, Karin Clark, Megan Richardson and Jeb Webb
 
-<a href="27chapter20.md">**20: Domesticating Data: Socio-Legal Perspectives on Smart Homes and Good Data Design**</a><br />
+<a href="ch027.xhtml">**20: Domesticating Data: Socio-Legal Perspectives on Smart Homes and Good Data Design**</a><br />
 Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart
 
-###<a href="28biographies.md">BIOGRAPHIES</a>
+###<a href="ch028.xhtml">BIOGRAPHIES</a>
