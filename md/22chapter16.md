@@ -20,11 +20,9 @@ Rights: CC BY-NC 4.0
 
 # 16: The Fieldnotes Plugin: Making Network Visualization in Gephi Accountable
 
-*Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van
-Nuss*
+######Maranke Wieringa, Daniela van Geenen, Karin van Es and Jelmer van Nuss
 
-**Abstract**
-
+## Introduction
 The network visualizations humanities scholars and social scientists
 employ to communicate research findings are often imbued with a sense of
 objectivity. The impression is that these visualizations show facts
@@ -39,8 +37,8 @@ whilst the steps taken and parameters of the algorithms used to get to
 the particular visualization go undocumented.
 
 Tackling the software tool's 'epistemological affordances,' we elaborate
-on how the 'interpretative acts' of practitioners -- knowingly and
-unknowingly -- privilege certain viewpoints and perpetuate particular
+on how the 'interpretative acts' of practitioners - knowingly and
+unknowingly - privilege certain viewpoints and perpetuate particular
 power relations. We consider how these can be made accountable in a
 pragmatic way through an application that supports those working with
 Gephi in taking procedural 'fieldnotes,' which enables scholarly
@@ -53,7 +51,7 @@ being accountable in a scholarly context entails. We place the
 development of this plugin in an emerging practice of 'account-ability
 by design'.
 
-## Introduction
+
 
 Data visualizations are increasingly used for sense-making and
 communication in scholarly research.[^16chapter16_1] Network visualizations, among
@@ -199,15 +197,15 @@ approach of social network analysis.[^16chapter16_26] We focus particularly on t
 mobilization of situated knowledge in Gephi's usage and the way in which
 the plugin can enhance reflection on this.
 
-As a tool that produces visual outcomes -- in the shape of a network
-graph -- Gephi is a perfect showcase to pose the question of the
+As a tool that produces visual outcomes - in the shape of a network
+graph - Gephi is a perfect showcase to pose the question of the
 reflexivity of (algorithmic) knowledge instruments, or what becomes
 visible in comparison to the parts of the epistemic process that stay
 invisible. Reflexivity as an inherent quality of the epistemic process
 implies that we need an opportunity to *account for* all decisive (human
 and non-human) actions performed in this process. Accountability here is
 understood as accepting responsibility for one's actions, and thereby
-being -- potentially -- liable.[^16chapter16_27] It differs from transparency which
+being - potentially - liable.[^16chapter16_27] It differs from transparency which
 concerns disclosing information and privileges seeing over
 understanding.[^16chapter16_28] Our concern, however, is not per se on one's
 liability, but on one's *account-ability*, which refers to, on the one
@@ -236,8 +234,8 @@ forth from an ethnographic, processual, and systematic engagement with
 the tool. The reflexive practice we envision for scholars working with
 the tool considers and offers information about the tools we use and the
 steps we take to analyze our data. In other words, we attempt to make
-the interpretive practices of scholars open for scrutiny -- account-able
--- as part of their critical positioning. The lack of such
+the interpretive practices of scholars open for scrutiny - account-able
+- as part of their critical positioning. The lack of such
 documentation, which we expand on later in this paper, is partly due to
 the structure of the program itself, and resides in the need for and
 current lack of its 'epistemological affordances'.[^16chapter16_33] The term is
@@ -328,13 +326,16 @@ the most connections. Subsequently, it is possible to color and
 'partition' these nodes based on the communities inferred by the
 algorithm (see Figure 1).[^16chapter16_45]
 
-
+![](imgs/chapter16_Wieringa_image1.jpg)
+![](imgs/Chapter16_Wieringa_image2.jpg)
 *Figures 1 and 2: Gephi's 'Overview' and 'Data Laboratory' tabs after
 opening the Les Miserables dataset.*
 
+![](imgs/Chapter16_Wieringa_image3.jpg)
 *Figure 3: The 'raw' Les Miserables sample.*
 
-
+![](imgs/chapter16_Wieringa_image4.jpg)
+![](imgs/chapter16_Wieringa_image5.jpg)
 *Figures 4 and 5: ForceAtlas 2's default settings applied to the same
 'Les Miserables' exercise sample, and after adjusting 'Tuning' and
 'Behavior Alternative' settings such as the scaling (from 10 to 50) and
@@ -382,7 +383,7 @@ interpretative acts performed by the researcher(s).
 About documenting the Gephi work process in academic publications, Axel
 Bruns writes:
 
-> \[T\]he various visualization algorithms offered by the well--known,
+> \[T\]he various visualization algorithms offered by the well-known,
 > open source network analysis software Gephi, for example, are
 > generally described in some detail in software guides and related
 > literature, but relatively few of the scholarly publications which
@@ -499,7 +500,7 @@ It can automatically log the following:
 
 The log of the working process can be exported as a settings file (see
 for example the figure below). In this file, the particular parameters
-of each step are logged -- not only the steps taken. For instance, if
+of each step are logged - not only the steps taken. For instance, if
 one uses a particular filter, besides the type of filter all properties
 associated with that filter are saved. The settings are exported as a
 .txt file and can therefore be opened in a wide variety of text editors
@@ -514,7 +515,7 @@ limited functionality in logging this particular aspect, it still
 greatly speeds up the logging which would otherwise be done manually.
 
 
-
+![](imgs/chapter16_Wieringa_image6.jpg)
 *Figure 6. Example of settings.txt file*
 
 Aside from the settings file, the plugin also automatically saves the
@@ -534,9 +535,9 @@ believe the plugin to be a pragmatic solution to.
 
 Several scholars have highlighted the need for a better understanding of
 the tools we use, and therefore, the algorithms we work with.[^16chapter16_59] While
-we acknowledge the importance of such intimate tool understanding -- for
+we acknowledge the importance of such intimate tool understanding - for
 instance, in the case of statistical measures such as PageRank or
-algorithms like ForceAtlas 2 -- our plugin does not facilitate better
+algorithms like ForceAtlas 2 - our plugin does not facilitate better
 understanding of the algorithms themselves. The plugin limits itself to
 offering information on what parameters were used to influence their
 workings. Thus, it does not help to open the black box of the applied -
@@ -660,11 +661,11 @@ Akrich, Madeleine and Bruno Latour. 'A Summary of a Convenient
 Vocabulary for the Semiotics of Human and Nonhuman Assemblies', in Wiebe
 E. Bijker and John Law (eds), *Shaping Technology / Building Society:
 Studies in Sociotechnical Change*, Cambridge MA/London: MIT Press, 1992,
-pp. 259--64.
+pp. 259-64.
 
 Ananny, Mike and Kate Crawford. 'Seeing without Knowing: Limitations of
 the Transparency Ideal and Its Application to Algorithmic
-Accountability'. *New Media and Society,* 20.3 (2018): 973--89.
+Accountability'. *New Media and Society,* 20.3 (2018): 973-89.
 
 Bastian, Mathieu, Sebastien Heymann and Mathieu Jacomy. 'Gephi: An Open
 Source Software for Exploring and Manipulating Networks', *Proceedings
@@ -673,7 +674,7 @@ http://www.aaai.org/ocs/index.php/ICWSM/09/paper/download/154/1009.
 
 Blondel, Vincent D., Jean-Loup Guillaume, Renaud Lambiotte and Etienne
 Lefebvre. 'Fast Unfolding of Communities in Large Networks', *Journal of
-Statistical Mechanics: Theory and Experiment,* 10 (2008): 1--12.
+Statistical Mechanics: Theory and Experiment,* 10 (2008): 1-12.
 
 Bruns, Axel. 'Faster than the Speed of Print: Reconciling 'Big Data'
 Social Media Analysis and Academic Scholarship', *First Monday* 18.10
@@ -685,7 +686,7 @@ and Politics of Ethnography*, Berkeley: University of California Press,
 
 Correa, Carlos D and Kwan-Liu Ma. 'Visualizing Social Networks', in
 Charu C. Aggarwal (ed.), *Social Network Data Analytics*, New York:
-Springer, 2011, pp. 307--26.
+Springer, 2011, pp. 307-26.
 
 Curinga, Matthew. 'Critical analysis of interactive media with software
 affordances', *First Monday* 19.9 (2014).
@@ -743,7 +744,7 @@ Houghton Mifflin, 1979.
 
 Haraway, Donna J. 'Situated Knowledges: The Science Question in Feminism
 and the Privilege of Partial Perspective', *Feminist Studies* 14.3
-(1988): 575--99.
+(1988): 575-99.
 
 Heymann, Sebastien. 'GSoC: Legend Module', *Gephi Blog*, 2012,
 https://gephi.wordpress.com/2012/09/24/gsoc-legend-module/comment-page-1/.
@@ -757,14 +758,14 @@ Hutchby, Ian. 'Technologies, Texts and Affordances', *Sociology* 35.2
 Jacomy, Mathieu, Tommaso Venturini, Sebastien Heymann and Mathieu
 Bastian. 'ForceAtlas2, a Continuous Graph Layout Algorithm for Handy
 Network Visualization Designed for the Gephi Software', *PLoS ONE* 9.6
-(2014): 1--12.
+(2014): 1-12.
 
 Kariv, Adam. 'Letting Data Speak for Itself', *Medium*, 2017,
 https://medium.com/\@adam.kariv/letting-data-speak-for-itself-80f1625a8ad1.
 
 Kennedy, Helen, Rosemary Lucy Hill, Giorgia Aiello, and William Allen.
 'The Work That Visualisation Conventions Do', *Information Communication
-and Society* 19.6 (2016): 715--35.
+and Society* 19.6 (2016): 715-35.
 
 Knuth, Donald E. *The Stanford GraphBase: A Platform for Combinatorial
 Computing*, New York: ACM Press, 1993.
@@ -783,17 +784,17 @@ Manovich, Lev. *Software Takes Command,* New York, London: Bloomsbury,
 
 Neyland, Daniel. 'Bearing Account-Able Witness to the Ethical
 Algorithmic System', *Science, Technology, & Human Values* 41.1 (2016):
-50--76.
+50-76.
 
 Nissenbaum, Helen. 'Computing and Accountability', *Communications of
-the ACM* 37.1 (1994): 72--80.
+the ACM* 37.1 (1994): 72-80.
 
 Norman, Donald. *The Design of Everyday Things*, New York: Doubleday,
 1990.
 
 Page, Lawrence, Sergey Brin, Rajeev Motwani and Terry Winograd. 'The
 PageRank Citation Ranking: Bringing Order to the Web', *World Wide Web
-Internet And Web Information Systems* 54.1999--66 (1998): 1--17.
+Internet And Web Information Systems* 54.1999-66 (1998): 1-17.
 
 Paßmann, Johannes. 'Forschungsmedien erforschen. Über Praxis mit der
 Mapping- Software Gephi', in *Navigationen. Vom Feld zum Labor und
@@ -801,7 +802,7 @@ zurück* 1 (2013): 113-129.
 
 Rieder, Bernhard, and Theo Röhle. 'Digital Methods: Five Challenges', in
 David Berry (ed.), *Understanding Digital Humanities*, Cham: Springer,
-2012, pp. 67--84.
+2012, pp. 67-84.
 
 Rieder, Bernhard, and Theo Röhle. 'Digital Methods: From Challenges to
 Bildung' in Mirko Tobias Schäfer and Karin Van Es (eds), *The Datafied
@@ -810,7 +811,7 @@ Press, 2017, pp. 109-24.
 
 Rogers, Richard. 'Foundations of Digital Methods', in Mirko Tobias
 Schäfer and Karin Van Es (eds), *The Datafied Society: Studying Culture
-through Data*, Amsterdam: Amsterdam University Press, 2017, pp. 75--94.
+through Data*, Amsterdam: Amsterdam University Press, 2017, pp. 75-94.
 
 Sanjek, Roger (ed.). *Fieldnotes: The Makings of Anthropology*, Ithaca:
 Cornell University Press, 1990.
@@ -832,7 +833,7 @@ the Morality of Things.* Chicago/London: University of Chicago Press,
 
 \_\_\_\_\_. 'Resistance Is Futile: Toward a Non-Modern Democratization
 of Technology', *Techné: Research in Philosophy and Technology* 17.1
-(2013): 72--92.
+(2013): 72-92.
 
 [^16chapter16_1]: Stephen Few, 'Data Visualization for Human Perception', in
     Interaction Design Foundation (ed.), *The Encyclopedia of
@@ -842,7 +843,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
 
 [^16chapter16_2]: See e.g. Carlos D. Correa and Kwan-Liu Ma, 'Visualizing Social
     Networks', in Charu C. Aggarwal (ed.), *Social Network Data
-    Analytics*, New York: Springer, 2011, pp. 307--26; Navid Dianati,
+    Analytics*, New York: Springer, 2011, pp. 307-26; Navid Dianati,
     'Unwinding the Hairball Graph: Pruning Algorithms for Weighted
     Complex Networks', *Physical Review* 93.1 (2016); Hans-Jörg Schulz,
     and Christophe Hurter, 'Grooming the Hairball - How to Tidy up
@@ -857,11 +858,11 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     https://medium.com/\@adam.kariv/letting-data-speak-for-itself-80f1625a8ad1.;
     Helen Kennedy, Rosemary Lucy Hill, Giorgia Aiello, and William
     Allen, 'The Work That Visualisation Conventions Do', *Information
-    Communication and Society* 19.6 (2016): 715--35; Karin Van Es, Nico
+    Communication and Society* 19.6 (2016): 715-35; Karin Van Es, Nico
     Lopez and Thomas Boeschoten, 'Towards a Reflexive Data Analysis' in
     Mirko Tobias Schäfer and Karin Van Es, *The Datafied Society:
     Studying Culture through Data*, Amsterdam: Amsterdam University
-    Press, 2017, pp. 171--82.
+    Press, 2017, pp. 171-82.
 
 [^16chapter16_5]: Mathieu Bastian, Sebastien Heymann and Mathieu Jacomy, 'Gephi: An
     Open Source Software for Exploring and Manipulating Networks' in
@@ -903,11 +904,11 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     'Digital Methods: From Challenges to Bildung', in Mirko Tobias
     Schäfer and Karin van Es (eds), *The Datafied Society: Studying
     Culture through Data*, Amsterdam: Amsterdam University Press, 2017,
-    pp. 109--24.
+    pp. 109-24.
 
 [^16chapter16_12]: Bernhard Rieder and Theo Röhle, 'Digital Methods: Five
     Challenges', in David Berry (ed.), *Understanding Digital
-    Humanities*, Cham: Springer, 2012, pp. 67--84, p. 80.
+    Humanities*, Cham: Springer, 2012, pp. 67-84, p. 80.
 
 [^16chapter16_13]: Michael Lynch, 'Against Reflexivity as an Academic Virtue and
     Source of Privileged Knowledge', *Theory, Culture & Society* 17.3
@@ -920,7 +921,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     Vocabulary for the Semiotics of Human and Nonhuman Assemblies', in
     Wiebe E. Bijker and John Law (eds), *Shaping Technology / Building
     Society: Studies in Sociotechnical Change*, Cambridge MA/London: MIT
-    Press, 1992, pp. 259--64.
+    Press, 1992, pp. 259-64.
 
 [^16chapter16_16]: Adrian Mackenzie, *Cutting Code.* New York: Peter Lang, 2006, p.
     10.
@@ -958,12 +959,12 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     pp. 111, 117-9.
 
 [^16chapter16_27]: Helen Nissenbaum, 'Computing and Accountability', *Communications
-    of the ACM* 37.1 (1994): 72--80.
+    of the ACM* 37.1 (1994): 72-80.
 
 [^16chapter16_28]: Mike Ananny and Kate Crawford, 'Seeing without Knowing:
     Limitations of the Transparency Ideal and Its Application to
     Algorithmic Accountability', *New Media and Society* 20.3 (2018):
-    973--89
+    973-89
 
 [^16chapter16_29]: Daniel Neyland, 'Bearing Account-Able Witness to the Ethical
     Algorithmic System', *Science, Technology, & Human Values* 41.1
@@ -1026,7 +1027,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     'Modularity Class' see: Vincent D Blondel, Jean-Loup Guillaume,
     Renaud Lambiotte and Etienne Lefebvre, 'Fast Unfolding of
     Communities in Large Networks', *Journal of Statistical Mechanics:
-    Theory and Experiment,*10 (2008): 1--12.
+    Theory and Experiment,*10 (2008): 1-12.
 
 [^16chapter16_46]: The Quick Start Guide tutorial links to such a version of the
     data sample.
@@ -1057,7 +1058,7 @@ of Technology', *Techné: Research in Philosophy and Technology* 17.1
     on the nature of query notation, see Richard Rogers, 'Foundations of
     Digital Methods', in Mirko Tobias Schäfer and Karin Van Es (eds),
     *The Datafied Society: Studying Culture through Data*, Amsterdam:
-    Amsterdam University Press, 2017, pp. 75--94, p. 83.
+    Amsterdam University Press, 2017, pp. 75-94, p. 83.
 
 [^16chapter16_53]: Bastian, et al, 'Gephi: An Open Source Software for Exploring and
     Manipulating Networks'.

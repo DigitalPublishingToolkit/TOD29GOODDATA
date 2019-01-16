@@ -19,9 +19,9 @@ Rights: CC BY-NC 4.0
 
 
 # 18: Truly Smart Cities. Buen Conocer, Digital Activism and Urban Agroecology in Colombia
-*Juan-Carlos Valencia and Paula Restrepo*
+######Juan-Carlos Valencia and Paula Restrepo
 
-**Abstract**
+
 
 This chapter comes out of two research projects carried out in Colombia,
 South America. One of them, finished in 2017, was called *City of Data*.
@@ -576,7 +576,7 @@ Indígenas*, Medellín: Ediciones Poder Negro, 2016, pp. 91-108.
 
 Esteva, Gustavo. 'Development', in Wolfgang Sachs (ed.), *The
 Development Dictionary: A Guide to Knowledge as Power*, London: Zed
-Books, 1992, pp. 1\--23.
+Books, 1992, pp. 1\-23.
 
 Fernandez-Anez, Victoria, José Miguel Fernández-Güell and Rudolf
 Giffinger. 'Smart City implementation and discourses: An integrated
@@ -607,7 +607,7 @@ Koont, Sinan. *Sustainable urban agriculture in Cuba*, Heidelberg:
 Springer, 2011.
 
 Lash, Scott. 'Power after hegemony: Cultural studies in mutation',
-*Theory, Culture & Society* 24.3 (May 2007): 55--78.
+*Theory, Culture & Society* 24.3 (May 2007): 55-78.
 
 McQuillan, Daniel. 'Counter Mapping the Smart City', *Livingmaps Review*
 2 (2017): 1-7.
@@ -681,7 +681,7 @@ conocimiento común y abierto en Ecuador*, Quito: FLOK Society, 2015.
     Lincoln: University of Nebraska Press, 2014.
 
 [^18chapter18_12]: Scott Lash, 'Power after hegemony: Cultural studies in mutation',
-    *Theory, Culture & Society* 24.3 (May 2007): 55--78.
+    *Theory, Culture & Society* 24.3 (May 2007): 55-78.
 
 [^18chapter18_13]: Daniel McQuillan, 'Counter Mapping the Smart City', *Livingmaps
     Review,* 2 (2017): 1-7.
@@ -710,7 +710,7 @@ conocimiento común y abierto en Ecuador*, Quito: FLOK Society, 2015.
 
 [^18chapter18_20]: Stefania Milan and Lonneke van der Velden, 'The Alternative
     Epistemologies of Data Activism', *Digital Culture & Society,* 2.2
-    (2016): 57--74.
+    (2016): 57-74.
 
 [^18chapter18_21]: Paolo Neirotti et al, 'Current trends in Smart City Initiatives:
     Some Stylised Facts', *Cities* 38 (June, 2014): 8.
@@ -787,4 +787,4 @@ conocimiento común y abierto en Ecuador*, Quito: FLOK Society, 2015.
 
 [^18chapter18_41]: Stefania Milan and Lonneke van der Velden, 'The Alternative
     Epistemologies of Data Activism', *Digital Culture & Society*, 2
-    (2016): 57--74.
+    (2016): 57-74.

@@ -20,10 +20,9 @@ Rights: CC BY-NC 4.0
 
 # 7: Unlawful Data Access and Abuse of Metadata for Mass Persecution of Dissidents in Turkey: The ByLock Case
 
-*A. Sefa Ozalp*
+######A. Sefa Ozalp
 
-**Abstract**
-
+## Introduction
 This chapter presents a critical case study of unlawful metadata access
 and retroactive criminalization of encryption to persecute perceived
 dissidents by focusing on ByLock prosecutions in Turkey. Although ByLock
@@ -45,7 +44,7 @@ chapter contends that lessons learned from the ByLock case illustrate
 how critical 'Good Data' principles and the integrity of encrypted and
 secure communication channels are for democracies.
 
-## Introduction
+
 
 Digital communication technologies (DCTs) have altered the way we
 generate, share and receive information. For the most part, DCTs have
@@ -218,7 +217,7 @@ non-crime related grounds.
 To understand the true risks of metadata retention, it is beneficial to
 look at cases where authoritarian regimes exploit communications
 metadata to target political enemies and to facilitate oppression of
-dissidents -- this is the focus of my analysis. In most cases,
+dissidents - this is the focus of my analysis. In most cases,
 oppression faced by dissidents is a perennial process. Historical
 oppression of Kurds by the Turkish state and successive governments from
 different political backgrounds is a prime example of the continual
@@ -341,7 +340,7 @@ presidential pleas for spying on family members and friends who are
 suspected to be Gulenists and reporting them to authorities.[^07chapter7_57]
 Drawing on moral panic theory, we can see that the coup attempt has
 acted as a trigger event and the GM have been effectively declared the
-folk devils --'a category of people who, presumably, engage in evil
+folk devils -'a category of people who, presumably, engage in evil
 practices and are blamed for menacing a society's culture, way of life,
 and central values' in the aftermath.[^07chapter7_58] AKP government took advantage
 of public *concern* in the aftermath of the coup attempt aimed to
@@ -444,7 +443,7 @@ servers) are deliberately manipulated by MIT which '﻿points out the
 great likelihood that MIT and other Turkish authorities manipulated the
 Bylock database and fabricated false Bylock records'.[^07chapter7_78]
 
-
+![](imgs/Chapter7_Ozelp_Image1.jpg)
 *Figure* *1: Screenshots from MIT report, allegedly from ByLock
 database. Total numbers of rows returned by the SQL queries (7 and 10
 respectively) do not match total numbers of rows shown at the bottom of
@@ -605,11 +604,11 @@ http://www.amnestyusa.org/sites/default/files/encryption\_-\_a\_matter\_of\_huma
 Turkey', 2017, https://www.amnesty.org/download/Documents/EUR4462722017ENGLISH.PDF.
 
 Austin, Lisa M. 'Lawful Illegality: What Snowden Has Taught Us About the Legal
-Infrastructure of the Surveillance State.' *SSRN* (2014): 1--25, DOI:
+Infrastructure of the Surveillance State.' *SSRN* (2014): 1-25, DOI:
 https://doi.org/10.2139/ssrn.2524653.
 
 Buono, Isabella, and Aaron Taylor. 'Mass Surveillance in the CJEU: Forming a European Consensus', *The
-Cambridge Law Journal* 76.2 (2017): 250--53, DOI:
+Cambridge Law Journal* 76.2 (2017): 250-53, DOI:
 https://doi.org/doi:10.1017/S0008197317000526.
 
 Clegg, William, and Simon Baker. 'Opinion on the Legality of the Actions of the Turkish State in
@@ -635,7 +634,7 @@ Society* 3.2 (2016), DOI:
 https://doi.org/10.1177/2053951716679678.
 
 Dumovich, Liza. 'Pious Creativity: Negotiating Hizmet in South America after July 2016',
-*Politics, Religion and Ideology* 19.1 (2018): 81--94, DOI:
+*Politics, Religion and Ideology* 19.1 (2018): 81-94, DOI:
 https://doi.org/10.1080/21567689.2018.1453267.
 
 Emre Celik. 'Fethullah Gülen: 'I Call For An International Investigation Into The Failed Putsch
@@ -646,13 +645,13 @@ EN.DELFI. 'Lithuania Didn't Provide Turkey with ByLock User Data - Lithuania -
 m.En.Delfi.Lt,' 2017,
 http://m.en.delfi.lt/lithuania/article.php?id=76099973.
 
-European Union. 'Charter of Fundamental Rights of the European Union,' 2012, 391--407,
+European Union. 'Charter of Fundamental Rights of the European Union,' 2012, 391-407,
 DOI: https://doi.org/10.1108/03090550310770974.
 
 Europol. 'IOCTA 2016: Internet Organised Crime Threat Assessment', The Hague, 2016, DOI:
 https://doi.org/10.2813/275589.
 
-Ferdinand, Peter. 'The Internet, Democracy and Democratization', *Democratization* 7.1 (2000): 1--17,
+Ferdinand, Peter. 'The Internet, Democracy and Democratization', *Democratization* 7.1 (2000): 1-17,
 DOI: https://doi.org/10.1080/13510340008403642.
 
 Fox-IT. 'Expert Witness Report on ByLock Investigation.' Delft, 2017,
@@ -662,13 +661,13 @@ Freedom House. 'Freedom on the Net 2017 Report,' 2017,
 https://freedomhouse.org/sites/default/files/FOTN
 2017_Turkey.pdf.
 
-Gokce, Yasir. 'The Bylock Fallacy: An In-Depth Analysis of the Bylock Investigations in Turkey', *Digital Investigation* (March, 2018): 1--11, DOI: https://doi.org/10.1016/j.diin.2018.06.002.
+Gokce, Yasir. 'The Bylock Fallacy: An In-Depth Analysis of the Bylock Investigations in Turkey', *Digital Investigation* (March, 2018): 1-11, DOI: https://doi.org/10.1016/j.diin.2018.06.002.
 
 Goode, Erich, and Nachman Ben-Yehuda. *Moral Panics The Social Construction of
 Deviance*, second edition, Chichester: Wiley-Blackwell, 2009.
 
 Gourlay, William. 'Oppression, Solidarity, Resistance: The Forging of Kurdish
-Identity in Turkey', *Ethnopolitics* 17.2 (2018): 130--46, DOI:
+Identity in Turkey', *Ethnopolitics* 17.2 (2018): 130-46, DOI:
 https://doi.org/10.1080/17449057.2017.1339425.
 
 Greenwald, G, and R Gallagher. 'Snowden Documents Reveal Covert Surveillance and Pressure
@@ -713,7 +712,7 @@ Marc Pierini. 'Turkey's Gift From God' *Carnegie Europe*, 2017,
 http://carnegieeurope.eu/strategiceurope/?fa=67826.
 
 Michaelsen, Marcus.'Exit and Voice in a Digital Age: Iran's Exiled Activists and the
-Authoritarian State', *Globalizations* 15.2 (2018): 248--64, DOI:
+Authoritarian State', *Globalizations* 15.2 (2018): 248-64, DOI:
 https://doi.org/10.1080/14747731.2016.1263078.
 
 Milanovic, M. 'ECtHR Judgment in Big Brother Watch v. UK.' EJIL:Talk!, 2018,
@@ -725,11 +724,11 @@ https://doi.org/10.17645/mac.v3i2.297.
 
 Nieminen, Hannu. 'Digital Divide and beyond: What Do We Know of Information and Communications
 Technology's Long-Term Social Effects? Some Uncomfortable Questions',
-*European Journal of Communication* 31.1 (2016): 19--32, DOI:
+*European Journal of Communication* 31.1 (2016): 19-32, DOI:
 https://doi.org/10.1177/0267323115614198.
 
 Nugraha, Ignatius Yordan. 'Human Rights Derogation during Coup Situations', *International Journal
-of Human Rights* 22.2 (2018): 194--206, DOI:
+of Human Rights* 22.2 (2018): 194-206, DOI:
 https://doi.org/10.1080/13642987.2017.1359551.
 
 Önderoglu, Erol. 'Turkey: State of Emergency State of Arbitrary', *Reporters Without Borders*

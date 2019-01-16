@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 
 # 1. What is (in) Good Data?
-*Monique Mann, S. Kate Devitt and Angela Daly*
+######Monique Mann, S. Kate Devitt and Angela Daly
 
 ## 1. Introduction: Why Good Data?
 
@@ -311,7 +311,7 @@ security, providing a concrete real world example of the oppressive
 potential of bad data practices, and while questioning what we can learn
 for Good Data. In doing so, Ozalp outlines how digital communication
 technologies and strong information security are essential to support
-what he terms a 'good democracy' -- including protection for the rights
+what he terms a 'good democracy' - including protection for the rights
 such as freedom of expression, political thought, religion, association
 and privacy. Accordingly, it is argued that counter-surveillance
 practices, online anonymity and encryption tools are integral to a good
@@ -472,7 +472,7 @@ examine the co-production of knowledge and the specific work of the
 DATACTIVE team and their direct involvement as activists with the
 communities that they study. Their main contribution is the proposal of
 an 'engaged' approach and epistemology to research that aims to
-contribute to activist causes -- that is, doing research 'with' rather
+contribute to activist causes - that is, doing research 'with' rather
 than 'about'. They outline an approach to ethical data activist research
 as a process rather than a checklist and as inspired by Association of
 Internet Researchers (AoIR) ethical codes and feminist ethics of care.
@@ -487,7 +487,7 @@ They commence their examination by drawing attention to global
 informational capitalism and the asymmetric and extractive exploitation
 of data by companies such as Google, Facebook, Amazon etc, while
 advocating for reflection on the production system where data are
-created and collected and sold -- and the tensions between ethical
+created and collected and sold - and the tensions between ethical
 research and capitalist research (such as, for example, as revealed by
 the Facebook-Cambridge Analytica scandal). Poletti and Gray highlight
 the challenges to critical researchers in producing valid and ethical
@@ -651,7 +651,7 @@ received and included in this book, and we also acknowledge that our
 choice of language also may have excluded contributions. For Good Data
 going forward, a more global approach needs to be taken to the issue,
 rather than just (re)centreing perspectives from the Global North, as
-already noted -- and critiqued - by Arora.[^01chapter1_16] In order to see more
+already noted - and critiqued - by Arora.[^01chapter1_16] In order to see more
 Global South perspectives on Good Data, and many other topics, Global
 North(-in-South) scholars such as ourselves need to take more steps to
 be inclusive and facilitate such perspectives, for instance by providing
@@ -756,7 +756,7 @@ letting governments and companies build a Bad Data future for us.
 Arora, Payal. 'The Bottom of the Data Pyramid: Big Data and the Global
 South', *International Journal of Communication* 10 (2016): 1681-1699.
 
-*BFU presents: "Don't be Evil" -- Data Activism and Digital Rights.*
+*BFU presents: "Don't be Evil" - Data Activism and Digital Rights.*
 Public Panel Discussion by Brisbane Free University, West End, Brisbane,
 8 November 2017,
 https://brisbanefreeuniversity.org/2017/11/06/bfu-presents-dont-be-evil-data-activism-and-digital-rights/.
@@ -798,7 +798,7 @@ Borderless World,* New York: Oxford University Press, 2006.
 
 Hilderbrandt, Mireille. 'Extraterritorial jurisdiction to enforce in
 cyberspace: Bodin, Schmitt, Grotius in cyberspace', *University of
-Toronto Law Journal* 63 (2013), 196--224.
+Toronto Law Journal* 63 (2013), 196-224.
 
 Koops, Bert-Jaap. 'The trouble with European data protection law',
 *International Data Privacy Law*, 4.4 (2014): 250-261.
@@ -832,7 +832,7 @@ shifting', *Global Crime* 9.2 (2018): 107-124.
 
 Matzner, Tobias. 'Why privacy is not enough privacy in the context of
 "ubiquitous computing" and "big data"', *Journal of Information,
-Communication and Ethics in Society*, 12.2 (2014): 93--106.
+Communication and Ethics in Society*, 12.2 (2014): 93-106.
 
 Milan, Stefania and Emiliano Treré. 'Big Data from the South: The
 beginning of a conversation we must have', *DATACTVE Blog*, 16 October
@@ -883,7 +883,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 
 [^01chapter1_4]: Ibid.
 
-[^01chapter1_5]: *BFU presents: "Don't be Evil" -- Data Activism and Digital
+[^01chapter1_5]: *BFU presents: "Don't be Evil" - Data Activism and Digital
     Rights.* Public Panel Discussion by Brisbane Free University, West
     End, Brisbane, 8 November 2017,
 
@@ -928,7 +928,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
     Illusions of a Borderless World,* New York: Oxford University Press,
     2006; Mireille Hilderbrandt, 'Extraterritorial jurisdiction to
     enforce in cyberspace: Bodin, Schmitt, Grotius in cyberspace',
-    *University of Toronto Law Journal* 63 (2013), 196--224; Murray Lee,
+    *University of Toronto Law Journal* 63 (2013), 196-224; Murray Lee,
     'Crime and the Cyber Periphery: Criminological Theory Beyond Time
     and Space', in Kerry Carrington, Russell Hogg, John Scott and Maximo
     Sozzo (eds), *The Palgrave Handbook of Criminology and the Global
@@ -946,7 +946,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 
 [^01chapter1_16]: Payal Arora, 'The Bottom of the Data Pyramid: Big Data and the
     Global South', *International Journal of Communication*, 10 (2016):
-    1681--1699.
+    1681-1699.
 
 [^01chapter1_17]: See: Roger Brownsword, Eloise Scotford, and Karen Yeung (eds),
     *The Oxford Handbook of Law Regulation and Technology*, Oxford:
@@ -963,7 +963,7 @@ rights and freedoms globally', *Big Data & Society* 4.2 (2017): 1-14.
 [^01chapter1_20]: See: Tobias Matzner, 'Why privacy is not enough privacy in the
     context of "ubiquitous computing" and "big data"', *Journal of
     Information, Communication and Ethics in Society* 12.2 (2014):
-    93--106.
+    93-106.
 
 [^01chapter1_21]: See: Mike Montiero, 'Ethics can't be a Side Hustle', *Dear Design
     Student*, 19 March 2017,

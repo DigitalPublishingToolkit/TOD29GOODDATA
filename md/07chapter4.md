@@ -19,10 +19,9 @@ Rights: CC BY-NC 4.0
 
 
 # 4: The Good, the Bad and the Beauty of 'Good Enough Data'<br />
-*Miren Gutiérrez*
+######Miren Gutiérrez
 
-**Abstract**
-
+## Introduction
 Drawing on the concept of 'good enough data'[^04chapter4_1], which apply to citizen
 data collected via sensors this chapter looks critically at data in
 'proactive data activism,' understood as a social practice that uses the
@@ -33,15 +32,14 @@ data' beyond citizen sensing and the environment. This analysis derives
 from a taxonomy of activists based on how they go about obtaining
 data.[^04chapter4_3] It offers too an unsentimental view on the failures and
 contradictions of data activism regarding the collection, analysis and
-communication of data.[^04chapter4_4] The chapter employs the Syrian Archive --an
+communication of data.[^04chapter4_4] The chapter employs the Syrian Archive - an
 organization that curates and documents data related to the Syrian
-conflict for activism--- as a pivotal case to look at the new standards
+conflict for activism - as a pivotal case to look at the new standards
 applied to data gathering and verification in data activism from the
 South, as well as their challenges, so data become 'good enough' to
 produce reliable evidence for social change. Data were obtained too
 thorough in-depth interviews, fieldwork and empirical observation.
 
-## Introduction
 
 On 25 and 30 March 2017, the town of al-Lataminah, in northern Syria,
 suffered two chemical attacks possibly committed by Syrian government
@@ -52,8 +50,8 @@ and each other in varying groupings.[^04chapter4_6] International organizations
 have blamed the Syrian government, and its ally, Russia, opponent rebel
 groups and the coalition led by the United States of human rights
 violations,[^04chapter4_7] including attacks with chemical weapons against
-civilians. The main forces implicated in the Syrian conflict --that is,
-Iran, Russia, Syria and the United States--- are parties to the Weapons
+civilians. The main forces implicated in the Syrian conflict - that is,
+Iran, Russia, Syria and the United States - are parties to the Weapons
 Convention, which entered into force in 1997, prohibiting the
 production, possession and use of chemical weapons, and should comply
 with its obligations.[^04chapter4_8] However, since 2013, there have been some
@@ -71,7 +69,7 @@ perpetrators were in potential violation of international humanitarian
 law, as well as other regulations and treaties.[^04chapter4_12]
 
 
-
+![](imgs/Chapter4_Gutierrez_Image1.jpg)
 *Figure 1: Chemical Strikes on Al-Lataminah. Source: (Syrian Archive,
 2018).*
 
@@ -118,9 +116,9 @@ of public data). These data have been harvested through platforms which
 were not set up by the activists themselves but by social media service
 providers (i.e. a form of crowdsourced data). Other data activists
 specialize in using just one of these methods.[^04chapter4_21] For example, the
-deployers of 'Ayuda Ecuador' --an application of the Ushahidi platform
+deployers of 'Ayuda Ecuador' - an application of the Ushahidi platform
 launched to gather data on the crisis unleashed by the earthquake in
-2016 in Ecuador--- established the means to collect data submitted via
+2016 in Ecuador - established the means to collect data submitted via
 mobile technology, emails and websites, using the third type of data
 extraction method. Although crowdsourcing citizen data is its main data
 mining method, Ushahidi also resorts to data scraping from websites and
@@ -169,8 +167,8 @@ apparent.[^04chapter4_27] This organization has been chosen based on the fact th
 background conditions are relevant to the inspection of data practices
 in activism.
 
-Five interviewees --chosen for their in-depth knowledge data practices
-and protocols in activism and beyond--- were questioned about their data
+Five interviewees - chosen for their in-depth knowledge data practices
+and protocols in activism and beyond - were questioned about their data
 mining and curation methodologies. Although the questions vary in line
 with their expertise, the questionnaires sent to these practitioners
 include open questions such as: 'How can you aspire to data robustness
@@ -183,7 +181,7 @@ digital humanitarianism. Interviewee 2 has designed smart grids that
 channel data for real-time decision-making in water management.
 Interviewees 3 and 4 have an exhaustive knowledge of Syrian Archive. In
 charge of an index that ranks countries by their frailty, Interviewee 5
---not a data activist--- has been included here for contrast, as in the
+- not a data activist - has been included here for contrast, as in the
 case of Interviewee 2. Although their data methods and approaches vary,
 their tenets do not differ so much.
 
@@ -247,8 +245,8 @@ Errors and biases can be introduced accidentally in data processes. An
 artificial intelligence (AI) algorithm learned to associate women with
 kitchen images because more women appear photographed in kitchens on the
 web.[^04chapter4_46] In the process of *learning*, the algorithm then multiplied
-the bias present in the initial dataset, amplifying --not simply
-replicating--- the biased association between kitchens and women.[^04chapter4_47]
+the bias present in the initial dataset, amplifying - not simply
+replicating - the biased association between kitchens and women.[^04chapter4_47]
 This study by the University of Virginia is among several others that
 recently show that artificial intelligence systems can incorporate, and
 even multiply, biases if their design or the data on which they are
@@ -291,8 +289,8 @@ compared data analysis with punk music in 2012 because 'anyone can do
 it'.[^04chapter4_57] Unfortunately, this is not the case. Not only are data not
 available to anyone, but, as Innerarity points out ,[^04chapter4_58] the tools to
 make them useful are not available to anyone either. However, the
-barriers to access both data and their infrastructure --understood as
-the software, hardware and processes necessary to render them useful---
+barriers to access both data and their infrastructure - understood as
+the software, hardware and processes necessary to render them useful -
 have been falling in recent years.[^04chapter4_59] Activists of all stripes are
 using data, in combination with the geoweb, satellite technology,
 sensing devices and information and communication technologies (ICTs),
@@ -326,7 +324,7 @@ enough to generate new types of data and data practices, and impactful
 bottom-up narratives. The same way that alternative journalism argues
 that different forms of knowledge may be generated, representing
 'multiple versions of reality from those of the mass media',[^04chapter4_66] good
-enough data -- as an alternative to conventional big data - can produce
+enough data - as an alternative to conventional big data - can produce
 trustworthy analysis and visualizations which shed light on complex
 issues and are the basis for action. The examples of Syrian Archive,
 Forensic Architecture, WeRobotics, InfoAmazonia and Ushahidi show that,
@@ -442,7 +440,7 @@ killings', 'arbitrary arrest and unlawful detention' and
 classified by the kind of weapon utilized, the location or the kind of
 violation or abuse. Figure 2 summarizes the process.
 
-
+![](imgs/Chapter4_Gutierrez_Image2.jpg)
 *Figure 2: Syrian Archive digital evidence workflow.[^04chapter4_88]*
 
 Based on the examination of footage, the research of the Aleppo bombings
@@ -457,7 +455,7 @@ most of the airstrikes are carried out by Russian aircraft.[^04chapter4_90] Figu
 interactive chart available online allows users to access the videos
 that sustain it.
 
-
+![](imgs/Chapter4_Gutierrez_Image3.jpg)
 *Figure 3: Map of visual evidence about attacks in Aleppo City (July -
 December 2016).[^04chapter4_91]*
 
@@ -513,7 +511,7 @@ maps, stories and solutions.[^04chapter4_100] The purpose of filling gaps sugges
 that there is a particular amount of information needed to tell a human
 rights story accurately, and that activism can help secure this
 information. That is why good enough data implies to the right amount of
-data --not necessarily big--- that activists needs to produce.
+data - not necessarily big - that activists needs to produce.
 
 Third, as the Aleppo investigation suggests, the result of the analysis
 of the video footage was useful to generate new 'forms of evidence',
@@ -758,11 +756,11 @@ https://www.amnesty.org/en/latest/news/2016/01/child-labour-behind-smart-phone-a
 https://www.amnesty.org/en/documents/mde24/8367/2018/en/.
 
 Axinn, William G., Dirgha Ghimire and Nathalie E. Williams. 'Collecting Survey Data
-during Armed Conflict', *J Off Stat* 28.2 (2012): 153--171.
+during Armed Conflict', *J Off Stat* 28.2 (2012): 153-171.
 
 Balsiger, Philip, and Alexandre Lambelet. 'Participant Observation', in Donatella
 della Porta (ed.), M*ethodological Practices in Social Movement
-Research*, Oxford: Oxford University Press, 2014, pp. 144--72.
+Research*, Oxford: Oxford University Press, 2014, pp. 144-72.
 
 Banchik, Anna, et al. 'Chemical Strikes on Al-Lataminah'. *Berkeley Human Rights
 Investigation Lab*, 25, 30 March 2017,
@@ -798,7 +796,7 @@ http://www.ted.com/talks/kenneth\_cukier\_big\_data\_is\_better\_data?language=e
 
 Dijck, Jose van. 'Datafication, Dataism and Dataveillance: Big Data between
 Scientific Paradigm and Ideology'. *Surveillance & Society* 12.2 (2014):
-197--208.
+197-208.
 
 Downing, John D. H. (ed.). *Encyclopedia of Social Movement Media*, Thousand Oaks: SAGE, 2011.
 
@@ -814,7 +812,7 @@ Gabrys, Jennifer, and Helen Pritchard. 2015. 'Next-Generation Environmental
 Sensing: Moving beyond Regulatory Benchmarks for Citizen-Gathered Data',
 in AJ Berre, S Schade, and J Piera (eds), *Proceedings of the Workshop
 'Environmental Infrastructures and Platforms 2015*, Barcelona, pp.
-57--65, http://ecsa.citizen-science.net/sites/default/
+57-65, http://ecsa.citizen-science.net/sites/default/
 files/envip-2015-draft-binder.pdf.
 
 Gabrys, Jennifer, Helen Pritchard, and Benjamin Barratt. 'This Is the Other Aspect of "just" Good Enough Data that Citizen Data Could Provide Ways of Realising Environmental and
@@ -832,8 +830,8 @@ https://www.wired.com/2014/10/snowdens-first-emails-to-poitras/.
 
 Gutierrez,Miren. *Data Activism and Social Change*, London: Palgrave Macmillan,
 2018.'Maputopias: Cartographies of Knowledge, Communication and
-Action in the Big Data Society -- The Cases of Ushahidi and
-InfoAmazonia'. *GeoJournal* (2018): 1--20, https://doi.org/https://doi.org/10.1007/s10708-018-9853-8.
+Action in the Big Data Society - The Cases of Ushahidi and
+InfoAmazonia'. *GeoJournal* (2018): 1-20, https://doi.org/https://doi.org/10.1007/s10708-018-9853-8.
 
 \_\_\_\_\_.'The Public Sphere in Light of Data Activism'. *Krisis* (2018).
 
@@ -857,7 +855,7 @@ International Telecommunication Union. 'Measuring the Information Society Report
 
 Kitchin, Rob, and Tracey P. Lauriault. 'Small Data, Data Infrastructures and Big
 Data', *GeoJournal*, The Programmable City Working Paper 1, 80.4 (2014):
-463--75.
+463-75.
 
 Knight, Ben. 'Syrian Archive Finds "Overwhelming" Russian Atrocities in Aleppo'. *DW*, 28 March 2017,
 http://www.dw.com/en/syrian-archive-finds-overwhelming-russian-atrocities-in-aleppo/a-38169808.
@@ -874,7 +872,7 @@ Ottawa: Carleton University,
 https://curve.carleton.ca/system/files/etd/7eb756c8-3ceb-4929-8220-3b20cf3242cb/etd\_pdf/79f3425e913cc42aba9aa2b9094a9a53/lauriault-datainfrastructuresandgeographicalimaginations.pdf.
 
 Leonelli, Sabina. 'What Counts as Scientific Data? A Relational Framework',
-*Philosophy of Science* 82.5 (2015): 810--21.
+*Philosophy of Science* 82.5 (2015): 810-21.
 
 Lynch, Colum. 'Soviet-Era Bomb Used in Syria Chemical Weapon Attack, Claims Rights Group'.
 *Foreign Policy*, 5 January 2017,
@@ -912,7 +910,7 @@ Organisation for the Prohibition of Chemical Weapons. 'Chemical Weapons Conventi
 https://www.opcw.org/sites/default/files/documents/CWC/CWC\_en.pdf.
 
 Palmer, Lindsay. 'Ushahidi at the Google Interface: Critiquing the "geospatial
-Visualization of Testimony"', *Continuum* 28.3 (2014): 342--56, DOI:
+Visualization of Testimony"', *Continuum* 28.3 (2014): 342-56, DOI:
 https://doi.org/10.1080/10304312.2014.893989.
 
 Poell, Thomas, Helen Kennedy, and Jose van Dijck. 'Special Theme: Data & Agency', *Big Data &
@@ -970,7 +968,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 2017, pp. 2979-2989.
 
 [^04chapter4_1]: Jennifer Gabrys, Helen Pritchard, and Benjamin Barratt. 'This Is
-    the Other Aspect of "just" Good Enough Data --that Citizen Data
+    the Other Aspect of "just" Good Enough Data -that Citizen Data
     Could Provide Ways of Realising Environmental and Social Justice',
     *Big Data & Society* 1.14 (2016): 14.
 
@@ -987,7 +985,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
     http://bigdatasoc.blogspot.com.es/2015/08/data-flows-and-water-woes-interview.html;
     Lindsay Palmer, 'Ushahidi at the Google Interface: Critiquing the
     "geospatial Visualization of Testimony"', *Continuum* 28.3 (2014):
-    342--56; Wayan Vota, 'Dead Ushahidi: A Stark Reminder for
+    342-56; Wayan Vota, 'Dead Ushahidi: A Stark Reminder for
     Sustainability Planning in ICT4D', *ICT Works*, 9 July 2012,
     http://www.ictworks.org/2012/07/09/dead-ushahidi-stark-reminder-sustainability-planning-ict4d/.
 
@@ -1062,7 +1060,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_28]: Philip Balsiger, and Alexandre Lambelet, 'Participant
     Observation', in Donatella della Porta (ed.), M*ethodological
     Practices in Social Movement Research*, Oxford: Oxford University
-    Press, 2014, pp. 144--72; Russell H. Bernard, *Research Methods in
+    Press, 2014, pp. 144-72; Russell H. Bernard, *Research Methods in
     Anthropology: Qualitative and Quantitative Approaches*, fourth
     edition, Maryland: AltaMira Press, 2006; D. Cohen and B. Crabtree,
     'Qualitative Research Guidelines Project', The Robert Wood Johnson
@@ -1079,7 +1077,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_31]: Jose van Dijck, 'Datafication, Dataism and Dataveillance: Big
     Data between Scientific Paradigm and Ideology', *Surveillance &
-    Society* 12.2 (2014): 197--208.
+    Society* 12.2 (2014): 197-208.
 
 [^04chapter4_32]: International Telecommunication Union, 'Measuring the Information
     Society Report', *Geneva: International Telecommunication Union
@@ -1131,7 +1129,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_46]: Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and
     Vicente Chang, 'Men Also Like Shopping: Reducing Gender Bias
     Amplification Using Corpus-Level Constraints', *Association for
-    Computational Linguistics* (2017): 2979--2989, DOI:
+    Computational Linguistics* (2017): 2979-2989, DOI:
     https://doi.org/10.18653/v1/D17-1323.
 
 [^04chapter4_47]: Ibid.
@@ -1205,8 +1203,8 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_67]: Gutierrez, *Data Activism and Social Change*; Miren Gutierrez,
     'Maputopias: Cartographies of Knowledge, Communication and Action in
-    the Big Data Society -- The Cases of Ushahidi and InfoAmazonia'.
-    *GeoJournal*, (2018): 1--20, DOI:
+    the Big Data Society - The Cases of Ushahidi and InfoAmazonia'.
+    *GeoJournal*, (2018): 1-20, DOI:
     https://doi.org/https://doi.org/10.1007/s10708-018-9853-8; Miren
     Gutierrez, 'The Public Sphere in Light of Data Activism', *Krisis*
     (2018).
@@ -1228,7 +1226,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 [^04chapter4_72]: See: Gutierrez, *Data Activism and Social Change*; Hogan and
     Roberts, 'Data Flows and Water Woes'; Lindsay Palmer, 'Ushahidi at
     the Google Interface: Critiquing the "geospatial Visualization of
-    Testimony"', *Continuum* 28.3 (2014): 342--56, DOI:
+    Testimony"', *Continuum* 28.3 (2014): 342-56, DOI:
     https://doi.org/10.1080/10304312.2014.893989.
 
 [^04chapter4_73]: Gutierrez, *Data Activism and Social Change*.
@@ -1240,7 +1238,7 @@ in Natural Language Processing,* Copenhagen, Denmark, 7-11 September
 
 [^04chapter4_76]: Office of the UN High Commissioner for Human Rights, 'Warring
     Parties Continued to Target Civilians for Abuses over Last Seven
-    Months -- UN Commission', *United Nations,* 14 March 2017,
+    Months - UN Commission', *United Nations,* 14 March 2017,
     http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21370&LangID=E.
 
 [^04chapter4_77]: Ibid.

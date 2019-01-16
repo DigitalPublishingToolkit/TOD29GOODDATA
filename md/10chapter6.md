@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 
 #6: Trade-offs in Algorithmic Risk Assessment: An Australian Domestic Violence Case Study
-*Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong*
+######Daniel McNamara, Timothy Graham, Ellen Broad and Cheng Soon Ong
 
 ##Introduction
 
@@ -38,9 +38,9 @@ These days, a range of commercial and government providers are
 developing software that embed actuarial methods in code, using machine
 learning methods on large bodies of data and marketed under the umbrella
 of 'artificial intelligence' (AI).[^06chapter6_3] While the eﬀects of using these
-kinds of probabilistic methods in criminal justice contexts -- such as
+kinds of probabilistic methods in criminal justice contexts - such as
 higher incarceration rates among certain racial groups and distorted
-future predictions --- have been critiqued by legal and social science
+future predictions - have been critiqued by legal and social science
 scholars for several years,[^06chapter6_4] they have only recently become issues
 for the computer scientists and engineers developing these software
 solutions.
@@ -127,7 +127,7 @@ Actuarial methods and probability theory have been employed to help
 humans make decisions in a criminal justice context for many years.[^06chapter6_21]
 It is only recently that they have been embedded in software.[^06chapter6_22] While
 these longstanding methods could be said to be 'algorithmic' in
-nature,[^06chapter6_23] taking a rule-based approach to predictions -- for the
+nature,[^06chapter6_23] taking a rule-based approach to predictions - for the
 purposes of this chapter we use the term 'algorithmic risk assessment'
 to refer to the more recent automated, software-driven systems. An
 example is the Public Safety Assessment,[^06chapter6_24] which is used in the US
@@ -144,10 +144,10 @@ work), which render trade-oﬀs explicit in decision-making and allow them
 to be managed.
 
 However, investigations of existing algorithmic risk assessment systems
-have demonstrated that these systems can -- by choice -- also be
+have demonstrated that these systems can - by choice - also be
 shrouded in secrecy, unnecessarily complex and reinforce existing
-bias.[^06chapter6_29] It has been shown that COMPAS -- which used over a hundred
-variables for predictions -- performs no better than a logistic
+bias.[^06chapter6_29] It has been shown that COMPAS - which used over a hundred
+variables for predictions - performs no better than a logistic
 regression classifier using age and total number of previous
 convictions.[^06chapter6_30] A controversial recent example of a risk assessment
 system in the Australian context is the Suspect Targeting Management
@@ -205,8 +205,8 @@ to low 0.7 range.[^06chapter6_38]
 
 Fitzgerald and Graham applied statistical methods to existing
 administrative data on NSW oﬀenders who had committed domestic violence,
-to examine the kinds of factors -- for example, socioeconomic status,
-history of past oﬀences, Indigenous or non-Indigenous status -- which
+to examine the kinds of factors - for example, socioeconomic status,
+history of past oﬀences, Indigenous or non-Indigenous status - which
 were predictive of future domestic violence oﬀences.[^06chapter6_39] They used
 logistic regression to examine the future risk of violent DV oﬀending
 among a cohort of individuals convicted of any DV oﬀence (regardless of
@@ -259,15 +259,15 @@ to be taken in how such fairness is defined and achieved.
 ## 6.2 Designing Fair Algorithmic Risk Assessments
 
 The impact of an algorithmic risk assessment is determined by both its
-design and the context in which it is used. This context -- which
-includes human judgment, policy settings and broader social trends --
+design and the context in which it is used. This context - which
+includes human judgment, policy settings and broader social trends -
 will remain an important determinant of outcomes in the justice system
 and elsewhere. No algorithm can rectify all of the past and present
 structural disadvantage faced by a particular social group. However,
 algorithmic risk assessments influence human decisions, which in turn
 determine the extent to which structural disadvantage is entrenched.
 Hence, algorithm design can play a part in making an overall system
-fairer -- or indeed in reinforcing the unfairness of a system.
+fairer - or indeed in reinforcing the unfairness of a system.
 Considerable research is underway to incorporate fairness into the
 design of algorithmic systems. This approach requires clear definitions
 of fairness, and modifications to algorithm design to accommodate these
@@ -278,7 +278,7 @@ definitions.
 While defining fairness is a topic as old as human society, the advent
 of algorithmic predictions has necessitated the quantification of these
 definitions. We must be precise about what we mean if we are to embed
-fairness in computer code -- a definition that seems simplistic or
+fairness in computer code - a definition that seems simplistic or
 reductionist is still preferable to none at all. Therefore we
 necessarily consider a narrow subset of the possible meanings of
 'fairness'. Quantitative definitions often describe fairness as avoiding
@@ -311,8 +311,8 @@ the risk of excluding participants from non-quantitative backgrounds in
 debates about fairness.[^06chapter6_46]
 
 An important design choice is selecting a subset of the population to
-which these definitions are applied. We then ask for fair predictions --
-according to whichever definition we choose -- only within this subset,
+which these definitions are applied. We then ask for fair predictions -
+according to whichever definition we choose - only within this subset,
 and permit diﬀerences in predictions between subsets. For example, in
 the recidivism context we might consider all individuals, or only those
 who reoﬀended, or only those who did not reoﬀend. If the subset consists
@@ -472,7 +472,7 @@ records similar. The algorithm does not provide any guidance as to how
 to select *λ*. Rather, this depends on a decision about the relative
 importance assigned to fairness and accuracy in the design of the
 algorithmic risk assessment. Such a decision is a social, political and
-regulatory one -- the algorithm simply provides an implementation for
+regulatory one - the algorithm simply provides an implementation for
 whatever decision is made.
 
 The learning steps of the algorithm are summarized in Figure 1.[^06chapter6_70] The
@@ -555,8 +555,8 @@ Graham.
 Our baseline experiments use the original data, including the Indigenous
 status variable. We also tested the pre-processing method described in
 Section 6.2.4 for several values of the parameter *λ*. We predicted
-recidivism from the data -- the original data in the baseline
-experiments and the pre-processed data in the other experiments -- using
+recidivism from the data - the original data in the baseline
+experiments and the pre-processed data in the other experiments - using
 logistic regression as in Fitzgerald and Graham's study, which predicts
 the probability of reoﬀence for each individual. We applied the
 definitions of fairness and accuracy presented in Section 6.2.2, as
@@ -662,8 +662,8 @@ explicit fairness criterion into algorithm design, individuals from one
 racial group may be marked higher risk than another, even when
 considering only reoﬀenders or only non-reoﬀenders. This is still true
 when race is simply dropped from the input data: blindness is not
-enough. Incorporating a fairness criterion -- such as via data
-pre-processing -- yields more equal predicted reoﬀence rates for
+enough. Incorporating a fairness criterion - such as via data
+pre-processing - yields more equal predicted reoﬀence rates for
 diﬀerent racial groups: among reoﬀenders, among non-reoﬀenders and
 overall.
 
@@ -673,7 +673,7 @@ defendants who in the baseline scenario were considered higher risk than
 non-Indigenous defendants, both among reoﬀenders and among
 non-reoﬀenders, this pre-processing makes the system fairer. The
 flipside is that non-Indigenous non-reoﬀenders are judged to be more
-risky. And all reoﬀenders -- particularly Indigenous reoﬀenders -- are
+risky. And all reoﬀenders - particularly Indigenous reoﬀenders - are
 judged to be less risky, which is not in the interests of potential
 victims.
 
@@ -682,19 +682,19 @@ part of human decision-making in the criminal justice system. The
 advantage of our approach is making this trade-oﬀ explicit and precisely
 controllable through a model parameter, which may be set according to
 whatever weighting is deemed appropriate by society. The approach we
-propose -- involving an explicit trade-oﬀ between certain quantitative
-definitions of accuracy and fairness -- also applies to other contexts
+propose - involving an explicit trade-oﬀ between certain quantitative
+definitions of accuracy and fairness - also applies to other contexts
 where prediction algorithms are used to support decisions about
 individuals such as the provision of credit or insurance, and to other
 demographic groups besides racial groups.
 
 There is a second trade-oﬀ involved here: between explicit and implicit
 explanations for decisions. Transparency allows individuals to better
-understand the social systems -- including the criminal justice system
--- that make decisions about their lives. However, when the rationale
+understand the social systems - including the criminal justice system
+- that make decisions about their lives. However, when the rationale
 for these decisions is laid bare, they may be less palatable than when
-they are opaque. Algorithms -- with their stark rules implemented in
-code -- have the eﬀect of illuminating the myriad forms of inclusion and
+they are opaque. Algorithms - with their stark rules implemented in
+code - have the eﬀect of illuminating the myriad forms of inclusion and
 exclusion that invisibly form our social fabric. Perhaps the more
 profound trade-oﬀ is determining to what extent we are willing to shine
 that light.

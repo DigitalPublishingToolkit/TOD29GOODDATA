@@ -19,10 +19,9 @@ Rights: CC BY-NC 4.0
 
 
 # 20: *Domesticating Data*: Socio-Legal Perspectives on Smart Homes and Good Data Design
-*Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart*
+######Martin Flintham, Murray Goulden, Dominic Price and Lachlan Urquhart
 
-**Abstract**
-
+## Introduction
 In this chapter, we focus on the so-called 'smart home' as an archetypal
 group space into which the Internet of Things is spreading. As most
 homes are shared spaces we focus on what 'good data' might look like in
@@ -39,7 +38,7 @@ implications for the specific but complex challenges that designers and
 occupants of the modern smart home face in trying to engage in good data
 practices.
 
-## Introduction
+
 
 In 2012, a New York Times story on the most banal of subjects - store
 card data - went viral. An American man, it was claimed, had discovered
@@ -681,7 +680,7 @@ those ears are monetising what they hear, whether that be Amazon selling
 transcripts of our conversations with Alexa,[^20chapter20_33] or Roomba selling the
 floor plans of our homes[^20chapter20_34]. Here though our focus has been on the
 dangers of interpersonal data. We would argue that data is agnostic,
-that it is neither good nor bad -- but rather that the Internet of
+that it is neither good nor bad - but rather that the Internet of
 Things enables vastly powerful tools that can reason about data created
 by 'the user' but also complicated by, as we have seen, data about
 others. Activities in the home are inextricably linked with the
@@ -700,7 +699,7 @@ Information privacy law traditionally stops at the front-door of the
 home. It is not clear whether data protection law provides redress for
 the actual harms faced by the occupants of the modern smart home, or
 whether it is too far removed from the practical challenges faced by
-users -- however in the interim compliance mechanisms like privacy by
+users - however in the interim compliance mechanisms like privacy by
 design[^20chapter20_35] are bringing it in by the backdoor. If technology embeds
 regulatory norms,[^20chapter20_36] these can structure relationships in the home.
 Even if done with the best of intentions, these are external
@@ -715,7 +714,7 @@ young people in negative ways, and neglect developmental differences of
 different users.
 
 Our conclusion, then, is to suggest that for the Internet of Things and
-the smart home to be considered as 'good' -- or rather, harmless -- in
+the smart home to be considered as 'good' - or rather, harmless - in
 their use of data, they must be grounded in an interdisciplinary
 conversation about the tensions at the intersection of human-computer
 interaction, or increasingly human-data interaction,[^20chapter20_38] the social
@@ -728,7 +727,7 @@ designers of technologies of the future smart home:
     front-door should look like.
 
 -   They must involve their users in a legitimate conversation about the
-    value of their data -- not just engaging in privacy by design, but
+    value of their data - not just engaging in privacy by design, but
     affording *informed* *and visible* transactions around data that can
     be integrated into the socially negotiated work of the home.
 
@@ -836,7 +835,7 @@ EU European Court of Justice - C101/01; *Rynes*, 2014
 Goulden, Murray, Peter Tolmie, Richard Mortier, Tom Lodge, Anna-Kaisa
 Pietilainen and Renata Teixeira. 'Living with Interpersonal Data:
 Observability and Accountability in the Age of Pervasive ICT', *New
-Media & Society* 20.4 (2018): 1580--99.
+Media & Society* 20.4 (2018): 1580-99.
 
 Ihde, Don. *Technology and the Lifeworld: From Garden to Earth*,
 Bloomington IN: Indiana University Press, 1990.
@@ -865,14 +864,14 @@ the Legal Card', *Proceedings of ACM SIGCHI* *2015*: 457-466.
 
 Manning, Jimmie and Danielle M. Stern. 'Heteronormative Bodies, Queer
 Futures: Toward a Theory of Interpersonal Panopticism', *Information,
-Communication & Society* 21.2 (1 February 2018): 208--23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
+Communication & Society* 21.2 (1 February 2018): 208-23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
 
 Marwick, Alice. 'The Public Domain: Surveillance in Everyday Life',
 *Surveillance & Society* 9 (2012).
 
 Marwick, A.E. and danah boyd, 'Networked privacy: How teenagers
 negotiate context in social media', *New Media & Society* 16.7 (2014):
-1051--1067, DOI: https://doi.org/10.1177/1461444814543995.
+1051-1067, DOI: https://doi.org/10.1177/1461444814543995.
 
 Morgan, David. *Family Connections: An Introduction to Family Studies*,
 Cambridge: Polity Press 1996.
@@ -911,7 +910,7 @@ families-or-specific-people-within-households/.
 
 Taylor, Linnet, Luciano Floridi, Bart van der Sloot, *Group Privacy: New
 Challenges of Data Technologies*, Philosophical Studies Series \#126.
-Berlin: Springer, 2017, pp. 197--224, DOI: 10.1007/978-3-319-46608-8\_9.
+Berlin: Springer, 2017, pp. 197-224, DOI: 10.1007/978-3-319-46608-8\_9.
 
 Thomson, Iain. 'Firmware update blunder bricks hundreds of home
 'smart' locks, *The Register*, 11 September 2017,
@@ -927,7 +926,7 @@ Accountability in the Internet of Things', *International Journal of Law
 and Technology* (forthcoming, 2018).
 
 Urquhart, Lachlan and Tom Rodden, 'New directions in information
-technology law: learning from human--computer interaction',
+technology law: learning from human-computer interaction',
 *International Review of Law, Computers & Technology* 31.2
 (2017):150-169, DOI: 10.1080/13600869.2017.1298501.
 
@@ -941,7 +940,7 @@ http://dx.doi.org/10.1145/329124.329126.
 [^20chapter20_1]: Murray Goulden, Peter Tolmie, Richard Mortier, Tom Lodge,
     Anna-Kaisa Pietilainen and Renata Teixeira, 'Living with
     Interpersonal Data: Observability and Accountability in the Age of
-    Pervasive ICT', *New Media & Society* 20.4 (2018): 1580--99.
+    Pervasive ICT', *New Media & Society* 20.4 (2018): 1580-99.
 
 [^20chapter20_2]: Jamie Orme, 'Samaritans pulls 'suicide watch' Radar app over
     privacy concerns', *The Guardian*, 7 November 2014,
@@ -990,7 +989,7 @@ http://dx.doi.org/10.1145/329124.329126.
 
 [^20chapter20_13]: A.E. Marwick and danah boyd, 'Networked privacy: How teenagers
     negotiate context in social media', *New Media & Society* 16.7
-    (2014): 1051--1067; Peter Tolmie & Andy Crabtree, 'The practical
+    (2014): 1051-1067; Peter Tolmie & Andy Crabtree, 'The practical
     politics of sharing personal data', *Personal Ubiquitous Computing*
     22 (2018): 293, DOI: https://doi.org/10.1007/s00779-017-1071-8.
 
@@ -999,7 +998,7 @@ http://dx.doi.org/10.1145/329124.329126.
 
 [^20chapter20_15]: Linnet Taylor, Luciano Floridi and Bart van der Sloot, *Group
     Privacy: New Challenges of Data Technologies*, Philosophical Studies
-    Series \#126. Berlin: Springer, 2017, pp. 197--224, DOI:
+    Series \#126. Berlin: Springer, 2017, pp. 197-224, DOI:
     10.1007/978-3-319-46608-8\_9.
 
 [^20chapter20_16]: Article 8, European Convention on Human Rights; United Nations
@@ -1022,7 +1021,7 @@ http://dx.doi.org/10.1145/329124.329126.
     Doing Accountability in the Internet of Things'*, International
     Journal of Law and Technology* (forthcoming, 2018); Lachlan Urquhart
     and Tom Rodden, 'New directions in information technology law:
-    learning from human--computer interaction', *International Review of
+    learning from human-computer interaction', *International Review of
     Law, Computers & Technology*, 31:2 (2017): 150-169, DOI:
     10.1080/13600869.2017.1298501.
 
@@ -1052,7 +1051,7 @@ http://dx.doi.org/10.1145/329124.329126.
 [^20chapter20_29]: Jimmie Manning and Danielle M. Stern, 'Heteronormative Bodies,
     Queer Futures: Toward a Theory of Interpersonal Panopticism',
     *Information, Communication & Society* 21.2 (1 February 2018):
-    208--23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
+    208-23, DOI: https://doi.org/10.1080/1369118X.2016.1271901.
 
 [^20chapter20_30]: The inspiration for this element of the scenario comes from the
     news in 2017 that a remotely-issued firmware update bricked several

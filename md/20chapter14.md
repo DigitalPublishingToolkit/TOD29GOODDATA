@@ -19,12 +19,11 @@ Rights: CC BY-NC 4.0
 
 
 # 14: Data for the Social Good: Toward a Data-Activist Research Agenda
-*Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti
-Wissenbach and Stefania Milan[^14chapter14_1]*
+######Becky Kazansky, Guillén Torres, Lonneke van der Velden, Kersti Wissenbach and Stefania Milan[^14chapter14_1]
 
 ##Introduction
 
-'Big data' is a hyped buzzword---or rather, it has been for a while,
+'Big data' is a hyped buzzword - or rather, it has been for a while,
 before being supplanted by 'newer' acclaimed concepts such as artificial
 intelligence. The popularity of the term says something about the
 widespread fascination with the seemingly infinite possibilities of
@@ -44,7 +43,7 @@ data collection and represent the new frontier of citizens' engagement
 with information and technological innovation.
 
 In this chapter we survey diverse experiences and methodologies of what
-we call 'data-activist research'---an approach to research that combines
+we call 'data-activist research' - an approach to research that combines
 embeddedness in the social world with the research methods typical of
 academia and the innovative repertoires of data activists. We argue that
 such approach to knowledge production fosters community building and
@@ -242,7 +241,7 @@ agency has engaged in a variety of projects spanning from the analysis
 of deadly drone attacks in Syria, to the disappearance of 43 Mexican
 students, to the ecocide in Indonesia.[^14chapter14_27] The data sources that
 Forensic Architecture relies upon to fuel its investigation are of
-varied nature---from satellite images, to publicly available data and
+varied nature - from satellite images, to publicly available data and
 media produced by the communities involved in the events under scrutiny.
 
 The 'Left to Die Boat', a project by *Forensic Oceanography,* is a good
@@ -261,7 +260,7 @@ the crime of non-assistance at sea.[^14chapter14_28]
 
 *Forensic Oceanography* shows how it is possible to use as research
 input monitoring technologies, including those typically used by police
-forces, with the goal of bringing about a 'disobedient gaze'---a
+forces, with the goal of bringing about a 'disobedient gaze' - a
 perspective that challenges the dominant narrative. As Pezzani and
 Heller explain it, this disobedient gaze performs a reversal of the
 surveilling action, turning its sight to the act of policing
@@ -269,7 +268,7 @@ itself.[^14chapter14_29] Through this inversion, *Forensic Oceanography* brings 
 light events and issues that the surveilling system prefers to hide. It
 also shows how monitoring technologies can be used to hold accountable
 the very agents who set them in place to exert power. Thus, this
-project---as well as the rest of *Forensic Architecture*'s work---makes
+project - as well as the rest of *Forensic Architecture*'s work - makes
 evident how the availability of data can foster the creation of new
 mechanisms of participation that take advantage of technologies designed
 for other purposes. In this sense, *Forensic Oceanography* is a great
@@ -335,8 +334,8 @@ and practices. Keeping the software tools open allows other activists to
 replicate the work of the organization.
 
 In conclusion, the activities of the *Syrian Archive* stress that, even
-if one purses an urgent goal through activism---such as collecting data
-about human rights violations before it disappears or gets censored---it
+if one purses an urgent goal through activism - such as collecting data
+about human rights violations before it disappears or gets censored - it
 is still of paramount importance to pay attention to the consequences of
 data gathering, processing and sharing facilitated by digital
 technology. Furthermore, the project shows how it is possible to build
@@ -381,8 +380,8 @@ exemplifies the crucial role of human interaction and
 relationship-building around technological innovation if this is to
 become relevant for local communities. The platform's reliance on the
 local context and its specificities underscores also the importance of
-making use of the already existing infrastructure---encompassing both
-technology and human relations---and building on the previous experience
+making use of the already existing infrastructure - encompassing both
+technology and human relations - and building on the previous experience
 of local activists. In sum, data-activist research requires paying
 attention not only to infrastructure practices, but also to local
 contexts and human dynamics.
@@ -408,21 +407,21 @@ can prove cumbersome for manual analysis, hence automating the search
 for keywords makes the task of investigating the discursive evolution in
 internet governance processes more manageable. However, the toolkit
 brings up some concerns because it facilitates research techniques in
-the realm of 'big data' analysis---a set of techniques which the
+the realm of 'big data' analysis - a set of techniques which the
 DATACTIVE project investigates with a critical eye. Partaking in the
 development and use of this tool presents an interesting opportunity for
 us to reflect on our research ethics, the 'why' of our research, and our
 connection with the issues at stake.
 
 Take for example the distinct understandings and expectations of privacy
-in different community-contexts---a question which is relevant to most
+in different community-contexts - a question which is relevant to most
 data-activist research projects given their reliance on publicly
 available data. During DATACTIVE's internal discussions we have raised
 concerns about the expectations of privacy that can be found in
 different online contexts, and asked how these expectations are affected
 when the data can be more easily collected and analyzed by third
-parties---as *BigBang* makes possible. ICANN is a community which
-conducts much of its work 'in the open'---a fundamental requisite of its
+parties - as *BigBang* makes possible. ICANN is a community which
+conducts much of its work 'in the open' - a fundamental requisite of its
 multi-stakeholder nature. Because of the open nature of the data the
 organization produces, DATACTIVE felt it was ethically sound to use it
 after producing a list of conditions guiding its acceptable use. These
@@ -479,7 +478,7 @@ before, a collaborative, dialogue-based data-activist research
 methodology that fosters the process of community building and knowledge
 sharing has to depart from a joint reflection on what knowledge and its
 production mean, and what building a 'we' entails. However, no process
-by itself has the ability to erase power asymmetries --imbalances can
+by itself has the ability to erase power asymmetries - imbalances can
 very well occur within activist communities themselves along lines of
 race, class, gender, expertise, etc. Therefore, processes of collective
 research design and analysis need to take into account the power
@@ -539,7 +538,7 @@ affected populations, and other minority groups.
 
 Researchers should disclose the aims of their projects and communicate
 the 'why' of the research to those involved in any research
-activities---whether an interview, ethnographic participant observation
+activities - whether an interview, ethnographic participant observation
 or a joint policy advocacy project. Researchers should be clear that
 theirs is not a 'view from nowhere', but a situated perspective.[^14chapter14_54]
 Issues of class, race, and locality of the researchers should be
@@ -567,7 +566,7 @@ research is to obtain the consent of research subjects. Yet in projects
 using 'big data', this can be difficult. Data-activist researchers
 should thus put adequate attention to strategizing how they will
 anonymize any data they use on online communities and consider if it is
-ethical to collect it in the first place---and they should be up to date
+ethical to collect it in the first place - and they should be up to date
 with respect to data protection regulations which might prohibit its
 collection.
 
@@ -609,8 +608,8 @@ In this chapter we have dealt with a number of methodological and
 ethical questions that need to be addressed while using and producing
 data to fuel political projects in the interest of society at large.
 With the help of four examples, we discussed several aspects from the
-field of data activism that researchers---particularly those aiming to
-work with (data) activists---could incorporate in their own work. We
+field of data activism that researchers - particularly those aiming to
+work with (data) activists - could incorporate in their own work. We
 have taken a brief look over matters of (disobedient) data research,
 collaboration and empowerment, and data ethics. These examples have
 helped us to build a series of recommendations for researchers in light
@@ -635,7 +634,7 @@ Communication and Culture* 8.1 (2011), 154‐177.
 Birkbak, Andreas, Morten Krogh Petersen, Torben Elgaard Jensen, and
 Philosophy Documentation Center. 'Critical Proximity as a Methodological
 Move in Techno Anthropology', *Techné: Research in Philosophy and
-Technology* 19.2 (2015): 266--90.
+Technology* 19.2 (2015): 266-90.
 
 Bowker, G, and SL Star. *Sorting Things Out: Classification and Its
 Consequences*. Cambridge MA: MIT Press, 1999.
@@ -646,7 +645,7 @@ conflitto. The Open Journal of Sociopolitical Studies* 7 (2014),
 198-220.
 
 Chesters, Graeme. 'Social Movements and the Ethics of Knowledge
-Production', *Social Movement Studies* 11.2 (1 April, 2012): 145--60.
+Production', *Social Movement Studies* 11.2 (1 April, 2012): 145-60.
 
 Dagron, Alfonso Gumucio, and Thomas Tufte (eds). *Communication for
 Social Change Anthology: Historical and Contemporary Readings*, South
@@ -661,7 +660,7 @@ University of Amsterdam, November 2017.
 Della Porta, Donatella, and Elena Pavan. 'Repertoires of Knowledge
 Practices: Social Movements in Times of Crisis', *Qualitative Research
 in Organizations and Management: An International Journal* 12.4 (2017):
-297--314.
+297-314.
 
 Michel Foucault. *The Will to Knowledge: The History of Sexuality:* 1,
 London: Penguin Books, 1998 \[1976\].
@@ -670,11 +669,11 @@ Freire, Paulo. *Pedagogy of the Oppressed*, New York: Herder and Herder,
 1968.
 
 Haggerty, Kevin D., and Richard V. Ericson. 'The Surveillant
-Assemblage', *The British Journal of Sociology,* 51.4 (2000): 605--22.
+Assemblage', *The British Journal of Sociology,* 51.4 (2000): 605-22.
 
 Haraway, Donna. 'Situated Knowledges: The Science Question in Feminism
 and the Privilege of Partial Perspective', *Feminist Studies* 14.3
-(1988): 575--99.
+(1988): 575-99.
 
 Heller, Charles, Lorenzo Pezzani, and Maurice Stierl. 'Disobedient
 Sensing and Border Struggles at the Maritime Frontier of Europe',
@@ -688,12 +687,12 @@ Change*, Bristol: Policy Press, 2015.
 
 Knorr-Cetina, Karin, and Werner Reichmann. 'Epistemic Cultures', in
 *International Encyclopedia of the Social & Behavioral Sciences* (Second
-Edition), Oxford: Elsevier, 873--80,
+Edition), Oxford: Elsevier, 873-80,
 http://www.sciencedirect.com/science/article/pii/B9780080970868104544.
 
 Kubitschko, Sebastian. 'Acting on Media Technologies and
 Infrastructures: Expanding the Media as Practice Approach', *Media,
-Culture & Society* 40.4 (May 2018): 629--35.
+Culture & Society* 40.4 (May 2018): 629-35.
 
 Lovink, Geert and Ned Rossiter. *Organization after Social Media*,
 Colchester: Minor Compositions, 2018.
@@ -708,7 +707,7 @@ Research? The Emerging Ethics Divide', *Big Data & Society* 3.1 (2016).
 Milan, Chiara, and Stefania Milan. 'Involving Communities as Skilled
 Learners: The STRAP Framework,' in Norbert Wildermuth and Teke Ngomba
 (eds), *Methodological Reflections on Researching Communication and
-Social Change*, Cham: Springer, 2016, 9--28.
+Social Change*, Cham: Springer, 2016, 9-28.
 
 Milan, Stefania. 'Between Datafication and Encryption: Media Activism in
 Times of Big Data', Annenberg School of Communication: University of
@@ -719,46 +718,46 @@ Goubin Yang and Viktor Pickard (eds), *Media Activism in the Digital
 Age*, Oxford: Routledge, 2017.
 
 ---------. 'The Ethics of Social Movement Research', in *Methodological
-Practices in Social Movement Research*, 446--64. Oxford: Oxford
+Practices in Social Movement Research*, 446-64. Oxford: Oxford
 University Press, 2014.
 
----------. 'Toward an Epistemology of Engaged Research', *International
-Journal of Communication* 4 (2010): 856--58.
+-------. 'Toward an Epistemology of Engaged Research', *International
+Journal of Communication* 4 (2010): 856-58.
 
 Milan, Stefania, and Miren Gutiérrez. 'Technopolitics in the Age of Big
 Data', in F. Sierra Caballero & T. Gravante (eds.), *Networks, Movements
 & Technopolitics in Latin America: Critical Analysis and Current
-Challenges,* London: Palgrave MacMillan, 2017, pp. 95--109.
+Challenges,* London: Palgrave MacMillan, 2017, pp. 95-109.
 
 Milan, Stefania and Niels ten Oever. 'Coding and encoding rights in
 internet infrastructure', *Internet Policy Review*, *6*.1 (2017).
 
 Milan, Stefania, and Lonneke van der Velden. 'The Alternative
 Epistemologies of Data Activism', *Digital Culture & Society,* 2.2
-(2016): 57--74.
+(2016): 57-74.
 
 Pezzani, Lorenzo, and Charles Heller. 'A Disobedient Gaze: Strategic
 Interventions in the Knowledge(s) of Maritime Borders', *Postcolonial
-Studies* 16.3 (September 2013): 289--98.
+Studies* 16.3 (September 2013): 289-98.
 
 Ryan, Charlotte, V., Salas-Wright, M. Anastario and G. Camara. 'Making
 Research Matter\... Matter to Whom', *International Journal of
-Communication* 4 (2010): 845--55.
+Communication* 4 (2010): 845-55.
 
 Ryan, C. and K. Jeffreys. 'The Practice of Collaborative Theorizing',
 Unpublished manuscript (2008).
 
 Tactical Technology Collective and Becky Kazansky. 'FCJ-195 Privacy,
 Responsibility, and Human Rights Activism', *The Fibreculture Journal*
-26 (2015): 190--208.
+26 (2015): 190-208.
 
 Taylor, Linnet, and Dennis Broeders. 'In the Name of Development: Power,
 Profit and the Datafication of the Global South', *Geoforum* 64 (2015):
-229--37.
+229-37.
 
 Velden, Lonneke van der. 'Leaky Apps and Data Shots: Technologies of
 Leakage and Insertion in NSA Surveillance', *Surveillance & Society*
-13.2 (2015): 182--96.
+13.2 (2015): 182-96.
 
 Wildermuth, Norbert, and Teke Ngomba (eds). *Methodological Reflections
 on Researching Communication and Social Change*, Cham: Springer, 2016.
@@ -770,7 +769,7 @@ ethics\_of\_using\_online\_data.
 
 Zimmer, Michael. '"But the Data Is Already Public": On the Ethics of
 Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
-313--25.
+313-25.
 
 [^14chapter14_1]: ^∗^ This project has received funding from the European Research
     Council (ERC) under the European Union's Horizon2020 research and
@@ -832,7 +831,7 @@ Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
     communicate scientific accomplishments'. See Karin Knorr-Cetina and
     Werner Reichmann, 'Epistemic Cultures' in *International
     Encyclopedia of the Social & Behavioral Sciences*, second edition,
-    Oxford: Elsevier, 2015 pp. 873--80. The concept highlights the
+    Oxford: Elsevier, 2015 pp. 873-80. The concept highlights the
     diversity in scientific practices. Here we use it to discuss the
     diversity in knowledge making in the context of datafication.
 
@@ -849,7 +848,7 @@ Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
     Age of Big Data\', in Francisco Sierra Caballero and Tommasso
     Gravante (eds), *Networks, Movements & Technopolitics in Latin
     America: Critical Analysis and Current Challenges,* London: Palgrave
-    Macmillan, 2017, pp. 95--109.
+    Macmillan, 2017, pp. 95-109.
 
 [^14chapter14_18]: This argument was made earlier in a series of articles published
     in the Feature 'Making Communication Matter' of *the International
@@ -874,7 +873,7 @@ Research in Facebook.', *Ethics and Information Technology* 12.4 (2010):
     Chiara Milan and Stefania Milan, 'Involving Communities as Skilled
     Learners: The STRAP Framework', in Norbert Wildermuth and Teke
     Ngomba (eds), *Methodological Reflections on Researching
-    Communication and Social Change*, Cham: Springer, 2016, 9--28.
+    Communication and Social Change*, Cham: Springer, 2016, 9-28.
 
 [^14chapter14_25]: Cf. C. Ryan, V. Salas-Wright, M. Anastario & G. Camara, 'Making
     Research Matter\... Matter to Whom?'.

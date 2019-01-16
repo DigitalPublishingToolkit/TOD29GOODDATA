@@ -19,10 +19,9 @@ Rights: CC BY-NC 4.0
 
 
 # 17: Algorithmic Mapmaking in 'Smart Cities': Data Protection Impact Assessments as a means of Protection for Groups
-*Gerard Jan Ritsema van Eck*
+######Gerard Jan Ritsema van Eck
 
-**Abstract**
-
+## Introduction
 Maps are powerful communication tools, and mapmaking used to be a
 privileged affair. In recent times, this has changed as 'smart cities'
 have been outfitted with video, audio, and other kinds of 'Internet of
@@ -53,7 +52,7 @@ protection for groups negatively impacted by mapmaking software through
 DPIAs thus seems nigh on impossible in lieu of substantial legislative
 change.
 
-## Introduction
+
 
 In late 2017, Strava revealed its 'global heatmap' which shows popular
 running and cycling routes around the world. Although first reported as
@@ -92,7 +91,7 @@ an expensive Band-Aid that will be avoided, ignored, and brushed aside?<br />
 
 
 
-
+![](imgs/chapter17_Ritsema_image1.jpg)
 *Figure 1. Screenshot taken by the author on
 https://labs.strava.com/heatmaps on 2 February 2018. Shown is the
 Stadspark in Groningen, the Netherlands. The clearly visible small
@@ -140,7 +139,7 @@ instance road closures that users are encouraged to add using a gamified
 system of badges and achievements. Furthermore, in various cities such
 as Rio de Janeiro, New York City, and Ghent, Waze receives data on
 upcoming road closures from local governments through its Connected
-Citizens Programme --- in exchange, the local governments gain access to
+Citizens Programme - in exchange, the local governments gain access to
 information on accidents and other traffic disruptions.[^17chapter17_16] As Gekker
 and Hind point out, this makes it 'not necessarily easy to make a clean
 split between those who "produce" the map, those who "edit" the map and
@@ -149,6 +148,7 @@ those who "consume" the map'.[^17chapter17_17] <br />
 
 
 
+![](imgs/chapter17_Ritsema_image2.jpg)
 *Figure 2. Screenshot taken by the author on
 https://www.waze.com/livemap on 5 February 2018. Shown is part of the
 center of London, England. The three data sources are clearly visible:
@@ -233,8 +233,8 @@ individual data protection law.[^17chapter17_35] It seems questionable whether t
 consent to use their personal data for research purposes. And what about
 their rights to receive access to the data kept on them, in order to see
 if it is correct,[^17chapter17_36] or whether so-called 'special categories' of data
-such as their ethnicity or sexual orientation --- easily guessed by
-observing e.g. the entrance to an LGBT nightclub --- have been
+such as their ethnicity or sexual orientation - easily guessed by
+observing e.g. the entrance to an LGBT nightclub - have been
 processed?[^17chapter17_37] Both questions are, from a legal perspective, moot
 because the Living Lab and Strava anonymize all data before analysis.
 The latter even gives users an opt-out to making their anonymized data
@@ -384,8 +384,8 @@ beforehand,[^17chapter17_72] and by the affected data subject itself. Consent is
 only valid if, inter alia, it meets the connected requirements that it
 is informed, granular, and specific.[^17chapter17_73] By integrating these
 requirements into DPIAs, groups are given a way to meaningfully
-co-produce the crowdsourced maps and the GIS software --- and thus their
-living environments --- at a stage when some of the processing
+co-produce the crowdsourced maps and the GIS software - and thus their
+living environments - at a stage when some of the processing
 operations are still unknown.[^17chapter17_74]
 
 The inclusion of as many views as possible is essential for this
@@ -428,9 +428,9 @@ which are in the public interest, and is active in the field of the
 protection of data subjects\' rights and freedoms with regard to the
 protection of their personal data'[^17chapter17_81] to represent them when lodging a
 complaint with a DPA,[^17chapter17_82] or when seeking a judicial remedy against a
-DPA, data controller, or processer.[^17chapter17_83] This list could be expanded ---
+DPA, data controller, or processer.[^17chapter17_83] This list could be expanded -
 either informally by data controllers currently executing a DPIA, or
-eventually by the European legislator --- to include the representation
+eventually by the European legislator - to include the representation
 of data subjects during DPIAs in the sense of Article 35(9) of the GDPR.
 
 ## Limitations
@@ -520,8 +520,8 @@ initiatives it seems that they could easily be circumvented, their
 effect would be limited at best, that the proper representation of
 groups is nigh impossible, and that their long-term impact is uncertain
 in the face of self-learning algorithms. Still, companies interested in
-retaining consumer trust --- and gaining a competitive advantage when
-dealing with responsible customers and partners --- would be
+retaining consumer trust - and gaining a competitive advantage when
+dealing with responsible customers and partners - would be
 well-advised to make the investment. This goes doubly so for
 governmental bodies and institutions: DPIAs form an opportunity to use
 group rights to put the performative power of maps in the hands of those
@@ -531,9 +531,9 @@ performed, and they should include as many views as possible; Public
 space should belong to the public, not to companies writing mapping
 software.
 
-It is up to the EU legislator --- and in the meantime: the European Data
+It is up to the EU legislator - and in the meantime: the European Data
 Protection Board, formerly known as the Article 29 Working Party, whose
-importance 'for the EU data protection cannot be overstated'[^17chapter17_91] --- to
+importance 'for the EU data protection cannot be overstated'[^17chapter17_91] - to
 ensure that group data protection rights can be properly incorporated
 within the European Data Protection framework. This is the only way to
 ensure that the uncomfortable Band-Aid proposed in this chapter becomes
@@ -554,13 +554,13 @@ provided valuable feedback and inspiration.
 
 Amoore, Louise. 'Data Derivatives: On the Emergence of a Security Risk
 Calculus for Our Times', *Theory, Culture & Society* 28.6 (November
-2011): 24--43, DOI: 10.1177/0263276411417430.
+2011): 24-43, DOI: 10.1177/0263276411417430.
 
 Anderson, Benedict R. *Imagined Communities: Reflections on the Origin
 and Spread of Nationalism*, 2nd ed. London; New York: Verso, 2006.
 
 Arnstein, Sherry R. 'A Ladder of Citizen Participation', *Journal of the
-American Institute of Planners* 35.4 (July 1969): 216--24, DOI:
+American Institute of Planners* 35.4 (July 1969): 216-24, DOI:
 10.1080/01944366908977225.
 
 Article 29 Data Protection Working Party. 'Guidelines on Consent under
@@ -589,7 +589,7 @@ Approach to Multiculturalism*, Law and Philosophy Library \#75.
 Dordrecht: Springer, 2006.
 
 Clarke, Roger. 'Privacy Impact Assessment: Its Origins and Development',
-*Computer Law & Security Review* 25.2 (January 2009): 123--35, DOI:
+*Computer Law & Security Review* 25.2 (January 2009): 123-35, DOI:
 10.1016/j.clsr.2009.02.002.
 
 Commission Nationale de l'Informatique et des Libertés. 'Privacy Impact
@@ -602,10 +602,10 @@ https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-
 'Connected Citizen's Programme', Waze, https://www.waze.com/ccp.
 
 Crampton, Jeremy W. 'Bordering on Bosnia', *GeoJournal* 39.4 (1996):
-353--61.
+353-61.
 
 ---------. 'Maps as Social Constructions: Power, Communication, and
-Visualization', *Progress in Human Geography* 25.2 (2001): 235--52.
+Visualization', *Progress in Human Geography* 25.2 (2001): 235-52.
 
 De Lange, Michiel, and Martijn De Waal. 'Owning the City: New Media and
 Citizen Engagement in Urban Design', *First Monday* 18.11 (27 November
@@ -613,11 +613,11 @@ Citizen Engagement in Urban Design', *First Monday* 18.11 (27 November
 
 Edwards, Lilian. 'Privacy, Security and Data Protection in Smart Cities:
 A Critical EU Law Perspective', *European Data Protection Law Review*
-2.1 (2016): 28--58, DOI: 10.21552/EDPL/2016/1/6.
+2.1 (2016): 28-58, DOI: 10.21552/EDPL/2016/1/6.
 
 Edwards, Lilian, and Michael Veale. 'Enslaving the Algorithm: From a
 "Right to an Explanation" to a "Right to Better Decisions"?', *IEEE
-Security & Privacy* 16.3 (May 2018): 46--54, DOI:
+Security & Privacy* 16.3 (May 2018): 46-54, DOI:
 10.1109/MSP.2018.2701152.
 
 'Eindhoven Living Lab', European Network of Living Labs, http://www.openlivinglabs.eu/livinglab/eindhoven-living-lab.
@@ -632,15 +632,15 @@ Gekker, Alex, and Sam Hind. '"Outsmarting Traffic, Together": Driving as
 Social Navigation', in Clancy Wilmott, Chris Perkins, Sybille Lammes,
 Sam Hind, Alex Gekker, Emma Fraser, and Daniel Evans *(eds.) Playful
 Mapping in the Digital Age*, Theory on Demand \#21. Amsterdam: Institute
-of Network Cultures, 2016, pp. 78--92.
+of Network Cultures, 2016, pp. 78-92.
 
 Gellert, Raphaël. 'The Article 29 Working Party's Provisional Guidelines
 on Data Protection Impact Assessment', *European Data Protection Law
-Review* 3.2 (2017): 212--17, DOI: 10.21552/edpl/2017/2/11.
+Review* 3.2 (2017): 212-17, DOI: 10.21552/edpl/2017/2/11.
 
 Goodman, Bryce. 'Discrimination, Data Sanitisation and Auditing in the
 European Union's General Data Protection Regulation', *European Data
-Protection Law Review* 2.4 (2016): 493--506, DOI:
+Protection Law Review* 2.4 (2016): 493-506, DOI:
 10.21552/EDPL/2016/4/8.
 
 Götzmann, Nora, Tulika Bansal, Elin Wrzoncki, Cathrine Poulsen-Hansen,
@@ -657,7 +657,7 @@ York, NY: The Architectural League of New York, 2007.
 
 Gstrein, Oskar Josef, and Gerard Jan Ritsema van Eck. 'Mobile Devices as
 Stigmatizing Security Sensors: The GDPR and a Future of Crowdsourced
-"Broken Windows"', *International Data Privacy Law* 8.1 (2018): 69--85,
+"Broken Windows"', *International Data Privacy Law* 8.1 (2018): 69-85,
 DOI: 10.1093/idpl/ipx024.
 
 Harding, Alan, and Talja Blokland-Potters. *Urban Theory: A Critical
@@ -670,21 +670,21 @@ US Army Bases', *The Guardian*, 28 January 2018, https://www.theguardian.com/wor
 Hert, Paul de, and Vagelis Papakonstantinou. 'The New General Data
 Protection Regulation: Still a Sound System for the Protection of
 Individuals?', *Computer Law & Security Review* 32.2 (April 2016):
-179--94, DOI: 10.1016/j.clsr.2016.02.006.
+179-94, DOI: 10.1016/j.clsr.2016.02.006.
 
 Information Commissioner's office. 'Sample DPIA Template', 2018, https://ico.org.uk/media/for-organisations/documents/2258857/dpia-template-v1.docx.
 
 Joh, Elizabeth E. 'Policing by Numbers: Big Data and the Fourth
-Amendment', *Washington Law Review* 89.1 (2014): 35--68.
+Amendment', *Washington Law Review* 89.1 (2014): 35-68.
 
 ---------. 'The New Surveillance Discretion: Automated Suspicion, Big
-Data, and Policing', *Harvard Law & Policy Review* 10.1 (2016): 15--42.
+Data, and Policing', *Harvard Law & Policy Review* 10.1 (2016): 15-42.
 
 Jones, Peter. 'Group Rights', Stanford Encyclopedia of Philosophy, 29
 March 2016, http://plato.stanford.edu/archives/sum2016/entries/rights-group/.
 
 ---------. 'Human Rights, Group Rights, and Peoples' Rights', *Human
-Rights Quarterly* 21.2 (1999): 80--107.
+Rights Quarterly* 21.2 (1999): 80-107.
 
 Jovanović, Miodrag A. *Collective Rights: A Legal Theory*, Cambridge:
 New York: Cambridge University Press, 2012.
@@ -701,13 +701,13 @@ towards a More Robust Protection of Individuals'. d.pia.lab, 2017, https://cris.
 
 Lefebvre, Henri. 'Right to the City', in Eleonore Kofman and Elizabeth
 Lebas (eds.), *Writings on Cities*, Cambridge MA: Blackwell, 1996
-(1968), pp 61--181.
+(1968), pp 61-181.
 
 ---------. *The Production of Space*, trans Donald Nicholson-Smith,
 Malden MA: Blackwell, 1991 (1974).
 
 Leslie, Camilo Arturo. 'Territoriality, Map-Mindedness, and the Politics
-of Place', *Theory and Society* 45.2 (April 2016): 169--201, DOI:
+of Place', *Theory and Society* 45.2 (April 2016): 169-201, DOI:
 10.1007/s11186-016-9268-9.
 
 Lyon, David (ed.). *Surveillance as Social Sorting: Privacy, Risk, and
@@ -715,38 +715,38 @@ Digital Discrimination*. London/New York: Routledge, 2003.
 
 Mantelero, Alessandro. 'AI and Big Data: A Blueprint for a Human Rights,
 Social and Ethical Impact Assessment', *Computer Law & Security Review*
-34.4 (August 2018): 754--72, DOI: 10.1016/j.clsr.2018.05.017.
+34.4 (August 2018): 754-72, DOI: 10.1016/j.clsr.2018.05.017.
 
 ---------. 'From Group Privacy to Collective Privacy: Towards a New
 Dimension of Privacy and Data Protection in the Big Data Era', in Linnet
 Taylor, Luciano Floridi and Bart van der Sloot *(eds.), Group Privacy:
 New Challenges of Data Technologies*, Philosophical Studies Series
-\#126. Berlin: Springer, 2017, pp. 139--58, DOI: https://doi.org/10.1007/978-3-319-46608-8_8.
+\#126. Berlin: Springer, 2017, pp. 139-58, DOI: https://doi.org/10.1007/978-3-319-46608-8_8.
 
 ---------. 'Personal Data for Decisional Purposes in the Age of
 Analytics: From an Individual to a Collective Dimension of Data
 Protection', *Computer Law & Security Review* 32.2 (April 2016):
-238--55, DOI: 10.1016/j.clsr.2016.01.014.
+238-55, DOI: 10.1016/j.clsr.2016.01.014.
 
 Miller, David. 'Group Rights, Human Rights and Citizenship', *European
-Journal of Philosophy* 10.2 (August 2002): 178--95, DOI:
+Journal of Philosophy* 10.2 (August 2002): 178-95, DOI:
 10.1111/1468-0378.00155.
 
 Mittelstadt, Brent. 'From Individual to Group Privacy in Big Data
-Analytics', *Philosophy & Technology* 30.4 (December 2017): 475--94,
+Analytics', *Philosophy & Technology* 30.4 (December 2017): 475-94,
 DOI: 10.1007/s13347-017-0253-7.
 
 Narayanan, Arvind, Joanna Huey and Edward W. Felten, 'A Precautionary
 Approach to Big Data Privacy', in Serge Gutwirth, Ronald Leenes, and
 Paul De Hert (eds), *Data Protection on the Move*, Issues in Privacy and
 Data Protection \#24, Dordrecht: Springer Netherlands, 2016, pp.
-357--85, DOI: 10.1007/978-94-017-7376-8\_13.
+357-85, DOI: 10.1007/978-94-017-7376-8\_13.
 
 OpenStreetMap Foundation. 'About', https://www.openstreetmap.org/about.
 
 Pak, Burak, Alvin Chua, and Andrew Vande Moere. 'FixMyStreet Brussels:
 Socio-Demographic Inequality in Crowdsourced Civic Participation',
-*Journal of Urban Technology* (10 April 2017), 1--23, DOI:
+*Journal of Urban Technology* (10 April 2017), 1-23, DOI:
 10.1080/10630732.2016.1270047.
 
 Pasquale, Frank. *The Black Box Society: The Secret Algorithms That
@@ -760,21 +760,21 @@ Robb, Drew. 'The Global Heatmap, Now 6x Hotter', *Medium*, 1 November
 2017, https://medium.com/strava-engineering/the-global-heatmap-now-6x-hotter-23fc01d301de.
 
 Selbst, Andrew D. 'Disparate Impact in Big Data Policing', *Georgia Law
-Review* 52.1 (2018): 109--95.
+Review* 52.1 (2018): 109-95.
 
 Skorupinski, Barbara, and Konrad Ott. 'Technology Assessment and Ethics:
 Determining a Relationship in Theory and Practice', *Poiesis & Praxis*
-1.2 (1 August 2002): 95--122, DOI: 10.1007/s102020100010.
+1.2 (1 August 2002): 95-122, DOI: 10.1007/s102020100010.
 
 Sloot, Bart van der. 'Do Groups Have a Right to Protect Their Group
 Interest in Privacy and Should They? Peeling the Onion of Rights and
 Interests Protected under Article 8 ECHR', in Linnet Taylor, Luciano
 Floridi, and Bart van der Sloot (eds), *Group Privacy: New Challenges of
 Data Technologies.* Philosophical Studies Series \#126. Berlin:
-Springer, 2017, pp. 197--224, DOI: 10.1007/978-3-319-46608-8\_9.
+Springer, 2017, pp. 197-224, DOI: 10.1007/978-3-319-46608-8\_9.
 
 Smith, Gavin J. D. 'Surveillance, Data and Embodiment: On the Work of
-Being Watched', *Body & Society* 22.2 (2016): 108--39, DOI:
+Being Watched', *Body & Society* 22.2 (2016): 108-39, DOI:
 10.1177/1357034X15623622.
 
 'Strava: A Global Heatmap of Athletic Activity', *The Guardian*, 2
@@ -791,30 +791,30 @@ Intersentia, 2009, https://dspace.library.uu.nl/bitstream/handle/1874/36620/walk
 Williams, Matthew L., Pete Burnap, and Luke Sloan. 'Crime Sensing with
 Big Data: The Affordances and Limitations of Using Open Source
 Communications to Estimate Crime Patterns', *British Journal of
-Criminology* (31 March 2016): 320--340, DOI: 10.1093/bjc/azw031.
+Criminology* (31 March 2016): 320-340, DOI: 10.1093/bjc/azw031.
 
 Winston, Ali. 'Palantir Has Secretly Been Using New Orleans to Test Its
 Predictive Policing Technology', *The Verge*, 27 February 2018, https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd.
 
 Wright, David, and Michael Friedewald. 'Integrating Privacy and Ethical
 Impact Assessments', *Science and Public Policy* 40.6 (1 December 2013):
-755--66, DOI: 10.1093/scipol/sct083.
+755-66, DOI: 10.1093/scipol/sct083.
 
 Wright, David, and Paul de Hert (eds). *Privacy Impact Assessment*, Law,
 Governance and Technology Series 6. Dordrecht: Springer, 2012.
 
 Wright, David, and Emilio Mordini. 'Privacy and Ethical Impact
 Assessment', in David Wright and Paul De Hert (eds), *Privacy Impact
-Assessment*, Dordrecht: Springer Netherlands, 2012, pp. 397--418, DOI:
+Assessment*, Dordrecht: Springer Netherlands, 2012, pp. 397-418, DOI:
 10.1007/978-94-007-2543-0\_19.
 
 Yeal, Tamir. 'Against Collective Rights', in Christian Joppke and Steven
 Lukes (eds), *Multicultural Questions*, Oxford: Oxford University Press,
-1999, pp. 150--80.
+1999, pp. 150-80.
 
 Yordanov, Atanas. 'Nature and Ideal Steps of the Data Protection Impact
 Assessment under the General Data Protection Regulation', *European Data
-Protection Law Review* 3.4 (2017): 486--95, DOI:
+Protection Law Review* 3.4 (2017): 486-95, DOI:
 10.21552/edpl/2017/4/10.
 
 [^17chapter17_1]: ^\*^ Security, Technology, and *e*-Privacy (ST*e*P) research
@@ -851,7 +851,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     Origin and Spread of Nationalism*, 2nd edition, London/New York:
     Verso, 2006, from p. 175. For a contrasting example of the same
     phenomenon, see Jeremy W. Crampton, 'Bordering on Bosnia',
-    *GeoJournal* 39.4 (1996): 353--61.
+    *GeoJournal* 39.4 (1996): 353-61.
 
 [^17chapter17_9]: Camilo Arturo Leslie, 'Territoriality, Map-Mindedness, and the
     Politics of Place', *Theory and Society* 45.2 (April 2016):
@@ -870,7 +870,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     context, see Oskar Josef Gstrein and Gerard Jan Ritsema van Eck,
     'Mobile Devices as Stigmatizing Security Sensors: The GDPR and a
     Future of Crowdsourced "Broken Windows"', *International Data
-    Privacy Law* 8.1 (2018): 70--74, DOI: 10.1093/idpl/ipx024.
+    Privacy Law* 8.1 (2018): 70-74, DOI: 10.1093/idpl/ipx024.
 
 [^17chapter17_13]: OpenStreetMap Foundation, 'About',
     https://www.openstreetmap.org/about.
@@ -908,7 +908,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
 
 [^17chapter17_22]: Louise Amoore, 'Data Derivatives: On the Emergence of a Security
     Risk Calculus for Our Times', *Theory, Culture & Society* 28.6
-    (November 2011): pp. 24--43, DOI: 10.1177/0263276411417430.
+    (November 2011): pp. 24-43, DOI: 10.1177/0263276411417430.
 
 [^17chapter17_23]: Ali Winston, 'Palantir Has Secretly Been Using New Orleans to
     Test Its Predictive Policing Technology', *The Verge*, 27 February
@@ -938,7 +938,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
 
 [^17chapter17_28]: Elizabeth E. Joh, 'The New Surveillance Discretion: Automated
     Suspicion, Big Data, and Policing', *Harvard Law & Policy Review*
-    10.1 (2016): 31--32; Note in this context that Andrew D. Selbst
+    10.1 (2016): 31-32; Note in this context that Andrew D. Selbst
     recently proposed an impact assessment framework specifically for
     predictive policing solutions, see 'Disparate Impact in Big Data
     Policing', *Georgia Law Review* 52.1 (2018).
@@ -948,7 +948,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     Participation', *Journal of Urban Technology*, 10 April 2017, DOI:
     10.1080/10630732.2016.1270047; Monica M. Brannon, 'Datafied and
     Divided: Techno-Dimensions of Inequality in American Cities', *City
-    & Community* 16.1 (March 2017): 20--24, DOI: 10.1111/cico.12220.
+    & Community* 16.1 (March 2017): 20-24, DOI: 10.1111/cico.12220.
 
 [^17chapter17_30]: Selbst, 'Disparate Impact in Big Data Policing', 133; Elizabeth
     E. Joh, 'Policing by Numbers: Big Data and the Fourth Amendment',
@@ -972,7 +972,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     juncto art 22(4).
 
 [^17chapter17_34]: Mittelstadt, 'From Individual to Group Privacy in Big Data
-    Analytics', 487--88; Alessandro Mantelero, 'AI and Big Data: A
+    Analytics', 487-88; Alessandro Mantelero, 'AI and Big Data: A
     Blueprint for a Human Rights, Social and Ethical Impact Assessment',
     *Computer Law & Security Review* 34.4 (August 2018): 764, doi:
     10.1016/j.clsr.2018.05.017.
@@ -1003,7 +1003,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     Rights and Interests Protected under Article 8 ECHR', in Linnet
     Taylor, Luciano Floridi, and Bart van der Sloot (eds), *Group
     Privacy: New Challenges of Data Technologies,* Philosophical Studies
-    Series 126. Berlin: Springer, 2017, pp. 197--224, DOI:
+    Series 126. Berlin: Springer, 2017, pp. 197-224, DOI:
     10.1007/978-3-319-46608-8\_9; Lilian Edwards and Michael Veale,
     'Enslaving the Algorithm: From a "Right to an Explanation" to a
     "Right to Better Decisions"?', *IEEE Security & Privacy* 16.3 (May
@@ -1014,11 +1014,11 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     overview that would do justice to this debate, but the interested
     reader may, for both pro and contra perspectives, refer to inter
     alia Peter Jones, 'Human Rights, Group Rights, and Peoples' Rights',
-    *Human Rights Quarterly* 21.2 (1999): 80--107; Miodrag A. Jovanović,
+    *Human Rights Quarterly* 21.2 (1999): 80-107; Miodrag A. Jovanović,
     *Collective Rights: A Legal Theory,* Cambridge ; New York: Cambridge
     University Press, 2012; Tamir Yeal, 'Against Collective Rights', in
     Christian Joppke and Steven Lukes (eds), *Multicultural Questions*,
-    Oxford: Oxford University Press, 1999, pp. 150--80; David Miller,
+    Oxford: Oxford University Press, 1999, pp. 150-80; David Miller,
     'Group Rights, Human Rights and Citizenship', *European Journal of
     Philosophy* 10.2 (August 2002), DOI: 10.1111/1468-0378.00155; Neus
     Torbisco Casals (ed.), *Group Rights as Human Rights: A Liberal
@@ -1066,7 +1066,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
 
 [^17chapter17_54]: ibid., 31. Note that the Article 29 Working Party has been
     renamed the European Data Protection Board (EDPB) when the GDPR came
-    into force. GDPR, art 68--76.
+    into force. GDPR, art 68-76.
 
 [^17chapter17_55]: Article 29 Data Protection Working Party, 'Guidelines on DPIA',
     annex 1.
@@ -1106,7 +1106,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     December 2013), DOI: 10.1093/scipol/sct083; David Wright and Emilio
     Mordini, 'Privacy and Ethical Impact Assessment', in David Wright
     and Paul De Hert (eds), *Privacy Impact Assessment,* Dordrecht:
-    Springer Netherlands, 2012, pp. 397--418, DOI:
+    Springer Netherlands, 2012, pp. 397-418, DOI:
     10.1007/978-94-007-2543-0\_19; Barbara Skorupinski and Konrad Ott,
     'Technology Assessment and Ethics: Determining a Relationship in
     Theory and Practice', *Poiesis & Praxis* 1.2 (1 August 2002), DOI:
@@ -1158,7 +1158,7 @@ Protection Law Review* 3.4 (2017): 486--95, DOI:
     below.
 
 [^17chapter17_73]: Article 29 Data Protection Working Party, 'Guidelines on Consent
-    under Regulation 2016/679', 29 November 2017, pp. 11--15,
+    under Regulation 2016/679', 29 November 2017, pp. 11-15,
     http://ec.europa.eu/newsroom/document.cfm?doc\_id=48849.
 
 [^17chapter17_74]: Article 29 Data Protection Working Party, 'Guidelines on DPIA',

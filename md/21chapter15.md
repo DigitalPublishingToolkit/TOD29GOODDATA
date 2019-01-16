@@ -19,10 +19,9 @@ Rights: CC BY-NC 4.0
 
 
 # 15: Good Data is Critical Data: An Appeal for Critical Digital Studies
-*Chiara Poletti and Daniel Gray*
+######Chiara Poletti and Daniel Gray
 
-**Abstract**
-
+## Introduction
 In social science, approaches that call themselves critical tend to be
 concerned with advancing some kind of emancipatory political cause,
 often drawing in some way on Marxian perspectives. In Fairclough's
@@ -38,7 +37,7 @@ to this field, and how they relate to ethical standards and good data,
 arguing that they demand new ideas in terms of what research we do, and
 how we do it.
 
-## Introduction
+
 
 Data produced by people in their online interactions and transactions
 has become a vital tool and commodity in digital capitalism, and is
@@ -660,7 +659,7 @@ at the Centro per la Riforma dello Stato, Roma, 7 November 2017, https://www.din
 
 \_\_\_\_\_. 'Digital Labor Studies Go Global: Toward a Digital
 Decolonial Turn', *International Journal of Communication,* 11 (2017):
-3934--3954.
+3934-3954.
 
 \_\_\_\_\_. 'Four Theses on Digital Mass Surveillance and the
 Negotiation Of Privacy'. 8th Annual Privacy Law Scholar Congress,
@@ -725,7 +724,7 @@ Shears and J Thatcher (eds), *Geoweb and Big Data,* Lincoln: University
 of Nebraska Press, 2014.
 
 Kitchin, Rob. 'Big Data, new epistemologies and paradigm shifts'. *Big
-Data & Society,* (April--June 2014): 1--12.
+Data & Society,* (April-June 2014): 1-12.
 
 Klastrup, Lisbeth. 'Death, Affect and the Ethical Challenges of Outing a
 Griefsquatter', in Michael Zimmer and Katharina Kinder-Kurlanda (eds),
@@ -744,18 +743,18 @@ Ingierd. *Internet Research Ethics*, Oslo: Cappelen Damm Akademisk,
 
 Mahrt, Merja and Michael Scharkow, 'The value of big data in digital
 media research', *Journal of Broadcasting & Electronic Media*, 57.1
-(2013): 20--33, DOI: doi:10.1080/08838151.2012.761700.
+(2013): 20-33, DOI: doi:10.1080/08838151.2012.761700.
 
 Marres, Noortjie and Carolin Gerlitz. 'Interface methods: renegotiating
 relations between digital social research', *The Sociological Review,*
-64 (2016): 21--46, DOI: 10.1111/1467-954X.12314.
+64 (2016): 21-46, DOI: 10.1111/1467-954X.12314.
 
 Metcalf, Jacob, and Kate Crawford. 'Where are human subjects in big data
 research? The emerging ethics divide', *Big Data & Society*, 3.1 (2016):
-1--14, DOI: doi:10.1177/2053951716650211.
+1-14, DOI: doi:10.1177/2053951716650211.
 
 Nissenbaum, Helen. Privacy as contextual integrity. *Washington Law
-Review* (2004): 79, 119--157.
+Review* (2004): 79, 119-157.
 
 O\'Neil, Cathy. *Weapons of Math Destruction.* New York: Crown
 Publishers, 2016.
@@ -765,16 +764,16 @@ Money and Information*, Cambridge: Harvard University Press, 2015.
 
 Puschmann, Cornelius and Jean Burgess. 'Big Data, Big Questions,
 Metaphors of Big Data', *International Journal of Communication*, 8
-(2014): 1690--1709. DOI: 1932-- 8036/20140005.
+(2014): 1690-1709. DOI: 1932-- 8036/20140005.
 
 Rogers, Richard. *Digital Methods*. Cambridge MA: MIT Press, 2015.
 
 Ruppert, Evelyn, John Law and Mike Savage, 'Reassembling Social Science
 Methods: The Challenge of Digital Devices' *Theory, Culture & Society*
-30.4 (2013): 22--46.
+30.4 (2013): 22-46.
 
 Savage, Mike and Roger Burrows, 'The Coming Crisis of Empirical
-Sociology', *Sociology* 41.5 (2007): 885--899, DOI:
+Sociology', *Sociology* 41.5 (2007): 885-899, DOI:
 10.1177/0038038507080443.
 
 Seko, Yukari and Stephen P. Lewis. '"We Tend to Err on the Side of
@@ -790,7 +789,7 @@ Helene Ingierd. *Internet Research Ethics*, Oslo: Cappelen Damm
 Akademisk, 2015.
 
 Steen-Johnsen, Kari and Bernard Enjolras, 'Social research and Big Data
--- the tension between opportunities and realities', in Hallvard
+- the tension between opportunities and realities', in Hallvard
 Fossheim and Helene Ingierd, *Internet Research Ethics*, Oslo: Cappelen
 Damm Akademisk, 2015.
 
@@ -816,12 +815,12 @@ Society*, 4.2 (2018).
 
 [^15chapter15_4]: Antonio Casilli, Digital Labor Studies Go Global: Toward a Digital
     Decolonial Turn, *International Journal of Communication* 11 (2017):
-    3934--3954; Karen Gregory, *The Future of Work*, Public Services
+    3934-3954; Karen Gregory, *The Future of Work*, Public Services
     International Congress, Geneva, Switzerland (2018)
     http://congress.world-psi.org/karen-gregory-talks-about-the-negatives-and-positives-of-computer-platform-capitalism/
 
 [^15chapter15_5]: Mike Savage and Roger Burrows, 'The Coming Crisis of Empirical
-    Sociology', *Sociology,* 41.5 (2007): 885--899, DOI:
+    Sociology', *Sociology,* 41.5 (2007): 885-899, DOI:
     10.1177/0038038507080443; danah boyd and Kate Crawford, 'Critical
     Questions for Big Data: Provocations for a Cultural, Technological,
     and Scholarly Phenomenon', *Information, Communication, & Society*
@@ -834,7 +833,7 @@ Society*, 4.2 (2018).
     the 8th International AAAI Conference on Weblogs and Social Media,*
     2014; Noortjie Marres and Carolin Gerlitz, 'Interface methods:
     renegotiating relations between digital social research', *The
-    Sociological Review* 64 (2016): 21--46, DOI: 10.1111/1467-954X.12314
+    Sociological Review* 64 (2016): 21-46, DOI: 10.1111/1467-954X.12314
 
 [^15chapter15_6]: Richard Rogers, *Digital Methods*, Cambridge MA: MIT Press, 2015.
 
@@ -844,7 +843,7 @@ Society*, 4.2 (2018).
     *Culture Machine,* 12 (2011)
     http://www.culturemachine.net/index.php/cm/article/view/440/470; Rob
     Kitchin, 'Big Data, new epistemologies and paradigm shifts', *Big
-    Data & Society (*April--June 2014): 1--12.
+    Data & Society (*April-June 2014): 1-12.
 
 [^15chapter15_8]: Craig Dalton and Jim Thatcher, 'What does a critical data studies
     look like, and why do we care? Seven points for a critical approach
@@ -857,10 +856,10 @@ Society*, 4.2 (2018).
     662-679; Rob Kitchin, *Big Data, new epistemologies and paradigm
     shifts;* Cornelius Puschmann and Jean Burgess, 'Big Data, Big
     Questions, Metaphors of Big Data', *International Journal of
-    Communication,* 8 (2014): 1690--1709, DOI: 1932-- 8036/20140005*;*
+    Communication,* 8 (2014): 1690-1709, DOI: 1932-- 8036/20140005*;*
     Merja Mahrt and Michael Scharkow, 'The value of big data in digital
     media research', *Journal of Broadcasting & Electronic Media*, 57.1
-    (2013): 20--33, DOI:10.1080/08838151.2012.761700
+    (2013): 20-33, DOI:10.1080/08838151.2012.761700
 
 [^15chapter15_10]: Rob Kitchin and Tracey P. Lauriault, 'Towards critical data
     studies: Charting and unpacking data assemblages and their work', in
@@ -871,7 +870,7 @@ Society*, 4.2 (2018).
 
 [^15chapter15_11]: Evelyn Ruppert, John Law and Mike Savage, 'Reassembling Social
     Science Methods: The Challenge of Digital Devices', *Theory, Culture
-    & Society,* 30.4 (2013): 22--46; Karen Gregory, *The Labor of
+    & Society,* 30.4 (2013): 22-46; Karen Gregory, *The Labor of
     Digital Scholarship,* talk given at the University of Edinburgh
     (2017), audio and slides available:
     https://ed.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41552549-5650-4cdf-bf62-05999534c270
@@ -901,7 +900,7 @@ Society*, 4.2 (2018).
     Society*, 4.2 (2018).
 
 [^15chapter15_21]: Helen Nissenbaum, 'Privacy as contextual integrity', *Washington
-    Law Review* (2004): 79, 119--157.
+    Law Review* (2004): 79, 119-157.
 
 [^15chapter15_22]: Lisbeth Klastrup, 'Death, Affect and the Ethical Challenges of
     Outing a Griefsquatter', in Michael Zimmer and Katharina
@@ -944,7 +943,7 @@ Society*, 4.2 (2018).
 
 [^15chapter15_33]: Jacob Metcalf & Kate Crawford, 'Where are human subjects in big
     data research? The emerging ethics divide'. *Big Data & Society*,
-    3.1 (2016): 1--14, DOI: doi:10.1177/2053951716650211
+    3.1 (2016): 1-14, DOI: doi:10.1177/2053951716650211
 
 [^15chapter15_34]: Ibid.
 
@@ -974,7 +973,7 @@ Society*, 4.2 (2018).
 [^15chapter15_41]: Ibid, p.896.
 
 [^15chapter15_42]: Kari Steen-Johnsen and Bernard Enjolras, 'Social research and Big
-    Data -- the tension between
+    Data - the tension between
 
     opportunities and realities', in Hallvard Fossheim and Helene
     Ingierd. *Internet Research Ethics*, Oslo: Cappelen Damm Akademisk,
@@ -1049,7 +1048,7 @@ Society*, 4.2 (2018).
 [^15chapter15_63]: Ibid.
 
 [^15chapter15_64]: Rob Kitchin, 'Big Data, new epistemologies and paradigm shifts',
-    *Big Data & Society* (April--June 2014): 1--12; Rob Kitchin and
+    *Big Data & Society* (April-June 2014): 1-12; Rob Kitchin and
     Tracey P. Lauriault, 'Towards critical data studies: Charting and
     unpacking data assemblages and their work', in J Eckert, A Shears
     and J Thatcher (eds) *Geoweb and Big Data,* Lincoln: University of

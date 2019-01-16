@@ -17,11 +17,9 @@ Keywords:   data, datafication, data collection, data practice, sovereignty, act
 Rights: CC BY-NC 4.0
 ...
 # 2: Good Data Practices for Indigenous Data Sovereignty and Governance<br />
-*Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie
-Carroll Rainie and Jennifer Walker*
+######Raymond Lovett, Vanessa Lee, Tahu Kukutai, Donna Cormack, Stephanie Carroll Rainie and Jennifer Walker
 
-**Abstract**
-
+## Introduction
 Indigenous Data Sovereignty (IDS) and Indigenous Data Governance (IDG)
 are terms increasingly being used across community, research, policy and
 in practice. The IDS movement has emerged in response to poor data
@@ -31,7 +29,6 @@ concerning the definitions of IDS and IDG; provide an overview of the
 historical context in which IDS has emerged; and provide examples of IDS
 and IDG across the spectrum of community, policy and practice.
 
-## Introduction
 
 For Indigenous peoples, historical encounters with statistics have been
 fraught, and none more so than when involving official data produced as
@@ -393,7 +390,7 @@ Torres Strait Islander Studies, 2012.
 AIATSIS. *National Indigenous Research Conference,* 2017.
 
 AIHW. 'National Advisory Group on Aboriginal and Torres Strait Islander
-Health Information and Data: Strategic Plan 2010--2015', Canberra, 2011.
+Health Information and Data: Strategic Plan 2010-2015', Canberra, 2011.
 
 Australian Human Rights Commission. 'Australia and the Universal
 Declaration on Human Rights'.
@@ -404,7 +401,7 @@ https://policies.anu.edu.au/ppl/document/ANUP_003603.
 Coleman, C., B. Elias, V. Lee, J. Smylie, J. Waldon, F.S. Hodge, and I.
 Ring. 'International Group for Indigenous Health Measurement:
 Recommendations for best practice for estimation of Indigenous
-mortality'. *Statistical Journal of the IAOS* 32 (2016) 729--73, DOI:
+mortality'. *Statistical Journal of the IAOS* 32 (2016) 729-73, DOI:
 10.3233/SJI-161023.
 
 Drabiak-Syed, Katherine. 'Lessons from Havasupai Tribe V. Arizona State
@@ -455,7 +452,7 @@ Snipp, C Matthew. 'What Does Data Sovereignty Imply: What Does It Look
 Like?' in Tahu Kukutai and John Taylor (eds) *Indigenous Data
 Sovereignty: Towards an Agenda*, Canberra: ANU Press*,* 2016, pp. 39-56.
 
-Te Mana Raraunga. 'Te Mana Raraunga --- Māori Data Sovereignty Network
+Te Mana Raraunga. 'Te Mana Raraunga - Māori Data Sovereignty Network
 Charter', https://www.temanararaunga.maori.nz/tutohinga/.
 
 The First Nations Information Governance Centre. 'Ownership, Control,
@@ -505,12 +502,12 @@ Indigenous Peoples', 2008.
 [^02chapter2_9]: 'Indian Act (R.S.C. C. I-5),' (1985).
 
 [^02chapter2_10]: AIHW, 'National Advisory Group on Aboriginal and Torres Strait
-    Islander Health Information and Data: Strategic Plan 2010--2015',
+    Islander Health Information and Data: Strategic Plan 2010-2015',
     Canberra, 2011; C. Coleman, B. Elias, V. Lee, J. Smylie, J. Waldon,
     F.S. Hodge, and I. Ring, 'International Group for Indigenous Health
     Measurement: Recommendations for best practice for estimation of
     Indigenous mortality'. *Statistical Journal of the IAOS* 32 (2016):
-    729--738, 729, DOI: 10.3233/SJI-161023
+    729-738, 729, DOI: 10.3233/SJI-161023
 
 [^02chapter2_11]: Productivity Commission, 'Data Availability and Use: Overview & Recommendations', Canberra, 2017.
 
@@ -530,7 +527,7 @@ Indigenous Peoples', 2008.
     Information Governance', Ottawa: The First Nations Information
     Governance Centre, 2014.
 
-[^02chapter2_15]: Te Mana Raraunga, 'Te Mana Raraunga --- Māori Data Sovereignty
+[^02chapter2_15]: Te Mana Raraunga, 'Te Mana Raraunga - Māori Data Sovereignty
     Network Charter', https://www.temanararaunga.maori.nz/tutohinga/.
 
 [^02chapter2_16]: AIATSIS, *National Indigenous Research Conference* 2017.

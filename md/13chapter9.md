@@ -20,14 +20,13 @@ Rights: CC BY-NC 4.0
 
 # 9: Data Localization: Policymaking or Gambling?
 
-*Nikita Melashchenko[^09chapter9_1]*
+######Nikita Melashchenko[^09chapter9_1]
 
 > 'Sir, the possibility of successfully navigating an asteroid field is
 > approximately 3,720 to 1.'<br />
 > *C-3PO, Star Wars: The Empire Strikes Back*
 
-**Abstract**
-
+## Introduction
 The benefits of the information society come at the price of increasing
 data dependency. This creates tensions between economic, privacy, and
 public security interests. While data fuels the digital economy and
@@ -41,7 +40,7 @@ drawing on the nature of information and its lifecycles. The chapter
 concludes with a mapping tool for data localization policies and moves
 towards the analytical framework for data regulation.
 
-## Introduction
+
 
 Data has a location and its regulation matters. Whether data constitutes
 paper records collecting dust on a shelf, or electronic records embedded
@@ -58,7 +57,7 @@ Nonetheless, depending on the regulatory model, physical infrastructure
 might affect social welfare in one way or another. This is evident in
 the emerging fight for allocation and redistribution of data among
 storage facilities in various jurisdictions. One of the tools states use
-in this struggle is data localization (DL) -- the reason why LinkedIn
+in this struggle is data localization (DL) - the reason why LinkedIn
 stopped operating in Russia, Apple is opening data centers in China and
 moving encryption keys onshore, and Microsoft wallowed in disputes with
 the US Government.[^09chapter9_3]
@@ -92,7 +91,7 @@ World Trade Organization (WTO). Against this background, it examines the
 role of information management cycles (IMCs) and regulatory principles
 in data regulation. This allows the final analysis that maps DL policies
 and provides insights into how DL features such as storage location and
-technological implementation could affect the output of DL policy --
+technological implementation could affect the output of DL policy -
 providing the key analytical framework for crafting data regulations
 that avoid negative consequences. While mapping is not a new theory, it
 is the analytical framework that should initiate the transition from DL
@@ -249,7 +248,7 @@ provide guidance.
 
 Rapid datafication consisting of data computerization and reevaluation
 has sparked the discussion of data power and its connection to social
-justice.[^09chapter9_33] This gave rise to the idea of data justice -- an ethical
+justice.[^09chapter9_33] This gave rise to the idea of data justice - an ethical
 guide for information society and the basis of data regulation. Data
 justice being a fairly new phenomenon is the subject of research within
 various fields of study.[^09chapter9_34] The notion of data justice reflects on
@@ -283,8 +282,8 @@ policy goals by countless means. At the same time, such means should be
 analyzed as whole since one small detail could determine the output of
 the system. For instance, would a measure fully depriving individuals of
 their autonomy to guard data serve the purpose of privacy protection?
-How does a DL system technically incapable of enforcing a law -- or
-prone to over-enforcement -- contribute to serving data justice and
+How does a DL system technically incapable of enforcing a law - or
+prone to over-enforcement - contribute to serving data justice and
 account for necessity? Mapping DL practices should help answer these
 questions.
 
@@ -367,6 +366,8 @@ observables and therefore the output of the DL policy.[^09chapter9_41] Such outp
 in terms of welfare consequences then could be measured against
 regulatory principles.
 
+
+![](imgs/Chapter9_Melashchenko_image1.jpg)
 *Figure 1.*
 
 Depending on collection of variables, their types and interpretation it

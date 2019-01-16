@@ -19,10 +19,9 @@ Rights: CC BY-NC 4.0
 
 
 # 3: The Good Data Manifesto<br />
-*Claire Trenham and Adam Steer*
+######Claire Trenham and Adam Steer
 
-**Abstract**
-
+## Introduction
 The Good Data Manifesto sketches out a set of principles which can be
 used to guide data collection, storage, and re-use. In an increasingly
 data-rich world, we have long failed to fully consider many implications
@@ -41,7 +40,6 @@ managers consider more fully how they go about their task, and to help
 data users critically consider the applicability of datasets to their
 need.
 
-## Introduction
 
 Data exist everywhere. In a growing technological society, humans are
 increasingly recording, cataloguing and exploiting observations of the
@@ -301,7 +299,7 @@ at a later time. But if a static object can be reliably identified,
 measurements of that object should return consistent results.
 
 The question of reproducibility is difficult in non-controlled,
-time-dependent data collection -- a feature of many social media or
+time-dependent data collection - a feature of many social media or
 personal geolocation platforms. In these scenarios, reliability may be
 cast as capacity to understand the conditions and algorithms which led
 to the data being collected/created.
@@ -346,7 +344,7 @@ data (data which are generally immutable, e.g. observations of
 temperature). Where data may be edited, or version-controlled, software
 licenses may be more appropriate (e.g. https://choosealicense.com). The
 terms of software licenses are better designed for the case where the
-licensed collection may evolve over time -- and may be more permissive
+licensed collection may evolve over time - and may be more permissive
 of contributions. Licensing is the collective decision of the data
 producers, owners, and custodians, who should become familiar with the
 various licenses available.
@@ -471,7 +469,7 @@ exists.
 Humans have successfully asserted that their personal data be
 'forgotten',[^03chapter3_26] arguing that the right to privacy over-rides
 historical record. In these cases, electronic records of history are
-revised -- not necessarily removed -- with aggregate or non-personal
+revised - not necessarily removed - with aggregate or non-personal
 data and information potentially retained for historical purposes.
 
 #### 3.4.1 Personal Data should be Opt-in
@@ -541,8 +539,8 @@ enable people to trust each other.*[^03chapter3_32]
 
 Good data are a social asset, a platform upon which trust and
 cooperation can be built, enabling a 'social license to operate'. This
-may occur between scientists -- for example field scientists collecting
-measurements and providing them to systems modellers; or anyone -- for
+may occur between scientists - for example field scientists collecting
+measurements and providing them to systems modellers; or anyone - for
 example, trusting a restaurant address is correct, or a weather forecast
 is mostly accurate.
 
@@ -602,9 +600,9 @@ d)  The Australian Electoral Commission (AEC),[^03chapter3_36] and state-based
 ## Collected Thoughts on 'Good Data'
 
 Posing a question[^03chapter3_37] about what make 'good data' resulted in the
-themes 'consistency' -- agreement about what to call things between data
+themes 'consistency' - agreement about what to call things between data
 providers, 'accessibility' with regard to cost and licensing, and
-'provenance' -- knowing where data come from. In a largely geospatial
+'provenance' - knowing where data come from. In a largely geospatial
 cohort, ethical aspects were not widely discussed. One person we spoke
 to likened 'good data' to edge pieces of a jigsaw puzzle. Every piece of
 data is like part of the puzzle that is how the world works (and some
@@ -612,8 +610,8 @@ are poorly formed!), but good data are the pieces that allow you to
 constrain the others.
 
 In the context of developing countries,[^03chapter3_38] another contributor noted
-considerations including faith in the data collectors -- data not
-hearsay; how money sponsoring data collection is spent -- bias that
+considerations including faith in the data collectors - data not
+hearsay; how money sponsoring data collection is spent - bias that
 might result in donor organisations being seen to do good things; is
 government intimidation a concern? Consistency within data records can
 be problematic, and survey responses can vary as those interviewed may
@@ -733,7 +731,7 @@ and provision of Research Software', *Zenodo*, 16 March 2018, DOI:
 10.5281/zenodo.1172988.
 
 Keßler, C. and G. McKenzie. 'A geoprivacy manifesto', *Transactions in
-GIS*, 22 (2018) :3--19, DOI: 10.1111/tgis.12305.
+GIS*, 22 (2018) :3-19, DOI: 10.1111/tgis.12305.
 
 Kidd, J. 'Wollemi Pines: Secret plantation in Blue Mountains to ensure
 species' survival', *ABC News,* 21 September 2014, http://www.abc.net.au/news/2014-09-21/secret-bid-to-save-prehistoric-wollemi-pines/5758542.
@@ -762,7 +760,7 @@ of the Australian Information Commissioner*, https://www.oaic.gov.au/privacy-law
 the Australian Information Commissioner, 2017,* https://www.oaic.gov.au/annualreport2016-17, p.80.
 
 \_\_\_\_\_. 'Notifiable Data Breaches Quarterly Statistics Report: 1
-April -- 30 June 2018', *Australian Government Office of the Australian
+April - 30 June 2018', *Australian Government Office of the Australian
 Information Commissioner,* 2018, https://www.oaic.gov.au/resources/privacy-law/privacy-act/notifiable-data-breaches-scheme/quarterly-statistics/notifiable-data-breaches-quarterly-statistics-report-1-april-30-june-2018.pdf.
 
 \_\_\_\_\_. 'Health Information and medical research', *Australian
@@ -885,7 +883,7 @@ Collection*, 2017, DOI: 10.4225/08/5a12348f8567b.
     minister says', *The Guardian*, 2017,
     https://www.theguardian.com/australia-news/2017/jul/04/federal-police-asked-to-investigate-darkweb-sale-of-medicare-data;
     OAIC, 'Notifiable Data Breaches Quarterly Statistics Report: 1 April
-    -- 30 June 2018', 2018,
+    - 30 June 2018', 2018,
     https://www.oaic.gov.au/resources/privacy-law/privacy-act/notifiable-data-breaches-scheme/quarterly-statistics/notifiable-data-breaches-quarterly-statistics-report-1-april-30-june-2018.pdf.
 
 [^03chapter3_17]: European Commission, '2018 reform of EU data protection rules',

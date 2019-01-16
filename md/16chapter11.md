@@ -19,9 +19,9 @@ Rights: CC BY-NC 4.0
 
 # 11: Data Journalism and the Ethics of Open Source
 
-*Colin Porlezza*
+######Colin Porlezza
 
-**Abstract**
+## Introduction
 
 Data journalism has enjoyed an increasing amount of attention and
 success both in media practice and in journalism research. Unlike
@@ -35,18 +35,17 @@ routines and what kind of best practices are in place in order to
 minimize the ethical challenges they are confronted with while
 accessing, analyzing and publishing data. The proposed chapter offers
 therefore a structured insight into whether and how data journalists
-implement the four normative principles -- transparency, participation,
-tinkering, and iteration -- that the concept of open source implies. The
+implement the four normative principles - transparency, participation,
+tinkering, and iteration - that the concept of open source implies. The
 chapter also highlights and discusses key ethical standards such as
 sharing source-codes or granting third parties with complete access to
 raw datasets.
 
-## Introduction
 
 According to Mayer-Schönberger and Cukier,[^11chapter11_1] the growing use of data
 provokes 'a revolution that will transform how we live, work and think'.
 The datafication of society - the attempt to transform everything into a
-specific data format in order to be quantified[^11chapter11_2] -- is a fundamental
+specific data format in order to be quantified[^11chapter11_2] - is a fundamental
 process because it supersedes both in scope and style the ways in which
 reality is seen and constructed. This new data abundance is not only
 reflected in the reliance on data as a secular belief,[^11chapter11_3] but also in
@@ -60,7 +59,7 @@ of study to observe datafication processes within society: first,
 because journalism observes datafication in society and brings the
 related issues into the public sphere. Second, because journalism
 increasingly embraces data-driven instruments connected to these
-processes -- data and algorithms -- to observe and shed light on the
+processes - data and algorithms - to observe and shed light on the
 datafication in the wider society. These changes in journalism practice
 lead to new forms of data journalism that offer new opportunities such
 as combing through data from public administrations,[^11chapter11_5] or uncovering
@@ -81,8 +80,8 @@ This chapter analyzes therefore the question to what extent data
 journalists reflect the ethical notions of the open source culture in
 their everyday work routines. By applying Lewis and Usher's four
 normative values ​​that are necessary to implement the principles of
-open source in the journalistic field -- transparency, participation,
-tinkering, and iteration -- the chapter studies whether Swiss and
+open source in the journalistic field - transparency, participation,
+tinkering, and iteration - the chapter studies whether Swiss and
 Italian data journalists are adhering to the notion of open source and,
 in addition, what kind of ethical quandaries they are facing.[^11chapter11_8]
 
@@ -117,8 +116,8 @@ consumers, but also as active producers of information.[^11chapter11_13] This ch
 in perception contributed to the development of a new journalistic
 paradigm that transcends the idea that all aspects of news work are
 limited to professional journalists only. Especially the emerging
-practice of crowdsourcing -- an open call for users to participate in
-certain online activities, for instance in collecting information -- was
+practice of crowdsourcing - an open call for users to participate in
+certain online activities, for instance in collecting information - was
 one of the main drivers of participatory forms of journalism.[^11chapter11_14]
 
 These changes in journalism, as Lewis pointed out, triggered the
@@ -131,8 +130,8 @@ communicating not only to, but also with, one another. In doing so, they
 all are participating in the ongoing processes of creating a news
 website and building a multifaceted community'.[^11chapter11_16] Yet, professional
 journalism remained resistant to change for a very long time, and
-participatory journalism -- understood as a shared news production
-process between professionals and amateurs -- remained an exception
+participatory journalism - understood as a shared news production
+process between professionals and amateurs - remained an exception
 rather than the rule. Williams et al. showed that newsrooms tend to
 co-opt participatory practices to suit traditional routines and
 ideals.[^11chapter11_17] In other cases, journalists tended to see users simply as
@@ -152,10 +151,10 @@ understanding of openness in terms of sharing collected data, being
 transparent about their use, and being actively interactive with users
 and other journalists.[^11chapter11_21]
 
-This slow change in the adaptation of a culture of openness -- to see
+This slow change in the adaptation of a culture of openness - to see
 users as peers rather than as an amorphous and anonymous group of
 consumers or to understand other journalists as colleagues within a
-network rather than as competitors -- was in part due to the rise of new
+network rather than as competitors - was in part due to the rise of new
 technologies such as social media and their affordances and culture
 based on participation. One of the most famous social media journalists,
 Andy Carvin, once described his own work as 'an open-source newsroom
@@ -186,7 +185,7 @@ However, the field of data journalism evolved unevenly both across and
 within different media systems, given that news organizations may not be
 willing or able to offer the necessary resources in terms of time and
 money either to sustain a specialized team or to develop a sufficient
-data literacy among their employed journalists -- also due to
+data literacy among their employed journalists - also due to
 traditional norms and practices still dominating the newsrooms.[^11chapter11_24]
 This means that the openness of data journalism not only depends on the
 individual dispositions of journalists, but also on organizational
@@ -249,7 +248,7 @@ zone',[^11chapter11_34] where the crossing of professional boundaries occurs not
 only more often, but it gets also increasingly accepted. The increasing
 collaborative setting of journalism reflects, at the same time, the fact
 that open journalism as well as data journalism are both the consequence
--- and the cause -- of the enlargement of the journalistic field. Deuze
+- and the cause - of the enlargement of the journalistic field. Deuze
 and Witschge pointed out that 'journalism takes place in increasingly
 networked settings, in formal as well as informal contexts, involving a
 wide range of actors and actants in various instances of both paid and
@@ -377,7 +376,7 @@ trained on how to handle such data and how to protect it from hacking or
 surveillance. The same applies to privacy issues that occur in the case
 of leaks. The protection of anonymity and of sources cannot always be
 guaranteed because most data journalists in both countries have never
-been 'educated' in matters of data protection -- even if the situation
+been 'educated' in matters of data protection - even if the situation
 is slowly changing, also due to the discoveries in the wake of the
 Snowden revelations:
 
@@ -388,7 +387,7 @@ more trust in journalists and to offer more data.' (I-J3).
 
 Open source can thus become a serious concern in journalism as well.
 Particularly nowadays, where journalism is seen as a 'dynamic set of
-practices and expectations -- a profession in a permanent process of
+practices and expectations - a profession in a permanent process of
 becoming', both organizations and individuals need to develop a
 normative framework that lives up to the standards of a networked,
 'liquid' and flexible journalism.
@@ -424,7 +423,7 @@ collaborators of the agencies are not exclusively journalists: often
 they include hackers, programmers, visualization experts and
 statisticians as well. Crossing organizational boundaries is a normal
 procedure, something legacy news media in Switzerland are still
-struggling with because -- even informal -- collaborations are often not
+struggling with because - even informal - collaborations are often not
 tolerated.
 
 ### The Ethics of Tinkering
@@ -460,7 +459,7 @@ innovative ideas: first to go beyond a culture of resistance, and second
 to avoid an innovation gap that might occur more rapidly for established
 news organizations that might even detain a quasi-monopolistic status.
 Particularly journalism startups with their focus on entrepreneurial
-thinking are more used to reflections on how to do things differently --
+thinking are more used to reflections on how to do things differently -
 a rather difficult task in newsrooms of established news media with
 their strong focus on daily news production. Italian data journalism
 startups and agencies are thus at the forefront when it comes to
@@ -492,7 +491,7 @@ terms of *entrepreneurial thinking,* particularly among data journalists
 working in larger news organizations. The main issue with an
 entrepreneurial approach, particularly within traditional news
 organizations is the fact that informal collaborations and networks
-often transcend the boundaries of news organizations -- diminishing the
+often transcend the boundaries of news organizations - diminishing the
 organizational and managerial control of news work. Nevertheless, both
 the more networked approach of Italian agencies as well as the
 traditional institutional approach can be successful, as news
@@ -511,10 +510,10 @@ handling sensitive information. These educational shortcomings entail
 ethical issues with regard to data and source protection.
 
 The findings show that the emergence of data journalism within the
-institutionalized field of journalism -- although some organizational
-backfiring -- fosters the normative framework of open source. Taking
-into account the increasing datafication of journalism -- and of society
-at large -- it is likely to remain here to stay. The concept of open
+institutionalized field of journalism - although some organizational
+backfiring - fosters the normative framework of open source. Taking
+into account the increasing datafication of journalism - and of society
+at large - it is likely to remain here to stay. The concept of open
 source offers to journalism, as it gets more networked, the opportunity
 to adopt specific values in a news ecosystem that relies more and more
 on a participatory digital media culture. In any case, open source has
@@ -555,7 +554,7 @@ responding to crisis by reporting with a crowd', *Computer Supported
 Cooperative Work* 23.4 (2014): 445-481.
 
 Deuze, Mark and Tamara Witschge. 'Beyond journalism: Theorizing the
-transformation of journalism', *Journalism* 19 (2018): 165--181.
+transformation of journalism', *Journalism* 19 (2018): 165-181.
 
 Gillmor, Dan. *We the Media: Grassroots Journalism by the People, for
 the People*, Sebastopol CA: O\'Reilly Media, 2004.
@@ -563,7 +562,7 @@ the People*, Sebastopol CA: O\'Reilly Media, 2004.
 Hermida, Alfred. 'Social journalism: exploring how social media is
 shaping journalism', in Eugenia Siapera & Andreas Veglis (eds), *The
 Handbook of Global Online Journalism*, Oxford: Wiley-Blackwell, 2012,
-pp. 309--328.
+pp. 309-328.
 
 Hermida, Alfred and Lynn Young, 'Finding the data unicorn. A hierarchy
 of hybridity in data and computational journalism', *Digital Journalism*
@@ -590,7 +589,7 @@ Mayer-Schönberger, Victor and Kenneth Cukier. *Big Data: A Revolution
 That Will Transform How We Live, Work and Think,* London: Murray, 2013.
 
 Phillips, Angela. 'Transparency and the new ethics of journalism',
-*Journalism Practice* 4.3 (2010): 373--382.
+*Journalism Practice* 4.3 (2010): 373-382.
 
 Porlezza, Colin. 'Dall\'open journalism all'open government? Il ruolo
 del data journalism nella trasparenza e nella partecipazione', *Problemi
@@ -628,7 +627,7 @@ Epistemology'. *Sociology Compass* (2016): online first.
 
 Turner, Fred. 'Where the counterculture met the new economy: the WELL
 and the origins of virtual community', *Technology and Culture* 46.3
-(2005): 485--512.
+(2005): 485-512.
 
 Uricchio, William. 'Data, Culture and the Ambivalence of Algorithms', in
 Mirko Tobias Schäfer and Karin van Es (eds), *The Datafied Society*,
@@ -647,7 +646,7 @@ between scientific paradigm and ideology', *Surveillance & Society* 12.2
 
 Williams, Andy, Claire Wardle and Karin Wahl-Jorgensen, '"Have they got
 news for us?" Audience revolution or business as usual at the BBC?'
-*Journalism Practice*, 5.1 (2011): 85--99.
+*Journalism Practice*, 5.1 (2011): 85-99.
 
 [^11chapter11_1]: Victor Mayer-Schönberger and Kenneth Cukier, *Big Data: A
     Revolution That Will Transform How We Live, Work and Think.* London:
@@ -710,12 +709,12 @@ news for us?" Audience revolution or business as usual at the BBC?'
 
 [^11chapter11_17]: Andy Williams, Claire Wardle and Karin Wahl-Jorgensen, '"Have
     they got news for us?" Audience revolution or business as usual at
-    the BBC?' *Journalism Practice*, 5.1 (2011): 85--99.
+    the BBC?' *Journalism Practice*, 5.1 (2011): 85-99.
 
 [^11chapter11_18]: Alfred Hermida, 'Social journalism: exploring how social media is
     shaping journalism', in Eugenia Siapera and Andreas Veglis (eds),
     *The Handbook of Global Online Journalism*, Oxford: Wiley-Blackwell,
-    2012, pp. 309--328.
+    2012, pp. 309-328.
 
 [^11chapter11_19]: Seth C. Lewis, 'The tension between professional control and open
     participation', *Information, Communication & Society* 15.6 (2012):
@@ -780,7 +779,7 @@ news for us?" Audience revolution or business as usual at the BBC?'
     Society* 35.5 (2013): 602-619.
 
 [^11chapter11_37]: Angela Phillips, 'Transparency and the new ethics of journalism',
-    *Journalism Practice* 4.3 (2010): 373--382.
+    *Journalism Practice* 4.3 (2010): 373-382.
 
 [^11chapter11_38]: Jane Singer, 'Norms and the Network: Journalistic Ethics in a
     Shared Media Space', in Christopher Meyers (ed.), *Journalism

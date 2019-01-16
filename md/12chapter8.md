@@ -20,12 +20,11 @@ Rights: CC BY-NC 4.0
 
 # 8: Not as Good as Gold? Genomics, Data and Dignity
 
-*Bruce Baer Arnold and Wendy Elizabeth Bonython*
+######Bruce Baer Arnold and Wendy Elizabeth Bonython
 
-**Abstract**
-
+## Introduction
 Genomics enables us to read individuals and populations as abstractions
--- repositories of genetic data rather than persons. Through that lens
+- repositories of genetic data rather than persons. Through that lens
 it is tempting to regard 'good data' as a matter of what is big
 (comprehensive) and better (more accurate), rather than considering
 whether it is beneficial to or respectful of its human contributors. As
@@ -46,10 +45,10 @@ If the genome is 'the book of life' we must ensure that 'good' data is
 available to all and is understood rather than monopolized, mishandled
 or misread.
 
-## Introduction
 
-The genomics revolution -- opening, understanding and manipulating 'the
-book of life' -- results in fruitful questions about 'good data',
+
+The genomics revolution - opening, understanding and manipulating 'the
+book of life' - results in fruitful questions about 'good data',
 dignity, ethics and law.[^08chapter8_1]
 
 They are fruitful because they require engagement with issues that
@@ -79,8 +78,8 @@ respected, or commodities that can be mined by the artificial persons
 that we characterize as corporations and governments, creations that
 exist to foster our flourishing?[^08chapter8_9]
 
-This chapter accordingly considers 'good data' -- and good data practice
--- through a lens of genomics. The chapter initially discusses genomics
+This chapter accordingly considers 'good data' - and good data practice
+- through a lens of genomics. The chapter initially discusses genomics
 as a way of seeing that enables us to read individuals and populations
 as abstractions: repositories of genetic data (and hence potential
 susceptibilities, disorders and even behavioural traits) rather than
@@ -149,9 +148,9 @@ diverse government agencies and private sector proxies.[^08chapter8_21]
 
 A rich scholarly literature over the past forty years has identified
 privacy and other dignitarian concerns regarding the identification of
-citizens and non-citizens -- the latter being potentially especially
+citizens and non-citizens - the latter being potentially especially
 vulnerable as people situated outside the law that protects their
-citizen peers -- as data subjects. Those subjects are entities that are
+citizen peers - as data subjects. Those subjects are entities that are
 administered as and because they are manifestations of specific
 attributes rather than as individuals who are more than a social
 security number, a tax file number, an affirmative action tag or an
@@ -222,7 +221,7 @@ endorsing population-scale genomic initiatives alongside private
 ventures such as 23andMe that are marketed as recreational
 genomics.[^08chapter8_32] Such activity is complemented by public and private
 sector plans, notably in the United Kingdom and Israel, to share
-population-scale health records -- for example data about everyone who
+population-scale health records - for example data about everyone who
 has attended a hospital or general practitioner in England under the
 National Health Service. Recent studies have also identified health data
 and health institutions as key targets for cyberattack.[^08chapter8_33]
@@ -247,7 +246,7 @@ necessarily addressed through promises regarding de-identification to
 make data good.[^08chapter8_40] The effectiveness of de-identification mechanisms
 remains contentious, [^08chapter8_41] given the scope for associating
 individual/familial genomic data with other identifiers in the public
-and private realms -- a manifestation of the 'big data' explored
+and private realms - a manifestation of the 'big data' explored
 elsewhere in this book. The disputes require thought about incentives
 for innovation and about regulatory incapacity in a global economy where
 data may be readily harvested in one jurisdiction, analyzed in another
@@ -291,8 +290,8 @@ precedes understanding and wisdom'.[^08chapter8_45] In considering what genomic
 dignity, we might accordingly conceptualize data as a tool, rather than
 an outcome. On that basis goodness might be assessed through reference
 to how the tool is devised and used rather than merely whether the
-products of its use -- the understanding, diagnostics, therapies and
-revenue -- are beneficent.
+products of its use - the understanding, diagnostics, therapies and
+revenue - are beneficent.
 
 If we look beyond the 'data is good' rhetoric noted above we might for
 example recognize that some data collection is egregiously wrong,
@@ -332,7 +331,7 @@ researchers of data about the resilience of the human body under extreme
 stress, with the expectation that the resultant knowledge would enable
 life-saving practices. The collection involved researchers placing
 concentration camp inmates in freezing water, in high pressure chambers,
-or depriving them of air. Those data objects -- people -- were not
+or depriving them of air. Those data objects - people - were not
 provided with painkillers. They were not in a position to consent, and
 were denied dignity.[^08chapter8_47] Many died during the data collection. The data
 collected during what we now characterize in law as a crime against
@@ -421,9 +420,9 @@ characteristics of close and distant relatives. If we conceptualize a
 person as a genomic file, an embodiment of genomic data, we can see that
 participants in recreational genomics are unilaterally offering service
 providers data about other people rather than just about themselves.
-Some people with concerns about potential genetic discrimination -- the
+Some people with concerns about potential genetic discrimination - the
 genomic redlining by insurers, employers and others that has featured in
-legal literature over the past twenty years -- may choose not to
+legal literature over the past twenty years - may choose not to
 participate in recreational genomics and be disquieted that others are
 tacitly co-opting them through undisclosed provision of swabs.[^08chapter8_57] The
 authors of this chapter have highlighted concerns about a 'right not to
@@ -507,7 +506,7 @@ solution to those conundrums lies outside patent law.
 ## Genomics and Data in a Good Society
 
 Infolibertarian John Perry Barlow envisaged that in the imminent age of
-data -- bits and bytes -- the state would wither because neither
+data - bits and bytes - the state would wither because neither
 relevant nor effective, with what he construed as the individualistic
 values underlying the US Constitution becoming universal. [^08chapter8_64]
 Regulation, seen as innately restrictive of creativity and thus of
@@ -519,8 +518,8 @@ the irrelevant state evaporating like a mothball.[^08chapter8_65] A succinct
 response was provided by Bart Kosko: 'we'll have governments as long as
 we have atoms to protect'.[^08chapter8_66] The past two decades have shown that the
 lions are reluctant to lie down with the lambs. National borders (and
-national interests) remain powerful. The law of man -- as distinct from
-Barlow and Lessig's law of code -- continues to shape both investment
+national interests) remain powerful. The law of man - as distinct from
+Barlow and Lessig's law of code - continues to shape both investment
 and consumption.[^08chapter8_67] In thinking about good data we need to think about
 the good society, one that John Rawls would consider to be fair,[^08chapter8_68]
 and that Martha Nussbaum would endorse as fostering the capabilities of
@@ -557,7 +556,7 @@ Such action would recognise genomic patents, such as those gained by
 Myriad, but cap the prices charged for products embodying those patents
 and attributable to genomic data. That restriction can be deemed as
 legitimate both in terms of rationales for intellectual property
-protection -- patents are not an end in themselves -- and because much
+protection - patents are not an end in themselves - and because much
 genomic research is founded on discovery in the public domain by public
 institutions or funded by public agencies.
 
@@ -615,7 +614,7 @@ good, with Kant for example addressing Aristotle's questions about 'the
 good' by exhorting us not to treat people as a means to an end,
 abstractions without dignity that can be sacrificed for personal,
 institutional or political needs. In an era where investors, governments
-and researchers are awed by 'big data' -- the bigger the better -- it is
+and researchers are awed by 'big data' - the bigger the better - it is
 useful to recall statements such as Stalin's 'the death of one person is
 a tragedy, the death of a million is a mere statistic' and the
 fetishization of bigness in Mao's China where the demise of millions was
@@ -648,8 +647,8 @@ research. Agency may also be construed in terms of action by public
 sector entities, a matter of formal authority to intervene in markets,
 of expertise to both understand and articulate questions about genomic
 data, and a culture in which regulators are willing to intervene. That
-intervention -- what might be characterized as a reintroduction of state
--- should provide legitimacy for the state (a social good) and foster
+intervention - what might be characterized as a reintroduction of state
+- should provide legitimacy for the state (a social good) and foster
 understanding by individuals about how we collectively and individually
 manage the genome. An ultimate function of the state is enabling
 discourse about what is good.
@@ -657,11 +656,11 @@ discourse about what is good.
 ## References 
 
 Alpert, Sheri. 'Protecting medical privacy: Challenges in the age of
-genetic information', *Journal of Social Issues* 59 (2003): 301--322.
+genetic information', *Journal of Social Issues* 59 (2003): 301-322.
 
 Andrews, Lori and Jordan Paradise. 'Gene patents: The need for bioethics
 scrutiny and legal change', *Yale Journal of Health Policy Law & Ethics*
-5 (2005): 403--412.
+5 (2005): 403-412.
 
 Annas, George and Michael Grodin (eds). *The Nazi Doctors and the
 Nuremberg Code: Human Rights in Human Experimentation,* Oxford: Oxford
@@ -670,34 +669,34 @@ University Press, 1992.
 Arnold, Bruce Baer and Wendy Elizabeth Bonython. 'Australian reforms
 enabling disclosure of genetic information to genetic relatives by
 health practitioners', *Journal of Law and Medicine* 21.4 (2014):
-810--812.
+810-812.
 
 Arnold, Bruce Baer and Wendy Bonython. 'Should we stripmine your
-eHealth data', *Health Voices* 15 (2014): 18--19.
+eHealth data', *Health Voices* 15 (2014): 18-19.
 
 Arnold, Bruce Baer and Wendy Bonython. 'Sharing the Book of Life:
 Privacy, the new genomics and health sector managers', *Privacy Law
-Bulletin* 12 (2015): 9--14.
+Bulletin* 12 (2015): 9-14.
 
 Atlas, Michel C. 'Ethics and Access to Teaching Materials in the Medical
 Library: The Case of the Pernkopf Atlas', *Bulletin of the Medical
-Library Association* 89.1 (2001): 51--58.
+Library Association* 89.1 (2001): 51-58.
 
 Barlow, John Perry. 'The Economy of Ideas: A Framework for Patents and Copyrights in the Digital Age (Everything You Know about Intellectual Property is
 Wrong)', *Wired* 2.3 (March 1994): 1-13.
 
 Barlow, John Perry. 'A Declaration of the Independence of Cyberspace',
 in Peter Ludlow (ed.), *Crypto Anarchy, Cyberstates, and Pirate
-Utopias,* Cambridge MA: MIT Press, 2001: 27--30.
+Utopias,* Cambridge MA: MIT Press, 2001: 27-30.
 
 Benjamin, Ruha. 'A lab of their own: Genomic sovereignty as postcolonial
-science policy', *Policy and Society* 28 (2009): 341--355.
+science policy', *Policy and Society* 28 (2009): 341-355.
 
 Berman, Marshall. *All That Is Solid Melts Into Air: The Experience of
 Modernity,* London: Verso, 2001.
 
 Beyleveld, Deryck and Roger Brownsword. 'Human dignity, human rights,
-and human genetics', *Modern Law Review* 61 (1998): 661--680.
+and human genetics', *Modern Law Review* 61 (1998): 661-680.
 
 Birch, Kean. 'The neoliberal underpinnings of the bioeconomy: the
 ideological discourses and practices of economic competitiveness',
@@ -884,7 +883,7 @@ Cheshire Henbury, 2007: 89--103.
 
 Kutz, Gregory. 'Direct to consumer Genetic Tests: Misleading Test
 Results Are Further Complicated by Deceptive Marketing and Other
-Questionable Practices---Testimony. Before the Subcommittee on Oversight
+Questionable Practices - Testimony. Before the Subcommittee on Oversight
 and Investigations, Committee on Energy and Commerce, House of
 Representatives', United States Government Accountability Office, 2010.
 
@@ -1342,7 +1341,7 @@ population biobanks and direct-to-consumer genetic testing companies',
 
 [^08chapter8_59]: Gregory Kutz, 'Direct to consumer Genetic Tests: Misleading Test
     Results Are Further Complicated by Deceptive Marketing and Other
-    Questionable Practices---Testimony. Before the Subcommittee on
+    Questionable Practices - Testimony. Before the Subcommittee on
     Oversight and Investigations, Committee on Energy and Commerce,
     House of Representatives', United States Government Accountability
     Office, 2010; Rachel Kalf, Rachel Bakker, and Cecile Janssens,

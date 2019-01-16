@@ -19,10 +19,9 @@ Rights: CC BY-NC 4.0
 
 
 #13: Provocations for Social Media Research: Toward Good Data Ethics
-*Andrea Zeffiro*
+######Andrea Zeffiro
 
-**Abstract**
-
+##Introduction
 As academics continue to collect, scrape, integrate and analyse social
 media data, technical knowledge to acquire, analyse, secure and
 disseminate data is needed, but so too is a refined understanding of
@@ -41,7 +40,7 @@ distinct set of traits and ethical challenges. This chapter outlines
 provocations for ethical decision making and provides prompts for
 researchers to engage with throughout the life-cycle of research.
 
-##Introduction
+
 
 This chapter sets forth considerations for social media research by
 identifying provocations for how academic research methods, practices,
@@ -379,7 +378,7 @@ research ethics documents that refer to digital data collection do so in
 terms of 'internet research' and redirect to the requirements of the
 TCPS 2. Increasingly more common in Canada are research data management
 (RDM) plans that outline protocols for data management and stewardship.
-In June 2016, the three federal research funding agencies -- the
+In June 2016, the three federal research funding agencies - the
 Canadian Institutes of Health Research (CIHR), the Natural Sciences and
 Engineering Research Council of Canada (NSERC), and the Social Sciences
 and Humanities Research Council of Canada (SSHRC) - released a
@@ -620,10 +619,10 @@ any third parties'.[^13chapter13_71] I would go so far as to endorse a version o
 
 > 'Are you willing to change your business model in the interest of
 > protecting individual privacy?'
-> <br />-- *Democratic Representative Anna Eshoo[^13chapter13_72]*
+> <br />- *Democratic Representative Anna Eshoo[^13chapter13_72]*
 ><br /><br />
 > 'Congresswoman, I'm not sure what that means.'
-> <br />--*Mark Zuckerberg[^13chapter13_73]*
+> <br />-*Mark Zuckerberg[^13chapter13_73]*
 
 Privacy in relation to social media data has received significant
 attention as of late.[^13chapter13_74] The Facebook and Cambridge Analytica
@@ -927,7 +926,7 @@ news-feeds.
 
 boyd danah and Kate Crawford. 'Critical Questions for Big Data:
 Provocations for a Cultural, Technological and Scholarly Phenomenon',
-*Information, Communication & Society* 15.5 (2012): 662--679.
+*Information, Communication & Society* 15.5 (2012): 662-679.
 
 boyd danah. 'Where do we find ethics?' *Points*, 5 April 2016, https://
 points.datasociety.net/where-do-we-find-ethics-d0b9e8a7f4e6.
@@ -974,14 +973,14 @@ Politicians Target You', *The New York Times*, 11 April 2018, https://www.nytime
 
 Crawford, Kate, Kate Miltner and Mary L. Gray. 'Critiquing Big Data:
 Politics, Ethics, Epistemology', *International Journal of
-Communication* 8 (2014): 1663--1672.
+Communication* 8 (2014): 1663-1672.
 
 Dalton, Craig, and Jim Thatcher. 'What Does a Critical Data Studies Look
 Like, and Why Do We Care? Seven Points for a Critical Approach to "Big
 Data"', *Society & Space Open Site*, (2014), http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/.
 
 Dalton Craig, Linnet Taylor and Jim Thatcher. 'Critical Data Studies: A
-Dialog on Data and Space', *Big Data & Society* 3.1 (2014): 1--9.
+Dialog on Data and Space', *Big Data & Society* 3.1 (2014): 1-9.
 
 Das, Sauvik and Adam Kramer. 'Self-censorship on Facebook', *Proceedings
 of the Seventh International AAAI Conference on Weblogs and Social
@@ -1056,7 +1055,7 @@ the Name of Ethics', *Qualitative Sociology* *27*.4 (2004): 391-414.
 Hauge Michelle V., Mark D. Stevenson, Kim D. Rossmo and Steven Le
 Comber. 'Tagging Banksy: Using Geographic Profiling to Investigate a
 Modern Art Mystery', *Journal of Spatial Science,* 61.1 (2016):
-185--190.
+185-190.
 
 Hearn, Alex. 'Google will Stop Scanning Content of Personal Emails',
 *The Guardian*, 26 June 2017,
@@ -1090,7 +1089,7 @@ http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474112.
 
 Kramer, Adam, Jamie Guillory and Jeffrey Hancock. 'Experimental Evidence
 of Massive- Scale Emotional Contagion Through Social Networks',
-*Proceedings National Academy of Science,* 111.24 (2014): 8788--8790.
+*Proceedings National Academy of Science,* 111.24 (2014): 8788-8790.
 
 Leathern, Rob. 'A New Level of Transparency for Ads and Pages',
 *Facebook Newsroom*, 28 June 2018, https://newsroom.fb.com/news/2018/06/transparency-for-ads-and-pages/.
@@ -1104,7 +1103,7 @@ Activating Situated Knowledges and a Feminist Ethics of Care in Social
 Media Research', *Social Media + Society*, April 2018, http://journals.sagepub.com/doi/full/10.1177/2056305118768297.
 
 Markham, Annette. 'Ethic as Method, Method as Ethic'*, Journal of
-Information Ethics* 15.2 (2006): 37--54.
+Information Ethics* 15.2 (2006): 37-54.
 
 \_\_\_\_\_, and Elizabeth Buchanan. *Ethical Decision-Making and
 Internet Research 2.0:* *Recommendations* *From* t*he* *AoIR* *Ethics*
@@ -1143,7 +1142,7 @@ facebooks-secret-mood-manipulation-experiment/373648/.
 
 Michael, Mike and Deborah Lupton. 'Toward a Manifesto for the \'Public
 Understanding of Big Data', *Public Understanding of Science* 25.1
-(2015): 104--116.
+(2015): 104-116.
 
 Napoli, Philip, and Robyn Caplan. 'Why Media Companies Insist They\'re
 Not Media Companies, Why They're Wrong, and Why it Matters', *First
@@ -1151,13 +1150,13 @@ Monday* 22.5 (2017).
 
 Neff, Gina, Anissa Tanweer, Brittany Fiore-Gartland and Laura Osburn.
 'Critique and Contribute: A Practice-Based Framework for Improving
-Critical Data Studies and Data Science', *Big Data* 5.2 (2017): 85--97.
+Critical Data Studies and Data Science', *Big Data* 5.2 (2017): 85-97.
 
 Nissenbaum, Helen. *Privacy in Context: Technology, Policy and the
 Integrity of Social Life*, Palo Alto: Stanford University Press, 2009.
 
 \_\_\_\_\_. 'A Contextual Approach to Privacy Online', *Daedalus, 140.*4
-(2011): 32--48.\
+(2011): 32-48.\
 Noble, Safiya Umoja. *Algorithms of Oppression: How Search Engines
 Reinforce Racism*, New York: NYU Press, 2018.
 

@@ -20,10 +20,9 @@ Rights: CC BY-NC 4.0
 
 # 10: Making Data Public? The Open Data Index as Participatory Device
 
-*Jonathan Gray and Danny Lämmerhirt*
+######Jonathan Gray and Danny Lämmerhirt
 
-**Abstract**
-
+## Introduction
 The Open Data Index is a 'civil society audit' which strives to shape
 the availability and openness of public sector data from around the
 world. In this chapter we examine the social life of this project,
@@ -44,7 +43,7 @@ where participation is both configured and contested, and where
 practices of valuation and enumeration are both conventionalised and
 brought into question.
 
-## Introduction
+
 
 How can various publics participate in shaping what data is created,
 collected and distributed by states? How might public participation
@@ -109,7 +108,7 @@ institutions,[^10chapter10_8] it can also be considered in terms of recent work 
 data politics, including 'stactivism'[^10chapter10_9] and 'data activism'.[^10chapter10_10] The
 Open Data Index can be envisaged not only as a way to measure
 accessibility but also as a particular kind of intervention around
-official regimes of quantification and datafication -- including around
+official regimes of quantification and datafication - including around
 the horizons of intelligibility, the formation of collectives and the
 varieties of transnational coordination that they give rise to.[^10chapter10_11]
 
@@ -152,7 +151,7 @@ through open source software and replicable components which enable the
 adaptation and multiplication of projects, including through
 forking.[^10chapter10_14]
 
-
+![](imgs/Chapter10_GrayLam_image1.jpg)
 *Figure 1: Detail of Open Data Census submission form showing types of
 data availability*.
 
@@ -182,9 +181,9 @@ governments could reasonably be expected to collect':
 
 3. National Map (Low resolution: 1:250,000 or better)
 
-4. Government Budget (high level -- spending by sector)
+4. Government Budget (high level - spending by sector)
 
-5. Government Budget (detailed -- transactional level data)
+5. Government Budget (detailed - transactional level data)
 
 6. Legislation (laws and statutes)
 
@@ -201,7 +200,7 @@ media platforms, including through two URLs: one for submissions (with
 the embedded Google Form) and one with visualisations and numbers
 summarising the results (Figure 2).
 
-
+![](imgs/Chapter10_GrayLam_image2.gif)
 *Figure 2: Map showing preliminary results of the 2012 Open Government
 Data Census.*
 
@@ -228,15 +227,15 @@ manage input and resolve issues, and how the project was situated in
 relation to the strategic and organisational prerogatives of its host
 NGO, its collaborators, funders, states, IGOs, and other actors. Some of
 these issues were raised in a blog post by open data advocate David
-Eaves highlighting the potential risk that 'British biases -- with its
-highly centralized national government -- have strongly shaped the
+Eaves highlighting the potential risk that 'British biases - with its
+highly centralized national government - have strongly shaped the
 census':
 
 > Thus, while the census evaluates countries some of the data sets being
-> counted are not controlled by national governments. For example --
+> counted are not controlled by national governments. For example -
 > will national governments Canada or the United States get counted for
 > public transport data if any of their cities release transit data?
-> Indeed, transit data -- while demonstrably useful -- strikes me as an
+> Indeed, transit data - while demonstrably useful - strikes me as an
 > odd duck choice since it is almost always not managed by national
 > governments. The same can be said for company/corporate registers, in
 > which the most important data sets are managed by sub-national
@@ -296,11 +295,11 @@ check and approve incoming submissions (Figure 4). A community manager
 at OKI worked to coordinate the project and communicate with
 contributors and editors.
 
-
+![](imgs/Chapter10_GrayLam_image3.jpg)
 *Figure 3: Table showing weightings for Open Data Index 2013.*
 
 
-
+![](imgs/Chapter10_GrayLam_image4.jpg)
 *Figure 4: Review process for contributors and editors, Open Data Index
 2013.*
 
@@ -341,7 +340,7 @@ The mailing lists and communications activities around the index also
 surfaced frictions in the process of creating a single score and ranking
 for the openness of data in countries and cities around the world.
 Submissions included comments and queries about pricing, licensing and
-the availability of data -- such as concerns that the norms of the index
+the availability of data - such as concerns that the norms of the index
 were in tension with administrative and governance arrangements of
 countries being scored. A researcher contributing to the Canadian
 assessment suggested 'the methodology does not work well for federations
@@ -372,7 +371,7 @@ As with the examples of indices above, activists and public servants
 were thus provided with material and 'enumerated entities' to make the
 case for changes.[^10chapter10_28]
 
-
+![](imgs/Chapter10_GrayLam_image5.jpg)
 *Figure 5: Graphic to illustrate results of Open Data Index 2014.*
 
 Another way was to enable more flexibility and customisation for
@@ -433,7 +432,7 @@ performance data.[^10chapter10_32] Public input and involvement was also encoura
 in a forum, which saw more extended discussions about questions and
 issues around the index.
 
-
+![](imgs/Chapter10_GrayLam_image6.jpg)
 *Figure 6: "Crowdsourced survey" to inform choice of datasets included
 in 2015 Global Open Data Index.*
 
@@ -470,7 +469,7 @@ advance their issue work by means of specialised research and policy
 teams, the Open Data Index has been designed to organise public
 involvement around the assessment of public data. It might thus be
 considered in terms of its capacities to enable not only *analysis*, but
-also *interactivity* using digital technologies -- as well as
+also *interactivity* using digital technologies - as well as
 structuring participation in particular ways which are not without
 tension.[^10chapter10_39] Through this discussion of the development and social life
 of the Open Data Index, we suggest how it may be viewed as a
@@ -494,21 +493,21 @@ December 2015, https://data.blog.gov.uk/2015/12/15/open-data-the-race-to-the-top
 
 Dawes, Sharon S., Lyudmila Vidiasova and Olga Parkhimovich. 'Planning
 and designing open government data programs: An ecosystem approach',
-*Government Information Quarterly* 33 (2016): 15--27.
+*Government Information Quarterly* 33 (2016): 15-27.
 
 Eaves, David. 'How To Evaluate The State Of Open Data', *Techpresident*,
 8 May 2012, http://techpresident.com/news/wegov/22161/how-evaluate-state-open-data.
 
 Espeland, Wendy N., and Mitchell L. Stevens. 'Commensuration as a Social
-Process', *Annual Review of Sociology* 24 (1998): 313--343.
+Process', *Annual Review of Sociology* 24 (1998): 313-343.
 
 Espeland, Wendy N., and Michael Sauder. 'Rankings and Reactivity: How
 Public Measures Recreate Social Worlds', *American Journal of Sociology*
-113 (2007): 1--40.
+113 (2007): 1-40.
 
 Fish, Adam, Christopher M. Kelty, Luis F.R. Murillo, Lilly Nguyen, and
 Aaron Panofsky. 'Birds of the Internet'. *Journal of Cultural Economy* 4
-(2011): 157--187.
+(2011): 157-187.
 
 Gray, Jonathan. 'Towards a Genealogy of Open Data', *European Consortium
 for Political Research General Conference*, Glasgow, 3-6 September 2014,
@@ -526,13 +525,13 @@ Software: The Cultural Significance of Free Software and the Internet*,
 Durham NC: Duke University Press, 2008.
 
 Latour, Bruno. 'Why Has Critique Run out of Steam? From Matters of Fact
-to Matters of Concern', *Critical Inquiry* 30 (2004): 225--248.
+to Matters of Concern', *Critical Inquiry* 30 (2004): 225-248.
 
 \_\_\_\_\_. *An Inquiry into Modes of Existence: An Anthropology of the
 Moderns*, trans C. Porter, Cambridge MA: Harvard University Press, 2013.
 
 Law, John, and Evelyn Ruppert. 'The Social Life of Methods: Devices',
-*Journal of Cultural Economy* 6 (2013): 229--240.
+*Journal of Cultural Economy* 6 (2013): 229-240.
 
 Le Dantec, Christopher A., and Carl DiSalvo. 'Infrastructuring and the
 formation of publics in participatory design', *Social Studies of
@@ -547,13 +546,13 @@ Research*, Cambridge: Polity Press, 2017.
 
 Milan, Stefania and Lonneke van der Velden. 'The Alternative
 Epistemologies of Data Activism', *Digital Culture & Society* 2 (2016):
-57--74.
+57-74.
 
 Montiel, Oscar. 'Our Country Sample and What It Tells Us About Our
 Contributors', *Open Knowledge International blog*, 3 May 2017,
 https://blog.okfn.org/2017/05/03/our-country-sample-and-what-it-tells-about-our-contributors/.
 
-Open Knowledge International. 'Government data still not open enough --
+Open Knowledge International. 'Government data still not open enough -
 new survey on eve of London summit', *Open Knowledge International
 blog*, 28 October 2013,
 https://blog.okfn.org/2013/10/28/government-data-still-not-open-enough/.
@@ -566,7 +565,7 @@ Pauwels, Pieter-Jan. 'Results of Wiki Survey and final steps', 12
 September 2014,
 http://openbelgium.be/2014/09/results-of-wiki-survey-and-final-steps/.
 
-Pollock, Rufus. 'The Open Data Census -- Tracking the State of Open Data
+Pollock, Rufus. 'The Open Data Census - Tracking the State of Open Data
 Around the World', *Open Knowledge International blog*, 20 February
 2013,
 https://blog.okfn.org/2013/02/20/open-data-census-tracking-the-state-of-open-data-around-the-world/.
@@ -600,7 +599,7 @@ Accountability, Ethics and the Academy*, London: Routledge, 2000.
 
 Thorsby, Jeffrey, Genie, N.L. Stowers, Kristen Wolslegel and Ellie
 Tumbuan. 'Understanding the content and features of open data portals in
-American cities', *Government Information Quarterly* 34 (2017): 53--61.
+American cities', *Government Information Quarterly* 34 (2017): 53-61.
 
 Tkacz, Nathaniel. *Wikipedia and the Politics of Openness*, Chicago:
 University Of Chicago Press, 2014.
@@ -611,11 +610,11 @@ https://www.transparency.org/news/feature/corruption_perceptions_index_2017.
 
 Verran, Helen. 'Number as an inventive frontier in knowing and working
 Australia's water resources', *Anthropological Theory* 10 (2010):
-171--178.
+171-178.
 
 \_\_\_\_\_. 'Enumerated Entities in Public Policy and Governance', in
 Ernest Davis and Philip J. Davis (eds), *Mathematics, Substance and
-Surmise,* New York: Springer, 2015, pp. 365--379.
+Surmise,* New York: Springer, 2015, pp. 365-379.
 
 Villum, Christian. 'The Open Data Census Challenge on Open Data Day
 2013', *Open Knowledge International blog,* 5 March 2013,
@@ -636,17 +635,17 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_4]: Wendy N. Espeland and Michael Sauder, 'Rankings and Reactivity:
     How Public Measures Recreate Social Worlds', *American Journal of
-    Sociology*, 113 (2007): 1--40. Richard Rottenburg, Sally E. Merry,
+    Sociology*, 113 (2007): 1-40. Richard Rottenburg, Sally E. Merry,
     Sung-Joon Park, and Johanna Mugler (eds.), *The World of Indicators:
     The Making of Governmental Knowledge through Quantification*,
     Cambridge: Cambridge University Press, 2015.
 
 [^10chapter10_5]: Helen Verran, 'Number as an inventive frontier in knowing and
     working Australia's water resources', *Anthropological Theory*, 10
-    (2010): 171--178; Helen Verran, 'Enumerated Entities in Public
+    (2010): 171-178; Helen Verran, 'Enumerated Entities in Public
     Policy and Governance', in Ernest Davis and Philip J. Davis (eds),
     *Mathematics, Substance and Surmise,* New York: Springer, 2015, pp.
-    365--379.
+    365-379.
 
 [^10chapter10_6]: Transparency International, 'Corruption Perceptions Index',
     *Transparency International blog*, 21 February 2018,
@@ -658,11 +657,11 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_8]: Sharon S. Dawes, Lyudmila Vidiasova and Olga Parkhimovich,
     'Planning and designing open government data programs: An ecosystem
-    approach', *Government Information Quarterly* 33 (2016): 15--27;
+    approach', *Government Information Quarterly* 33 (2016): 15-27;
     Jeffrey Thorsby, Genie N.L. Stowers, Kristen Wolslegel, and Ellie
     Tumbuan, 'Understanding the content and features of open data
     portals in American cities', *Government Information Quarterly* 34
-    (2017): 53--61.
+    (2017): 53-61.
 
 [^10chapter10_9]: Isabelle Bruno*,* Emmanuel Didier and Tommaso Vitale
     'Statactivism: Forms of Action Between Disclosure and Affirmation',
@@ -670,16 +669,16 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_10]: Stefania Milan and Lonneke van der Velden, 'The Alternative
     Epistemologies of Data Activism', *Digital Culture & Society* 2
-    (2016): 57--74.
+    (2016): 57-74.
 
 [^10chapter10_11]: Jonathan Gray, 'Three Aspects of Data Worlds', *Krisis: Journal
     for Contemporary Philosophy* (2018).
 
 [^10chapter10_12]: John Law and Evelyn Ruppert, 'The Social Life of Methods:
-    Devices', *Journal of Cultural Economy* 6 (2013): 229--240.
+    Devices', *Journal of Cultural Economy* 6 (2013): 229-240.
 
 [^10chapter10_13]: Bruno Latour, 'Why Has Critique Run out of Steam? From Matters of
-    Fact to Matters of Concern', *Critical Inquiry* 30 (2004): 225--248.
+    Fact to Matters of Concern', *Critical Inquiry* 30 (2004): 225-248.
 
 [^10chapter10_14]: Nathaniel Tkacz, *Wikipedia and the Politics of Openness*,
     Chicago: University Of Chicago Press, 2014.
@@ -695,18 +694,18 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_17]: Adam Fish, Christopher M. Kelty, Luis F.R. Murillo, Lilly Nguyen,
     and Aaron Panofsky, 'Birds of the Internet', *Journal of Cultural
-    Economy* 4 (2011): 157--187. [ ]{.underline}
+    Economy* 4 (2011): 157-187. [ ]{.underline}
 
 [^10chapter10_18]: David Eaves, 'How To Evaluate The State Of Open Data',
     *Techpresident*, 8 May 2012,
     http://techpresident.com/news/wegov/22161/how-evaluate-state-open-data.
 
 [^10chapter10_19]: Open Knowledge International, 'Government data still not open
-    enough -- new survey on eve of London summit', *Open Knowledge
+    enough - new survey on eve of London summit', *Open Knowledge
     International blog*, 28 October 2013,
     https://blog.okfn.org/2013/10/28/government-data-still-not-open-enough/.
 
-[^10chapter10_20]: Rufus Pollock, 'The Open Data Census -- Tracking the State of
+[^10chapter10_20]: Rufus Pollock, 'The Open Data Census - Tracking the State of
     Open Data Around the World', *Open Knowledge International blog*, 20
     February 2013, 
     https://blog.okfn.org/2013/02/20/open-data-census-tracking-the-state-of-open-data-around-the-world/.
@@ -734,10 +733,10 @@ https://blog.okfn.org/2013/03/05/the-open-data-census-challenge-on-open-data-day
 
 [^10chapter10_28]: Helen Verran, 'Number as an inventive frontier in knowing and
     working Australia's water resources'. *Anthropological Theory* 10
-    (2010): 171--178. Helen Verran, 'Enumerated Entities in Public
+    (2010): 171-178. Helen Verran, 'Enumerated Entities in Public
     Policy and Governance', in Ernest Davis and Philip J. Davis (eds),
     *Mathematics, Substance and Surmise,* New York: Springer, 2015, pp.
-    365--379.
+    365-379.
 
 [^10chapter10_29]: Rufus Pollock, 'Announcing the Local Open Data Census', *Open
     Knowledge International blog,* 4 February 2014,

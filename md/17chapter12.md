@@ -20,10 +20,9 @@ Rights: CC BY-NC 4.0
 
 # 12: Governance of Communal Data Sharing
 
-*Chih-hsing Ho [^12chapter12_†] and Tyng-Ruey Chuangt[^12chapter12_††]*
+######Chih-hsing Ho [^12chapter12_†] and Tyng-Ruey Chuangt[^12chapter12_††]
 
-**Abstract**
-
+## Introduction
 The rapid development of the data economy calls for innovative research
 into its social and ethical impacts. When enormous opportunities emerge
 along with making use of vast amounts of data, challenges are generated
@@ -42,7 +41,7 @@ established. We will then develop frameworks for the governance of
 communal data sharing by combining common pool resource management and a
 socio-legal perspective on the commons.
 
-## Introduction
+
 
 Today we see many states as well as *private* initiatives to promote
 a *data*-driven industrial revolution across the globe. Data, said to be
@@ -50,7 +49,7 @@ like oil a century ago, has been cast as a new type of resource fuelling
 an emerging, lucrative digital-era industry.[^12chapter12_2] However, the wealth
 derived from this digital revolution is not being evenly distributed.
 According to a study by the Economist, all five of the most valuable
-listed companies in the world --- Apple, Alphabet (Google's parent
+listed companies in the world - Apple, Alphabet (Google's parent
 company), Amazon, Facebook and Microsoft are tech titans.[^12chapter12_3] Digital
 wealth is being monopolized and concentrated in very few hands. Such
 dominance has led to such side effects as unfair competition,
@@ -71,8 +70,8 @@ talk about 'community', we use this term in a non-conventional way. We
 try not to see community as a fixed group or a predefined collective
 identity. Rather, it refers to a set of ongoing engagement and practices
 of group making.[^12chapter12_5] In other words, it is this dynamic process of
-community making --- acts of mutual support, negotiation and
-experimentation, as David Bollier has argued --- that are needed to
+community making - acts of mutual support, negotiation and
+experimentation, as David Bollier has argued - that are needed to
 build innovative systems to manage shared resources.[^12chapter12_6] Along with
 these curiosities, we consider several examples, such as user data
 cooperatives[^12chapter12_7] and collaborative data projects,[^12chapter12_8] to further explore
@@ -146,7 +145,7 @@ data controllers have fulfilled their duties and the promises made prior
 to data collection.
 
 What challenges this conventional model of data governance is that the
-three actors -- data subjects, data controllers, and data users -- do
+three actors - data subjects, data controllers, and data users - do
 not share common views and interests on how they wish the data to be
 shared and reused. In practice, a common approach is for data
 controllers to anonymize personal data before the data to be released,
@@ -422,7 +421,7 @@ not willing to share their personal information. For those suspecting
 that they were exposed to similar hazards, they may be more willing to
 communicate with one another. Secure multiple-party computation methods
 can be developed to allow people to check whether they have a similar
-travel history -- countries visited in last six months, for example, but
+travel history - countries visited in last six months, for example, but
 without revealing where they went exactly. Open-audit e-voting methods
 will then allow these people to aggregate and share information without
 revealing their identities ('write in' one\'s major medical conditions

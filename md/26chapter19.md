@@ -19,11 +19,9 @@ Rights: CC BY-NC 4.0
 
 
 # 19: Intelligent Warning Systems: 'Technological Nudges' to Enhance User Control of IoT Data Collection, Storage and Use
-*Rachelle Bosua, Karin Clark, Megan Richardson and Jeb
-Webb*
+######Rachelle Bosua, Karin Clark, Megan Richardson and Jeb Webb
 
-**Abstract**
-
+## Introduction
 The modern digital world of networking and connectivity enabled by the
 Internet of Things (IoT) has the paradoxical result of introducing a new
 era of 'smart computing' while reducing the intelligent control that
@@ -45,7 +43,7 @@ illustrating scenarios of the latter together with corrective user
 actions, and conclude with a discussion of further steps of the design
 of this app.
 
-## Introduction
+
 
 As we move into an era of big data, the mass collection, aggregation and
 processing of personal data through multiple connected devices signal
@@ -65,7 +63,7 @@ collection of personal data, unknown methods of storage of this data
 (e.g. in the cloud), and the analyses, aggregation and processing of big
 data sets using modern data mining techniques, are growing concerns. In
 short, there is a serious question about how intelligent IoT users are
-really allowed to be in the new world of 'smart computing' -- especially
+really allowed to be in the new world of 'smart computing' - especially
 when it comes to their personal information. Specific concerns at the
 global level relate to privacy, data protection and cybersecurity.[^19chapter19_5]
 In this chapter we respond to our initial research question by
@@ -115,7 +113,7 @@ big data collection and processing using Information and Communications
 Technologies (ICTs).
 
 Of course, another way to regulate for data protection is through more
-intelligent design of technologies themselves -- and this is something
+intelligent design of technologies themselves - and this is something
 that the GDPR also encourages.[^19chapter19_11] A difficulty is that modern ICTs and
 applications (or 'apps') i) currently tend to present complex processes
 simplistically through heuristic interfaces that hide most of this
@@ -192,7 +190,7 @@ decision as to whether or not they want to divulge personal information'
 in the circumstances.[^19chapter19_18] This problem is exacerbated in the
 interconnected world of the IoT. Prior studies indicate that users often
 unknowingly and even mindlessly 'consent' to data collection and use
-practices of online apps in exchange for services -- and in fact this
+practices of online apps in exchange for services - and in fact this
 may well be encouraged by the apps themselves. Anecdotes from our
 empirical research confirm this aspect and also indicate that the
 inclusion of value-sensitive design frameworks in internet applications
@@ -211,7 +209,7 @@ This app gives users more personalised control over the collection,
 storage and use of their individually collected IoT and social media. It
 deploys the idea of 'nudges' to alert users of changes in their known
 data collection and usage patterns allowing them to make decisions how
-they will respond and take further preventative steps[^19chapter19_20] -- in the
+they will respond and take further preventative steps[^19chapter19_20] - in the
 same way that technological nudges employed in other contexts serve as
 'soft reminders' that prompt users to take courses of action consistent
 with self-interest. For example, reinforcement for smokers trying to
@@ -289,7 +287,7 @@ over their information as one commented about his personal data: '*once
 you have given \[your\] data out you are out of control and there is no
 way that you know where it is'*,[^19chapter19_24] with another confirming: '*as an
 end user I want to know what my information is being used for, who is
-using it, for what -- I want that sort of control of my information -- I
+using it, for what - I want that sort of control of my information - I
 want to be able to say I want that information deleted'*,[^19chapter19_25] and '*I
 just want to have my own control \[over my privacy\]'.*[^19chapter19_26] Another
 participant stated '*from the perspective of a user you don't actually
@@ -324,16 +322,16 @@ you as* *a user do not understand*' and essentially they are '*"click,
 click, click" regimes'* that allowed '*little scope for negotiation or
 individual variance'*.[^19chapter19_34] As one of the participants summarised the
 situation, the current '*regime*' is a result of *'\...the design of the
-\[typical modern\] user interface and having been trained as a user --
-that is the user experience* -- *'....to click-click and don't worry
+\[typical modern\] user interface and having been trained as a user -
+that is the user experience* - *'....to click-click and don't worry
 about the rest of it*' the result is that '*there is no actual conscious
 thought in the \[software design\] process*'.[^19chapter19_35]
 
 As to legal standards, another participant expressed concern that these
 terms and conditions \[of use\] are subject to change without any
 notice,[^19chapter19_36] while another participant indicated another issue with
-consent forms -- '...*the difference is that US law is very different to
-Australian law with respect to fair and reasonable use -- so you have
+consent forms - '...*the difference is that US law is very different to
+Australian law with respect to fair and reasonable use - so you have
 this problem with terms and conditions which may be enforceable under a
 different law'*.[^19chapter19_37] Another participant expressed his concern about
 the storage of the data, stating there is also this danger of terms and
@@ -359,7 +357,7 @@ doin*g'.[^19chapter19_41] One theme that came up a few times is user naivety wit
 one participant mentioning that the privacy problem is '*a social
 issue'* stating that '*there is not such thing as absolute security...
 we need to do better as developers in educating users in what the
-downside of these technologies are -- so it's not enough to wait until
+downside of these technologies are - so it's not enough to wait until
 there is a security incident before mitigating*'[^19chapter19_42] and '*have the
 user know what s/he wants to give out'* educating users to '*be aware
 that they \[external organisations\] are using your data... you kind of
@@ -407,6 +405,7 @@ users and complying with any relevant legal obligations in the
 jurisdiction (or jurisdictions). Figure 1 also presents the three data
 flow scenarios A, B and C that are described in the next section.
 
+![](imgs/Chapter19_Bosua_image1.jpg)
 *Figure 1: Conceptual Architectural Model of the Intelligent Warning app
 (IWA).*
 
@@ -461,7 +460,7 @@ feel from a usability perspective. The aim is to design an interactive
 user-friendly app that is fairly intuitive in terms of use and
 functionality.
 
-
+![](imgs/Chapter19_Bosua_image2.jpg)
 *Figure 2: Excerpt of wireframe mock-up of the IWA prototype.*
 
 The initial landing page requires a secure user login taking the user to
@@ -611,10 +610,10 @@ Wang, Yang, Pedro G Leon, Alessandro Acquisti, Lorrie Cranor, Alain I
 Forget and Norman Sadeh, 'A Field Trial of Privacy Nudges for Facebook'
 *CHI*, Toronto Canada, 26 April-1 May 2014.
 
-Weber, Rolf H., 'Internet of Things -- Need for a New Legal
+Weber, Rolf H., 'Internet of Things - Need for a New Legal
 Environment?', *Computer Law & Security Review* 25 (2009): 522.
 
-\_\_\_\_\_. 'Internet of Things -- New Security and Privacy Challenge',
+\_\_\_\_\_. 'Internet of Things - New Security and Privacy Challenge',
 *Computer Law & Security Review* 26 (2010): 23.
 
 Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
@@ -645,7 +644,7 @@ Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
     *Proceedings of the 7th International Conference on Body Area
     Networks*, ICST (Institute for Computer Sciences, Social-Informatics
     and Telecommunications Engineering), 2012: 256-262; Rolf H Weber,
-    'Internet of Things -- New Security and Privacy Challenge',
+    'Internet of Things - New Security and Privacy Challenge',
     *Computer Law & Security Review 26* (2010): 23-30; Megan Richardson,
     Rachelle Bosua, Karin Clark, and Jeb Webb with Atif Ahmad and Sean
     Maynard, 'Privacy and the Internet of Things', *Media, Law & Arts
@@ -657,14 +656,14 @@ Yeung, Karen. 'Nudge as Fudge', *Modern Law Review* 75 (2012): 122.
     this essay we use the generic label 'data privacy' to cover privacy
     and data protection.
 
-[^19chapter19_6]: Weber, Internet of Things -- New Security and Privacy Challenge'.
+[^19chapter19_6]: Weber, Internet of Things - New Security and Privacy Challenge'.
 
 [^19chapter19_7]: Ibrahim AT Hashem, Ibrar Yaqoob, Nor Badrul Anuar, Salimeh
     Mokhtar, Abdullah Gani and Samee Ullah Khan, 'The Rise of 'Big Data'
     on Cloud Computing: Review and Open Research Issues Information
     Systems', *Information Systems* 47 (2014): 98-115.
 
-[^19chapter19_8]: See Rolf H Weber, 'Internet of Things -- Need for a New Legal
+[^19chapter19_8]: See Rolf H Weber, 'Internet of Things - Need for a New Legal
     Environment?' *Computer Law & Security Review* 25 (2009): 522-527;
     Richardson, Bosua, Clark and Webb, 'Privacy and the Internet of
     Things'; Richardson, Bosua, Clark and Webb, 'Towards Responsive
